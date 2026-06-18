@@ -2,6 +2,6 @@ node_modules
 *.log
 .DS_Store
 
-# dist/ is committed on purpose: this package is consumed as a git dependency
-# (GitHub Packages is blocked by the org billing cap), so the build output must
-# be present in the repo for installs that run with --ignore-scripts.
+# build artifacts: the package ships raw locale JSON consumed via subpath imports,
+# so there is no build output to commit.
+dist

@@ -1,63 +1,51 @@
 # @upspeech/i18n
 
-Shared i18next translation resources (en / es / pt) for the UpSpeech **frontend** and **mobile**
+Shared i18next translation files (en / es / pt) for the UpSpeech **frontend** and **mobile**
 apps. Single source of truth so a copy change is made once, not duplicated across repos.
 
+Consumed as a **public git dependency** (GitHub Packages is blocked by the org billing cap, and
+translation strings ship in the client bundle anyway so they aren't secret). No registry, no auth:
+
+```jsonc
+// app-frontend & app-mobile package.json
+"@upspeech/i18n": "git+https://github.com/UpSpeech/i18n.git#v0.3.0"
+```
+
 > Backend (Rails) translations are intentionally **not** here. They are server-owned
-> (mailers, Devise, validation, PDFs, push) and live in `app-backend/config/locales`.
+> (mailers, Devise, validation, PDFs, push) and live in `app-backend/config/locales`, with their
+> own parity check at `app-backend/bin/i18n_parity`.
 
 ## Layout
 
 ```
 locales/
-  en/  es/  pt/        frontend namespaces (consumed by app-frontend via subpath imports)
+  en/  es/  pt/        frontend namespaces (one JSON per namespace)
   mobile/
-    en/ es/ pt/        the mobile app's own files (common.json, auth.json, quiz.json),
-                       consumed by app-mobile via subpath imports
+    en/ es/ pt/        the mobile app's own files (common.json, auth.json, quiz.json)
 scripts/
-  build.mjs            inlines all JSON into dist/index.js (bundler-agnostic ESM)
   check-parity.mjs     fails if a key exists in one language but not another
 ```
 
+The package ships the raw JSON only. Each app imports the files it needs by subpath and builds
+its own i18next `resources` (the two apps use different key schemes), so there is no build step
+and no bundled entrypoint.
+
 ## Usage
 
-```bash
-npm install @upspeech/i18n
-```
-
 ```ts
-import { resources, supportedLngs, namespaces } from "@upspeech/i18n";
-import i18n from "i18next";
-
-i18n.init({
-  resources,        // { en: { common: {...}, ... }, es: {...}, pt: {...} }
-  supportedLngs,
-  fallbackLng: "en",
-  defaultNS: "common",
-  ns: namespaces,
-});
+// frontend
+import enCommon from "@upspeech/i18n/locales/en/common.json";
+// mobile
+import enCommon from "@upspeech/i18n/locales/mobile/en/common.json";
 ```
-
-Each app keeps its own i18next config (language detection, fallback). Only the resource
-bundle is shared.
 
 ## Editing copy
 
-1. Edit the relevant `locales/<lang>/<namespace>.json` (or `locales/mobile/<lang>.json`).
-2. Keep all three languages in sync (`npm run check` enforces this).
-3. Bump `version` in `package.json` and merge to `main`. CI publishes to GitHub Packages.
-4. Consumers bump the dependency to pick it up.
+1. Edit the relevant `locales/<lang>/<namespace>.json` (frontend) or
+   `locales/mobile/<lang>/<namespace>.json` (mobile).
+2. Keep all three languages in sync, `npm run check` enforces it (and runs in CI on every PR).
+3. Bump the git tag (`git tag vX.Y.Z && git push --tags`).
+4. Bump the `#vX.Y.Z` ref in each consuming app's `package.json` to pick it up.
 
-For tight local iteration, `npm link` this repo into the consuming app instead of publishing
+For tight local iteration, `npm link` this repo into the consuming app instead of bumping the tag
 on every edit.
-
-## Auth (GitHub Packages)
-
-Publishing this repo's package uses the workflow's built-in `GITHUB_TOKEN`. **Consuming** the
-package (frontend, mobile, Docker, Railway, EAS, local) needs a token with `read:packages`
-exposed as `NODE_AUTH_TOKEN`, plus this `.npmrc`:
-
-```
-@upspeech:registry=https://npm.pkg.github.com
-//npm.pkg.github.com/:_authToken=${NODE_AUTH_TOKEN}
-```

@@ -1,15 +1,12 @@
 name: Publish @upspeech/i18n
 
-# Publishes to GitHub Packages when package.json version changes on main,
-# or when a vX.Y.Z tag is pushed. Uses the built-in GITHUB_TOKEN (no PAT needed
-# to PUBLISH this repo's own package).
+# DORMANT: the package is consumed as a git dependency (GitHub Packages is blocked
+# by the org billing cap). This stays for if/when the registry path is restored.
+# Manual / tag-triggered only so a routine merge to main can't publish.
 on:
   push:
-    branches: [main]
-    paths:
-      - "package.json"
-      - "locales/**"
-      - "scripts/**"
+    tags:
+      - "v*"
   workflow_dispatch:
 
 jobs:
@@ -25,10 +22,8 @@ jobs:
           node-version: 22
           registry-url: "https://npm.pkg.github.com"
           scope: "@upspeech"
-      - name: Check parity + build
-        run: |
-          npm run check
-          npm run build
+      - name: Check parity
+        run: npm run check
       - name: Publish if version changed
         run: |
           VERSION=$(node -p "require('./package.json').version")

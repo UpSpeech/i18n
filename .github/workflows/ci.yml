@@ -1,0 +1,19 @@
+name: CI
+
+# Runs the en/es/pt parity check on every push and PR so locale drift is caught
+# before it reaches a consumer.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check locale parity (en/es/pt)
+        run: npm run check
