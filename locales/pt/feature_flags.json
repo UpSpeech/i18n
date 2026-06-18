@@ -1,0 +1,81 @@
+{
+  "page_title": "Gestão de Funcionalidades",
+  "page_description": "Gerir funcionalidades em todas as organizações (Apenas proprietário)",
+  "intro": {
+    "title": "Como funcionam as funcionalidades",
+    "description_html": "Cada funcionalidade resolve-se para um de três valores numa organização: uma <strong>substituição global</strong> (força um valor em todas as organizações), uma <strong>substituição por organização</strong> (valor personalizado apenas para esta organização), ou o <strong>valor predefinido</strong> definido no código.",
+    "precedence": "Precedência: substituição global > substituição por organização > predefinido.",
+    "dismiss": "Entendido",
+    "show_help": "Como funcionam as funcionalidades"
+  },
+  "legend": {
+    "title": "Legenda das etiquetas",
+    "enabled": "Ativada nesta organização",
+    "disabled": "Desativada nesta organização",
+    "global_override": "Forçada para todas as organizações",
+    "override": "Valor personalizado para esta organização",
+    "default": "A usar o valor predefinido"
+  },
+  "tenants": {
+    "title": "Organizações",
+    "total": "{{count}} total",
+    "select_prompt": "Seleciona uma organização para ver e gerir funcionalidades",
+    "system_subtitle": "Substituições Globais",
+    "search_placeholder": "Pesquisar organizações",
+    "no_results": "Nenhuma organização corresponde a \"{{query}}\"",
+    "change_button": "Mudar organização",
+    "picker_title": "Selecionar organização",
+    "current_label": "A editar funcionalidades de",
+    "no_selection": "Nenhuma organização selecionada"
+  },
+  "flags": {
+    "title": "Funcionalidades",
+    "loading": "A carregar funcionalidades...",
+    "no_flags": "Nenhuma funcionalidade disponível",
+    "no_results": "Nenhuma funcionalidade corresponde a \"{{query}}\"",
+    "search_placeholder": "Pesquisar funcionalidades",
+    "enabled": "Ativado",
+    "disabled": "Desativado",
+    "override": "Substituição",
+    "default": "Padrão",
+    "key_label": "Chave:",
+    "toggle_on": "ON",
+    "toggle_off": "OFF",
+    "click_to_enable": "Clica para ativar",
+    "click_to_disable": "Clica para desativar",
+    "global_override_badge": "Substituição Global",
+    "copy_key": "Copiar chave",
+    "copied": "Copiado"
+  },
+  "system_tenant": {
+    "title": "Funcionalidades Globais",
+    "description": "Estás a visualizar a organização do sistema. Usa os controlos abaixo para definir substituições globais que afetam <strong>todas as organizações</strong> de uma só vez. Isto é útil para ativar ou desativar funcionalidades em toda a plataforma."
+  },
+  "global_override": {
+    "title": "Substituição Global (afeta todas as organizações)",
+    "no_override": "Sem substituição global - a usar definições por organização",
+    "enabled_all": "ATIVADO globalmente para todas as organizações",
+    "disabled_all": "DESATIVADO globalmente para todas as organizações",
+    "button_enable_all": "Ativar Todas",
+    "button_disable_all": "Desativar Todas",
+    "button_clear": "Limpar Substituição",
+    "button_enable_all_title": "Forçar ativado para todas as organizações",
+    "button_disable_all_title": "Forçar desativado para todas as organizações",
+    "button_clear_title": "Limpar substituição global - usar definições por organização",
+    "cannot_change_warning": "Esta funcionalidade tem uma substituição global - não pode ser alterada por organização"
+  },
+  "warning": {
+    "global_override_active": "Substituição Global Ativa",
+    "global_override_description": "Esta funcionalidade está <strong>globalmente {{status}}</strong> para todas as organizações. As definições específicas da organização são ignoradas. Vai para a organização <strong>Sistema (Proprietários da Plataforma)</strong> para alterar a substituição global."
+  },
+  "loading": {
+    "tenants": "A carregar organizações..."
+  },
+  "success": {
+    "flag_enabled": "Funcionalidade \"{{key}}\" ativada com sucesso",
+    "flag_disabled": "Funcionalidade \"{{key}}\" desativada com sucesso",
+    "global_override_cleared": "Substituição global removida",
+    "global_enabled_all": "Ativado globalmente para todas as organizações",
+    "global_disabled_all": "Desativado globalmente para todas as organizações"
+  }
+}

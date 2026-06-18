@@ -1,0 +1,70 @@
+{
+  "title": "Recogida de Muestra del Habla",
+  "greeting": "Hola, {{name}}",
+  "progress": "Ejercicio {{current}} de {{total}}",
+  "step_consent": "Consentimiento",
+  "step_media": "Cámara y Micro",
+  "step_reading": "Lectura",
+  "step_monologue": "Habla Libre",
+  "step_done": "Completado",
+  "reading": {
+    "title": "Lectura en Voz Alta",
+    "instruction": "Lea el texto a continuación en voz alta, a su ritmo natural. Grabaremos un vídeo mientras lee.",
+    "text": "El viento norte y el sol discutían cuál de los dos era el más fuerte, cuando acertó a pasar un viajero envuelto en una capa. Al verlo, se pusieron de acuerdo en que aquel que primero consiguiera obligar al viajero a quitarse la capa sería considerado el más fuerte. El viento norte comenzó a soplar con mucha furia, pero cuanto más soplaba, más se arropaba el viajero con su capa, hasta que el viento norte desistió. El sol brilló entonces con todo su esplendor, e inmediatamente el viajero se quitó la capa. El viento norte tuvo así que reconocer la superioridad del sol."
+  },
+  "monologue": {
+    "title": "Habla Libre",
+    "instruction": "Cuéntanos qué te interesa y te sugeriremos temas para hablar libremente. No hay respuestas correctas o incorrectas.",
+    "interest_label": "¿De qué te gustaría hablar?",
+    "interest_placeholder": "ej.: cocina, viajes, deportes...",
+    "suggest": "Sugerir Temas",
+    "or_pick": "o elige uno:",
+    "quick_cooking": "Cocina",
+    "quick_travel": "Viajes",
+    "quick_sports": "Deportes",
+    "quick_music": "Música",
+    "quick_movies": "Películas y Series",
+    "quick_nature": "Naturaleza",
+    "quick_pets": "Mascotas",
+    "pick_topic": "Aquí tienes algunas ideas , elige una o habla libremente:",
+    "loading_topics": "Buscando sugerencias de temas...",
+    "topics_error": "No se pudieron cargar los temas. Inténtalo de nuevo."
+  },
+  "recording": {
+    "duration_hint": "Su grabación debe tener entre 2 y 3 minutos.",
+    "idle_hint": "La vista previa de la cámara aparecerá aquí",
+    "start": "Iniciar Grabación",
+    "stop": "Detener Grabación",
+    "delete": "Intentar de Nuevo",
+    "continue": "Continuar",
+    "submit": "Enviar Grabación",
+    "uploading": "Enviando...",
+    "upload_error": "La grabación no se envió. Verifique su conexión e inténtelo de nuevo.",
+    "review": "Puede reproducir su grabación arriba.",
+    "too_short": "Esta grabación tiene menos de 2 minutos. Recomendamos 2–3 minutos para mejores resultados.",
+    "confirm_short": "Su grabación tiene menos de los 2 minutos recomendados. ¿Está seguro de que desea enviarla?",
+    "confirm_short_title": "Grabación corta",
+    "confirm_short_body": "Su grabación tiene menos de los 2 minutos recomendados. ¿Desea enviarla de todos modos, o seguir grabando?",
+    "confirm_short_submit": "Enviar de todos modos",
+    "confirm_short_cancel": "Seguir grabando",
+    "min_reached": "Ha pasado la marca de los 2 minutos , puede detenerse cuando quiera.",
+    "min_remaining": "Continúe , faltan {{time}} para los 2 minutos"
+  },
+  "thank_you": {
+    "title": "¡Gracias, {{name}}!",
+    "message": "Hemos recibido ambas grabaciones. Su terapeuta las revisará y se pondrá en contacto pronto.",
+    "stay_message": "Puede cerrar esta página , le avisaremos cuando su acceso a la plataforma esté listo.",
+    "logout": "Cerrar sesión",
+    "go_to_app": "Ir a la aplicación"
+  },
+  "control_group": {
+    "title": "Estás inscrito, {{name}}",
+    "message": "Hemos recibido sus grabaciones , ¡gracias por participar en este estudio! Su terapeuta se pondrá en contacto sobre su plan de práctica.",
+    "practice_hint": "No necesita hacer nada más aquí por ahora. Nos pondremos en contacto cuando el período del estudio haya concluido.",
+    "contact_hint": "¿Preguntas? Contacte directamente con su terapeuta."
+  },
+  "errors": {
+    "load_failed": "Algo salió mal al cargar la evaluación. Por favor, actualice la página.",
+    "submit_failed": "No se pudo guardar su progreso. Inténtelo de nuevo."
+  }
+}

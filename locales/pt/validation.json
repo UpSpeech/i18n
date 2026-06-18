@@ -1,0 +1,11 @@
+{
+  "required": "{{field}} é obrigatório",
+  "min_length": "{{field}} deve ter pelo menos {{min}} caracteres",
+  "max_length": "{{field}} deve ter no máximo {{max}} caracteres",
+  "invalid_email": "Por favor introduz um endereço de email válido",
+  "password_min_length": "A palavra-passe deve ter pelo menos 8 caracteres",
+  "password_max_length": "A palavra-passe deve ter no máximo 128 caracteres",
+  "password_strength": "A palavra-passe deve conter pelo menos uma letra e um número",
+  "passwords_must_match": "As palavras-passe devem coincidir",
+  "password_requirements": "Pelo menos 8 caracteres com letras e números"
+}

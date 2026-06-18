@@ -1,0 +1,39 @@
+{
+  "page_title": "Acessos Especiais",
+  "page_subtitle": "Conceder permissões adicionais a terapeutas individuais para além do seu perfil padrão.",
+  "permissions": {
+    "control_room_access": {
+      "title": "Acesso à Revisão de Gravações",
+      "description": "Aceder ao painel de Revisão de Gravações para rever gravações de pacientes em toda a organização."
+    }
+  },
+  "granted_users": {
+    "empty": "Nenhum terapeuta tem esta permissão atribuída.",
+    "granted_by": "Concedido por {{name}}",
+    "therapist_singular": "terapeuta",
+    "therapist_plural": "terapeutas"
+  },
+  "actions": {
+    "add_therapist": "Adicionar Terapeuta",
+    "remove": "Remover",
+    "cancel": "Cancelar",
+    "grant": "Conceder Acesso",
+    "grant_title": "Conceder {{permission}}",
+    "grant_description": "Seleciona um terapeuta para conceder acesso.",
+    "revoke_title": "Revogar Acesso"
+  },
+  "select_therapist": "Selecionar um terapeuta...",
+  "select_therapist_label": "Terapeuta",
+  "no_therapists_available": "Todos os terapeutas já têm esta permissão.",
+  "success": {
+    "granted": "Acesso concedido com sucesso.",
+    "revoked": "Acesso revogado com sucesso."
+  },
+  "errors": {
+    "grant_failed": "Falha ao conceder acesso.",
+    "revoke_failed": "Falha ao revogar acesso.",
+    "load_failed": "Falha ao carregar permissões."
+  },
+  "confirm_revoke": "Tens a certeza que desejas revogar o acesso de {{name}}? Deixará de poder utilizar esta funcionalidade.",
+  "inherent_access_note": "Administradores e proprietários têm sempre este acesso. Usa esta secção para concedê-lo a terapeutas específicos."
+}

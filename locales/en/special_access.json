@@ -1,0 +1,39 @@
+{
+  "page_title": "Special Access",
+  "page_subtitle": "Grant additional capabilities to individual therapists beyond their standard role permissions.",
+  "permissions": {
+    "control_room_access": {
+      "title": "Recording Reviews Access",
+      "description": "Access the Recording Reviews dashboard to review patient recordings across the organization."
+    }
+  },
+  "granted_users": {
+    "empty": "No therapists have been granted this permission yet.",
+    "granted_by": "Granted by {{name}}",
+    "therapist_singular": "therapist",
+    "therapist_plural": "therapists"
+  },
+  "actions": {
+    "add_therapist": "Add Therapist",
+    "remove": "Remove",
+    "cancel": "Cancel",
+    "grant": "Grant Access",
+    "grant_title": "Grant {{permission}}",
+    "grant_description": "Select a therapist to grant access to.",
+    "revoke_title": "Revoke Access"
+  },
+  "select_therapist": "Select a therapist...",
+  "select_therapist_label": "Therapist",
+  "no_therapists_available": "All therapists already have this permission.",
+  "success": {
+    "granted": "Access granted successfully.",
+    "revoked": "Access revoked successfully."
+  },
+  "errors": {
+    "grant_failed": "Failed to grant access.",
+    "revoke_failed": "Failed to revoke access.",
+    "load_failed": "Failed to load permission grants."
+  },
+  "confirm_revoke": "Are you sure you want to revoke access from {{name}}? They will no longer be able to use this feature.",
+  "inherent_access_note": "Admins and owners always have this access. Use this section to grant it to specific therapists."
+}

@@ -1,0 +1,450 @@
+{
+  "title": "Pilot Control Room",
+  "subtitle": "Operational dashboard for monitoring pilot engagement",
+  "select_tenant": "Select a tenant to view pilot data",
+  "no_pilot_patients": "No patients are marked as 'in pilot' for this tenant. Use the enrollment section below to add participants.",
+  "last_updated": "Data as of now",
+  "key_metrics": {
+    "active_pct": "Active Patients",
+    "active_pct_helper": "With 2+ sessions this week",
+    "at_risk": "At Risk",
+    "at_risk_helper": "Zero sessions this week",
+    "avg_sessions": "Avg Sessions",
+    "avg_sessions_helper": "Per patient this week",
+    "total_patients": "In Pilot"
+  },
+  "immediate_risks": {
+    "title": "Immediate Risks",
+    "subtitle": "Patients inactive for 3+ days , requires attention",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "days_inactive": "Days Inactive",
+    "last_activity": "Last Activity",
+    "action": "Action",
+    "notify": "Notify Therapist",
+    "never_active": "Never active",
+    "empty": "No patients at risk , all pilot participants are active.",
+    "info": "Patients who have not had any platform activity (recordings, exercises, or completed scenarios) in 3 or more days, or who have never been active. Days Inactive shows how long since their last activity. Use Notify Therapist to alert the assigned therapist about disengaged patients."
+  },
+  "missing_feedback": {
+    "title": "Missing Feedback",
+    "subtitle": "Exercise submissions without therapist review for 48+ hours",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "time_since": "Waiting",
+    "submitted_at": "Submitted",
+    "action": "Action",
+    "remind": "Remind Therapist",
+    "hours_ago": "{{count}}h ago",
+    "empty": "All submissions have been reviewed , no pending feedback.",
+    "info": "Exercise recordings submitted by patients that have been waiting for therapist review for more than 48 hours. Only exercise-related recordings (mini-games, learning path exercises) are tracked here. Waiting time shows hours since submission."
+  },
+  "weekly_activity": {
+    "title": "Weekly Activity",
+    "subtitle": "All pilot patients , this week's engagement",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "sessions": "Sessions",
+    "last_activity": "Last Activity",
+    "status": "Status",
+    "active": "Active",
+    "at_risk": "At Risk",
+    "dropping": "Dropping",
+    "info": "Weekly engagement status for all pilot patients. A session is a cluster of exercise recordings within 1 hour totaling at least 3 minutes, a completed quiz exercise, or a completed scenario session. Status: Active (2+ sessions), At Risk (1 session), Dropping (0 sessions)."
+  },
+  "high_performers": {
+    "title": "High Performers",
+    "subtitle": "Patients with 3+ sessions this week",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "sessions": "Sessions",
+    "trend": "vs Last Week",
+    "empty": "No high performers this week yet.",
+    "info": "Patients with 3 or more practice sessions this week. Trend compares this week's session count against last week , positive values indicate improvement, 'new' means this is their first qualifying week."
+  },
+  "activity_overview": {
+    "title": "Activity Overview",
+    "subtitle": "Platform usage across all users in this tenant",
+    "recordings": "Recordings",
+    "scenarios": "Scenarios",
+    "exercises": "Exercises",
+    "practice_minutes": "Practice Time",
+    "user": "User",
+    "role": "Role",
+    "last_active": "Last Active",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "minutes_unit": "{{count}} min",
+    "no_activity": "No activity recorded yet for this tenant.",
+    "never_active": "Never",
+    "pilot_badge": "Pilot",
+    "info": "Summary of all platform activity for pilot patients (excluding control group). Tracks audio recordings, completed scenario sessions, and completed exercises. Last Active shows the most recent activity across all types. Practice Time is total recording duration in minutes."
+  },
+  "enrollment": {
+    "title": "Pilot Enrollment",
+    "subtitle": "Toggle which users participate in the pilot",
+    "name": "Name",
+    "email": "Email",
+    "role": "Role",
+    "in_pilot": "In Pilot",
+    "group": "Group",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "control_group": "Control",
+    "control": "Control",
+    "control_group_confirm_title": "Move to control group?",
+    "control_group_confirm_message": "{{name}} will lose access to all app features. They will only see a study enrollment screen after completing their speech assessment.",
+    "control_group_confirm_button": "Move to control group"
+  },
+  "feature_flags": {
+    "title": "Feature Flags",
+    "subtitle": "Current flags for this tenant",
+    "manage": "Manage Flags",
+    "enabled": "On",
+    "disabled": "Off"
+  },
+  "dates": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "days_ago": "{{count}}d ago"
+  },
+  "assessments": {
+    "title": "Speech Assessments",
+    "subtitle": "Pre-pilot speech sample collection progress",
+    "completed": "Completed",
+    "completed_at": "Completed at",
+    "in_progress": "In Progress",
+    "pending": "Pending",
+    "not_started": "Not Started",
+    "status": "Status",
+    "patient": "Patient",
+    "therapist": "Therapist",
+    "request_new": "Request New Recordings",
+    "request_new_tooltip": "Assign new speech recordings to all pilot patients. Patients who already have a pending assessment are skipped.",
+    "requested": "Created {{count}} new assessment(s)",
+    "confirm_title": "Request new speech recordings?",
+    "confirm_message": "This will assign a new speech assessment to every pilot patient who doesn't already have one pending. Patients will need to record two new speech samples (reading + monologue) before they can continue using the platform.",
+    "confirm_button": "Request recordings",
+    "retries": "Retries",
+    "round_number": "Round {{count}}",
+    "round_label": {
+      "baseline": "Baseline",
+      "end_of_pilot": "End-of-pilot",
+      "generic": "Round {{count}}"
+    },
+    "skipped": "Skipped (prior round still open)",
+    "never_completed": "never completed",
+    "monologue_pending": "monologue pending"
+  },
+  "pilot_date_label": "Pilot start date",
+  "pilot_start": {
+    "set_date": "Set Start Date",
+    "active_since": "Active since {{date}}",
+    "scheduled_for": "Starts {{date}}",
+    "date_set": "Pilot start date set",
+    "date_cleared": "Pilot start date cleared",
+    "clear_tooltip": "Clear pilot start date",
+    "banner_title": "Set the pilot start date to unlock analytics",
+    "banner_subtitle": "Adherence, retention and dropoff charts populate once the pilot has a start date."
+  },
+  "errors": {
+    "load_failed": "Failed to load pilot data. Check your connection and try again.",
+    "notify_failed": "Failed to send notification",
+    "toggle_failed": "Failed to update pilot status",
+    "control_group_failed": "Failed to update control group status",
+    "group_failed": "Failed to update pilot group",
+    "request_failed": "Failed to request assessments",
+    "start_failed": "Failed to start pilot",
+    "retry": "Retry"
+  },
+  "actions": {
+    "notification_sent": "Notification logged (placeholder , no email sent yet)",
+    "refresh": "Refresh",
+    "export": "Export",
+    "download_csv": "Download CSV",
+    "copy_text": "Copy as Text",
+    "copied": "Copied to clipboard",
+    "copy_failed": "Failed to copy"
+  },
+  "group_filter": {
+    "label": "Group",
+    "all": "All groups",
+    "group": "Group",
+    "unassigned": "Unassigned",
+    "control_group": "Control Group",
+    "pilot_non_control": "Pilot (Non-Control)",
+    "clear": "Clear group filter"
+  },
+  "show_all": "Show all {{count}}",
+  "show_less": "Show Less",
+  "tenant_label": "Tenant",
+  "tabs": {
+    "operations": "Operations",
+    "analytics": "Analytics",
+    "outcomes": "Outcomes",
+    "engagement": "Engagement",
+    "signals": "Signals"
+  },
+  "engagement": {
+    "note": "Usage by arm. Averages are per enrolled patient in the arm (inactive patients count as zero), so arms of different sizes stay comparable. See the Outcomes tab for what each group means.",
+    "metric": "Metric",
+    "arms": {
+      "intervention": "Intervention",
+      "group1": "Group 1",
+      "group2": "Group 2",
+      "control": "Control"
+    },
+    "learning_path": {
+      "title": "Learning path",
+      "info": "Progress through the guided learning path and time spent practicing, per arm.",
+      "active": "Active paths",
+      "completed": "Completed paths",
+      "avg_steps": "Avg steps completed / patient",
+      "avg_minutes": "Avg practice minutes / patient"
+    },
+    "exercises": {
+      "title": "Exercises & practice",
+      "info": "Exercise completions and self-recorded practice, per arm. Difficulty is the patient's 1-5 self-rating.",
+      "completed": "Exercises completed",
+      "avg_attempts": "Avg attempts / patient",
+      "recordings": "Practice recordings",
+      "avg_difficulty": "Avg difficulty (1-5)"
+    },
+    "scenarios": {
+      "title": "Scenarios",
+      "info": "Conversation scenario sessions, split by mode (guided vs realistic) and source (from a template vs custom), per arm.",
+      "total": "Total sessions",
+      "guided": "Guided",
+      "realistic": "Realistic",
+      "templated": "From template",
+      "custom": "Custom",
+      "completed": "Completed",
+      "abandoned": "Abandoned"
+    },
+    "mini_games": {
+      "title": "Mini-games",
+      "info": "Mini-game assignments and total completions, per arm.",
+      "assignments": "Assignments",
+      "completed": "Completed assignments",
+      "completions": "Total completions"
+    }
+  },
+  "outcomes": {
+    "no_data": "No data yet for this measure.",
+    "arm_note": "Arms: Intervention ({{intervention}}) = Group 1 + Group 2. Group 1 ({{group1}}) started speech therapy with UpSpeech; Group 2 ({{group2}}) was already in speech therapy. Control ({{control}}) was assessed but did not use the app, so it appears mainly in the pre/post assessment below. On the severity charts, lower is better.",
+    "arms": {
+      "intervention": "Intervention",
+      "group1": "Group 1 (started with UpSpeech)",
+      "group2": "Group 2 (prior therapy)",
+      "control": "Control"
+    },
+    "baseline": {
+      "title": "Baseline balance",
+      "info": "Onboarding CBSA severity by arm: the check that the arms started comparable. If baseline severity differs a lot between arms, read later outcome gaps with caution. Shown as mean ± SD (0-60, lower is milder).",
+      "patients": "Patients (n)",
+      "severity": "Baseline severity (mean ± SD)",
+      "note": "Large baseline gaps between arms can confound the comparison; small, overlapping ranges support it."
+    },
+    "change": {
+      "title": "Self-severity change (first to last)",
+      "info": "Per-arm change in CBSA self-reported severity from each patient's first to last weekly submission. Mean change with 95% CI, effect size (Cohen's d), and how many patients improved, stayed the same, or worsened. Negative change means improvement.",
+      "patients": "Patients (n)",
+      "mean": "Mean change (95% CI)",
+      "effect_size": "Effect size (Cohen's d)",
+      "responders": "Improved / same / worse",
+      "note": "Only patients with at least two weekly submissions are included. Cohen's d and CI need at least two patients in the arm."
+    },
+    "cbsa": {
+      "title": "CBSA self-reported severity",
+      "info": "Mean CBSA severity score (0-60, lower is better) by relative pilot week, per arm. Dense for intervention; the control arm rarely submits weeklies."
+    },
+    "therapist": {
+      "title": "Therapist-rated severity",
+      "info": "Mean therapist perceived severity (0-10, lower is better) from completed recording reviews, bucketed by the week the recording was made."
+    },
+    "disfluency": {
+      "title": "Disfluency rate",
+      "info": "Mean marked disfluency annotations per minute, over recordings carrying at least one disfluency annotation. Lower is better."
+    },
+    "prepost": {
+      "title": "Speech assessment: pre vs post",
+      "info": "Therapist-rated severity on the first vs latest speech-assessment round, per arm. This is the only outcome the control arm reliably contributes to. n is the number of patients with both rounds scored.",
+      "arm": "Arm",
+      "pre": "Pre",
+      "post": "Post",
+      "delta": "Change",
+      "n": "n",
+      "not_scored": "No speech-assessment recordings have been scored yet. Complete reviews of the assessment recordings to populate this."
+    }
+  },
+  "dose_response": {
+    "title": "Dose-response: practice vs improvement",
+    "info": "Each point is one patient: practice minutes (x) against their CBSA self-severity change (y). A downward cloud, and a negative r, means more practice goes with lower severity, the signal that use drives the change rather than just co-occurring with it. Colored by arm.",
+    "no_data": "Not enough paired data yet. A point needs both practice time and at least two CBSA submissions.",
+    "r_caption": "Correlation r = {{r}} across {{n}} patients. Negative means more practice goes with lower severity (improvement).",
+    "r_insufficient": "Only {{n}} paired patient(s); at least 3 are needed to estimate a correlation.",
+    "x_axis": "Practice (minutes)",
+    "y_axis": "Self-severity change",
+    "tooltip_dose": "Practice",
+    "tooltip_response": "Severity change",
+    "minutes": "min"
+  },
+  "signals": {
+    "note": "Untapped pilot data the other tabs don't show: why scenarios ended early, where patients stall, how they rate milestones, how much the AI reports were edited, and what assessment data is still unscored.",
+    "endings": {
+      "title": "Scenario early-exit reasons",
+      "info": "Why scenario sessions ended early, per arm. 'Felt overwhelmed' points to emotional load; 'technical issue' points to product friction.",
+      "done_for_now": "Done for now",
+      "feeling_overwhelmed": "Felt overwhelmed",
+      "technical_issue": "Technical issue",
+      "try_again_later": "Try again later"
+    },
+    "funnel": {
+      "title": "Learning-path step funnel",
+      "info": "Steps started vs finished vs skipped, per arm, with the completed/started ratio. A low ratio flags where patients stall.",
+      "started": "Steps started",
+      "completed": "Steps completed",
+      "skipped": "Steps skipped",
+      "completion_rate": "Completion ratio"
+    },
+    "milestone": {
+      "title": "Milestone experience ratings",
+      "info": "Mean self-rated effort and naturalness (0-9) from milestone questionnaires, per arm, with the number of responses.",
+      "avg_effort": "Avg effort (0-9)",
+      "avg_naturalness": "Avg naturalness (0-9)",
+      "responses": "Responses"
+    },
+    "report": {
+      "title": "AI report assistance",
+      "info": "How much therapists leaned on the AI report drafts: total reports, the share carrying at least one edit (annotation), average edits per report, and up/down feedback. A low edit rate suggests drafts were accepted with little change.",
+      "total": "Reports",
+      "edited": "Edited",
+      "avg_annotations": "Avg edits/report",
+      "feedback": "Feedback",
+      "feedback_sr": "{{up}} helpful, {{down}} not helpful"
+    },
+    "completeness": {
+      "title": "Assessment data completeness",
+      "info": "Where speech assessments and recording reviews sit in the pipeline, and how many assessment recordings are still unscored. Unscored recordings are why the pre/post efficacy view can be empty.",
+      "speech_assessments": "Speech assessments",
+      "recording_reviews": "Recording reviews",
+      "none": "None yet",
+      "unscored": "{{count}} assessment recording(s) uploaded but not yet scored. Score them in the annotation room to populate the pre/post outcome view."
+    },
+    "statuses": {
+      "pending": "Pending",
+      "reading_done": "Reading done",
+      "completed": "Completed",
+      "in_progress": "In progress",
+      "skipped": "Skipped"
+    }
+  },
+  "analytics": {
+    "title": "Pilot Analytics",
+    "pilot_not_started": "Set a pilot start date to unlock analytics.",
+    "loading": "Loading analytics...",
+    "load_failed": "Failed to load analytics data.",
+    "week_label": "Week {{week}}",
+    "adherence": {
+      "title": "Adherence Threshold",
+      "subtitle": "% of users completing ≥2 sessions/week AND ≥6 minutes total",
+      "y_label": "% Meeting Threshold",
+      "info": "Percentage of pilot patients meeting the weekly adherence target: at least 2 practice sessions AND at least 6 minutes of total recording time per week. A session is a cluster of recordings within 1 hour totaling ≥3 minutes, or a completed quiz exercise. The 60% dashed line marks the minimum acceptable rate. Control group patients are excluded from this metric."
+    },
+    "minutes": {
+      "title": "Practice Time per Week",
+      "subtitle": "Average and median minutes practiced per user per week",
+      "avg_label": "Average",
+      "median_label": "Median",
+      "y_label": "Minutes",
+      "info": "Average and median recording practice time per patient per week, in minutes. The median helps identify whether a few heavy users are skewing the average , if the average is much higher than the median, a small group is doing most of the practice. Only exercise-related recordings (mini-games, learning path exercises) count toward practice time."
+    },
+    "dropoff": {
+      "title": "Drop-off Curve",
+      "subtitle": "% of users still active each week (survival curve)",
+      "y_label": "% Active",
+      "info": "Survival curve showing the percentage of patients still active each week since the pilot started. A patient counts as active if they completed at least 1 practice session that week. A steeper decline indicates faster disengagement. This metric only includes experimental group patients (control group excluded)."
+    },
+    "dau": {
+      "title": "Daily Active Users",
+      "subtitle": "Number of users active per day",
+      "y_label": "Users",
+      "info": "Number of unique patients who recorded an exercise or completed a quiz exercise on each calendar day. Helps identify usage patterns (weekday vs weekend trends) and spot sudden drops in engagement. Each patient is counted only once per day regardless of how many activities they completed."
+    },
+    "practices": {
+      "title": "Practices per User",
+      "subtitle": "Average sessions per user per week",
+      "y_label": "Avg Sessions",
+      "info": "Average number of practice sessions per patient per week. A session is defined as a cluster of exercise recordings made within 1 hour that totals at least 3 minutes of audio, or a completed quiz exercise. The target is ≥2 sessions per patient per week to meet the adherence threshold."
+    },
+    "dropout": {
+      "title": "Time to Dropout",
+      "subtitle": "Week where user first fails adherence or becomes inactive",
+      "y_label": "Users",
+      "empty": "No dropouts detected yet.",
+      "info": "Histogram showing the distribution of the week where patients first failed to meet adherence and never recovered. A dropout is defined as the first week a patient misses the adherence threshold (≥2 sessions AND ≥6 min) with no subsequent week meeting it. Concentration in early weeks suggests onboarding friction; later dropout may indicate fatigue."
+    },
+    "heatmap": {
+      "title": "Adherence Trend",
+      "subtitle": "Weekly adherence per user (green = met threshold, red = missed)",
+      "patient": "Patient",
+      "met": "Met",
+      "missed": "Missed",
+      "info": "Per-patient weekly adherence grid. Green cells mean the patient met the threshold (≥2 sessions AND ≥6 minutes of practice) that week; red cells mean they missed it. Reveals patterns like consistent high performers, intermittent users, or patients who disengage after a specific week. Scroll horizontally for more weeks."
+    },
+    "severity": {
+      "title": "Self-Reported Severity Change",
+      "subtitle": "Final minus baseline severity score (CBSA-SR, lower = improvement)",
+      "y_label": "Patient",
+      "baseline": "Baseline",
+      "latest": "Latest",
+      "change": "Change",
+      "empty": "No severity data available yet.",
+      "info": "Change in self-reported stuttering severity using the CBSA-SR (Communication-Based Self-Assessment of Stuttering , Self-Report) scale. Compares each patient's onboarding baseline score against their most recent weekly assessment. Negative values (green bars) indicate improvement; positive values (red bars) indicate worsening. Patients need both a baseline and at least one follow-up assessment to appear here."
+    },
+    "kpi": {
+      "retention_week_8": "Retention at Week 8",
+      "retention_helper": "% of users active in week 8",
+      "retention_info": "Percentage of pilot patients who are still actively using the platform in week 8. A patient is considered active if they completed at least 1 practice session that week. This KPI is only available once the pilot has been running for 8+ weeks. Control group patients are excluded.",
+      "week1_activation": "Week 1 Activation",
+      "week1_helper": "% completing ≥2 sessions in first week",
+      "week1_info": "Percentage of pilot patients who completed at least 2 practice sessions during their first week in the program. A session counts when exercise recordings total ≥3 minutes or a quiz exercise is completed. Target: ≥60%. This is a leading indicator , low activation predicts higher dropout.",
+      "therapist_adoption": "Therapist Adoption",
+      "therapist_helper": "Survey data required",
+      "not_available": "N/A"
+    },
+    "alerts": {
+      "title": "Alerts",
+      "critical": "Critical",
+      "warning": "Warning",
+      "info": "Info",
+      "week1_activation_low": "Week 1 activation is {{value}}% (below 60% threshold)",
+      "usage_drop_30pct": "{{count}} patient(s) dropped >30% usage this week",
+      "therapist_no_response_48h": "{{count}} recording(s) awaiting feedback >48h",
+      "inactive_7d": "{{count}} patient(s) inactive for 7+ days",
+      "inactive_3d": "{{count}} patient(s) inactive for 3+ days",
+      "no_alerts": "No alerts , pilot is on track."
+    },
+    "users_at_risk": {
+      "title": "Users at Risk",
+      "at_risk": "At Risk (3-6 days)",
+      "high_risk": "High Risk (7+ days)"
+    },
+    "snapshots": {
+      "compare_label": "Compare with",
+      "select_date": "Select a snapshot date",
+      "clear": "Clear comparison",
+      "no_snapshots": "No snapshots available yet",
+      "patient_count": "{{count}} patients",
+      "vs_days_ago": "vs {{count}}d ago",
+      "vs_yesterday": "vs yesterday",
+      "evolution_title": "KPI Trends Over Time",
+      "evolution_subtitle": "How key metrics evolved across daily snapshots",
+      "show_trends": "Show KPI trends",
+      "hide_trends": "Hide KPI trends",
+      "adherence_label": "Adherence",
+      "comparison_legend": "Comparison ({{date}})",
+      "joined_week": "Joined week {{week}}"
+    }
+  }
+}

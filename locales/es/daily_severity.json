@@ -1,0 +1,37 @@
+{
+  "gate": {
+    "greeting_morning": "Buenos días, {{name}}",
+    "greeting_afternoon": "Buenas tardes, {{name}}",
+    "greeting_evening": "Buenas noches, {{name}}",
+    "question": "¿Qué tan severa fue tu tartamudez hoy?",
+    "helper": "Solo toma un momento y ayuda a seguir tu progreso.",
+    "label_start": "Sin tartamudez",
+    "label_end": "Extremadamente severa",
+    "submit": "Continuar",
+    "success": "¡Gracias! Que tengas una gran sesión.",
+    "submit_error": "Algo salió mal. Por favor intenta de nuevo."
+  },
+  "chart": {
+    "title": "Tendencia Diaria de Severidad",
+    "subtitle": "Severidad de tartamudez autorreportada a lo largo del tiempo",
+    "score_label": "Puntuación de Severidad",
+    "latest_score": "Última Puntuación",
+    "average_score": "Promedio",
+    "min_score": "Más Baja",
+    "max_score": "Más Alta",
+    "days_count": "{{count}}d",
+    "no_data": "Aún no hay datos de severidad diaria.",
+    "no_data_description": "Las puntuaciones de severidad aparecerán aquí cuando el paciente comience a completar los check-ins diarios.",
+    "note_modal_title": "Nota del Día",
+    "note_modal_description": "{{date}} , Severidad: {{score}}/10",
+    "note_placeholder": "Escribe una nota sobre esta entrada...",
+    "note_save": "Guardar Nota",
+    "note_saving": "Guardando...",
+    "note_delete": "Eliminar Nota",
+    "note_delete_confirm": "¿Estás seguro de que quieres eliminar esta nota?",
+    "note_saved": "Nota guardada",
+    "note_deleted": "Nota eliminada",
+    "note_save_error": "Error al guardar nota. Por favor intenta de nuevo.",
+    "note_hint": "Haz clic en un día para añadir una nota"
+  }
+}

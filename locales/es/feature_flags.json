@@ -1,0 +1,81 @@
+{
+  "page_title": "Gestión de Funcionalidades",
+  "page_description": "Gestionar funcionalidades en todas las organizaciones (Solo propietario)",
+  "intro": {
+    "title": "Cómo funcionan las funcionalidades",
+    "description_html": "Cada funcionalidad se resuelve en uno de tres valores para una organización: una <strong>anulación global</strong> (fuerza un valor en todas las organizaciones), una <strong>anulación por organización</strong> (valor personalizado solo para esta organización), o el <strong>valor predeterminado</strong> definido en el código.",
+    "precedence": "Precedencia: anulación global > anulación por organización > predeterminado.",
+    "dismiss": "Entendido",
+    "show_help": "Cómo funcionan las funcionalidades"
+  },
+  "legend": {
+    "title": "Leyenda de etiquetas",
+    "enabled": "Activada en esta organización",
+    "disabled": "Desactivada en esta organización",
+    "global_override": "Forzada para todas las organizaciones",
+    "override": "Valor personalizado para esta organización",
+    "default": "Usando el valor predeterminado"
+  },
+  "tenants": {
+    "title": "Organizaciones",
+    "total": "{{count}} total",
+    "select_prompt": "Seleccione una organización para ver y gestionar funcionalidades",
+    "system_subtitle": "Anulaciones Globales",
+    "search_placeholder": "Buscar organizaciones",
+    "no_results": "Ninguna organización coincide con \"{{query}}\"",
+    "change_button": "Cambiar organización",
+    "picker_title": "Seleccionar organización",
+    "current_label": "Editando funcionalidades de",
+    "no_selection": "Ninguna organización seleccionada"
+  },
+  "flags": {
+    "title": "Funcionalidades",
+    "loading": "Cargando funcionalidades...",
+    "no_flags": "No hay funcionalidades disponibles",
+    "no_results": "Ninguna funcionalidad coincide con \"{{query}}\"",
+    "search_placeholder": "Buscar funcionalidades",
+    "enabled": "Activado",
+    "disabled": "Desactivado",
+    "override": "Anulación",
+    "default": "Predeterminado",
+    "key_label": "Clave:",
+    "toggle_on": "ON",
+    "toggle_off": "OFF",
+    "click_to_enable": "Clic para activar",
+    "click_to_disable": "Clic para desactivar",
+    "global_override_badge": "Anulación Global",
+    "copy_key": "Copiar clave",
+    "copied": "Copiado"
+  },
+  "system_tenant": {
+    "title": "Funcionalidades Globales",
+    "description": "Está viendo la organización del sistema. Use los controles a continuación para establecer anulaciones globales que afectan a <strong>todas las organizaciones</strong> a la vez. Esto es útil para activar o desactivar funcionalidades en toda la plataforma."
+  },
+  "global_override": {
+    "title": "Anulación Global (afecta a todas las organizaciones)",
+    "no_override": "Sin anulación global - usando configuración por organización",
+    "enabled_all": "ACTIVADO globalmente para todas las organizaciones",
+    "disabled_all": "DESACTIVADO globalmente para todas las organizaciones",
+    "button_enable_all": "Activar Todas",
+    "button_disable_all": "Desactivar Todas",
+    "button_clear": "Limpiar Anulación",
+    "button_enable_all_title": "Forzar activado para todas las organizaciones",
+    "button_disable_all_title": "Forzar desactivado para todas las organizaciones",
+    "button_clear_title": "Limpiar anulación global - usar configuración por organización",
+    "cannot_change_warning": "Esta funcionalidad tiene una anulación global - no se puede cambiar por organización"
+  },
+  "warning": {
+    "global_override_active": "Anulación Global Activa",
+    "global_override_description": "Esta funcionalidad está <strong>globalmente {{status}}</strong> para todas las organizaciones. Las configuraciones específicas de la organización se ignoran. Vaya a la organización <strong>Sistema (Propietarios de la Plataforma)</strong> para cambiar la anulación global."
+  },
+  "loading": {
+    "tenants": "Cargando organizaciones..."
+  },
+  "success": {
+    "flag_enabled": "Funcionalidad \"{{key}}\" activada con éxito",
+    "flag_disabled": "Funcionalidad \"{{key}}\" desactivada con éxito",
+    "global_override_cleared": "Anulación global eliminada",
+    "global_enabled_all": "Activado globalmente para todas las organizaciones",
+    "global_disabled_all": "Desactivado globalmente para todas las organizaciones"
+  }
+}

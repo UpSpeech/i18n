@@ -1,0 +1,87 @@
+{
+  "patient_progress": "Progresso do Paciente",
+  "view_patient_metrics": "Visualizar métricas e tendências do paciente",
+  "time_range": {
+    "label": "Intervalo de Tempo",
+    "7_days": "Últimos 7 dias",
+    "30_days": "Últimos 30 dias",
+    "90_days": "Últimos 90 dias",
+    "6_months": "Últimos 6 meses",
+    "1_year": "Último ano",
+    "all_time": "Todo o período"
+  },
+  "loading": "A carregar dados de progresso...",
+  "error": {
+    "title": "Dados Indisponíveis",
+    "message": "Ocorreu um problema ao carregar o progresso do paciente. Por favor, tenta novamente.",
+    "go_back": "Voltar"
+  },
+  "back": "Voltar",
+  "title": "Visão Geral do Progresso",
+  "stats": {
+    "total_recordings": "Total de Gravações",
+    "total_audio_files": "Total de Ficheiros de Áudio",
+    "all_uploads": "Todos os uploads",
+    "total_reports": "Total de Relatórios",
+    "total_duration": "Duração Total",
+    "consistency_score": "Índice de Consistência",
+    "mini_game_completions": "Conclusões de Mini-jogos",
+    "assignments": "atribuições",
+    "practice_sessions": "Sessões de Prática",
+    "standalone_practice": "Prática Independente",
+    "not_from_assignments": "Não das atribuições",
+    "total_exercises": "Total de Exercícios"
+  },
+  "charts": {
+    "mini_games": "Mini-jogos",
+    "recordings": "Gravações",
+    "reports": "Relatórios"
+  },
+  "insights": {
+    "title": "Informações e Análise",
+    "total_reports": "Total de Relatórios Gerados",
+    "last_7_days_activity": "Atividade (Últimos 7 dias)",
+    "in_last_30_days": "nos últimos 30 dias",
+    "consistency": "Consistência",
+    "avg_duration": "Gravação Média",
+    "recordings_suffix": "gravações"
+  },
+  "learning_path": {
+    "title": "Progresso do Percurso de Aprendizagem",
+    "current_milestone": "Atualmente no Marco {{number}}: {{title}}",
+    "view_details": "Ver Detalhes",
+    "overall_progress": "Progresso Geral",
+    "steps_completed": "{{completed}} de {{total}} passos",
+    "status_label": "Estado",
+    "started": "Iniciado em {{date}}",
+    "current_step_label": "Passo Atual",
+    "step_number": "Passo {{number}}",
+    "step_practice": "Prática do Passo",
+    "attempts": "tentativas",
+    "step_type": {
+      "standard": "Prática",
+      "quiz": "Quiz",
+      "scenario": "Cenário",
+      "reflection": "Reflexão",
+      "modeling": "Modelação",
+      "observation": "Observação"
+    },
+    "exercises_built_in": "Os exercícios deste passo fazem parte do currículo.",
+    "submission": {
+      "quiz_score": "Quiz: {{score}}%",
+      "passed": "Aprovado",
+      "attempts": "{{count}} tentativas",
+      "rating": "Avaliação: {{rating}}/5",
+      "sessions": "{{count}} sessões"
+    }
+  },
+  "back_to_patients": "Voltar aos Pacientes",
+  "habit": {
+    "weekly_volume_title": "Esta Semana",
+    "sessions_this_week": "Sessões",
+    "avg_session_minutes": "Sessão média",
+    "total_minutes_this_week": "Tempo total",
+    "standalone_practice": "Prática independente",
+    "volume_info": "Sessões curtas e frequentes constroem vias neurais mais sólidas do que sessões longas e espaçadas."
+  }
+}

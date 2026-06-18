@@ -1,0 +1,24 @@
+{
+  "banner": {
+    "viewing_as": "Viewing as",
+    "on": "on",
+    "read_only": "Read-only",
+    "read_write": "Read-write",
+    "stop": "Stop Impersonating",
+    "stopping": "Stopping..."
+  },
+  "modal": {
+    "title": "Impersonate User",
+    "target_user": "Target user",
+    "read_only_label": "Read-only mode",
+    "read_only_description": "You can browse but cannot make any changes",
+    "read_write_description": "Changes will be saved permanently",
+    "read_write_warning": "Changes made in read-write mode will persist and cannot be rolled back. Use with caution.",
+    "confirm": "Start Impersonation",
+    "starting": "Starting...",
+    "cancel": "Cancel"
+  },
+  "action": {
+    "impersonate": "Impersonate"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "@upspeech/i18n",
+  "version": "0.1.0",
+  "description": "Shared i18next translation resources (en/es/pt) for UpSpeech frontend and mobile.",
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./locales/*": "./locales/*"
+  },
+  "files": [
+    "dist",
+    "locales"
+  ],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check-parity.mjs",
+    "prepack": "npm run build",
+    "prepublishOnly": "npm run check && npm run build"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UpSpeech/i18n.git"
+  },
+  "license": "UNLICENSED",
+  "private": false
+}

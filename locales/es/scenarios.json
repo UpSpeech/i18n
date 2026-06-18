@@ -1,0 +1,460 @@
+{
+  "stop_recording": "Detener grabación",
+  "start_recording": "Iniciar grabación",
+  "paused": "En pausa",
+  "recording": "Grabando",
+  "open_chat": "Abrir chat",
+  "chat": "Chat",
+  "conversation": "Conversación",
+  "message_count": "{{count}} mensajes",
+  "close_chat": "Cerrar chat",
+  "start_speaking": "Comienza a hablar para iniciar la conversación",
+  "you": "Tú",
+  "ai": "IA",
+  "stop": "Detener",
+  "listen": "Escuchar",
+  "scenario": "Escenario",
+  "objectives": "Objetivos",
+  "categoryLabel": "Categoría",
+  "start": "Empezar a Practicar",
+  "quickStart": {
+    "clickToStart": "Haz clic para empezar",
+    "templates": {
+      "doctorAppointment": {
+        "title": "Programar una Cita Médica",
+        "description": "Estás llamando al consultorio de tu médico para programar un chequeo de rutina. La recepcionista contestará y te ayudará a encontrar un horario disponible. Prepárate para proporcionar tu disponibilidad y preguntar sobre cualquier preparación necesaria."
+      },
+      "jobInterview": {
+        "title": "Háblame de Ti",
+        "description": "Estás en una entrevista de trabajo y el entrevistador te pide que te presentes. Esta es tu oportunidad de dar un resumen convincente de 2 minutos sobre tu experiencia, habilidades y por qué te interesa este puesto. El entrevistador puede hacer preguntas de seguimiento."
+      },
+      "coffeeShop": {
+        "title": "Pedir en una Cafetería",
+        "description": "Estás en una cafetería concurrida y listo para pedir. El barista es amable pero la fila avanza rápido. Pide tu bebida preferida con las personalizaciones deseadas (tamaño, tipo de leche, extras) y quizás un pastel. Responde a cualquier pregunta sobre tu pedido."
+      },
+      "newColleague": {
+        "title": "Conocer a un Nuevo Compañero",
+        "description": "Es tu primer día en un nuevo trabajo y estás conociendo a un compañero en la sala de descanso. Preséntate, haz conversación sobre el lugar de trabajo e intenta crear una conexión amigable. Haz preguntas para mostrar interés en ellos."
+      }
+    }
+  },
+  "practice": "Práctica de Escenario",
+  "quick_start_title": "Inicio Rápido",
+  "quick_start_subtitle": "Escenarios populares para empezar",
+  "browse_category": "Explorar por Categoría",
+  "custom_scenario": "Escenario Personalizado",
+  "history": "Historial",
+  "completed_count": "{{count}} completados",
+  "practice_real": "Practica escenarios reales",
+  "endedEarly": "Terminada antes",
+  "no_session_id": "ID de sesión no proporcionado",
+  "load_error": "Error al cargar la sesión de escenario",
+  "begin_failed": "No se pudo iniciar el escenario. Inténtalo de nuevo.",
+  "loading": "Cargando escenario...",
+  "finalizing": "Finalizando tu sesión...",
+  "unable_to_load": "No se pudo cargar el escenario",
+  "back_to_practice": "Volver a Práctica",
+  "view_conversation": "Ver Conversación",
+  "view_analysis": "Ver Análisis",
+  "session_duration": "Sesión: {{minutes}}m {{seconds}}s",
+  "objectives_loading": "Practica este escenario de manera natural. Concéntrate en una comunicación clara y en mantener la calma.",
+  "tab": {
+    "title": "Práctica de Escenarios",
+    "subtitle": "Practica conversaciones del mundo real en un entorno seguro y de apoyo",
+    "browseCategories": "Explorar Categorías",
+    "quickStart": "Plantillas de Inicio Rápido",
+    "yourSessions": "Tus Sesiones",
+    "newScenario": "Nuevo Escenario",
+    "showAll": "Mostrar Todo",
+    "noSessionsTitle": "Sin escenarios aún",
+    "noSessionsDescription": "Comienza a practicar conversaciones del mundo real creando tu primer escenario",
+    "startPracticing": "Empezar a Practicar",
+    "scenariosCount": "{{count}} escenarios"
+  },
+  "categories": {
+    "job_interview": "Entrevista de Trabajo",
+    "phone_call": "Llamada Telefónica",
+    "social_interaction": "Interacción Social",
+    "ordering_food": "Pedir Comida",
+    "medical_appointment": "Cita Médica",
+    "public_speaking": "Hablar en Público",
+    "customer_service": "Atención al Cliente",
+    "other": "Otro"
+  },
+  "categoryDescriptions": {
+    "job_interview": "Practica preguntas de entrevista y respuestas profesionales",
+    "phone_call": "Gana confianza para conversaciones telefónicas",
+    "social_interaction": "Navega situaciones sociales con facilidad",
+    "ordering_food": "Practica pedidos en restaurantes y cafeterías",
+    "medical_appointment": "Prepárate para conversaciones de salud",
+    "public_speaking": "Desarrolla habilidades de presentación y oratoria",
+    "customer_service": "Maneja interacciones de servicio con confianza",
+    "other": "Crea tus propios escenarios personalizados"
+  },
+  "templates": {
+    "jobInterview": {
+      "title": "Háblame de ti",
+      "description": "Practica la pregunta clásica de entrevista"
+    },
+    "phoneCall": {
+      "title": "Programar una cita",
+      "description": "Llama para reservar una cita de servicio"
+    },
+    "socialInteraction": {
+      "title": "Conocer a alguien nuevo",
+      "description": "Practica presentaciones y conversación casual"
+    },
+    "orderingFood": {
+      "title": "Pedido en restaurante",
+      "description": "Haz un pedido y solicitudes especiales"
+    },
+    "medicalAppointment": {
+      "title": "Describir síntomas",
+      "description": "Explica preocupaciones de salud a un médico"
+    },
+    "publicSpeaking": {
+      "title": "Presentación breve",
+      "description": "Realiza una presentación corta sobre un tema"
+    },
+    "customerService": {
+      "title": "Devolver un artículo",
+      "description": "Procesa una devolución o cambio de producto"
+    }
+  },
+  "briefing": {
+    "label": "Escenario",
+    "defaultTitle": "Práctica de escenario",
+    "objectivesHeading": "Lo que vas a practicar",
+    "modeHeading": "Cómo prefieres hablar",
+    "modeHelper": "Puedes cambiarlo en cualquier momento.",
+    "modeGuided": {
+      "label": "Guiado",
+      "description": "Empiezas y paras cuando quieras. Tú controlas el ritmo.",
+      "tooltip": "El micrófono espera por ti. Empieza cuando estés listo y termina cuando quieras , nada te interrumpe."
+    },
+    "modeRealistic": {
+      "label": "Realista",
+      "description": "Micrófono abierto, flujo natural. Pueden responderte mientras sigues hablando.",
+      "tooltip": "El micrófono se queda abierto. Las respuestas pueden llegar mientras hablas, incluso a media frase, como en una conversación real."
+    },
+    "begin": "Empezar escenario",
+    "goBack": "Volver",
+    "modeInfoLabel": "{{label}} , más información"
+  },
+  "ready": {
+    "title": "Cuando estés listo/a",
+    "description": "Repasa los objetivos antes de empezar. La conversación arranca cuando pulses Iniciar.",
+    "start": "Iniciar conversación",
+    "tipsTitle": "Prepara el ambiente",
+    "tips": {
+      "job_interview": "Siéntate derecho, imagina a la persona entrevistadora frente a ti y responde a la primera pregunta como si fuera real.",
+      "phone_call": "Imagina que sostienes un teléfono junto al oído y habla como si la otra persona solo pudiera oírte, no verte.",
+      "social_interaction": "Imagina que te acercas a alguien nuevo. Mantén un tono ligero y deja fluir la conversación.",
+      "ordering_food": "Imagina el mostrador frente a ti y la fila detrás. Decide tu pedido antes de empezar.",
+      "medical_appointment": "Imagina que estás en la consulta con el médico. Prepárate para describir cómo te sientes con tus propias palabras.",
+      "public_speaking": "Ponte de pie si puedes, imagina al público mirándote y respira una vez antes de tu primera frase.",
+      "customer_service": "Imagina a la persona que puede ayudarte. Di lo que necesitas con claridad y mantén la calma si tarda un momento.",
+      "other": "Tómate un momento para imaginar dónde ocurre esta conversación y con quién hablas antes de empezar."
+    }
+  },
+  "realtime": {
+    "bot": "La otra persona",
+    "you": "Tú",
+    "end": "Terminar llamada",
+    "viewRecording": "Ver grabación",
+    "objectivesTitle": "Objetivos",
+    "goalsPill": "Objetivos {{done}}/{{total}}",
+    "transcriptTitle": "Transcripción",
+    "transcriptOpen": "Mostrar transcripción",
+    "transcriptClose": "Ocultar transcripción",
+    "transcriptEmpty": "La conversación aparecerá aquí.",
+    "emptyLive": "La conversación aparecerá aquí mientras hablas.",
+    "emptyPreparing": "Preparando todo…",
+    "presence": {
+      "preparing": "Preparando",
+      "listening": "Escuchando",
+      "speaking": "Hablando",
+      "thinking": "Pensando",
+      "ended": "Llamada terminada",
+      "error": "Problema de conexión"
+    },
+    "fallback": {
+      "title": "Cambiaste al modo guiado",
+      "description": "Hubo un problema con la llamada en directo , puedes continuar en modo guiado."
+    },
+    "status": {
+      "preparing": "Preparando…",
+      "connecting": "Conectando…",
+      "live": "En directo , empieza a hablar",
+      "listening": "Escuchando…",
+      "ended": "Llamada terminada",
+      "completed": "Conversación completada",
+      "error": "Algo salió mal"
+    },
+    "errors": {
+      "missing_session": "No encontramos esta sesión de escenario",
+      "ticket_failed": "No pudimos obtener permiso para iniciar la llamada",
+      "ws_open_failed": "No se pudo abrir la conexión en tiempo real",
+      "ws_failed": "La conexión en directo falló",
+      "mic_denied": "Permiso de micrófono denegado",
+      "audio_unsupported": "Tu navegador no soporta audio en tiempo real"
+    }
+  },
+  "session": {
+    "title": "Práctica de Escenario",
+    "turn": "Turno {{count}}",
+    "turns": "turnos",
+    "inProgress": "En Progreso",
+    "completed": "Completado",
+    "pending": "Listo para Empezar",
+    "abandoned": "Abandonado",
+    "scenario": "Escenario",
+    "objectives": "Objetivos",
+    "startConversation": "Comienza la conversación escribiendo o grabando tu primer mensaje.",
+    "speakNaturally": "Habla naturalmente - tómate tu tiempo y exprésate con claridad.",
+    "text": "Texto",
+    "voice": "Voz",
+    "textPlaceholder": "Escribe tu mensaje... (Enter para enviar, Shift+Enter para nueva línea)",
+    "send": "Enviar",
+    "recording": "Grabando: {{duration}}",
+    "recordingReady": "Grabación lista - Haz clic en \"Enviar\" para continuar",
+    "clickToRecord": "Haz clic en el micrófono para empezar a grabar",
+    "voiceNote": "Nota: Transcripción de voz próximamente. Usa entrada de texto por ahora.",
+    "stop": "Detener",
+    "record": "Grabar",
+    "sending": "Enviando...",
+    "abandoning": "Abandonando...",
+    "abandon": "Abandonar",
+    "viewResults": "Ver Resultados",
+    "continuePractice": "Continuar",
+    "startNew": "Iniciar Nuevo",
+    "pleaseEnterMessage": "Por favor introduce un mensaje",
+    "voiceComingSoon": "Transcripción de voz próximamente. Usa entrada de texto por ahora.",
+    "pleaseRecordMessage": "Por favor graba un mensaje primero",
+    "failedToSend": "Error al enviar mensaje. Por favor intenta de nuevo.",
+    "failedToAbandon": "Error al abandonar sesión",
+    "stopTts": "Detener",
+    "listen": "Escuchar",
+    "processing": "Procesando...",
+    "transcribingAudio": "Transcribiendo tu voz",
+    "emptyTranscription": "No se pudo detectar voz en la grabación. Por favor intenta de nuevo.",
+    "transcriptionError": "Error al procesar tu grabación. Por favor intenta de nuevo.",
+    "tap_to_speak": "Toca para Hablar",
+    "speak_naturally": "Tómate tu tiempo, habla naturalmente",
+    "tap_to_play_greeting_title": "¿No oyes la IA? Toca para reproducir el saludo.",
+    "tap_to_play_greeting_button": "Reproducir saludo",
+    "status": {
+      "pending": "Listo",
+      "in_progress": "En Progreso",
+      "completed": "Completado",
+      "ended_early": "Terminado Antes",
+      "abandoned": "Abandonado"
+    },
+    "endSessionTitle": "Terminar Sesión",
+    "howAreYouFeeling": "¿Cómo te sientes?",
+    "saveAndExit": "Guardar y Salir",
+    "keepPracticing": "Seguir Practicando",
+    "deleteSession": "Eliminar Sesión",
+    "endReasons": {
+      "done_for_now": "Ya terminé por ahora",
+      "feeling_overwhelmed": "Me siento abrumado/a",
+      "technical_issue": "Problema técnico",
+      "try_again_later": "Quiero intentar más tarde"
+    },
+    "sessionSaved": "Sesión Guardada",
+    "sessionSavedSubtitle": "¡Hiciste progreso! Revisa lo que lograste.",
+    "endEarlyError": "Error al guardar la sesión. Por favor intenta de nuevo.",
+    "endReasonLabel": "Sesión terminada: {{reason}}",
+    "leaveSession": "¿Salir de la Sesión?",
+    "leaveSessionWarning": "Si sales ahora, esta sesión de práctica será eliminada y no podrá ser retomada. Tu progreso se perderá.",
+    "leaveAndDelete": "Salir y Eliminar",
+    "abandonError": "Error al terminar sesión. Por favor intenta de nuevo.",
+    "end_session": "Terminar Sesión",
+    "objectives_met": "objetivos",
+    "recordingTooShort": "Grabación demasiado corta. Por favor graba durante al menos 1 segundo.",
+    "session_complete": "Sesión Completada",
+    "session_complete_subtitle": "¡Buen trabajo! Revisa tu desempeño a continuación.",
+    "turns_count": "{{count}} turnos",
+    "ambientMute": "Silenciar sonido de fondo",
+    "ambientUnmute": "Activar sonido de fondo",
+    "ambientVolume": "Volumen del sonido de fondo"
+  },
+  "review": {
+    "sessionReview": "Revisión de Sesión",
+    "outOf100": "/ 100",
+    "turnsDuration": "{{turnCount}} turnos • {{duration}}",
+    "turnsDurationPatient": "{{patientName}} • {{turnCount}} turnos • {{duration}}",
+    "duration": "{{mins}}m {{secs}}s",
+    "analysis": "Análisis",
+    "conversation": "Conversación",
+    "notes": "Notas",
+    "overallPerformance": "Rendimiento General",
+    "excellent": "Excelente",
+    "goodProgress": "Buen Progreso",
+    "keepPracticing": "Sigue Practicando",
+    "clarity": "Claridad",
+    "confidence": "Confianza",
+    "goalAchievement": "Logro de Objetivos",
+    "disfluencyPatterns": "Patrones de Disfluencia",
+    "instances": "{{count}} instancias",
+    "whatYouDidWell": "Lo Que Hiciste Bien",
+    "areasToFocus": "Áreas a Mejorar",
+    "recommendations": "Recomendaciones",
+    "analysisNotAvailable": "Análisis no disponible para esta sesión.",
+    "noMessages": "Sin mensajes en esta conversación.",
+    "personalReflections": "Reflexiones Personales",
+    "notesHelperText": "Registra tus pensamientos sobre esta sesión - qué salió bien, qué harías diferente, o cualquier insight.",
+    "notesPlaceholder": "¿Qué aprendiste de este escenario? ¿Qué harías diferente la próxima vez?",
+    "clinicalNotes": "Notas Clínicas",
+    "notesHelperTextTherapist": "Añada observaciones, comentarios o notas de seguimiento para la sesión de este paciente.",
+    "notesPlaceholderTherapist": "Anote patrones, progresos o áreas a tratar en la próxima sesión...",
+    "saveNotes": "Guardar Notas",
+    "you": "Tú",
+    "ai": "IA",
+    "stop": "Detener",
+    "listen": "Escuchar",
+    "completed": "Completado",
+    "endedEarly": "Terminado Antes",
+    "next": "Siguiente",
+    "pause": "Pausa",
+    "playing": "Reproduciendo...",
+    "previous": "Anterior",
+    "resume": "Reanudar",
+    "aiSummary": "Resumen IA",
+    "audioAvailable": "Audio disponible",
+    "browserTtsOnly": "Solo TTS del navegador",
+    "computerVoice": "Voz del ordenador",
+    "computerVoiceHint": "Audio real aún cargándose , recarga en un momento para oírlo",
+    "playAll": "Reproducir Todo",
+    "playRecording": "Reproducir",
+    "replay": "Repetir",
+    "turnsCompleted": "{{count}} turnos"
+  },
+  "create": {
+    "title": "Crear Nuevo Escenario",
+    "description": "Describe una situación del mundo real que te gustaría practicar. Sé específico sobre el contexto, con quién estás hablando y qué quieres lograr.",
+    "languageLabel": "Idioma de Práctica",
+    "languageHelperText": "Idioma para el habla y las respuestas",
+    "selectCategory": "Selecciona una categoría (opcional)",
+    "categoryLabel": "Categoría del Escenario",
+    "categoryHelperText": "Elige una categoría para guiar la conversación",
+    "descriptionLabel": "Descripción del Escenario",
+    "descriptionHelperText": "Ejemplo: 'Estoy llamando para programar una cita médica. Necesito describir mis síntomas y preguntar sobre horarios disponibles.'",
+    "descriptionPlaceholder": "Describe el escenario que quieres practicar...",
+    "descriptionRequired": "Por favor describe el escenario que quieres practicar",
+    "failedToCreate": "Error al crear escenario. Por favor intenta de nuevo.",
+    "tipsTitle": "Consejos para un buen escenario:",
+    "tip1": "Sé específico sobre la situación y el contexto",
+    "tip2": "Incluye con quién estás hablando (recepcionista, entrevistador, etc.)",
+    "tip3": "Indica tu objetivo (programar, pedir información, etc.)",
+    "tip4": "Menciona cualquier desafío que quieras practicar",
+    "creating": "Creando...",
+    "startScenario": "Iniciar Escenario"
+  },
+  "categoryModal": {
+    "pickExample": "Elige un ejemplo o escribe el tuyo",
+    "customDescription": "O escribe el tuyo",
+    "customHelperText": "Describe la situación específica que quieres practicar",
+    "customPlaceholder": "Describe tu escenario...",
+    "examples": {
+      "job_interview": [
+        "Practicar responder a 'Háblame de ti' en una entrevista profesional",
+        "Prepararte para preguntas de comportamiento como 'Describe un desafío que superaste'",
+        "Practicar negociar salario y beneficios con un reclutador"
+      ],
+      "phone_call": [
+        "Llamar para programar una cita médica y describir tus síntomas",
+        "Llamar al servicio al cliente para resolver un problema de facturación",
+        "Hacer una reserva en un restaurante para una ocasión especial"
+      ],
+      "social_interaction": [
+        "Presentarte en un evento de networking y hacer conversación casual",
+        "Iniciar una conversación con un vecino que acabas de conocer",
+        "Unirte a una conversación grupal en una fiesta"
+      ],
+      "ordering_food": [
+        "Pedir un café con personalizaciones específicas en una cafetería concurrida",
+        "Pedir la cena en un restaurante y preguntar sobre los platos del menú",
+        "Hacer un pedido de comida para recoger por teléfono"
+      ],
+      "medical_appointment": [
+        "Describir tus síntomas claramente al médico durante una consulta",
+        "Hacer preguntas sobre un diagnóstico y opciones de tratamiento",
+        "Discutir efectos secundarios de medicamentos con un farmacéutico"
+      ],
+      "public_speaking": [
+        "Hacer una breve presentación de ti mismo a un grupo",
+        "Presentar una actualización de proyecto a tu equipo",
+        "Dar un breve brindis en una celebración"
+      ],
+      "customer_service": [
+        "Devolver un artículo y explicar por qué no cumplió tus expectativas",
+        "Pedir ayuda para encontrar un producto en una tienda",
+        "Quejarte educadamente sobre un mal servicio y pedir una solución"
+      ],
+      "other": [
+        "Practicar una conversación que tienes en mente",
+        "Ensayar para una discusión importante que se aproxima",
+        "Trabajar en un escenario de comunicación desafiante"
+      ]
+    }
+  },
+  "submissions": {
+    "page_title": "Envíos de Escenarios",
+    "page_subtitle": "Revisar sesiones de práctica de escenarios de los pacientes",
+    "filter_title": "Filtrar Escenarios",
+    "empty_title": "Sin Sesiones de Escenario",
+    "empty_description": "Los pacientes aún no han completado sesiones de práctica de escenarios. Asigne escenarios para empezar.",
+    "empty_filtered_title": "Sin Sesiones Coincidentes",
+    "empty_filtered_description": "Ninguna sesión de escenario coincide con los filtros actuales. Intente ajustar los criterios.",
+    "error_title": "Error al Cargar Sesiones",
+    "error_description": "Algo salió mal al cargar las sesiones de escenario. Por favor, inténtelo de nuevo.",
+    "needs_review": "Necesita Revisión",
+    "review": "Revisar"
+  },
+  "assigned": "Asignado",
+  "assigned_title": "Asignado por Tu Terapeuta",
+  "create_first": "Crea Tu Primer Escenario",
+  "due_date": "Plazo: {{date}}",
+  "empty_description_create": "Practica conversaciones del mundo real para ganar confianza. Elige una categoría arriba o crea un escenario personalizado.",
+  "empty_description_wait": "Tu terapeuta aún no ha asignado escenarios. ¡Vuelve pronto!",
+  "empty_title": "¿Listo para Practicar?",
+  "error_title": "Error al Cargar Escenarios",
+  "load_details_error": "Error al cargar los detalles de la sesión. Por favor, inténtalo de nuevo.",
+  "overdue": "Atrasado",
+  "reviewed": "Revisado",
+  "scenarios_to_complete": "{{count}} escenario(s) para completar",
+  "start_scenario": "Iniciar Escenario",
+  "turns_count": "{{count}} turnos",
+  "view_all_history": "Ver Todo el Historial ({{count}})",
+  "video_call": {
+    "settings": "Configuración",
+    "recording_mode": "Modo de Grabación",
+    "recording_type": "Tipo de Grabación",
+    "video_and_audio": "Vídeo y Audio",
+    "audio_only": "Solo Audio",
+    "ai_thinking": "La IA está pensando...",
+    "ai_speaking": "La IA está hablando",
+    "ai_listening": "Escuchándote...",
+    "end_call": "Terminar Sesión",
+    "start_recording": "Iniciar grabación",
+    "stop_recording": "Detener grabación",
+    "replay": "Repetición",
+    "play_all": "Reproducir Todo",
+    "pause": "Pausar",
+    "resume": "Reanudar",
+    "stop": "Detener",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "you": "Tú",
+    "avatar_settings": "Mostrar Avatar de IA",
+    "ai_assistant": "Asistente IA",
+    "avatar_loading": "Cargando avatar...",
+    "avatar_error": "Avatar no disponible",
+    "microphone": "Micrófono",
+    "camera": "Cámara",
+    "grant_device_access": "Permitir acceso para ver nombres de dispositivos",
+    "swap_video": "Cambiar disposición del vídeo"
+  },
+  "entity_session": "Escenario"
+}

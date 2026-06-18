@@ -1,0 +1,87 @@
+{
+  "title": "Progress Overview",
+  "back": "Back",
+  "time_range": {
+    "label": "Time Range:",
+    "7_days": "Last 7 Days",
+    "30_days": "Last 30 Days",
+    "90_days": "Last 90 Days",
+    "6_months": "Last 6 Months",
+    "1_year": "Last Year",
+    "all_time": "All Time"
+  },
+  "stats": {
+    "total_recordings": "Total Recordings",
+    "total_audio_files": "Total Audio Files",
+    "all_uploads": "All uploads",
+    "total_reports": "Total Reports",
+    "total_duration": "Total Duration",
+    "consistency_score": "Consistency Score",
+    "mini_game_completions": "Mini Game Completions",
+    "assignments": "assignments",
+    "practice_sessions": "Practice Sessions",
+    "standalone_practice": "Standalone Practice",
+    "not_from_assignments": "Not from assignments",
+    "total_exercises": "Total Exercises"
+  },
+  "charts": {
+    "mini_games": "Mini Games",
+    "recordings": "Recordings",
+    "reports": "Reports"
+  },
+  "insights": {
+    "title": "Patient Insights",
+    "total_reports": "Total Reports Generated",
+    "last_7_days_activity": "Activity (Last 7 Days)",
+    "in_last_30_days": "in last 30 days",
+    "consistency": "Consistency",
+    "avg_duration": "Avg Recording",
+    "recordings_suffix": "recordings"
+  },
+  "loading": "Loading progress data...",
+  "error": {
+    "title": "Data Unavailable",
+    "message": "We encountered an issue loading the patient's progress. Please try again.",
+    "go_back": "Go Back"
+  },
+  "patient_progress": "Patient Progress",
+  "view_patient_metrics": "View patient metrics and trends",
+  "learning_path": {
+    "title": "Learning Path Progress",
+    "current_milestone": "Currently in Milestone {{number}}: {{title}}",
+    "view_details": "View Details",
+    "overall_progress": "Overall Progress",
+    "steps_completed": "{{completed}} of {{total}} steps",
+    "status_label": "Status",
+    "started": "Started {{date}}",
+    "current_step_label": "Current Step",
+    "step_number": "Step {{number}}",
+    "step_practice": "Step Practice",
+    "attempts": "attempts",
+    "step_type": {
+      "standard": "Practice",
+      "quiz": "Quiz",
+      "scenario": "Scenario",
+      "reflection": "Reflection",
+      "modeling": "Modeling",
+      "observation": "Observation"
+    },
+    "exercises_built_in": "Exercises for this step are built into the curriculum.",
+    "submission": {
+      "quiz_score": "Quiz: {{score}}%",
+      "passed": "Passed",
+      "attempts": "{{count}} attempts",
+      "rating": "Rating: {{rating}}/5",
+      "sessions": "{{count}} sessions"
+    }
+  },
+  "back_to_patients": "Back to Patients",
+  "habit": {
+    "weekly_volume_title": "This Week",
+    "sessions_this_week": "Sessions",
+    "avg_session_minutes": "Avg session",
+    "total_minutes_this_week": "Total time",
+    "standalone_practice": "Standalone practice",
+    "volume_info": "Short, frequent sessions build stronger neural pathways than long, spaced ones."
+  }
+}

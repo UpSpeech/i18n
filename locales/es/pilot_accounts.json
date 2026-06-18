@@ -1,0 +1,26 @@
+{
+  "title": "Cuentas Piloto",
+  "subtitle": "Generar cuentas anonimizadas para participantes del piloto",
+  "config_title": "Configuración de Cuentas",
+  "tenant": "Clínica",
+  "role": "Rol",
+  "role_patient": "Paciente",
+  "role_therapist": "Terapeuta",
+  "count": "Cantidad",
+  "generate": "Generar Cuentas",
+  "generating": "Generando...",
+  "email": "Email",
+  "name": "Nombre",
+  "password": "Contraseña",
+  "role_label": "Rol",
+  "patient": "Paciente",
+  "therapist": "Terapeuta",
+  "results_title": "Cuentas Generadas",
+  "security_warning": "Estas credenciales se muestran solo una vez. Cópielas o descárguelas ahora , las contraseñas no se pueden recuperar después.",
+  "download_csv": "Descargar CSV",
+  "copy_all": "Copiar Todo",
+  "copied": "¡Copiado!",
+  "errors": {
+    "generate_failed": "Error al generar cuentas"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "onboarding": {
+    "welcome": {
+      "patient": {
+        "title": "Welcome to UpSpeech!",
+        "description": "Your journey to improved speech starts here. Track your progress, complete exercises, and work with your therapist."
+      },
+      "therapist": {
+        "title": "Welcome to UpSpeech!",
+        "description": "Manage your patients, generate AI-powered reports, and assign exercises all in one place."
+      },
+      "admin": {
+        "title": "Welcome to UpSpeech!",
+        "description": "Manage your organization, customize branding, and oversee platform usage."
+      },
+      "default": {
+        "title": "Welcome to UpSpeech!",
+        "description": "Your speech therapy platform is ready to use."
+      },
+      "video_placeholder": {
+        "title": "Demo Video Coming Soon",
+        "description": "A quick video tour of the platform will be available here"
+      },
+      "video": {
+        "admin": {
+          "description": "Learn how to manage your organization and customize your platform",
+          "title": "Getting Started as an Admin"
+        },
+        "default": {
+          "description": "Learn how to use the platform",
+          "title": "Getting Started with UpSpeech"
+        },
+        "patient": {
+          "description": "Learn how to use UpSpeech to track your progress and complete exercises",
+          "title": "Getting Started as a Patient"
+        },
+        "therapist": {
+          "description": "Learn how to manage patients, generate reports, and assign exercises",
+          "title": "Getting Started as a Therapist"
+        }
+      },
+      "dont_show_again": "Don't show this again",
+      "skip": "Skip for now",
+      "get_started": "Get Started",
+      "view_all_videos": "View all videos in Help Center"
+    },
+    "checklist": {
+      "title": "Your First Steps",
+      "progress": "{{completed}} of {{total}} complete",
+      "progress_label": "Onboarding progress",
+      "items_label": "Getting started tasks",
+      "dismiss": "Dismiss checklist",
+      "dismiss_button": "I'm all set",
+      "show_steps": "Show steps",
+      "skip": "Skip",
+      "skipped": "Skipped",
+      "skip_item": "Skip {{item}}",
+      "footer_hint": "Complete these steps at your own pace",
+      "patient": {
+        "watch_video": "Get to know UpSpeech",
+        "watch_video_description": "A quick tour to help you feel at home",
+        "view_learning_path": "See what's ahead",
+        "view_learning_path_description": "Explore your therapy journey and goals",
+        "complete_exercise": "Try your first exercise",
+        "complete_exercise_description": "See what your therapist has prepared for you",
+        "record_session": "Practice and record",
+        "record_session_description": "Capture a practice session to track your progress"
+      },
+      "admin": {
+        "dashboard_tour": "Explore your dashboard",
+        "dashboard_tour_description": "See what's available at a glance",
+        "manage_users": "Manage users",
+        "manage_users_description": "See who's on your platform",
+        "configure_settings": "Configure settings",
+        "configure_settings_description": "Set up your organization",
+        "view_analytics": "View analytics",
+        "view_analytics_description": "Check platform engagement"
+      },
+      "therapist": {
+        "invite_patient": "Welcome your first patient",
+        "invite_patient_description": "Send an invitation to start working together",
+        "create_report": "Create your first report",
+        "create_report_description": "Generate an AI-assisted clinical report",
+        "assign_exercise": "Assign an exercise",
+        "assign_exercise_description": "Help your patient practice at home",
+        "explore_library": "Discover exercises",
+        "explore_library_description": "Browse available exercises and mini-games"
+      }
+    },
+    "pilot": {
+      "next": "Next",
+      "step_consent": "Consent",
+      "step_devices": "Devices",
+      "step_welcome": "Welcome",
+      "step_progress": "Setup progress",
+      "consent": {
+        "heading": "Before We Begin",
+        "title": "Consent & Privacy",
+        "intro": "Your privacy and safety are our priority. Please take a moment to review the information below , it explains how we protect your data during the pilot.",
+        "description": "Before getting started, please review and accept the following:",
+        "terms_title": "Terms & Conditions",
+        "terms_text": "By participating in this pilot program, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymized form to improve the platform. You may withdraw from the pilot at any time by contacting your administrator.",
+        "privacy_title": "Privacy Policy",
+        "privacy_text": "UpSpeech collects audio recordings, exercise data, and usage analytics to provide speech therapy services. Your data is stored securely, encrypted at rest and in transit. Personal data is never shared with third parties without your explicit consent. Audio recordings are processed for speech analysis and clinical reporting purposes only.",
+        "accept_terms": "I accept the Terms & Conditions",
+        "accept_privacy": "I accept the Privacy Policy",
+        "required_hint": "Please complete this step to continue"
+      },
+      "media": {
+        "heading": "Camera & Microphone",
+        "title": "Set Up Your Devices",
+        "description": "UpSpeech needs access to your microphone and camera for speech exercises and practice sessions. Let's make sure they work.",
+        "microphone": "Microphone",
+        "camera": "Camera",
+        "test_mic": "Test Microphone",
+        "test_camera": "Test Camera",
+        "testing": "Testing...",
+        "granted": "Ready",
+        "speak_now": "Speak to see the audio level",
+        "audio_level": "Audio level",
+        "camera_preview": "Camera preview"
+      }
+    },
+    "tour": {
+      "back": "Back",
+      "close": "Close",
+      "finish": "Finish",
+      "next": "Next",
+      "skip": "Skip tour",
+      "patient": {
+        "dashboard": {
+          "exercise_title": "Today's Exercise",
+          "exercise_content": "This is your daily exercise. Start here each day to keep building your skills.",
+          "stats_title": "Your Progress",
+          "stats_content": "Track your completion rate, streaks, and more. Watch these numbers grow as you practice.",
+          "weekly_title": "Weekly Comparison",
+          "weekly_content": "See how you're doing compared to last week. Consistency is key!",
+          "upcoming_title": "Upcoming Exercises",
+          "upcoming_content": "Your next exercises from your therapist are listed here.",
+          "nav_journey_title": "My Journey",
+          "nav_journey_content": "Follow your therapy journey step by step. Each milestone brings you closer to your goals.",
+          "nav_exercises_title": "Exercises",
+          "nav_exercises_content": "Find your assignments, practice sessions, and history here."
+        },
+        "journey": {
+          "progress_title": "Your Therapy Path",
+          "progress_content": "This is your personalized journey. Each step builds on the last.",
+          "current_step_title": "Current Step",
+          "current_step_content": "This is where you are now. Tap to start working on it.",
+          "indicators_title": "Progress Indicators",
+          "indicators_content": "Green means complete. Keep going to open the next steps!"
+        },
+        "exercise": {
+          "list_title": "Your Assignments",
+          "list_content": "Your therapist assigns exercises here for you to complete.",
+          "card_title": "Exercise Details",
+          "card_content": "Click any exercise to see the details and start practicing.",
+          "filters_title": "Filter Exercises",
+          "filters_content": "Filter by status to find what needs your attention."
+        },
+        "practice": {
+          "library_title": "Exercise Library",
+          "library_content": "Choose from these exercises to practice anytime you want.",
+          "button_title": "Start Practicing",
+          "button_content": "Hit the practice button to start a recording session.",
+          "scenarios_title": "Conversation Scenarios",
+          "scenarios_content": "Try conversation scenarios for realistic practice situations."
+        }
+      },
+      "therapist": {
+        "dashboard": {
+          "stats_title": "Practice Overview",
+          "stats_content": "Your practice at a glance: patients, reports, and exercise activity.",
+          "activity_title": "Recent Activity",
+          "activity_content": "Recent recordings and activity from your patients appear here.",
+          "bubble_chart_title": "Patient Engagement",
+          "bubble_chart_content": "Spot engagement patterns across your patients at a glance.",
+          "stale_patients_title": "Inactive Patients",
+          "stale_patients_content": "Patients who haven't been active for 5+ days are flagged here.",
+          "nav_patients_title": "My Patients",
+          "nav_patients_content": "Manage your patients, send invitations, and view their progress.",
+          "nav_reports_title": "Reports",
+          "nav_reports_content": "Generate AI-assisted clinical reports from session recordings.",
+          "nav_exercises_title": "Exercises",
+          "nav_exercises_content": "Browse exercise libraries and assign exercises to your patients."
+        },
+        "invite": {
+          "button_title": "Invite a Patient",
+          "button_content": "Click here to invite your first patient by email.",
+          "list_title": "Patient List",
+          "list_content": "Your patients will appear here once they accept the invitation."
+        },
+        "report": {
+          "patient_title": "Select Patient",
+          "patient_content": "Choose which patient this report is for.",
+          "recording_title": "Session Recording",
+          "recording_content": "Upload or select a recording from a therapy session.",
+          "generate_title": "Generate Report",
+          "generate_content": "AI will draft the clinical report for you to review and edit."
+        },
+        "assign": {
+          "row_title": "Select a Patient",
+          "row_content": "Click a patient to see their profile and assignment options.",
+          "action_title": "Assign Exercises",
+          "action_content": "Use this button to assign exercises to your patient."
+        },
+        "library": {
+          "grid_title": "Exercise Library",
+          "grid_content": "Browse all available exercises organized by category.",
+          "card_title": "Exercise Details",
+          "card_content": "Click to preview an exercise or assign it to a patient.",
+          "filters_title": "Filter & Search",
+          "filters_content": "Filter by type or search to find the right exercise quickly."
+        }
+      },
+      "admin": {
+        "dashboard": {
+          "stats_title": "Key Metrics",
+          "stats_content": "Active clients, total users, failed recordings, and pending invites at a glance.",
+          "actions_title": "Quick Actions",
+          "actions_content": "Jump to Users, Analytics, Settings, or Reports from here.",
+          "users_title": "Recent Registrations",
+          "users_content": "New users who recently joined your organization.",
+          "activity_title": "Platform Activity",
+          "activity_content": "Recent platform activity, including any failed recordings that need attention.",
+          "workload_title": "Therapist Workload",
+          "workload_content": "See how patients are distributed across your therapists."
+        },
+        "users": {
+          "list_title": "User Directory",
+          "list_content": "All users across your organization are listed here.",
+          "roles_title": "Roles & Status",
+          "roles_content": "See each user's role and account status at a glance.",
+          "actions_title": "User Actions",
+          "actions_content": "Edit roles, deactivate users, or send new invitations."
+        },
+        "settings": {
+          "org_title": "Organization Info",
+          "org_content": "Your organization's name and basic information.",
+          "sections_title": "Settings",
+          "sections_content": "Configure features and preferences for your organization."
+        },
+        "analytics": {
+          "dashboard_title": "Analytics Dashboard",
+          "dashboard_content": "Platform-wide usage and engagement data to help you understand how your team uses UpSpeech."
+        }
+      }
+    },
+    "tooltip": {
+      "got_it": "Got it",
+      "learn_more": "Learn more",
+      "dont_show_again": "Hide tips",
+      "recording_controls": {
+        "title": "Recording Controls",
+        "description": "Use these controls to record your practice session. You can pause, resume, and add annotations as you practice."
+      },
+      "report_generation": {
+        "title": "AI Report Generation",
+        "description": "Select a recording and patient, then let AI help generate a clinical report. You can review and edit before saving."
+      },
+      "exercise_assignment": {
+        "title": "Exercise Assignment",
+        "description": "Assign exercises to your patients with deadlines and personalized advice. Track their progress from your dashboard."
+      },
+      "learning_path": {
+        "title": "Your Learning Path",
+        "description": "Follow your personalized therapy journey. Complete exercises, track milestones, and see your progress over time."
+      },
+      "annotation_tools": {
+        "title": "Annotation Tools",
+        "description": "Mark disfluencies and techniques in your recordings. Use the timeline to add precise annotations at specific moments."
+      }
+    }
+  }
+}

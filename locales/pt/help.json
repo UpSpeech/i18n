@@ -1,0 +1,244 @@
+{
+  "video_coming_soon": "Em breve...",
+  "play_video": "Reproduzir Vídeo",
+  "video_unavailable": "Vídeo indisponível",
+  "title": "Centro de Ajuda",
+  "subtitle": "Aprende a usar a UpSpeech com tutoriais em vídeo e perguntas frequentes",
+  "quick_navigation": "Navegação Rápida",
+  "search_placeholder": "Procurar ajuda...",
+  "video_library": "Biblioteca de Vídeos",
+  "faq_title": "Perguntas Frequentes",
+  "no_results": "Nenhum resultado encontrado. Tenta um termo de pesquisa diferente.",
+  "show_more_videos": "Mostrar Mais Vídeos",
+  "show_less": "Mostrar Menos",
+  "more": "mais",
+  "categories": {
+    "all": "Todos os Vídeos",
+    "patient": "Para Pacientes",
+    "therapist": "Para Terapeutas",
+    "admin": "Para Administradores"
+  },
+  "faq_categories": {
+    "getting_started": "Começar",
+    "learning_paths": "Percursos de Aprendizagem",
+    "exercise_system": "Sistema de Exercícios",
+    "ai_scenarios": "Cenários de Prática com IA",
+    "reports": "Relatórios e Documentação",
+    "annotations": "Anotações de Gravações",
+    "patient_linking": "Conexão Paciente-Terapeuta",
+    "progress": "Progresso e Acompanhamento",
+    "settings": "Definições e Conta",
+    "technical": "Técnico e Multimédia",
+    "support": "Suporte"
+  },
+  "videos": {
+    "account_settings": {
+      "title": "Definições de Conta e Preferências",
+      "description": "Alterar idioma, ativar modo escuro, atualizar palavra-passe"
+    },
+    "my_journey": {
+      "title": "A Tua Jornada Terapêutica",
+      "description": "Ver o percurso de aprendizagem, expandir marcos, ver detalhes dos passos"
+    },
+    "complete_exercise": {
+      "title": "Como Completar um Exercício",
+      "description": "Abrir uma atribuição, ver instruções e iniciar um exercício"
+    },
+    "practice_scenarios": {
+      "title": "Praticar com Cenários IA",
+      "description": "Explorar biblioteca de prática, escolher cenário e iniciar sessão"
+    },
+    "review_history": {
+      "title": "Rever o Teu Histórico de Prática",
+      "description": "Abrir histórico, ver sessões anteriores e as tuas anotações"
+    },
+    "manage_patients": {
+      "title": "Gerir os Teus Pacientes",
+      "description": "Ver lista de pacientes, abrir página de detalhe, explorar separadores de progresso"
+    },
+    "generate_report": {
+      "title": "Gerar um Relatório com IA",
+      "description": "Carregar gravação e gerar relatório terapêutico com IA"
+    },
+    "edit_report": {
+      "title": "Editar um Relatório",
+      "description": "Abrir relatório, entrar em modo de edição e modificar secções"
+    },
+    "assign_exercise": {
+      "title": "Atribuir um Exercício",
+      "description": "Explorar biblioteca de exercícios e atribuir um jogo a um paciente"
+    },
+    "review_submission": {
+      "title": "Rever uma Submissão de Paciente",
+      "description": "Abrir submissão, ver gravação e ver anotações"
+    },
+    "learning_paths": {
+      "title": "Gerir Percursos de Aprendizagem",
+      "description": "Ver percursos, ver pacientes atribuídos e o seu progresso"
+    },
+    "user_management": {
+      "title": "Gerir Utilizadores",
+      "description": "Ver lista de utilizadores, convidar novos e gerir funções"
+    },
+    "tenant_settings": {
+      "title": "Definições da Organização",
+      "description": "Ver marca, cores, idioma e membros da equipa"
+    },
+    "analytics": {
+      "title": "Compreender Análises",
+      "description": "Ver métricas, alterar período e explorar gráficos"
+    },
+    "control_room": {
+      "title": "Sala de Revisão de Gravações",
+      "description": "Rever gravações e ver a estação de anotações"
+    },
+    "welcome_patient": {
+      "title": "Bem-vindo à UpSpeech",
+      "description": "Uma visita rápida à plataforma e o que podes fazer como paciente"
+    },
+    "welcome_therapist": {
+      "title": "Bem-vindo à UpSpeech",
+      "description": "Uma visita rápida à plataforma e o que podes fazer como terapeuta"
+    },
+    "welcome_admin": {
+      "title": "Bem-vindo à UpSpeech",
+      "description": "Uma visita rápida à plataforma e o que podes fazer como administrador"
+    }
+  },
+  "faq": {
+    "what_is_upspeech": {
+      "question": "O que é a UpSpeech e para quem é?",
+      "answer": "A UpSpeech é uma plataforma de terapia da fala construída para terapeutas e os seus pacientes, com foco na terapia da gaguez. Os terapeutas usam-na para atribuir exercícios, gerir percursos de aprendizagem, gerar relatórios clínicos com IA e acompanhar o progresso dos pacientes. Os pacientes usam-na para praticar exercícios diários, seguir jornadas terapêuticas estruturadas e gravar sessões de prática."
+    },
+    "what_are_learning_paths": {
+      "question": "O que são percursos de aprendizagem?",
+      "answer": "Os percursos de aprendizagem são programas terapêuticos estruturados com marcos. Cada marco contém múltiplos passos com diferentes tipos de exercícios (prática padrão, cenários, questionários, reflexões e modelagem). Os pacientes seguem o percurso sequencialmente, e os terapeutas controlam quando os passos são completados ou saltados."
+    },
+    "learning_path_progression": {
+      "question": "Como funciona a progressão num percurso de aprendizagem?",
+      "answer": "Os pacientes praticam cada passo quantas vezes quiserem, mas apenas o terapeuta pode marcar um passo como completo ou saltá-lo. Quando um passo é completado, o próximo passo abre automaticamente. Os terapeutas também podem reabrir passos completados ou saltados se necessário. O progresso é acompanhado por marco e no geral."
+    },
+    "learning_path_access": {
+      "question": "Como acedo ao meu percurso de aprendizagem?",
+      "answer": "Podes aceder ao teu percurso de aprendizagem na página A Minha Jornada na barra lateral. Os terapeutas podem ver e gerir percursos de aprendizagem dos pacientes na página Pacientes, selecionando um paciente e navegando para o separador de percurso de aprendizagem."
+    },
+    "exercise_types": {
+      "question": "Que tipos de exercícios estão disponíveis?",
+      "answer": "Existem dois tipos principais. Mini jogos são exercícios de prática diária atribuídos pelo teu terapeuta que completas em casa, com rastreamento de sequências. Cenários de IA permitem praticar conversas da vida real (entrevistas de emprego, telefonemas, etc.) com um parceiro de IA."
+    },
+    "complete_daily_exercise": {
+      "question": "Como completo um exercício diário?",
+      "answer": "Vai a Atribuições na barra lateral, seleciona um exercício pendente e segue as instruções. Cada atribuição permite uma conclusão por dia. Após completar um exercício, conta para a tua sequência. O teu terapeuta define um prazo e número alvo de conclusões para cada atribuição."
+    },
+    "exercise_streaks": {
+      "question": "Como funcionam as sequências de exercícios?",
+      "answer": "As sequências rastreiam dias consecutivos em que completas exercícios. Se faltares um dia, a tua sequência reinicia para zero. Completar exercícios de forma consistente ajuda a construir bons hábitos de prática e mostra ao teu terapeuta o teu compromisso com a terapia."
+    },
+    "custom_exercises": {
+      "question": "Os terapeutas podem criar exercícios personalizados?",
+      "answer": "Sim! Os terapeutas podem criar mini jogos personalizados na Biblioteca de Exercícios. Podes definir uma técnica, nível de dificuldade (1-5), instruções e carregar vídeos de referência."
+    },
+    "exercise_assignment": {
+      "question": "Como atribuo exercícios aos pacientes?",
+      "answer": "Vai a Mini Jogos na secção Exercícios, navega ou pesquisa exercícios e clica em Atribuir. Seleciona o paciente, define um prazo e número alvo de conclusões e, opcionalmente, adiciona instruções ou vídeos de referência. O paciente verá na sua página de Atribuições."
+    },
+    "what_are_scenarios": {
+      "question": "O que são cenários de prática com IA?",
+      "answer": "Os cenários de IA permitem-te praticar conversas da vida real num ambiente seguro. Podes praticar situações como entrevistas de emprego, telefonemas, pedir comida, consultas médicas, falar em público e muito mais. A IA responde naturalmente, ajudando-te a ganhar confiança com as tuas técnicas de fluência."
+    },
+    "how_scenarios_work": {
+      "question": "Como funcionam os cenários de IA?",
+      "answer": "O teu terapeuta atribui um cenário, ou pode fazer parte do teu percurso de aprendizagem. Quando inicias a sessão, a IA abre uma conversa baseada no cenário. Respondes por texto ou áudio e a conversa flui naturalmente. Quando terminares, a IA fornece feedback e análise da tua sessão."
+    },
+    "report_generation": {
+      "question": "Como funciona a geração de relatórios por IA?",
+      "answer": "Carrega uma gravação de áudio da tua sessão de terapia e a plataforma irá automaticamente transcrevê-la usando reconhecimento de fala com IA. A transcrição é então analisada para gerar um relatório estruturado. Podes rever, editar e personalizar o relatório antes de o exportar como PDF."
+    },
+    "report_types": {
+      "question": "Que tipos de relatório estão disponíveis?",
+      "answer": "Existem dois tipos: Relatórios de Avaliação para avaliações iniciais e Relatórios de Sessão para documentar sessões de terapia individuais. Escolhe o tipo que corresponde ao propósito da tua sessão ao carregar a gravação de áudio."
+    },
+    "edit_report": {
+      "question": "Posso editar um relatório depois de ser gerado?",
+      "answer": "Sim! Podes editar qualquer campo do relatório, adicionar notas e anotar secções específicas. As alterações são guardadas automaticamente. Também podes exportar a versão final como PDF."
+    },
+    "report_templates": {
+      "question": "Como funcionam os modelos de relatórios?",
+      "answer": "Os relatórios usam modelos que correspondem à marca da tua organização, incluindo cores e logótipo. Os modelos podem ser personalizados por organização. Os administradores podem configurá-los nas Definições de Organização."
+    },
+    "disfluency_annotations": {
+      "question": "O que são anotações de disfluência?",
+      "answer": "As anotações de disfluência marcam momentos específicos numa gravação onde ocorrem perturbações na fala. Podes anotar repetições, prolongamentos, bloqueios, comportamentos de fuga, comportamentos de evitamento e padrões de início/adiamento. Cada anotação tem marcação temporal ao momento exato na gravação, ajudando a rastrear padrões ao longo do tempo."
+    },
+    "technique_annotations": {
+      "question": "O que são anotações de técnica?",
+      "answer": "As anotações de técnica marcam quando usas estratégias de fluência específicas numa gravação, como gaguez voluntária, manter a gaguez, pull-outs ou cancelamento. Ajudam-te a ti e ao teu terapeuta a ver quais técnicas estás a praticar e a acompanhar a tua utilização ao longo do tempo."
+    },
+    "edit_annotations": {
+      "question": "Posso editar anotações depois de guardar?",
+      "answer": "Sim! Podes editar ou eliminar qualquer anotação que criaste. Abre a gravação, encontra a anotação na lista e usa as opções de editar ou eliminar. As alterações são guardadas imediatamente."
+    },
+    "recording_reviews": {
+      "question": "O que é a funcionalidade de Revisão de Gravações?",
+      "answer": "A Revisão de Gravações (disponível para administradores e utilizadores com acesso especial) é uma ferramenta dedicada para avaliar gravações de pacientes em toda a organização. Os revisores podem anotar disfluências e técnicas, adicionar notas clínicas e trabalhar através de uma fila de revisão."
+    },
+    "accept_invite": {
+      "question": "Como me junto à organização do meu terapeuta?",
+      "answer": "O teu terapeuta enviará um convite por email com um link. Clica no link para criares a tua conta e serás automaticamente vinculado ao teu terapeuta. Os links de convite expiram após 7 dias, por isso certifica-te de te registares prontamente."
+    },
+    "therapist_add_patient": {
+      "question": "Como adiciono pacientes como terapeuta?",
+      "answer": "Vai à página Pacientes e usa as opções de convidar ou criar paciente. Podes enviar um convite por email ou criar diretamente uma conta de paciente. Quando crias um paciente diretamente, fica automaticamente vinculado a ti."
+    },
+    "therapist_visibility": {
+      "question": "O que o meu terapeuta pode ver sobre o meu progresso?",
+      "answer": "O teu terapeuta pode ver os teus exercícios completados, sequências de exercícios, gravações de prática, anotações de disfluência e técnica, progresso no percurso de aprendizagem e estatísticas gerais de atividade. Não podem ver a tua palavra-passe de conta."
+    },
+    "view_progress": {
+      "question": "Onde posso acompanhar o meu progresso?",
+      "answer": "O teu Painel mostra uma visão geral da tua atividade, sequências e exercícios recentes. A página de Atribuições rastreia as tuas conclusões de exercícios e prazos. A Minha Jornada mostra o teu progresso no percurso de aprendizagem ao longo dos marcos. Os terapeutas podem ver o progresso detalhado dos pacientes na página Pacientes."
+    },
+    "view_recordings_reports": {
+      "question": "Onde posso ver as minhas gravações e relatórios?",
+      "answer": "Os pacientes podem ver submissões de exercícios anteriores na página Histórico em Exercícios. Os terapeutas podem aceder à página de Relatórios para ver todos os relatórios terapêuticos e à página de Submissões para rever gravações de exercícios dos pacientes."
+    },
+    "analytics": {
+      "question": "Que análises estão disponíveis?",
+      "answer": "Os administradores e proprietários podem aceder à página de Análises para métricas ao nível da organização, incluindo atividade de utilizadores, tendências de crescimento e estatísticas de utilização. Os terapeutas veem dados de progresso específicos de cada paciente na página de perfil do paciente."
+    },
+    "change_language": {
+      "question": "Como altero o meu idioma?",
+      "answer": "Vai a Definições de Conta na barra lateral e seleciona o teu idioma preferido. A plataforma suporta Inglês, Português e Espanhol. A tua escolha é guardada e aplica-se a todas as páginas."
+    },
+    "dark_mode": {
+      "question": "A UpSpeech suporta modo escuro?",
+      "answer": "Sim! Podes alternar entre modo claro e escuro nas Definições de Conta. A plataforma também respeita a preferência do teu sistema por padrão, por isso se o teu dispositivo estiver configurado para modo escuro, a UpSpeech acompanhará automaticamente."
+    },
+    "user_roles": {
+      "question": "Quais são as diferentes funções de utilizador?",
+      "answer": "Existem cinco funções: Proprietário gere toda a plataforma. Administrador gere utilizadores e definições da organização. Terapeuta gere pacientes, exercícios, relatórios e percursos de aprendizagem. Paciente e Membro são ambas funções de paciente com as mesmas permissões , completam exercícios e seguem programas de terapia."
+    },
+    "audio_formats": {
+      "question": "Que formatos de áudio e vídeo são suportados?",
+      "answer": "A plataforma suporta WAV, MP3, M4A e outros formatos de áudio comuns para gravações de sessões. Também pode gravar áudio diretamente no navegador. Gravações de vídeo (MP4, WebM) são suportadas para vídeos de referência em exercícios e gravações de prática."
+    },
+    "transcription_process": {
+      "question": "Como funciona o processo de transcrição?",
+      "answer": "Após carregar uma gravação de sessão, o reconhecimento de fala com IA transcreve automaticamente o teu áudio. O processo leva alguns minutos dependendo da duração da gravação. Podes acompanhar o estado (pendente, a processar, processado) na página do relatório. Uma vez completo, a transcrição é usada para gerar o teu relatório terapêutico."
+    },
+    "support": {
+      "question": "Como contacto o suporte?",
+      "answer": "Envia-nos um email para support@upspeech.com ou usa o botão Enviar Email para Suporte abaixo. Normalmente respondemos em 24 horas."
+    }
+  },
+  "documentation": {
+    "title": "Documentação",
+    "description": "Lê os nossos guias completos e documentação técnica",
+    "button": "Ver Documentação"
+  },
+  "support": {
+    "title": "Contactar Suporte",
+    "description": "Precisas de ajuda? A nossa equipa de suporte está aqui para ti.",
+    "button": "Enviar Email para Suporte"
+  }
+}

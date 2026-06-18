@@ -1,0 +1,24 @@
+{
+  "banner": {
+    "viewing_as": "Viendo como",
+    "on": "en",
+    "read_only": "Solo lectura",
+    "read_write": "Lectura y escritura",
+    "stop": "Dejar de Suplantar",
+    "stopping": "Deteniendo..."
+  },
+  "modal": {
+    "title": "Suplantar Usuario",
+    "target_user": "Usuario objetivo",
+    "read_only_label": "Modo solo lectura",
+    "read_only_description": "Puede navegar pero no puede hacer cambios",
+    "read_write_description": "Los cambios se guardarán permanentemente",
+    "read_write_warning": "Los cambios realizados en modo lectura y escritura serán permanentes y no se pueden revertir. Use con precaución.",
+    "confirm": "Iniciar Suplantación",
+    "starting": "Iniciando...",
+    "cancel": "Cancelar"
+  },
+  "action": {
+    "impersonate": "Suplantar"
+  }
+}

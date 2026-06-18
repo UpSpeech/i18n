@@ -1,0 +1,180 @@
+{
+  "knowledge": {
+    "what_is_stuttering": {
+      "q1": {
+        "question": "A gaguez é causada por nervosismo, alterações de respiração ou falta de força de vontade.",
+        "explanation": "A gaguez não é causada por nervosismo, alterações de respiração ou força de vontade, mas sim pela interação de fatores genéticos, neurológicos, linguísticos, temperamentais e contextuais."
+      },
+      "q2": {
+        "question": "Quais são as manifestações primárias da gaguez?",
+        "options": [
+          "Pausas, hesitações e palavras de preenchimento",
+          "Repetições, prolongamentos e bloqueios",
+          "Fala rápida e pensamento acelerado",
+          "Dificuldades de articulação e problemas de voz"
+        ],
+        "explanation": "A gaguez manifesta-se através de repetições, prolongamentos e bloqueios de natureza involuntária e com duração variável."
+      },
+      "q3": {
+        "question": "A expressão da gaguez varia ao longo do tempo e entre diferentes situações de comunicação.",
+        "explanation": "Sim, a expressão da gaguez não é constante , varia ao longo do tempo e entre diferentes situações de comunicação, o que é uma característica da perturbação."
+      },
+      "q4": {
+        "question": "Quais fatores contribuem para a gaguez?",
+        "options": [
+          "Apenas fatores psicológicos como stress e nervosismo",
+          "Apenas fatores genéticos hereditários",
+          "Interação de fatores genéticos, neurológicos, linguísticos, temperamentais e contextuais",
+          "Apenas fatores ambientais e educacionais"
+        ],
+        "explanation": "A gaguez resulta da interação de múltiplos fatores: genéticos, neurológicos, linguísticos, temperamentais e contextuais , não de um fator isolado."
+      }
+    },
+    "how_speech_works": {
+      "q1": {
+        "question": "Quais processos estão envolvidos na produção da fala?",
+        "options": [
+          "Planeamento linguístico, planeamento motor, respiração, fonação e articulação",
+          "Apenas a respiração e o movimento dos lábios",
+          "Apenas o pensamento e a vocalização",
+          "Apenas a articulação e a audição"
+        ],
+        "explanation": "A produção da fala envolve vários processos coordenados: planeamento linguístico, planeamento e controlo motor da fala, respiração, fonação e articulação."
+      },
+      "q2": {
+        "question": "Os processos da fala são coordenados por diferentes redes cerebrais que trabalham em conjunto.",
+        "explanation": "Sim, diferentes redes cerebrais trabalham em conjunto para coordenar todos os processos necessários para produzir uma fala fluente."
+      },
+      "q3": {
+        "question": "O que pode influenciar a fluência da fala?",
+        "options": [
+          "Apenas a velocidade da fala",
+          "Apenas o volume da voz",
+          "Pequenas alterações no tempo, na coordenação ou no controlo dos sistemas da fala",
+          "Apenas a postura corporal"
+        ],
+        "explanation": "Pequenas alterações no tempo, na coordenação ou no controlo dos sistemas envolvidos na produção da fala podem influenciar a fluência."
+      },
+      "q4": {
+        "question": "A produção da fala envolve apenas um processo simples e isolado.",
+        "explanation": "Não, a produção da fala envolve vários processos que ocorrem de forma rápida e coordenada, não um processo simples e isolado."
+      }
+    },
+    "therapy_process": {
+      "q1": {
+        "question": "Qual é a natureza do processo terapêutico?",
+        "options": [
+          "É rígido e igual para todas as pessoas",
+          "É estruturado, progressivo e adaptado a cada pessoa",
+          "Começa sempre por técnicas de fala",
+          "Não tem fases definidas"
+        ],
+        "explanation": "O processo terapêutico é estruturado, progressivo e adaptado a cada pessoa, com fases que se ajustam de acordo com os objetivos, necessidades e evolução de cada um."
+      },
+      "q2": {
+        "question": "A intervenção terapêutica começa sempre, necessariamente, com técnicas de fala.",
+        "explanation": "Não necessariamente. A reatividade à própria gaguez (medo, antecipação, tensão) pode interferir com a aplicação de estratégias, por isso as fases iniciais focam-se frequentemente na compreensão da gaguez e redução do medo."
+      },
+      "q3": {
+        "question": "As fases do processo terapêutico não são rígidas nem lineares e podem sobrepor-se.",
+        "explanation": "Sim, as fases não são rígidas nem lineares , podem sobrepor-se e são ajustadas de acordo com os objetivos, necessidades e evolução de cada pessoa."
+      },
+      "q4": {
+        "question": "Quais são os métodos com base em evidência utilizados na terapia da gaguez?",
+        "options": [
+          "Apenas exercícios de relaxamento",
+          "Apenas técnicas de respiração profunda",
+          "Apenas evitamento de situações difíceis",
+          "Modificação da gaguez, estratégias de fluência, trabalho cognitivo-emocional e participação comunicativa"
+        ],
+        "explanation": "Existem diferentes métodos com base em evidência: modificação da gaguez, estratégias para aumento da fluência, trabalho cognitivo-emocional e promoção da participação comunicativa, integrados ao longo de diferentes fases."
+      }
+    },
+    "therapeutic_objectives": {
+      "q1": {
+        "question": "Qual pode ser um objetivo terapêutico?",
+        "options": [
+          "Eliminar completamente a gaguez",
+          "Nunca gaguejar em público",
+          "Reduzir a tensão e os comportamentos secundários durante os momentos de gaguez",
+          "Evitar todas as situações de comunicação"
+        ],
+        "explanation": "Os objetivos terapêuticos podem incluir a redução da tensão e comportamentos secundários, o aumento da fluência, a diminuição do evitamento, o aumento da participação comunicativa e a melhoria da relação com a própria fala."
+      },
+      "q2": {
+        "question": "Os objetivos terapêuticos são definidos de forma colaborativa e revistos ao longo do processo.",
+        "explanation": "Sim, os objetivos são definidos de forma colaborativa entre a pessoa e o terapeuta e são revistos ao longo do processo terapêutico, ajustando-se à evolução."
+      },
+      "q3": {
+        "question": "O que caracteriza os objetivos terapêuticos?",
+        "options": [
+          "Podem variar entre pessoas e ao longo do tempo",
+          "São iguais para todos os pacientes",
+          "São definidos apenas pelo terapeuta",
+          "Nunca mudam durante a terapia"
+        ],
+        "explanation": "Os objetivos terapêuticos podem variar entre pessoas e ao longo do tempo, adaptando-se às necessidades e evolução de cada um no processo terapêutico."
+      },
+      "q4": {
+        "question": "Os objetivos terapêuticos são fixos e iguais para todas as pessoas que gaguejam.",
+        "explanation": "Não, os objetivos terapêuticos podem variar entre pessoas e ao longo do tempo. São individualizados e revistos colaborativamente ao longo do processo."
+      }
+    },
+    "avoidance_vs_struggle": {
+      "q1": {
+        "question": "O que são comportamentos de evitamento?",
+        "options": [
+          "Comportamentos que surgem como tentativa de não gaguejar, como evitar palavras, situações ou pessoas",
+          "Exercícios de prática de fala recomendados pelo terapeuta",
+          "Técnicas de relaxamento muscular",
+          "Estratégias de comunicação eficaz"
+        ],
+        "explanation": "Os comportamentos de evitamento surgem como tentativa de não gaguejar e incluem evitar palavras, situações ou pessoas , são respostas aprendidas à experiência repetida de gaguejar."
+      },
+      "q2": {
+        "question": "O que são comportamentos de fuga (struggle)?",
+        "options": [
+          "Evitar situações de comunicação",
+          "Usar tensão excessiva e força para tentar forçar a palavra a sair durante um momento de gaguez",
+          "Técnicas terapêuticas aprendidas",
+          "Pausas naturais na fala"
+        ],
+        "explanation": "Os comportamentos de fuga (struggle) surgem quando a pessoa está a gaguejar e tenta forçar a palavra a sair, usando tensão excessiva, força ou outros comportamentos como piscar os olhos ou fazer movimentos."
+      },
+      "q3": {
+        "question": "Os comportamentos secundários podem, com o tempo, tornar-se automáticos e pouco funcionais.",
+        "explanation": "Sim, à medida que se repetem, os comportamentos secundários tornam-se automáticos, passam a fazer parte do padrão da gaguez e na maioria das vezes aumentam a luta, a tensão e o esforço cognitivo."
+      },
+      "q4": {
+        "question": "Os comportamentos secundários são sempre úteis e ajudam a pessoa a falar melhor.",
+        "explanation": "Não, embora possam inicialmente parecer úteis ou dar uma sensação momentânea de controlo, com o tempo tornam-se automáticos e pouco funcionais, aumentando a luta e a tensão."
+      }
+    }
+  },
+  "ui": {
+    "title": "Verificação de Conhecimento",
+    "progress": "Pergunta {{current}} de {{total}}",
+    "true": "Verdadeiro",
+    "false": "Falso",
+    "check_answer": "Verificar Resposta",
+    "next_question": "Próxima Pergunta",
+    "see_results": "Ver Resultados",
+    "correct": "Correto!",
+    "incorrect": "Não está bem",
+    "encouragement": "Leva o teu tempo - isto é sobre aprender, não testar.",
+    "results": {
+      "title": "Questionário Completo!",
+      "score": "Acertou {{correct}} de {{total}}",
+      "passing": "Muito bem! Demonstraste compreensão deste tópico.",
+      "needs_review": "Vamos rever um pouco mais antes de avançar. Não te preocupes - aprender leva tempo.",
+      "retry": "Tentar Novamente",
+      "continue": "Continuar",
+      "needs_review_warm": "Alguns tópicos para rever , faz parte da aprendizagem. Revê as explicações abaixo e tenta novamente quando estiveres pronto.",
+      "review_title": "Revisão das Perguntas",
+      "title_passed": "Muito bem!",
+      "title_review": "Quase lá!"
+    },
+    "correct_answer_label": "Resposta correta",
+    "your_answer_label": "A tua resposta"
+  }
+}

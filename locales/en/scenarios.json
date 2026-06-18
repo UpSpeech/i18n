@@ -1,0 +1,460 @@
+{
+  "stop_recording": "Stop recording",
+  "start_recording": "Start recording",
+  "paused": "Paused",
+  "recording": "Recording",
+  "open_chat": "Open chat",
+  "chat": "Chat",
+  "conversation": "Conversation",
+  "message_count": "{{count}} messages",
+  "close_chat": "Close chat",
+  "start_speaking": "Start speaking to begin the conversation",
+  "you": "You",
+  "ai": "AI",
+  "stop": "Stop",
+  "listen": "Listen",
+  "scenario": "Scenario",
+  "objectives": "Objectives",
+  "categoryLabel": "Category",
+  "start": "Start Practicing",
+  "quickStart": {
+    "clickToStart": "Click to start",
+    "templates": {
+      "doctorAppointment": {
+        "title": "Schedule a Doctor's Appointment",
+        "description": "You're calling your doctor's office to schedule a routine checkup. The receptionist will answer and help you find an available time slot. Be ready to provide your availability and ask about any preparation needed for the appointment."
+      },
+      "jobInterview": {
+        "title": "Tell Me About Yourself",
+        "description": "You're in a job interview and the interviewer asks you to introduce yourself. This is your chance to give a compelling 2-minute summary of your background, skills, and why you're interested in this role. The interviewer may ask follow-up questions."
+      },
+      "coffeeShop": {
+        "title": "Order at a Coffee Shop",
+        "description": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customizations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order."
+      },
+      "newColleague": {
+        "title": "Meet a New Colleague",
+        "description": "It's your first day at a new job and you're meeting a colleague in the break room. Introduce yourself, make small talk about the workplace, and try to build a friendly connection. Ask questions to show interest in them."
+      }
+    }
+  },
+  "practice": "Scenario Practice",
+  "quick_start_title": "Quick Start",
+  "quick_start_subtitle": "Popular scenarios to get you started",
+  "browse_category": "Browse by Category",
+  "custom_scenario": "Custom Scenario",
+  "history": "History",
+  "completed_count": "{{count}} completed",
+  "practice_real": "Practice real scenarios",
+  "endedEarly": "Ended early",
+  "no_session_id": "No session ID provided",
+  "load_error": "Failed to load scenario session",
+  "begin_failed": "Couldn't start the scenario. Please try again.",
+  "loading": "Loading scenario...",
+  "finalizing": "Wrapping up your session...",
+  "unable_to_load": "Unable to Load Scenario",
+  "back_to_practice": "Back to Practice",
+  "view_conversation": "View Conversation",
+  "view_analysis": "View Analysis",
+  "session_duration": "Session: {{minutes}}m {{seconds}}s",
+  "objectives_loading": "Practice this scenario naturally. Focus on clear communication and staying calm.",
+  "tab": {
+    "title": "Scenario Practice",
+    "subtitle": "Practice real-world conversations in a safe, supportive environment",
+    "browseCategories": "Browse Categories",
+    "quickStart": "Quick Start Templates",
+    "yourSessions": "Your Sessions",
+    "newScenario": "New Scenario",
+    "showAll": "Show All",
+    "noSessionsTitle": "No scenarios yet",
+    "noSessionsDescription": "Start practicing real-world conversations by creating your first scenario",
+    "startPracticing": "Start Practicing",
+    "scenariosCount": "{{count}} scenarios"
+  },
+  "categories": {
+    "job_interview": "Job Interview",
+    "phone_call": "Phone Call",
+    "social_interaction": "Social Interaction",
+    "ordering_food": "Ordering Food",
+    "medical_appointment": "Medical Appointment",
+    "public_speaking": "Public Speaking",
+    "customer_service": "Customer Service",
+    "other": "Other"
+  },
+  "categoryDescriptions": {
+    "job_interview": "Practice interview questions and professional responses",
+    "phone_call": "Build confidence for phone conversations",
+    "social_interaction": "Navigate social situations with ease",
+    "ordering_food": "Practice ordering at restaurants and cafes",
+    "medical_appointment": "Prepare for healthcare conversations",
+    "public_speaking": "Develop presentation and speaking skills",
+    "customer_service": "Handle service interactions confidently",
+    "other": "Create your own custom scenarios"
+  },
+  "templates": {
+    "jobInterview": {
+      "title": "Tell me about yourself",
+      "description": "Practice the classic interview opener"
+    },
+    "phoneCall": {
+      "title": "Schedule an appointment",
+      "description": "Call to book a service appointment"
+    },
+    "socialInteraction": {
+      "title": "Meeting someone new",
+      "description": "Practice introductions and small talk"
+    },
+    "orderingFood": {
+      "title": "Restaurant order",
+      "description": "Order a meal and make special requests"
+    },
+    "medicalAppointment": {
+      "title": "Describe symptoms",
+      "description": "Explain health concerns to a doctor"
+    },
+    "publicSpeaking": {
+      "title": "Brief presentation",
+      "description": "Deliver a short presentation on a topic"
+    },
+    "customerService": {
+      "title": "Return an item",
+      "description": "Handle a product return or exchange"
+    }
+  },
+  "briefing": {
+    "label": "Scenario",
+    "defaultTitle": "Scenario practice",
+    "objectivesHeading": "What you'll practice",
+    "modeHeading": "How you'd like to speak",
+    "modeHelper": "You can change this any time.",
+    "modeGuided": {
+      "label": "Guided",
+      "description": "Start and stop whenever you want. You control the pace.",
+      "tooltip": "The microphone waits for you. Start speaking when you're ready and stop when you're done , nothing interrupts."
+    },
+    "modeRealistic": {
+      "label": "Realistic",
+      "description": "Open mic, natural flow. Replies can come while you're still speaking.",
+      "tooltip": "The microphone stays open. Replies can arrive while you talk, even mid-sentence, like a real conversation."
+    },
+    "begin": "Begin scenario",
+    "goBack": "Go back",
+    "modeInfoLabel": "{{label}} , more info"
+  },
+  "ready": {
+    "title": "Ready when you are",
+    "description": "Take a moment to review the objectives below. The conversation starts when you press Start.",
+    "start": "Start the conversation",
+    "tipsTitle": "Set the scene",
+    "tips": {
+      "job_interview": "Sit up straight, picture the interviewer across the desk, and treat the first question like the real thing.",
+      "phone_call": "Imagine holding a phone to your ear and speak as if the other person can only hear your voice, not see you.",
+      "social_interaction": "Picture yourself walking up to someone new. Keep it light and let the small talk flow.",
+      "ordering_food": "Picture the counter in front of you and the line behind. Decide your order before you start.",
+      "medical_appointment": "Imagine you are in the room with the doctor. Be ready to describe how you feel in your own words.",
+      "public_speaking": "Stand if you can, picture the room looking back at you, and take one breath before your first line.",
+      "customer_service": "Picture the person who can help you. Say what you need clearly and stay calm if it takes a moment.",
+      "other": "Take a moment to picture where this conversation happens and who you are speaking to before you start."
+    }
+  },
+  "realtime": {
+    "bot": "Other person",
+    "you": "You",
+    "end": "End call",
+    "viewRecording": "View recording",
+    "objectivesTitle": "Objectives",
+    "goalsPill": "Goals {{done}}/{{total}}",
+    "transcriptTitle": "Transcript",
+    "transcriptOpen": "Show transcript",
+    "transcriptClose": "Hide transcript",
+    "transcriptEmpty": "The conversation will appear here.",
+    "emptyLive": "The conversation will appear here as you speak.",
+    "emptyPreparing": "Getting things ready…",
+    "presence": {
+      "preparing": "Preparing",
+      "listening": "Listening",
+      "speaking": "Speaking",
+      "thinking": "Thinking",
+      "ended": "Call ended",
+      "error": "Connection issue"
+    },
+    "fallback": {
+      "title": "Switched to guided mode",
+      "description": "We hit a snag with the live call , you can keep going in guided mode."
+    },
+    "status": {
+      "preparing": "Preparing…",
+      "connecting": "Connecting…",
+      "live": "Live , start speaking",
+      "listening": "Listening…",
+      "ended": "Call ended",
+      "completed": "Conversation complete",
+      "error": "Something went wrong"
+    },
+    "errors": {
+      "missing_session": "We couldn't find this scenario session",
+      "ticket_failed": "Couldn't get permission to start the live call",
+      "ws_open_failed": "Couldn't open the realtime connection",
+      "ws_failed": "The live connection failed",
+      "mic_denied": "Microphone permission was denied",
+      "audio_unsupported": "Your browser doesn't support realtime audio"
+    }
+  },
+  "session": {
+    "title": "Scenario Practice",
+    "turn": "Turn {{count}}",
+    "turns": "turns",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "pending": "Ready to Start",
+    "abandoned": "Abandoned",
+    "scenario": "Scenario",
+    "objectives": "Objectives",
+    "startConversation": "Start the conversation by typing or recording your first message.",
+    "speakNaturally": "Speak naturally - take your time and express yourself clearly.",
+    "text": "Text",
+    "voice": "Voice",
+    "textPlaceholder": "Type your message... (Press Enter to send, Shift+Enter for new line)",
+    "send": "Send",
+    "recording": "Recording: {{duration}}",
+    "recordingReady": "Recording ready - Click \"Send\" to continue",
+    "clickToRecord": "Click the microphone to start recording",
+    "voiceNote": "Note: Voice transcription coming soon. Use text input for now.",
+    "stop": "Stop",
+    "record": "Record",
+    "sending": "Sending...",
+    "abandoning": "Abandoning...",
+    "abandon": "Abandon",
+    "viewResults": "View Results",
+    "continuePractice": "Continue",
+    "startNew": "Start New",
+    "pleaseEnterMessage": "Please enter a message",
+    "voiceComingSoon": "Voice transcription is coming soon. Please use text input for now.",
+    "pleaseRecordMessage": "Please record a message first",
+    "failedToSend": "Failed to send message. Please try again.",
+    "failedToAbandon": "Failed to abandon session",
+    "stopTts": "Stop",
+    "listen": "Listen",
+    "processing": "Processing...",
+    "transcribingAudio": "Transcribing your speech",
+    "emptyTranscription": "Could not detect speech in the recording. Please try again.",
+    "transcriptionError": "Failed to process your recording. Please try again.",
+    "tap_to_speak": "Tap to Speak",
+    "speak_naturally": "Take your time, speak naturally",
+    "tap_to_play_greeting_title": "Can't hear the AI? Tap to play the greeting.",
+    "tap_to_play_greeting_button": "Play greeting",
+    "status": {
+      "pending": "Ready",
+      "in_progress": "In Progress",
+      "completed": "Completed",
+      "ended_early": "Ended Early",
+      "abandoned": "Abandoned"
+    },
+    "endSessionTitle": "End Session",
+    "howAreYouFeeling": "How are you feeling?",
+    "saveAndExit": "Save & Exit",
+    "keepPracticing": "Keep Practicing",
+    "deleteSession": "Delete Session",
+    "endReasons": {
+      "done_for_now": "I'm done for now",
+      "feeling_overwhelmed": "Feeling overwhelmed",
+      "technical_issue": "Technical issue",
+      "try_again_later": "Want to try again later"
+    },
+    "sessionSaved": "Session Saved",
+    "sessionSavedSubtitle": "You made progress! Review what you accomplished.",
+    "endEarlyError": "Failed to save session. Please try again.",
+    "endReasonLabel": "Session ended: {{reason}}",
+    "leaveSession": "Leave Session?",
+    "leaveSessionWarning": "If you leave now, this practice session will be deleted and cannot be resumed. Your progress will be lost.",
+    "leaveAndDelete": "Leave & Delete",
+    "abandonError": "Failed to end session. Please try again.",
+    "end_session": "End Session",
+    "objectives_met": "goals",
+    "recordingTooShort": "Recording too short. Please record for at least 1 second.",
+    "session_complete": "Session Complete",
+    "session_complete_subtitle": "Great job! Review your performance below.",
+    "turns_count": "{{count}} turns",
+    "ambientMute": "Mute background sound",
+    "ambientUnmute": "Unmute background sound",
+    "ambientVolume": "Background sound volume"
+  },
+  "review": {
+    "sessionReview": "Session Review",
+    "outOf100": "/ 100",
+    "turnsDuration": "{{turnCount}} turns • {{duration}}",
+    "turnsDurationPatient": "{{patientName}} • {{turnCount}} turns • {{duration}}",
+    "duration": "{{mins}}m {{secs}}s",
+    "analysis": "Analysis",
+    "conversation": "Conversation",
+    "notes": "Notes",
+    "overallPerformance": "Overall Performance",
+    "excellent": "Excellent",
+    "goodProgress": "Good Progress",
+    "keepPracticing": "Keep Practicing",
+    "clarity": "Clarity",
+    "confidence": "Confidence",
+    "goalAchievement": "Goal Achievement",
+    "disfluencyPatterns": "Disfluency Patterns",
+    "instances": "{{count}} instances",
+    "whatYouDidWell": "What You Did Well",
+    "areasToFocus": "Areas to Focus On",
+    "recommendations": "Recommendations",
+    "analysisNotAvailable": "Analysis not available for this session.",
+    "noMessages": "No messages in this conversation.",
+    "personalReflections": "Personal Reflections",
+    "notesHelperText": "Record your thoughts about this session - what went well, what you'd do differently, or any insights.",
+    "notesPlaceholder": "What did you learn from this scenario? What would you do differently next time?",
+    "clinicalNotes": "Clinical Notes",
+    "notesHelperTextTherapist": "Add observations, feedback, or follow-up notes for this patient's session.",
+    "notesPlaceholderTherapist": "Note any patterns, progress, or areas to address in the next session...",
+    "saveNotes": "Save Notes",
+    "you": "You",
+    "ai": "AI",
+    "stop": "Stop",
+    "listen": "Listen",
+    "completed": "Completed",
+    "endedEarly": "Ended Early",
+    "next": "Next",
+    "pause": "Pause",
+    "playing": "Playing...",
+    "previous": "Previous",
+    "resume": "Resume",
+    "aiSummary": "AI Summary",
+    "audioAvailable": "Audio available",
+    "browserTtsOnly": "Browser TTS only",
+    "computerVoice": "Computer voice",
+    "computerVoiceHint": "Real audio still uploading , refresh in a moment to hear it",
+    "playAll": "Play All",
+    "playRecording": "Play",
+    "replay": "Replay",
+    "turnsCompleted": "{{count}} turns"
+  },
+  "create": {
+    "title": "Create New Scenario",
+    "description": "Describe a real-world situation you'd like to practice. Be specific about the context, who you're talking to, and what you're trying to accomplish.",
+    "languageLabel": "Practice Language",
+    "languageHelperText": "Language for speech and responses",
+    "selectCategory": "Select a category (optional)",
+    "categoryLabel": "Scenario Category",
+    "categoryHelperText": "Choose a category to guide the conversation",
+    "descriptionLabel": "Scenario Description",
+    "descriptionHelperText": "Example: 'I'm calling to schedule a doctor's appointment. I need to describe my symptoms and ask about available times.'",
+    "descriptionPlaceholder": "Describe the scenario you want to practice...",
+    "descriptionRequired": "Please describe the scenario you want to practice",
+    "failedToCreate": "Failed to create scenario. Please try again.",
+    "tipsTitle": "Tips for a good scenario:",
+    "tip1": "Be specific about the situation and context",
+    "tip2": "Include who you're talking to (receptionist, interviewer, etc.)",
+    "tip3": "State your goal (scheduling, asking for information, etc.)",
+    "tip4": "Mention any challenges you want to practice handling",
+    "creating": "Creating...",
+    "startScenario": "Start Scenario"
+  },
+  "categoryModal": {
+    "pickExample": "Pick an example or write your own",
+    "customDescription": "Or write your own",
+    "customHelperText": "Describe the specific situation you want to practice",
+    "customPlaceholder": "Describe your scenario...",
+    "examples": {
+      "job_interview": [
+        "Practice answering 'Tell me about yourself' in a professional interview setting",
+        "Prepare for behavioral questions like 'Describe a challenge you overcame'",
+        "Practice negotiating salary and benefits with a hiring manager"
+      ],
+      "phone_call": [
+        "Call to schedule a doctor's appointment and describe your symptoms",
+        "Call customer service to resolve a billing issue",
+        "Make a reservation at a restaurant for a special occasion"
+      ],
+      "social_interaction": [
+        "Introduce yourself at a networking event and make small talk",
+        "Start a conversation with a neighbor you've just met",
+        "Join a group conversation at a party"
+      ],
+      "ordering_food": [
+        "Order a coffee with specific customizations at a busy café",
+        "Order dinner at a restaurant and ask about menu items",
+        "Order food for pickup over the phone"
+      ],
+      "medical_appointment": [
+        "Describe your symptoms clearly to a doctor during a checkup",
+        "Ask questions about a diagnosis and treatment options",
+        "Discuss medication side effects with a pharmacist"
+      ],
+      "public_speaking": [
+        "Give a brief introduction of yourself to a group",
+        "Present a project update to your team",
+        "Deliver a short toast at a celebration"
+      ],
+      "customer_service": [
+        "Return an item and explain why it didn't meet your expectations",
+        "Ask for help finding a product in a store",
+        "Complain politely about poor service and request a resolution"
+      ],
+      "other": [
+        "Practice a conversation that's been on your mind",
+        "Rehearse for an upcoming important discussion",
+        "Work through a challenging communication scenario"
+      ]
+    }
+  },
+  "submissions": {
+    "page_title": "Scenario Submissions",
+    "page_subtitle": "Review patient scenario practice sessions",
+    "filter_title": "Filter Scenarios",
+    "empty_title": "No Scenario Sessions Yet",
+    "empty_description": "Patients haven't completed any scenario practice sessions yet. Assign scenarios to get started.",
+    "empty_filtered_title": "No Matching Sessions",
+    "empty_filtered_description": "No scenario sessions match the current filters. Try adjusting your criteria.",
+    "error_title": "Failed to Load Sessions",
+    "error_description": "Something went wrong loading scenario sessions. Please try again.",
+    "needs_review": "Needs Review",
+    "review": "Review"
+  },
+  "assigned": "Assigned",
+  "assigned_title": "Assigned by Your Therapist",
+  "create_first": "Create Your First Scenario",
+  "due_date": "Due: {{date}}",
+  "empty_description_create": "Practice real-world conversations to build your confidence. Choose a category above or create a custom scenario.",
+  "empty_description_wait": "Your therapist hasn't assigned any scenarios yet. Check back soon!",
+  "empty_title": "Ready to Practice?",
+  "error_title": "Error Loading Scenarios",
+  "load_details_error": "Failed to load session details. Please try again.",
+  "overdue": "Overdue",
+  "reviewed": "Reviewed",
+  "scenarios_to_complete": "{{count}} scenario(s) to complete",
+  "start_scenario": "Start Scenario",
+  "turns_count": "{{count}} turns",
+  "view_all_history": "View All History ({{count}})",
+  "video_call": {
+    "settings": "Settings",
+    "recording_mode": "Recording Mode",
+    "recording_type": "Recording Type",
+    "video_and_audio": "Video & Audio",
+    "audio_only": "Audio Only",
+    "ai_thinking": "AI is thinking...",
+    "ai_speaking": "AI is speaking",
+    "ai_listening": "Listening to you...",
+    "end_call": "End Session",
+    "start_recording": "Start recording",
+    "stop_recording": "Stop recording",
+    "replay": "Replay",
+    "play_all": "Play All",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "previous": "Previous",
+    "next": "Next",
+    "you": "You",
+    "avatar_settings": "Show AI Avatar",
+    "ai_assistant": "AI Assistant",
+    "avatar_loading": "Loading avatar...",
+    "avatar_error": "Avatar unavailable",
+    "microphone": "Microphone",
+    "camera": "Camera",
+    "grant_device_access": "Allow access to see device names",
+    "swap_video": "Swap video layout"
+  },
+  "entity_session": "Scenario"
+}

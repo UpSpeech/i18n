@@ -1,0 +1,70 @@
+{
+  "title": "Speech Sample Collection",
+  "greeting": "Hi, {{name}}",
+  "progress": "Exercise {{current}} of {{total}}",
+  "step_consent": "Consent",
+  "step_media": "Camera & Mic",
+  "step_reading": "Reading",
+  "step_monologue": "Speaking",
+  "step_done": "Done",
+  "reading": {
+    "title": "Reading Aloud",
+    "instruction": "Read the text below out loud at your natural pace. We'll record a video while you read.",
+    "text": "The North Wind and the Sun were disputing which of them was the stronger, when a traveler came along wrapped in a warm cloak. They agreed that the one who first succeeded in making the traveler take off his cloak should be considered stronger than the other. The North Wind blew as hard as he could, but the more he blew, the more closely the traveler wrapped his cloak around him, until the North Wind gave up. Then the Sun shone out warmly, and immediately the traveler took off his cloak. And so the North Wind was obliged to confess that the Sun was the stronger of the two."
+  },
+  "monologue": {
+    "title": "Free Speaking",
+    "instruction": "Tell us what you're interested in and we'll suggest topics for you to talk about freely. There are no right or wrong answers.",
+    "interest_label": "What would you like to talk about?",
+    "interest_placeholder": "e.g., cooking, travel, sports...",
+    "suggest": "Suggest Topics",
+    "or_pick": "or pick one:",
+    "quick_cooking": "Cooking",
+    "quick_travel": "Travel",
+    "quick_sports": "Sports",
+    "quick_music": "Music",
+    "quick_movies": "Movies & TV",
+    "quick_nature": "Nature",
+    "quick_pets": "Pets",
+    "pick_topic": "Here are some ideas , pick one or just speak freely:",
+    "loading_topics": "Finding topic suggestions...",
+    "topics_error": "Couldn't load topics. Try again."
+  },
+  "recording": {
+    "duration_hint": "Your recording should be between 2 and 3 minutes long.",
+    "idle_hint": "Your camera preview will appear here",
+    "start": "Start Recording",
+    "stop": "Stop Recording",
+    "delete": "Try Again",
+    "continue": "Continue",
+    "submit": "Send Recording",
+    "uploading": "Sending...",
+    "upload_error": "The recording didn't send. Check your connection and try again.",
+    "review": "You can replay your recording above.",
+    "too_short": "This recording is shorter than 2 minutes. We recommend 2–3 minutes for the best results.",
+    "confirm_short": "Your recording is shorter than the recommended 2 minutes. Are you sure you want to submit it?",
+    "confirm_short_title": "Recording is short",
+    "confirm_short_body": "Your recording is shorter than the recommended 2 minutes. Would you like to submit it anyway, or keep recording?",
+    "confirm_short_submit": "Submit anyway",
+    "confirm_short_cancel": "Keep recording",
+    "min_reached": "You've passed the 2-minute mark , you can stop whenever you're ready.",
+    "min_remaining": "Keep going , {{time}} until the 2-minute mark"
+  },
+  "thank_you": {
+    "title": "Thank you, {{name}}!",
+    "message": "We've received both of your recordings. Your therapist will review them and get back to you soon.",
+    "stay_message": "You can close this page now , we'll let you know when your full platform access is ready.",
+    "logout": "Log out",
+    "go_to_app": "Go to the app"
+  },
+  "control_group": {
+    "title": "You're enrolled, {{name}}",
+    "message": "We've received your recordings , thank you for participating in this study! Your therapist will be in touch about your practice plan.",
+    "practice_hint": "There's nothing else you need to do here for now. We'll reach out when the study period is complete.",
+    "contact_hint": "Questions? Reach out to your therapist directly."
+  },
+  "errors": {
+    "load_failed": "Something went wrong loading the assessment. Please refresh the page.",
+    "submit_failed": "Couldn't save your progress. Please try again."
+  }
+}

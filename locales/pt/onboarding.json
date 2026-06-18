@@ -1,0 +1,275 @@
+{
+  "onboarding": {
+    "welcome": {
+      "patient": {
+        "title": "Bem-vindo à UpSpeech!",
+        "description": "Acede aos teus exercícios atribuídos, acompanha o teu progresso e comunica com o teu terapeuta."
+      },
+      "therapist": {
+        "title": "Bem-vindo à UpSpeech!",
+        "description": "Gere os teus pacientes, gera relatórios com IA e atribui exercícios num só local."
+      },
+      "admin": {
+        "title": "Bem-vindo à UpSpeech!",
+        "description": "Gere a tua organização, personaliza a marca e acompanha a utilização da plataforma."
+      },
+      "default": {
+        "title": "Bem-vindo à UpSpeech!",
+        "description": "A tua plataforma de terapia da fala está pronta a usar."
+      },
+      "video_placeholder": {
+        "title": "Vídeo de Demonstração em Breve",
+        "description": "Um vídeo rápido da plataforma estará disponível aqui"
+      },
+      "video": {
+        "admin": {
+          "description": "Aprende a gerir a tua organização e a personalizar a tua plataforma",
+          "title": "Primeiros Passos como Administrador"
+        },
+        "default": {
+          "description": "Aprende a utilizar a plataforma",
+          "title": "Primeiros Passos com a UpSpeech"
+        },
+        "patient": {
+          "description": "Aprende a utilizar a UpSpeech para acompanhares o teu progresso e completares exercícios",
+          "title": "Primeiros Passos como Paciente"
+        },
+        "therapist": {
+          "description": "Aprende a gerir pacientes, gerar relatórios e atribuir exercícios",
+          "title": "Primeiros Passos como Terapeuta"
+        }
+      },
+      "dont_show_again": "Não mostrar novamente",
+      "skip": "Ignorar por agora",
+      "get_started": "Começar",
+      "view_all_videos": "Ver todos os vídeos no Centro de Ajuda"
+    },
+    "checklist": {
+      "title": "Os Teus Primeiros Passos",
+      "progress": "{{completed}} de {{total}} completos",
+      "progress_label": "Progresso de integração",
+      "items_label": "Tarefas de início",
+      "dismiss": "Fechar lista",
+      "dismiss_button": "Já estou pronto",
+      "show_steps": "Ver passos",
+      "skip": "Saltar",
+      "skipped": "Saltado",
+      "skip_item": "Saltar {{item}}",
+      "footer_hint": "Completa estes passos ao teu ritmo",
+      "patient": {
+        "watch_video": "Conhece a UpSpeech",
+        "watch_video_description": "Um tour rápido para te sentires em casa",
+        "view_learning_path": "Vê o que está por vir",
+        "view_learning_path_description": "Explora a tua jornada terapêutica e objetivos",
+        "complete_exercise": "Experimenta o teu primeiro exercício",
+        "complete_exercise_description": "Vê o que o teu terapeuta preparou para ti",
+        "record_session": "Pratica e grava",
+        "record_session_description": "Captura uma sessão de prática para acompanhares o teu progresso"
+      },
+      "admin": {
+        "dashboard_tour": "Explora o teu painel",
+        "dashboard_tour_description": "Vê o que está disponível num relance",
+        "manage_users": "Gerir utilizadores",
+        "manage_users_description": "Vê quem está na tua plataforma",
+        "configure_settings": "Configurar definições",
+        "configure_settings_description": "Configura a tua organização",
+        "view_analytics": "Ver análises",
+        "view_analytics_description": "Consulta o envolvimento na plataforma"
+      },
+      "therapist": {
+        "invite_patient": "Dá as boas-vindas ao primeiro paciente",
+        "invite_patient_description": "Envia um convite para começarem a trabalhar juntos",
+        "create_report": "Cria o teu primeiro relatório",
+        "create_report_description": "Gera um relatório clínico assistido por IA",
+        "assign_exercise": "Atribui um exercício",
+        "assign_exercise_description": "Ajuda o teu paciente a praticar em casa",
+        "explore_library": "Descobre exercícios",
+        "explore_library_description": "Navega pelos exercícios e jogos disponíveis"
+      }
+    },
+    "pilot": {
+      "next": "Seguinte",
+      "step_consent": "Consentimento",
+      "step_devices": "Dispositivos",
+      "step_welcome": "Boas-vindas",
+      "step_progress": "Progresso da configuração",
+      "consent": {
+        "heading": "Antes de Começar",
+        "title": "Consentimento e Privacidade",
+        "intro": "A tua privacidade e segurança são a nossa prioridade. Por favor, reserva um momento para reveres as informações abaixo , explicam como protegemos os teus dados durante o piloto.",
+        "description": "Antes de começares, por favor revê e aceita o seguinte:",
+        "terms_title": "Termos e Condições",
+        "terms_text": "Ao participares neste programa piloto, concordas em utilizar a UpSpeech de acordo com o seu propósito como ferramenta de apoio à terapia da fala. Os teus dados de utilização podem ser recolhidos de forma anonimizada para melhorar a plataforma. Podes retirar-te do piloto a qualquer momento contactando o teu administrador.",
+        "privacy_title": "Política de Privacidade",
+        "privacy_text": "A UpSpeech recolhe gravações de áudio, dados de exercícios e análises de utilização para fornecer serviços de terapia da fala. Os teus dados são armazenados de forma segura, encriptados em repouso e em trânsito. Os dados pessoais nunca são partilhados com terceiros sem o teu consentimento explícito. As gravações de áudio são processadas apenas para análise de fala e elaboração de relatórios clínicos.",
+        "accept_terms": "Aceito os Termos e Condições",
+        "accept_privacy": "Aceito a Política de Privacidade",
+        "required_hint": "Por favor, completa este passo para continuares"
+      },
+      "media": {
+        "heading": "Câmara e Microfone",
+        "title": "Configura os Teus Dispositivos",
+        "description": "A UpSpeech precisa de acesso ao teu microfone e câmara para exercícios de fala e sessões de prática. Vamos verificar que funcionam.",
+        "microphone": "Microfone",
+        "camera": "Câmara",
+        "test_mic": "Testar Microfone",
+        "test_camera": "Testar Câmara",
+        "testing": "A testar...",
+        "granted": "Pronto",
+        "speak_now": "Fala para veres o nível de áudio",
+        "audio_level": "Nível de áudio",
+        "camera_preview": "Pré-visualização da câmara"
+      }
+    },
+    "tour": {
+      "back": "Voltar",
+      "close": "Fechar",
+      "finish": "Concluir",
+      "next": "Seguinte",
+      "skip": "Saltar tour",
+      "patient": {
+        "dashboard": {
+          "exercise_title": "Exercício de Hoje",
+          "exercise_content": "Este é o teu exercício diário. Começa aqui todos os dias para continuares a melhorar.",
+          "stats_title": "O Teu Progresso",
+          "stats_content": "Acompanha a tua taxa de conclusão, sequências e mais. Vê estes números a crescer.",
+          "weekly_title": "Comparação Semanal",
+          "weekly_content": "Vê como estás em comparação com a semana passada. A consistência é fundamental!",
+          "upcoming_title": "Próximos Exercícios",
+          "upcoming_content": "Os teus próximos exercícios do terapeuta estão listados aqui.",
+          "nav_journey_title": "A Minha Jornada",
+          "nav_journey_content": "Segue a tua jornada terapêutica passo a passo.",
+          "nav_exercises_title": "Exercícios",
+          "nav_exercises_content": "Encontra as tuas tarefas, sessões de prática e histórico aqui."
+        },
+        "journey": {
+          "progress_title": "O Teu Percurso Terapêutico",
+          "progress_content": "Esta é a tua jornada personalizada. Cada passo complementa o anterior.",
+          "current_step_title": "Passo Atual",
+          "current_step_content": "É aqui que estás agora. Toca para começar.",
+          "indicators_title": "Indicadores de Progresso",
+          "indicators_content": "Verde significa completo. Continua para abrires os próximos passos!"
+        },
+        "exercise": {
+          "list_title": "As Tuas Tarefas",
+          "list_content": "O teu terapeuta atribui exercícios aqui para completares.",
+          "card_title": "Detalhes do Exercício",
+          "card_content": "Clica em qualquer exercício para veres os detalhes e começar a praticar.",
+          "filters_title": "Filtrar Exercícios",
+          "filters_content": "Filtra por estado para encontrares o que precisa da tua atenção."
+        },
+        "practice": {
+          "library_title": "Biblioteca de Exercícios",
+          "library_content": "Escolhe destes exercícios para praticares quando quiseres.",
+          "button_title": "Começar a Praticar",
+          "button_content": "Carrega no botão de prática para iniciares uma sessão de gravação.",
+          "scenarios_title": "Cenários de Conversa",
+          "scenarios_content": "Experimenta cenários de conversa para situações de prática realistas."
+        }
+      },
+      "therapist": {
+        "dashboard": {
+          "stats_title": "Visão Geral da Prática",
+          "stats_content": "A tua prática num relance: pacientes, relatórios e atividade de exercícios.",
+          "activity_title": "Atividade Recente",
+          "activity_content": "Gravações recentes e atividade dos teus pacientes aparecem aqui.",
+          "bubble_chart_title": "Envolvimento dos Pacientes",
+          "bubble_chart_content": "Identifica padrões de envolvimento dos teus pacientes rapidamente.",
+          "stale_patients_title": "Pacientes Inativos",
+          "stale_patients_content": "Pacientes sem atividade há 5+ dias são sinalizados aqui.",
+          "nav_patients_title": "Os Meus Pacientes",
+          "nav_patients_content": "Gere os teus pacientes, envia convites e vê o progresso deles.",
+          "nav_reports_title": "Relatórios",
+          "nav_reports_content": "Gera relatórios clínicos assistidos por IA a partir de gravações.",
+          "nav_exercises_title": "Exercícios",
+          "nav_exercises_content": "Navega pelas bibliotecas de exercícios e atribui aos teus pacientes."
+        },
+        "invite": {
+          "button_title": "Convidar Paciente",
+          "button_content": "Clica aqui para convidares o teu primeiro paciente por email.",
+          "list_title": "Lista de Pacientes",
+          "list_content": "Os teus pacientes aparecerão aqui quando aceitarem o convite."
+        },
+        "report": {
+          "patient_title": "Selecionar Paciente",
+          "patient_content": "Escolhe para qual paciente é este relatório.",
+          "recording_title": "Gravação da Sessão",
+          "recording_content": "Carrega ou seleciona uma gravação de uma sessão terapêutica.",
+          "generate_title": "Gerar Relatório",
+          "generate_content": "A IA vai redigir o relatório clínico para reveres e editares."
+        },
+        "assign": {
+          "row_title": "Selecionar Paciente",
+          "row_content": "Clica num paciente para veres o perfil e opções de atribuição.",
+          "action_title": "Atribuir Exercícios",
+          "action_content": "Usa este botão para atribuíres exercícios ao teu paciente."
+        },
+        "library": {
+          "grid_title": "Biblioteca de Exercícios",
+          "grid_content": "Navega por todos os exercícios disponíveis organizados por categoria.",
+          "card_title": "Detalhes do Exercício",
+          "card_content": "Clica para pré-visualizar um exercício ou atribuí-lo a um paciente.",
+          "filters_title": "Filtrar e Pesquisar",
+          "filters_content": "Filtra por tipo ou pesquisa para encontrares o exercício certo rapidamente."
+        }
+      },
+      "admin": {
+        "dashboard": {
+          "stats_title": "Métricas Chave",
+          "stats_content": "Clientes ativos, total de utilizadores, gravações falhadas e convites pendentes num relance.",
+          "actions_title": "Ações Rápidas",
+          "actions_content": "Salta para Utilizadores, Análises, Definições ou Relatórios a partir daqui.",
+          "users_title": "Registos Recentes",
+          "users_content": "Novos utilizadores que se registaram recentemente na tua organização.",
+          "activity_title": "Atividade da Plataforma",
+          "activity_content": "Atividade recente da plataforma, incluindo gravações falhadas que precisam de atenção.",
+          "workload_title": "Carga de Trabalho dos Terapeutas",
+          "workload_content": "Vê como os pacientes estão distribuídos entre os teus terapeutas."
+        },
+        "users": {
+          "list_title": "Diretório de Utilizadores",
+          "list_content": "Todos os utilizadores da tua organização estão listados aqui.",
+          "roles_title": "Funções e Estado",
+          "roles_content": "Vê a função e o estado de cada utilizador rapidamente.",
+          "actions_title": "Ações de Utilizador",
+          "actions_content": "Edita funções, desativa utilizadores ou envia novos convites."
+        },
+        "settings": {
+          "org_title": "Informação da Organização",
+          "org_content": "O nome e informação básica da tua organização.",
+          "sections_title": "Definições",
+          "sections_content": "Configura funcionalidades e preferências para a tua organização."
+        },
+        "analytics": {
+          "dashboard_title": "Painel de Análises",
+          "dashboard_content": "Dados de utilização e envolvimento da plataforma para compreenderes como a tua equipa usa a UpSpeech."
+        }
+      }
+    },
+    "tooltip": {
+      "got_it": "Entendi",
+      "learn_more": "Saber mais",
+      "dont_show_again": "Ocultar dicas",
+      "recording_controls": {
+        "title": "Controlos de Gravação",
+        "description": "Usa estes controlos para gravares a tua sessão de prática. Podes pausar, retomar e adicionar anotações enquanto praticas."
+      },
+      "report_generation": {
+        "title": "Geração de Relatórios com IA",
+        "description": "Seleciona uma gravação e paciente, depois deixa a IA ajudar a gerar um relatório clínico. Podes rever e editar antes de guardares."
+      },
+      "exercise_assignment": {
+        "title": "Atribuição de Exercícios",
+        "description": "Atribui exercícios aos teus pacientes com prazos e conselhos personalizados. Acompanha o progresso deles no teu painel."
+      },
+      "learning_path": {
+        "title": "O Teu Percurso de Aprendizagem",
+        "description": "Segue a tua jornada terapêutica personalizada. Completa exercícios, acompanha marcos e vê o teu progresso ao longo do tempo."
+      },
+      "annotation_tools": {
+        "title": "Ferramentas de Anotação",
+        "description": "Marca disfluências e técnicas nas tuas gravações. Usa a linha do tempo para adicionares anotações precisas em momentos específicos."
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "gate": {
+    "greeting_morning": "Bom dia, {{name}}",
+    "greeting_afternoon": "Boa tarde, {{name}}",
+    "greeting_evening": "Boa noite, {{name}}",
+    "question": "Qual foi a gravidade da tua gaguez hoje?",
+    "helper": "Demora apenas um momento e ajuda a acompanhar o teu progresso.",
+    "label_start": "Sem gaguez",
+    "label_end": "Extremamente grave",
+    "submit": "Continuar",
+    "success": "Obrigado! Tem uma ótima sessão.",
+    "submit_error": "Algo correu mal. Por favor tenta novamente."
+  },
+  "chart": {
+    "title": "Tendência Diária de Gravidade",
+    "subtitle": "Gravidade da gaguez auto-reportada ao longo do tempo",
+    "score_label": "Pontuação de Gravidade",
+    "latest_score": "Última Pontuação",
+    "average_score": "Média",
+    "min_score": "Mais Baixa",
+    "max_score": "Mais Alta",
+    "days_count": "{{count}}d",
+    "no_data": "Ainda não há dados de gravidade diária.",
+    "no_data_description": "As pontuações de gravidade aparecerão aqui quando o paciente começar a completar os check-ins diários.",
+    "note_modal_title": "Nota do Dia",
+    "note_modal_description": "{{date}} , Gravidade: {{score}}/10",
+    "note_placeholder": "Escreve uma nota sobre esta entrada...",
+    "note_save": "Guardar Nota",
+    "note_saving": "A guardar...",
+    "note_delete": "Eliminar Nota",
+    "note_delete_confirm": "Tens a certeza que queres eliminar esta nota?",
+    "note_saved": "Nota guardada",
+    "note_deleted": "Nota eliminada",
+    "note_save_error": "Falha ao guardar nota. Por favor tenta novamente.",
+    "note_hint": "Clica num dia para adicionar uma nota"
+  }
+}

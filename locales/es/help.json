@@ -1,0 +1,244 @@
+{
+  "video_coming_soon": "Próximamente",
+  "play_video": "Reproducir Vídeo",
+  "video_unavailable": "Vídeo no disponible",
+  "title": "Centro de Ayuda",
+  "subtitle": "Aprende a usar UpSpeech con tutoriales en vídeo y preguntas frecuentes",
+  "quick_navigation": "Navegación Rápida",
+  "search_placeholder": "Buscar ayuda...",
+  "video_library": "Biblioteca de Vídeos",
+  "faq_title": "Preguntas Frecuentes",
+  "no_results": "No se encontraron resultados. Intenta con otro término de búsqueda.",
+  "show_more_videos": "Mostrar Más Vídeos",
+  "show_less": "Mostrar Menos",
+  "more": "más",
+  "categories": {
+    "all": "Todos los Vídeos",
+    "patient": "Para Pacientes",
+    "therapist": "Para Terapeutas",
+    "admin": "Para Administradores"
+  },
+  "faq_categories": {
+    "getting_started": "Comenzar",
+    "learning_paths": "Rutas de Aprendizaje",
+    "exercise_system": "Sistema de Ejercicios",
+    "ai_scenarios": "Escenarios de Práctica con IA",
+    "reports": "Informes y Documentación",
+    "annotations": "Anotaciones de Grabaciones",
+    "patient_linking": "Conexión Paciente-Terapeuta",
+    "progress": "Progreso y Seguimiento",
+    "settings": "Configuración y Cuenta",
+    "technical": "Técnico y Multimedia",
+    "support": "Soporte"
+  },
+  "videos": {
+    "account_settings": {
+      "title": "Configuración de Cuenta y Preferencias",
+      "description": "Cambiar idioma, activar modo oscuro, actualizar contraseña"
+    },
+    "my_journey": {
+      "title": "Tu Jornada Terapéutica",
+      "description": "Ver ruta de aprendizaje, expandir hitos, ver detalles de pasos"
+    },
+    "complete_exercise": {
+      "title": "Cómo Completar un Ejercicio",
+      "description": "Abrir asignación, ver instrucciones e iniciar un ejercicio"
+    },
+    "practice_scenarios": {
+      "title": "Practicar con Escenarios IA",
+      "description": "Explorar biblioteca de práctica, elegir escenario e iniciar sesión"
+    },
+    "review_history": {
+      "title": "Revisar tu Historial de Práctica",
+      "description": "Abrir historial, ver sesiones anteriores y tus anotaciones"
+    },
+    "manage_patients": {
+      "title": "Gestión de tus Pacientes",
+      "description": "Ver lista de pacientes, abrir página de detalle, explorar pestañas de progreso"
+    },
+    "generate_report": {
+      "title": "Generar un Informe con IA",
+      "description": "Subir grabación y generar informe terapéutico con IA"
+    },
+    "edit_report": {
+      "title": "Editar un Informe",
+      "description": "Abrir informe, entrar en modo de edición y modificar secciones"
+    },
+    "assign_exercise": {
+      "title": "Asignar un Ejercicio",
+      "description": "Explorar biblioteca de ejercicios y asignar un juego a un paciente"
+    },
+    "review_submission": {
+      "title": "Revisar un Envío de Paciente",
+      "description": "Abrir envío, ver grabación y ver anotaciones"
+    },
+    "learning_paths": {
+      "title": "Gestionar Rutas de Aprendizaje",
+      "description": "Ver rutas, ver pacientes asignados y su progreso"
+    },
+    "user_management": {
+      "title": "Gestionar Usuarios",
+      "description": "Ver lista de usuarios, invitar nuevos y gestionar roles"
+    },
+    "tenant_settings": {
+      "title": "Configuración de la Organización",
+      "description": "Ver marca, colores, idioma y miembros del equipo"
+    },
+    "analytics": {
+      "title": "Comprender Análisis",
+      "description": "Ver métricas, cambiar período y explorar gráficos"
+    },
+    "control_room": {
+      "title": "Sala de Revisión de Grabaciones",
+      "description": "Revisar grabaciones y ver la estación de anotaciones"
+    },
+    "welcome_patient": {
+      "title": "Bienvenido a UpSpeech",
+      "description": "Un recorrido rápido por la plataforma y lo que puedes hacer como paciente"
+    },
+    "welcome_therapist": {
+      "title": "Bienvenido a UpSpeech",
+      "description": "Un recorrido rápido por la plataforma y lo que puedes hacer como terapeuta"
+    },
+    "welcome_admin": {
+      "title": "Bienvenido a UpSpeech",
+      "description": "Un recorrido rápido por la plataforma y lo que puedes hacer como administrador"
+    }
+  },
+  "faq": {
+    "what_is_upspeech": {
+      "question": "¿Qué es UpSpeech y para quién es?",
+      "answer": "UpSpeech es una plataforma de terapia del habla construida para terapeutas y sus pacientes, con enfoque en la terapia de la tartamudez. Los terapeutas la usan para asignar ejercicios, gestionar rutas de aprendizaje, generar informes clínicos con IA y hacer seguimiento del progreso de los pacientes. Los pacientes la usan para practicar ejercicios diarios, seguir jornadas terapéuticas estructuradas y grabar sesiones de práctica."
+    },
+    "what_are_learning_paths": {
+      "question": "¿Qué son las rutas de aprendizaje?",
+      "answer": "Las rutas de aprendizaje son programas terapéuticos estructurados con hitos. Cada hito contiene múltiples pasos con diferentes tipos de ejercicios (práctica estándar, escenarios, cuestionarios, reflexiones y modelado). Los pacientes siguen la ruta secuencialmente, y los terapeutas controlan cuándo se completan o se saltan los pasos."
+    },
+    "learning_path_progression": {
+      "question": "¿Cómo funciona la progresión en una ruta de aprendizaje?",
+      "answer": "Los pacientes practican cada paso tantas veces como quieran, pero solo el terapeuta puede marcar un paso como completo o saltarlo. Cuando un paso se completa, el siguiente se abre automáticamente. Los terapeutas también pueden reabrir pasos completados o saltados si es necesario. El progreso se rastrea por hito y en general."
+    },
+    "learning_path_access": {
+      "question": "¿Cómo accedo a mi ruta de aprendizaje?",
+      "answer": "Los pacientes pueden acceder a su ruta de aprendizaje desde la página Mi Jornada en la barra lateral. Los terapeutas pueden ver y gestionar las rutas de aprendizaje de los pacientes desde la página Pacientes, seleccionando un paciente y navegando a la pestaña de ruta de aprendizaje."
+    },
+    "exercise_types": {
+      "question": "¿Qué tipos de ejercicios están disponibles?",
+      "answer": "Hay dos tipos principales. Los mini juegos son ejercicios de práctica diaria asignados por tu terapeuta que completas en casa, con seguimiento de rachas. Los escenarios de IA te permiten practicar conversaciones de la vida real (entrevistas de trabajo, llamadas telefónicas, etc.) con un compañero de IA."
+    },
+    "complete_daily_exercise": {
+      "question": "¿Cómo completo un ejercicio diario?",
+      "answer": "Ve a Asignaciones en la barra lateral, selecciona un ejercicio pendiente y sigue las instrucciones. Cada asignación permite una finalización por día. Después de completar un ejercicio, cuenta para tu racha. Tu terapeuta establece un plazo y número objetivo de finalizaciones para cada asignación."
+    },
+    "exercise_streaks": {
+      "question": "¿Cómo funcionan las rachas de ejercicios?",
+      "answer": "Las rachas rastrean días consecutivos en que completas ejercicios. Si pierdes un día, tu racha se reinicia a cero. Completar ejercicios de forma consistente ayuda a construir buenos hábitos de práctica y muestra a tu terapeuta tu compromiso con la terapia."
+    },
+    "custom_exercises": {
+      "question": "¿Pueden los terapeutas crear ejercicios personalizados?",
+      "answer": "¡Sí! Los terapeutas pueden crear mini juegos personalizados en la Biblioteca de Ejercicios. Puedes establecer una técnica, nivel de dificultad (1-5), instrucciones y cargar vídeos de referencia."
+    },
+    "exercise_assignment": {
+      "question": "¿Cómo asigno ejercicios a los pacientes?",
+      "answer": "Ve a Mini Juegos en la sección Ejercicios, navega o busca ejercicios y haz clic en Asignar. Selecciona el paciente, establece un plazo y número objetivo de finalizaciones y, opcionalmente, añade instrucciones o vídeos de referencia. El paciente lo verá en su página de Asignaciones."
+    },
+    "what_are_scenarios": {
+      "question": "¿Qué son los escenarios de práctica con IA?",
+      "answer": "Los escenarios de IA te permiten practicar conversaciones de la vida real en un entorno seguro. Puedes practicar situaciones como entrevistas de trabajo, llamadas telefónicas, pedir comida, citas médicas, hablar en público y más. La IA responde naturalmente, ayudándote a ganar confianza con tus técnicas de fluidez."
+    },
+    "how_scenarios_work": {
+      "question": "¿Cómo funcionan los escenarios de IA?",
+      "answer": "Tu terapeuta asigna un escenario, o puede ser parte de tu ruta de aprendizaje. Cuando inicias la sesión, la IA abre una conversación basada en el escenario. Respondes por texto o audio y la conversación fluye naturalmente. Cuando termines, la IA proporciona retroalimentación y análisis de tu sesión."
+    },
+    "report_generation": {
+      "question": "¿Cómo funciona la generación de informes por IA?",
+      "answer": "Carga una grabación de audio de tu sesión de terapia y la plataforma la transcribirá automáticamente usando reconocimiento de voz con IA. La transcripción se analiza para generar un informe estructurado. Puedes revisar, editar y personalizar el informe antes de exportarlo como PDF."
+    },
+    "report_types": {
+      "question": "¿Qué tipos de informe están disponibles?",
+      "answer": "Hay dos tipos: Informes de Evaluación para evaluaciones iniciales e Informes de Sesión para documentar sesiones de terapia individuales. Elige el tipo que corresponda al propósito de tu sesión al cargar la grabación de audio."
+    },
+    "edit_report": {
+      "question": "¿Puedo editar un informe después de ser generado?",
+      "answer": "¡Sí! Puedes editar cualquier campo del informe, añadir notas y anotar secciones específicas. Los cambios se guardan automáticamente. También puedes exportar la versión final como PDF."
+    },
+    "report_templates": {
+      "question": "¿Cómo funcionan las plantillas de informes?",
+      "answer": "Los informes usan plantillas que coinciden con la marca de tu organización, incluyendo colores y logo. Las plantillas pueden personalizarse por organización. Los administradores pueden configurarlas en Configuración de la Organización."
+    },
+    "disfluency_annotations": {
+      "question": "¿Qué son las anotaciones de disfluencia?",
+      "answer": "Las anotaciones de disfluencia marcan momentos específicos en una grabación donde ocurren disrupciones en el habla. Puedes anotar repeticiones, prolongaciones, bloqueos, comportamientos de escape, comportamientos de evitación y patrones de inicio/aplazamiento. Cada anotación tiene marca temporal al momento exacto en la grabación, ayudando a rastrear patrones a lo largo del tiempo."
+    },
+    "technique_annotations": {
+      "question": "¿Qué son las anotaciones de técnica?",
+      "answer": "Las anotaciones de técnica marcan cuándo usas estrategias de fluidez específicas en una grabación, como tartamudeo voluntario, mantenerse en el tartamudeo, pull-outs o cancelación. Te ayudan a ti y a tu terapeuta a ver qué técnicas estás practicando y a hacer seguimiento de su uso a lo largo del tiempo."
+    },
+    "edit_annotations": {
+      "question": "¿Puedo editar anotaciones después de guardar?",
+      "answer": "¡Sí! Puedes editar o eliminar cualquier anotación que hayas creado. Abre la grabación, encuentra la anotación en la lista y usa las opciones de editar o eliminar. Los cambios se guardan inmediatamente."
+    },
+    "recording_reviews": {
+      "question": "¿Qué es la función de Revisión de Grabaciones?",
+      "answer": "La Revisión de Grabaciones (disponible para administradores y usuarios con acceso especial) es una herramienta dedicada para evaluar grabaciones de pacientes en toda la organización. Los revisores pueden anotar disfluencias y técnicas, añadir notas clínicas y trabajar a través de una cola de revisión."
+    },
+    "accept_invite": {
+      "question": "¿Cómo me uno a la organización de mi terapeuta?",
+      "answer": "Tu terapeuta te enviará una invitación por correo electrónico con un enlace. Haz clic en el enlace para crear tu cuenta y serás vinculado automáticamente a tu terapeuta. Los enlaces de invitación expiran después de 7 días, así que asegúrate de registrarte prontamente."
+    },
+    "therapist_add_patient": {
+      "question": "¿Cómo añado pacientes como terapeuta?",
+      "answer": "Ve a la página Pacientes y usa las opciones de invitar o crear paciente. Puedes enviar una invitación por correo electrónico o crear directamente una cuenta de paciente. Cuando creas un paciente directamente, se vincula automáticamente a ti."
+    },
+    "therapist_visibility": {
+      "question": "¿Qué puede ver mi terapeuta sobre mi progreso?",
+      "answer": "Tu terapeuta puede ver tus ejercicios completados, rachas de ejercicios, grabaciones de práctica, anotaciones de disfluencia y técnica, progreso en la ruta de aprendizaje y estadísticas generales de actividad. No pueden ver tu contraseña de cuenta."
+    },
+    "view_progress": {
+      "question": "¿Dónde puedo hacer seguimiento de mi progreso?",
+      "answer": "Tu Panel muestra una visión general de tu actividad, rachas y ejercicios recientes. La página de Asignaciones rastrea tus finalizaciones de ejercicios y plazos. Mi Jornada muestra tu progreso en la ruta de aprendizaje a través de los hitos. Los terapeutas pueden ver el progreso detallado de los pacientes en la página Pacientes."
+    },
+    "view_recordings_reports": {
+      "question": "¿Dónde puedo ver mis grabaciones e informes?",
+      "answer": "Los pacientes pueden ver envíos de ejercicios anteriores en la página Historial en Ejercicios. Los terapeutas pueden acceder a la página de Informes para ver todos los informes terapéuticos y a la página de Envíos para revisar grabaciones de ejercicios de los pacientes."
+    },
+    "analytics": {
+      "question": "¿Qué análisis están disponibles?",
+      "answer": "Los administradores y propietarios pueden acceder a la página de Análisis para métricas a nivel de organización, incluyendo actividad de usuarios, tendencias de crecimiento y estadísticas de uso. Los terapeutas ven datos de progreso específicos de cada paciente en la página de perfil del paciente."
+    },
+    "change_language": {
+      "question": "¿Cómo cambio mi idioma?",
+      "answer": "Ve a Configuración de Cuenta en la barra lateral y selecciona tu idioma preferido. La plataforma soporta Inglés, Portugués y Español. Tu elección se guarda y se aplica en todas las páginas."
+    },
+    "dark_mode": {
+      "question": "¿UpSpeech soporta modo oscuro?",
+      "answer": "¡Sí! Puedes alternar entre modo claro y oscuro en Configuración de Cuenta. La plataforma también respeta la preferencia de tu sistema por defecto, así que si tu dispositivo está configurado en modo oscuro, UpSpeech se adaptará automáticamente."
+    },
+    "user_roles": {
+      "question": "¿Cuáles son los diferentes roles de usuario?",
+      "answer": "Hay cinco roles: Propietario gestiona toda la plataforma. Administrador gestiona usuarios y configuración de la organización. Terapeuta gestiona pacientes, ejercicios, informes y rutas de aprendizaje. Paciente y Miembro son ambos roles de paciente con los mismos permisos , completan ejercicios y siguen programas de terapia."
+    },
+    "audio_formats": {
+      "question": "¿Qué formatos de audio y vídeo son soportados?",
+      "answer": "La plataforma soporta WAV, MP3, M4A y otros formatos de audio comunes para grabaciones de sesiones. También puedes grabar audio directamente en el navegador. Las grabaciones de vídeo (MP4, WebM) son soportadas para vídeos de referencia en ejercicios y grabaciones de práctica."
+    },
+    "transcription_process": {
+      "question": "¿Cómo funciona el proceso de transcripción?",
+      "answer": "Después de cargar una grabación de sesión, el reconocimiento de voz con IA transcribe automáticamente tu audio. El proceso toma unos minutos dependiendo de la duración de la grabación. Puedes hacer seguimiento del estado (pendiente, procesando, procesado) en la página del informe. Una vez completo, la transcripción se usa para generar tu informe terapéutico."
+    },
+    "support": {
+      "question": "¿Cómo contacto con soporte?",
+      "answer": "Envíanos un correo a support@upspeech.com o usa el botón Enviar Correo a Soporte a continuación. Normalmente respondemos en 24 horas."
+    }
+  },
+  "documentation": {
+    "title": "Documentación",
+    "description": "Lee nuestras guías completas y documentación técnica",
+    "button": "Ver Documentación"
+  },
+  "support": {
+    "title": "Contactar Soporte",
+    "description": "¿Necesitas ayuda? Nuestro equipo de soporte está aquí para ti.",
+    "button": "Enviar Correo a Soporte"
+  }
+}

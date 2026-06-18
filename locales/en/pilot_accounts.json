@@ -1,0 +1,26 @@
+{
+  "title": "Pilot Accounts",
+  "subtitle": "Generate anonymized accounts for pilot participants",
+  "config_title": "Account Configuration",
+  "tenant": "Tenant",
+  "role": "Role",
+  "role_patient": "Patient",
+  "role_therapist": "Therapist",
+  "count": "Count",
+  "generate": "Generate Accounts",
+  "generating": "Generating...",
+  "email": "Email",
+  "name": "Name",
+  "password": "Password",
+  "role_label": "Role",
+  "patient": "Patient",
+  "therapist": "Therapist",
+  "results_title": "Generated Accounts",
+  "security_warning": "These credentials are shown only once. Copy or download them now , passwords cannot be retrieved later.",
+  "download_csv": "Download CSV",
+  "copy_all": "Copy All",
+  "copied": "Copied!",
+  "errors": {
+    "generate_failed": "Failed to generate accounts"
+  }
+}

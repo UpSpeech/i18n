@@ -1,0 +1,8 @@
+{
+  "search_patients": "Buscar pacientes",
+  "input_aria_label": "Buscar pacientes",
+  "placeholder": "Buscar pacientes por nombre o correo...",
+  "no_results": "No se encontraron pacientes",
+  "hint": "Empieza a escribir para encontrar un paciente. Usa las flechas y Enter para abrir.",
+  "shortcut": "⌘K"
+}

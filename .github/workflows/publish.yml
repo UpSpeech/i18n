@@ -1,0 +1,41 @@
+name: Publish @upspeech/i18n
+
+# Publishes to GitHub Packages when package.json version changes on main,
+# or when a vX.Y.Z tag is pushed. Uses the built-in GITHUB_TOKEN (no PAT needed
+# to PUBLISH this repo's own package).
+on:
+  push:
+    branches: [main]
+    paths:
+      - "package.json"
+      - "locales/**"
+      - "scripts/**"
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@upspeech"
+      - name: Check parity + build
+        run: |
+          npm run check
+          npm run build
+      - name: Publish if version changed
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          if npm view "@upspeech/i18n@$VERSION" version >/dev/null 2>&1; then
+            echo "Version $VERSION already published, skipping."
+          else
+            npm publish
+          fi
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

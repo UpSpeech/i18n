@@ -1,0 +1,8 @@
+{
+  "search_patients": "Search patients",
+  "input_aria_label": "Search patients",
+  "placeholder": "Search patients by name or email...",
+  "no_results": "No patients found",
+  "hint": "Start typing to find a patient. Use arrow keys and Enter to open.",
+  "shortcut": "⌘K"
+}

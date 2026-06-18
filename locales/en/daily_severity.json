@@ -1,0 +1,37 @@
+{
+  "gate": {
+    "greeting_morning": "Good morning, {{name}}",
+    "greeting_afternoon": "Good afternoon, {{name}}",
+    "greeting_evening": "Good evening, {{name}}",
+    "question": "How severe was your stuttering today?",
+    "helper": "This takes just a moment and helps track your progress.",
+    "label_start": "No stuttering",
+    "label_end": "Extremely severe",
+    "submit": "Continue",
+    "success": "Thank you! Have a great session.",
+    "submit_error": "Something went wrong. Please try again."
+  },
+  "chart": {
+    "title": "Daily Severity Trend",
+    "subtitle": "Self-reported stuttering severity over time",
+    "score_label": "Severity Score",
+    "latest_score": "Latest Score",
+    "average_score": "Average",
+    "min_score": "Lowest",
+    "max_score": "Highest",
+    "days_count": "{{count}}d",
+    "no_data": "No daily severity data available yet.",
+    "no_data_description": "Severity scores will appear here once the patient starts completing daily check-ins.",
+    "note_modal_title": "Day Note",
+    "note_modal_description": "{{date}} , Severity: {{score}}/10",
+    "note_placeholder": "Write a note about this day's entry...",
+    "note_save": "Save Note",
+    "note_saving": "Saving...",
+    "note_delete": "Delete Note",
+    "note_delete_confirm": "Are you sure you want to delete this note?",
+    "note_saved": "Note saved",
+    "note_deleted": "Note deleted",
+    "note_save_error": "Failed to save note. Please try again.",
+    "note_hint": "Click on a day to add a note"
+  }
+}
