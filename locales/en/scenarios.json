@@ -277,7 +277,8 @@
     "turns_count": "{{count}} turns",
     "ambientMute": "Mute background sound",
     "ambientUnmute": "Unmute background sound",
-    "ambientVolume": "Background sound volume"
+    "ambientVolume": "Background sound volume",
+    "genericMediaError": "Failed to access recording device."
   },
   "review": {
     "sessionReview": "Session Review",
@@ -328,7 +329,9 @@
     "playAll": "Play All",
     "playRecording": "Play",
     "replay": "Replay",
-    "turnsCompleted": "{{count}} turns"
+    "turnsCompleted": "{{count}} turns",
+    "conversationLog": "Conversation messages",
+    "loadingReplay": "Loading replay"
   },
   "create": {
     "title": "Create New Scenario",

@@ -233,7 +233,8 @@
   "layout": {
     "open_sidebar": "Open sidebar",
     "collapse_sidebar": "Collapse sidebar",
-    "expand_sidebar": "Expand sidebar"
+    "expand_sidebar": "Expand sidebar",
+    "navigation": "Navigation"
   },
   "roles": {
     "owner": "Owner",
@@ -929,7 +930,8 @@
       "today": "Practised today",
       "this_week": "Active this week",
       "days_ago": "Last practised {{count}} days ago"
-    }
+    },
+    "exercise_load_error": "Something went wrong loading this exercise. Please refresh the page to try again."
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
@@ -1137,5 +1139,13 @@
     "stop_recording": "Stop recording",
     "video_and_audio": "Video & Audio",
     "you": "You"
+  },
+  "camera": {
+    "permission_denied": "Camera and microphone access was denied. Please check your browser permissions."
+  },
+  "microphone": {
+    "no_device": "No microphone found. Please connect one and try again.",
+    "no_media_devices": "Your browser does not support media recording.",
+    "permission_denied": "Microphone access was denied. Please check your browser permissions."
   }
 }

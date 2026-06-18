@@ -172,7 +172,8 @@
       "needs_review_warm": "Algunos temas para repasar , es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
       "review_title": "Revisión de Preguntas",
       "title_passed": "¡Muy bien!",
-      "title_review": "¡Casi lo logras!"
+      "title_review": "¡Casi lo logras!",
+      "save_failed": "Tus respuestas se verificaron localmente pero no se pudieron guardar. Inténtalo de nuevo cuando tengas conexión."
     },
     "correct_answer_label": "Respuesta correcta",
     "your_answer_label": "Tu respuesta"

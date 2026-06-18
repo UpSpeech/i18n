@@ -226,7 +226,8 @@
   "layout": {
     "open_sidebar": "Abrir barra lateral",
     "collapse_sidebar": "Contraer barra lateral",
-    "expand_sidebar": "Expandir barra lateral"
+    "expand_sidebar": "Expandir barra lateral",
+    "navigation": "Navegación"
   },
   "roles": {
     "owner": "Propietario",
@@ -929,7 +930,8 @@
       "today": "Practicó hoy",
       "this_week": "Activo esta semana",
       "days_ago": "Última práctica hace {{count}} días"
-    }
+    },
+    "exercise_load_error": "Algo salió mal al cargar este ejercicio. Actualiza la página para volver a intentarlo."
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -1137,5 +1139,13 @@
     "stop_recording": "Parar grabación",
     "video_and_audio": "Vídeo y Audio",
     "you": "Tú"
+  },
+  "camera": {
+    "permission_denied": "Se denegó el acceso a la cámara y el micrófono. Comprueba los permisos de tu navegador."
+  },
+  "microphone": {
+    "no_device": "No se encontró ningún micrófono. Conecta uno e inténtalo de nuevo.",
+    "no_media_devices": "Tu navegador no admite la grabación multimedia.",
+    "permission_denied": "Se denegó el acceso al micrófono. Comprueba los permisos de tu navegador."
   }
 }

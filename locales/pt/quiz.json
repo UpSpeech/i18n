@@ -172,7 +172,8 @@
       "needs_review_warm": "Alguns tópicos para rever , faz parte da aprendizagem. Revê as explicações abaixo e tenta novamente quando estiveres pronto.",
       "review_title": "Revisão das Perguntas",
       "title_passed": "Muito bem!",
-      "title_review": "Quase lá!"
+      "title_review": "Quase lá!",
+      "save_failed": "As tuas respostas foram verificadas localmente mas não foi possível guardá-las. Tenta novamente quando tiveres ligação."
     },
     "correct_answer_label": "Resposta correta",
     "your_answer_label": "A tua resposta"

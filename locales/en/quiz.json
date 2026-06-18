@@ -172,7 +172,8 @@
       "needs_review_warm": "A few topics to revisit , that's part of learning. Review the explanations below and try again when you're ready.",
       "review_title": "Question Review",
       "title_passed": "Well done!",
-      "title_review": "Almost there!"
+      "title_review": "Almost there!",
+      "save_failed": "Your answers were checked locally but couldn't be saved. Try again when you have a connection."
     },
     "correct_answer_label": "Correct answer",
     "your_answer_label": "Your answer"

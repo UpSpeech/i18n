@@ -762,7 +762,17 @@
       "finish": "Concluir",
       "empty_pool_title": "Ainda não há clipes disponíveis",
       "empty_pool_description": "Os clipes de prática ainda não estão prontos para este exercício. Volte mais tarde."
-    }
+    },
+    "adjust_time": "Ajustar",
+    "edit_time": "Editar marca temporal",
+    "nudge_back_100": "Recuar um décimo de segundo",
+    "nudge_back_100_label": "-0.1s",
+    "nudge_back_500": "Recuar meio segundo",
+    "nudge_back_500_label": "-0.5s",
+    "nudge_fwd_100": "Avançar um décimo de segundo",
+    "nudge_fwd_100_label": "+0.1s",
+    "nudge_fwd_500": "Avançar meio segundo",
+    "nudge_fwd_500_label": "+0.5s"
   },
   "reflection": {
     "video": "Vídeo",

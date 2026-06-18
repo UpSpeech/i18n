@@ -277,7 +277,8 @@
     "turns_count": "{{count}} turnos",
     "ambientMute": "Silenciar som de fundo",
     "ambientUnmute": "Ativar som de fundo",
-    "ambientVolume": "Volume do som de fundo"
+    "ambientVolume": "Volume do som de fundo",
+    "genericMediaError": "Não foi possível aceder ao dispositivo de gravação."
   },
   "review": {
     "sessionReview": "Revisão da Sessão",
@@ -328,7 +329,9 @@
     "playAll": "Reproduzir Tudo",
     "playRecording": "Reproduzir",
     "replay": "Repetir",
-    "turnsCompleted": "{{count}} interações"
+    "turnsCompleted": "{{count}} interações",
+    "conversationLog": "Mensagens da conversa",
+    "loadingReplay": "A carregar reprodução"
   },
   "create": {
     "title": "Criar Novo Cenário",
