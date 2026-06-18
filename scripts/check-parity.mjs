@@ -25,8 +25,13 @@ function keysFor(lang) {
     const ns = file.replace(/\.json$/, "");
     out[ns] = flat(JSON.parse(readFileSync(join(langDir, file), "utf8")));
   }
-  const mobileFile = join(localesDir, "mobile", `${lang}.json`);
-  if (existsSync(mobileFile)) out.mobile = flat(JSON.parse(readFileSync(mobileFile, "utf8")));
+  const mobileLangDir = join(localesDir, "mobile", lang);
+  if (existsSync(mobileLangDir)) {
+    for (const file of readdirSync(mobileLangDir)) {
+      if (!file.endsWith(".json")) continue;
+      out[`mobile_${file.replace(/\.json$/, "")}`] = flat(JSON.parse(readFileSync(join(mobileLangDir, file), "utf8")));
+    }
+  }
   return out;
 }
 

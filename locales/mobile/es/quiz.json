@@ -1,0 +1,180 @@
+{
+  "knowledge": {
+    "what_is_stuttering": {
+      "q1": {
+        "question": "La tartamudez es causada por nerviosismo, alteraciones de la respiración o falta de fuerza de voluntad.",
+        "explanation": "La tartamudez no es causada por nerviosismo, alteraciones de la respiración o fuerza de voluntad, sino por la interacción de factores genéticos, neurológicos, lingüísticos, temperamentales y contextuales."
+      },
+      "q2": {
+        "question": "¿Cuáles son las manifestaciones primarias de la tartamudez?",
+        "options": [
+          "Pausas, vacilaciones y muletillas",
+          "Repeticiones, prolongaciones y bloqueos",
+          "Habla rápida y pensamiento acelerado",
+          "Dificultades de articulación y problemas de voz"
+        ],
+        "explanation": "La tartamudez se manifiesta a través de repeticiones, prolongaciones y bloqueos de naturaleza involuntaria y con duración variable."
+      },
+      "q3": {
+        "question": "La expresión de la tartamudez varía a lo largo del tiempo y entre diferentes situaciones de comunicación.",
+        "explanation": "Sí, la expresión de la tartamudez no es constante — varía a lo largo del tiempo y entre diferentes situaciones de comunicación, lo que es una característica del trastorno."
+      },
+      "q4": {
+        "question": "¿Qué factores contribuyen a la tartamudez?",
+        "options": [
+          "Solo factores psicológicos como estrés y nerviosismo",
+          "Solo factores genéticos hereditarios",
+          "La interacción de factores genéticos, neurológicos, lingüísticos, temperamentales y contextuales",
+          "Solo factores ambientales y educacionales"
+        ],
+        "explanation": "La tartamudez resulta de la interacción de múltiples factores: genéticos, neurológicos, lingüísticos, temperamentales y contextuales — no de un factor aislado."
+      }
+    },
+    "how_speech_works": {
+      "q1": {
+        "question": "¿Qué procesos están involucrados en la producción del habla?",
+        "options": [
+          "Planificación lingüística, planificación motora, respiración, fonación y articulación",
+          "Solo la respiración y el movimiento de los labios",
+          "Solo el pensamiento y la vocalización",
+          "Solo la articulación y la audición"
+        ],
+        "explanation": "La producción del habla involucra varios procesos coordinados: planificación lingüística, planificación y control motor del habla, respiración, fonación y articulación."
+      },
+      "q2": {
+        "question": "Los procesos del habla son coordinados por diferentes redes cerebrales que trabajan en conjunto.",
+        "explanation": "Sí, diferentes redes cerebrales trabajan en conjunto para coordinar todos los procesos necesarios para producir un habla fluida."
+      },
+      "q3": {
+        "question": "¿Qué puede influir en la fluidez del habla?",
+        "options": [
+          "Solo la velocidad del habla",
+          "Solo el volumen de la voz",
+          "Pequeños cambios en el tiempo, la coordinación o el control de los sistemas del habla",
+          "Solo la postura corporal"
+        ],
+        "explanation": "Pequeños cambios en el tiempo, la coordinación o el control de los sistemas involucrados en la producción del habla pueden influir en la fluidez."
+      },
+      "q4": {
+        "question": "La producción del habla involucra solo un proceso simple y aislado.",
+        "explanation": "No, la producción del habla involucra varios procesos que ocurren de forma rápida y coordinada, no un proceso simple y aislado."
+      }
+    },
+    "therapy_process": {
+      "q1": {
+        "question": "¿Cuál es la naturaleza del proceso terapéutico?",
+        "options": [
+          "Es rígido e igual para todas las personas",
+          "Es estructurado, progresivo y adaptado a cada persona",
+          "Siempre comienza con técnicas de habla",
+          "No tiene fases definidas"
+        ],
+        "explanation": "El proceso terapéutico es estructurado, progresivo y adaptado a cada persona, con fases que se ajustan según los objetivos, necesidades y evolución de cada uno."
+      },
+      "q2": {
+        "question": "La intervención terapéutica siempre comienza necesariamente con técnicas de habla.",
+        "explanation": "No necesariamente. La reactividad a la propia tartamudez (miedo, anticipación, tensión) puede interferir con la capacidad de aplicar estrategias, por eso las fases iniciales se centran frecuentemente en la comprensión de la tartamudez y la reducción del miedo."
+      },
+      "q3": {
+        "question": "Las fases del proceso terapéutico no son rígidas ni lineales y pueden superponerse.",
+        "explanation": "Sí, las fases no son rígidas ni lineales — pueden superponerse y se ajustan según los objetivos, necesidades y evolución de cada persona."
+      },
+      "q4": {
+        "question": "¿Cuáles son los métodos basados en evidencia utilizados en la terapia de la tartamudez?",
+        "options": [
+          "Solo ejercicios de relajación",
+          "Solo técnicas de respiración profunda",
+          "Solo evitación de situaciones difíciles",
+          "Modificación de la tartamudez, estrategias de fluidez, trabajo cognitivo-emocional y participación comunicativa"
+        ],
+        "explanation": "Existen diferentes métodos basados en evidencia: modificación de la tartamudez, estrategias para el aumento de la fluidez, trabajo cognitivo-emocional y promoción de la participación comunicativa, integrados a lo largo de diferentes fases."
+      }
+    },
+    "therapeutic_objectives": {
+      "q1": {
+        "question": "¿Cuál puede ser un objetivo terapéutico?",
+        "options": [
+          "Eliminar completamente la tartamudez",
+          "Nunca tartamudear en público",
+          "Reducir la tensión y los comportamientos secundarios durante los momentos de tartamudez",
+          "Evitar todas las situaciones de comunicación"
+        ],
+        "explanation": "Los objetivos terapéuticos pueden incluir la reducción de la tensión y comportamientos secundarios, el aumento de la fluidez, la disminución de la evitación, el aumento de la participación comunicativa y la mejora de la relación con el propio habla."
+      },
+      "q2": {
+        "question": "Los objetivos terapéuticos se definen de forma colaborativa y se revisan a lo largo del proceso.",
+        "explanation": "Sí, los objetivos se definen de forma colaborativa entre la persona y el terapeuta y se revisan a lo largo del proceso terapéutico, ajustándose a la evolución."
+      },
+      "q3": {
+        "question": "¿Qué caracteriza a los objetivos terapéuticos?",
+        "options": [
+          "Pueden variar entre personas y a lo largo del tiempo",
+          "Son iguales para todos los pacientes",
+          "Son definidos solo por el terapeuta",
+          "Nunca cambian durante la terapia"
+        ],
+        "explanation": "Los objetivos terapéuticos pueden variar entre personas y a lo largo del tiempo, adaptándose a las necesidades y evolución de cada uno en el proceso terapéutico."
+      },
+      "q4": {
+        "question": "Los objetivos terapéuticos son fijos e iguales para todas las personas que tartamudean.",
+        "explanation": "No, los objetivos terapéuticos pueden variar entre personas y a lo largo del tiempo. Son individualizados y revisados colaborativamente a lo largo del proceso."
+      }
+    },
+    "avoidance_vs_struggle": {
+      "q1": {
+        "question": "¿Qué son los comportamientos de evitación?",
+        "options": [
+          "Comportamientos que surgen como intento de no tartamudear, como evitar palabras, situaciones o personas",
+          "Ejercicios de práctica del habla recomendados por el terapeuta",
+          "Técnicas de relajación muscular",
+          "Estrategias de comunicación efectiva"
+        ],
+        "explanation": "Los comportamientos de evitación surgen como intento de no tartamudear e incluyen evitar palabras, situaciones o personas — son respuestas aprendidas a la experiencia repetida de tartamudear."
+      },
+      "q2": {
+        "question": "¿Qué son los comportamientos de lucha (escape)?",
+        "options": [
+          "Evitar situaciones de comunicación",
+          "Usar tensión excesiva y fuerza para intentar forzar la palabra a salir durante un momento de tartamudez",
+          "Técnicas terapéuticas aprendidas",
+          "Pausas naturales en el habla"
+        ],
+        "explanation": "Los comportamientos de lucha (escape) surgen cuando la persona está tartamudeando e intenta forzar la palabra a salir, usando tensión excesiva, fuerza u otros comportamientos como parpadear o hacer movimientos."
+      },
+      "q3": {
+        "question": "Los comportamientos secundarios pueden, con el tiempo, volverse automáticos y poco funcionales.",
+        "explanation": "Sí, a medida que se repiten, los comportamientos secundarios se vuelven automáticos, pasan a formar parte del patrón de tartamudez y en la mayoría de las veces aumentan la lucha, la tensión y el esfuerzo cognitivo."
+      },
+      "q4": {
+        "question": "Los comportamientos secundarios siempre son útiles y ayudan a la persona a hablar mejor.",
+        "explanation": "No, aunque inicialmente pueden parecer útiles o dar una sensación momentánea de control, con el tiempo se vuelven automáticos y poco funcionales, aumentando la lucha y la tensión."
+      }
+    }
+  },
+  "ui": {
+    "title": "Verificación de Conocimiento",
+    "progress": "Pregunta {{current}} de {{total}}",
+    "true": "Verdadero",
+    "false": "Falso",
+    "check_answer": "Verificar Respuesta",
+    "next_question": "Siguiente Pregunta",
+    "see_results": "Ver Resultados",
+    "correct": "¡Correcto!",
+    "incorrect": "No está bien",
+    "encouragement": "Tómate tu tiempo - esto es sobre aprender, no evaluar.",
+    "results": {
+      "title": "¡Cuestionario Completo!",
+      "score": "Acertaste {{correct}} de {{total}}",
+      "passing": "¡Muy bien! Has demostrado comprensión de este tema.",
+      "needs_review": "Revisemos un poco más antes de continuar. No te preocupes - aprender toma tiempo.",
+      "retry": "Intentar de Nuevo",
+      "continue": "Continuar",
+      "needs_review_warm": "Algunos temas para repasar — es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
+      "review_title": "Revisión de Preguntas",
+      "title_passed": "¡Muy bien!",
+      "title_review": "¡Casi lo logras!"
+    },
+    "correct_answer_label": "Respuesta correcta",
+    "your_answer_label": "Tu respuesta"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "knowledge": {
+    "what_is_stuttering": {
+      "q1": {
+        "question": "Stuttering is caused by nervousness, breathing changes, or lack of willpower.",
+        "explanation": "Stuttering is not caused by nervousness, breathing changes, or willpower, but rather by the interaction of genetic, neurological, linguistic, temperamental, and contextual factors."
+      },
+      "q2": {
+        "question": "What are the primary manifestations of stuttering?",
+        "options": [
+          "Pauses, hesitations, and filler words",
+          "Repetitions, prolongations, and blocks",
+          "Fast speech and racing thoughts",
+          "Articulation difficulties and voice problems"
+        ],
+        "explanation": "Stuttering manifests through repetitions, prolongations, and blocks that are involuntary and variable in duration."
+      },
+      "q3": {
+        "question": "The expression of stuttering varies over time and across different communication situations.",
+        "explanation": "Yes, the expression of stuttering is not constant — it varies over time and across different communication situations, which is a characteristic of the disorder."
+      },
+      "q4": {
+        "question": "What factors contribute to stuttering?",
+        "options": [
+          "Only psychological factors such as stress and nervousness",
+          "Only hereditary genetic factors",
+          "The interaction of genetic, neurological, linguistic, temperamental, and contextual factors",
+          "Only environmental and educational factors"
+        ],
+        "explanation": "Stuttering results from the interaction of multiple factors: genetic, neurological, linguistic, temperamental, and contextual — not from a single isolated factor."
+      }
+    },
+    "how_speech_works": {
+      "q1": {
+        "question": "Which processes are involved in speech production?",
+        "options": [
+          "Linguistic planning, motor planning, breathing, phonation, and articulation",
+          "Only breathing and lip movement",
+          "Only thinking and vocalization",
+          "Only articulation and hearing"
+        ],
+        "explanation": "Speech production involves several coordinated processes: linguistic planning, motor planning and control of speech, breathing, phonation, and articulation."
+      },
+      "q2": {
+        "question": "Speech processes are coordinated by different brain networks that work together.",
+        "explanation": "Yes, different brain networks work together to coordinate all the processes necessary to produce fluent speech."
+      },
+      "q3": {
+        "question": "What can influence speech fluency?",
+        "options": [
+          "Only the speed of speech",
+          "Only the volume of the voice",
+          "Small changes in timing, coordination, or control of the speech systems",
+          "Only body posture"
+        ],
+        "explanation": "Small changes in timing, coordination, or control of the systems involved in speech production can influence fluency."
+      },
+      "q4": {
+        "question": "Speech production involves only a single simple and isolated process.",
+        "explanation": "No, speech production involves several processes that occur rapidly and in coordination, not a single simple and isolated process."
+      }
+    },
+    "therapy_process": {
+      "q1": {
+        "question": "What is the nature of the therapeutic process?",
+        "options": [
+          "It is rigid and the same for everyone",
+          "It is structured, progressive, and adapted to each person",
+          "It always starts with speech techniques",
+          "It has no defined phases"
+        ],
+        "explanation": "The therapeutic process is structured, progressive, and adapted to each person, with phases that are adjusted according to the objectives, needs, and evolution of each individual."
+      },
+      "q2": {
+        "question": "Therapeutic intervention always necessarily starts with speech techniques.",
+        "explanation": "Not necessarily. Reactivity to stuttering itself (fear, anticipation, tension) can interfere with the ability to apply strategies, so initial phases often focus on understanding stuttering and reducing fear."
+      },
+      "q3": {
+        "question": "The phases of the therapeutic process are not rigid or linear and can overlap.",
+        "explanation": "Yes, the phases are not rigid or linear — they can overlap and are adjusted according to the objectives, needs, and evolution of each person."
+      },
+      "q4": {
+        "question": "What are the evidence-based methods used in stuttering therapy?",
+        "options": [
+          "Only relaxation exercises",
+          "Only deep breathing techniques",
+          "Only avoidance of difficult situations",
+          "Stuttering modification, fluency strategies, cognitive-emotional work, and communicative participation"
+        ],
+        "explanation": "There are different evidence-based methods: stuttering modification, fluency strategies, cognitive-emotional work, and promotion of communicative participation, integrated across different phases."
+      }
+    },
+    "therapeutic_objectives": {
+      "q1": {
+        "question": "Which of the following can be a therapeutic objective?",
+        "options": [
+          "Completely eliminating stuttering",
+          "Never stuttering in public",
+          "Reducing tension and secondary behaviors during stuttering moments",
+          "Avoiding all communication situations"
+        ],
+        "explanation": "Therapeutic objectives can include reducing tension and secondary behaviors, increasing fluency, decreasing avoidance, increasing communicative participation, and improving one's relationship with their own speech."
+      },
+      "q2": {
+        "question": "Therapeutic objectives are collaboratively defined and reviewed throughout the process.",
+        "explanation": "Yes, objectives are collaboratively defined between the person and the therapist and are reviewed throughout the therapeutic process, adjusting to progress."
+      },
+      "q3": {
+        "question": "What characterizes therapeutic objectives?",
+        "options": [
+          "They can vary between people and over time",
+          "They are the same for all patients",
+          "They are defined only by the therapist",
+          "They never change during therapy"
+        ],
+        "explanation": "Therapeutic objectives can vary between people and over time, adapting to the needs and evolution of each individual in the therapeutic process."
+      },
+      "q4": {
+        "question": "Therapeutic objectives are fixed and the same for all people who stutter.",
+        "explanation": "No, therapeutic objectives can vary between people and over time. They are individualized and collaboratively reviewed throughout the process."
+      }
+    },
+    "avoidance_vs_struggle": {
+      "q1": {
+        "question": "What are avoidance behaviors?",
+        "options": [
+          "Behaviors that emerge as an attempt not to stutter, such as avoiding words, situations, or people",
+          "Speech practice exercises recommended by the therapist",
+          "Muscle relaxation techniques",
+          "Effective communication strategies"
+        ],
+        "explanation": "Avoidance behaviors emerge as an attempt not to stutter and include avoiding words, situations, or people — they are learned responses to the repeated experience of stuttering."
+      },
+      "q2": {
+        "question": "What are struggle (escape) behaviors?",
+        "options": [
+          "Avoiding communication situations",
+          "Using excessive tension and force to try to push the word out during a stuttering moment",
+          "Learned therapeutic techniques",
+          "Natural pauses in speech"
+        ],
+        "explanation": "Struggle (escape) behaviors emerge when the person is stuttering and tries to force the word out, using excessive tension, force, or other behaviors like blinking or making movements."
+      },
+      "q3": {
+        "question": "Secondary behaviors can, over time, become automatic and dysfunctional.",
+        "explanation": "Yes, as they are repeated, secondary behaviors become automatic, become part of the stuttering pattern, and most often increase the struggle, tension, and cognitive effort."
+      },
+      "q4": {
+        "question": "Secondary behaviors are always helpful and help the person speak better.",
+        "explanation": "No, although they may initially seem helpful or provide a momentary sense of control, over time they become automatic and dysfunctional, increasing struggle and tension."
+      }
+    }
+  },
+  "ui": {
+    "title": "Knowledge Check",
+    "progress": "Question {{current}} of {{total}}",
+    "true": "True",
+    "false": "False",
+    "check_answer": "Check Answer",
+    "next_question": "Next Question",
+    "see_results": "See Results",
+    "correct": "Correct!",
+    "incorrect": "Not quite right",
+    "encouragement": "Take your time - this is about learning, not testing.",
+    "results": {
+      "title": "Quiz Complete!",
+      "score": "You got {{correct}} out of {{total}} correct",
+      "passing": "Great job! You've demonstrated understanding of this topic.",
+      "needs_review": "Let's review a bit more before moving on. Don't worry - learning takes time.",
+      "retry": "Try Again",
+      "continue": "Continue",
+      "needs_review_warm": "A few topics to revisit — that's part of learning. Review the explanations below and try again when you're ready.",
+      "review_title": "Question Review",
+      "title_passed": "Well done!",
+      "title_review": "Almost there!"
+    },
+    "correct_answer_label": "Correct answer",
+    "your_answer_label": "Your answer"
+  }
+}

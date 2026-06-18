@@ -10,9 +10,10 @@ apps. Single source of truth so a copy change is made once, not duplicated acros
 
 ```
 locales/
-  en/  es/  pt/        one JSON per namespace, mirrors the frontend's namespaces
+  en/  es/  pt/        frontend namespaces (consumed by app-frontend via subpath imports)
   mobile/
-    en.json es.json pt.json   strings used only by the mobile app (the "mobile" namespace)
+    en/ es/ pt/        the mobile app's own files (common.json, auth.json, quiz.json),
+                       consumed by app-mobile via subpath imports
 scripts/
   build.mjs            inlines all JSON into dist/index.js (bundler-agnostic ESM)
   check-parity.mjs     fails if a key exists in one language but not another

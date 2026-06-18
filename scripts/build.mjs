@@ -26,11 +26,15 @@ for (const lang of langs) {
     resources[lang][ns] = JSON.parse(readFileSync(join(langDir, file), "utf8"));
     namespaceSet.add(ns);
   }
-  // mobile-only namespace: locales/mobile/<lang>.json -> namespace "mobile"
-  const mobileFile = join(localesDir, "mobile", `${lang}.json`);
-  if (existsSync(mobileFile)) {
-    resources[lang].mobile = JSON.parse(readFileSync(mobileFile, "utf8"));
-    namespaceSet.add("mobile");
+  // mobile app's own files: locales/mobile/<lang>/<name>.json -> namespace "mobile_<name>"
+  const mobileLangDir = join(localesDir, "mobile", lang);
+  if (existsSync(mobileLangDir)) {
+    for (const file of readdirSync(mobileLangDir)) {
+      if (!file.endsWith(".json")) continue;
+      const ns = `mobile_${file.replace(/\.json$/, "")}`;
+      resources[lang][ns] = JSON.parse(readFileSync(join(mobileLangDir, file), "utf8"));
+      namespaceSet.add(ns);
+    }
   }
 }
 
