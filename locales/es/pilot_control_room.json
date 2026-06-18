@@ -163,7 +163,9 @@
     "group_failed": "Error al actualizar el grupo del piloto",
     "request_failed": "Error al solicitar evaluaciones",
     "start_failed": "Error al iniciar el piloto",
-    "retry": "Reintentar"
+    "retry": "Reintentar",
+    "end_failed": "Error al actualizar la fecha de fin del piloto",
+    "runs_failed": "Error al cargar los pilotos anteriores"
   },
   "actions": {
     "notification_sent": "Notificación registrada (placeholder , no se envió email)",
@@ -179,7 +181,8 @@
     "analytics": "Analítica",
     "outcomes": "Resultados",
     "engagement": "Participación",
-    "signals": "Señales"
+    "signals": "Señales",
+    "past_pilots": "Pilotos anteriores"
   },
   "engagement": {
     "note": "Uso por grupo. Los promedios son por paciente inscrito en el grupo (los pacientes inactivos cuentan como cero), para que grupos de distinto tamaño sean comparables. Consulta la pestaña Resultados para el significado de cada grupo.",
@@ -425,5 +428,64 @@
       "adherence_label": "Adherencia",
       "joined_week": "Se unió semana {{week}}"
     }
+  },
+  "past_pilots": {
+    "arm_control": "Control",
+    "arm_group1": "Grupo 1",
+    "arm_group2": "Grupo 2",
+    "arm_intervention": "Intervención (combinado)",
+    "arms_summary": "{{intervention}} vs {{control}} grupos",
+    "back": "Volver a pilotos anteriores",
+    "col_arm": "Grupo",
+    "col_change": "Cambio medio",
+    "col_effect": "Efecto (d)",
+    "col_n": "n",
+    "col_responders": "Mejora / igual / empeora",
+    "duration_one": "{{count}} sem",
+    "duration_other": "{{count}} sem",
+    "empty_subtitle": "Cuando finalices un piloto, sus resultados congelados se archivan aquí.",
+    "empty_title": "Aún no hay pilotos anteriores",
+    "headline_adherence": "{{pct}}% adherencia",
+    "headline_cbsa": "CBSA {{change}}",
+    "headline_effect": "d={{d}}",
+    "headline_retention": "{{pct}}% retención",
+    "load_failed": "Error al cargar el informe de este piloto.",
+    "loading": "Cargando informe…",
+    "metric_avg_minutes": "Minutos de práctica medios",
+    "metric_exercises": "Ejercicios completados",
+    "metric_scenarios": "Escenarios realizados",
+    "no_headline": "Sin datos de resumen",
+    "participants_one": "{{count}} paciente",
+    "participants_other": "{{count}} pacientes",
+    "read_only_banner": "Piloto finalizado · {{start}} – {{end}} · solo lectura",
+    "section_engagement": "Aspectos de participación",
+    "section_outcomes": "Cambio de autoseveridad por grupo (CBSA)",
+    "title": "Pilotos anteriores",
+    "view": "Ver"
+  },
+  "pilot_end": {
+    "completed_range": "Finalizado {{start}} – {{end}}",
+    "date_cleared": "Piloto reabierto",
+    "date_set": "Piloto finalizado y archivado",
+    "end_pilot": "Finalizar piloto",
+    "modal": {
+      "arms_label": "Grupos",
+      "arms_value": "{{intervention}} intervención · {{control}} control",
+      "bullet_archive": "Este piloto pasa a Pilotos anteriores (solo lectura).",
+      "bullet_freeze": "Las métricas se congelan en este periodo; la actividad posterior se excluye.",
+      "bullet_restart": "Puedes iniciar un nuevo piloto después.",
+      "cancel": "Cancelar",
+      "confirm": "Finalizar y archivar",
+      "date_hint": "Puede ser una fecha pasada para cerrar un piloto que olvidaste finalizar.",
+      "date_label": "Fecha de fin",
+      "ending": "Finalizando…",
+      "label_label": "Etiqueta (opcional)",
+      "label_placeholder": "p. ej. Cohorte primavera 2026",
+      "participants_label": "Participantes",
+      "participants_value": "{{patients}} pacientes",
+      "title": "¿Finalizar este piloto?",
+      "window_label": "Periodo"
+    },
+    "reopen_tooltip": "Reabrir piloto (borrar fecha de fin)"
   }
 }

@@ -151,7 +151,9 @@
     "group_failed": "Failed to update pilot group",
     "request_failed": "Failed to request assessments",
     "start_failed": "Failed to start pilot",
-    "retry": "Retry"
+    "retry": "Retry",
+    "end_failed": "Failed to update pilot end date",
+    "runs_failed": "Failed to load past pilots"
   },
   "actions": {
     "notification_sent": "Notification logged (placeholder , no email sent yet)",
@@ -179,7 +181,8 @@
     "analytics": "Analytics",
     "outcomes": "Outcomes",
     "engagement": "Engagement",
-    "signals": "Signals"
+    "signals": "Signals",
+    "past_pilots": "Past pilots"
   },
   "engagement": {
     "note": "Usage by arm. Averages are per enrolled patient in the arm (inactive patients count as zero), so arms of different sizes stay comparable. See the Outcomes tab for what each group means.",
@@ -425,5 +428,64 @@
       "adherence_label": "Adherence",
       "joined_week": "Joined week {{week}}"
     }
+  },
+  "past_pilots": {
+    "arm_control": "Control",
+    "arm_group1": "Group 1",
+    "arm_group2": "Group 2",
+    "arm_intervention": "Intervention (pooled)",
+    "arms_summary": "{{intervention}} vs {{control}} arms",
+    "back": "Back to past pilots",
+    "col_arm": "Arm",
+    "col_change": "Mean change",
+    "col_effect": "Effect (d)",
+    "col_n": "n",
+    "col_responders": "Improved / same / worse",
+    "duration_one": "{{count}} wk",
+    "duration_other": "{{count}} wks",
+    "empty_subtitle": "When you end a pilot, its frozen results are archived here.",
+    "empty_title": "No past pilots yet",
+    "headline_adherence": "{{pct}}% adherence",
+    "headline_cbsa": "CBSA {{change}}",
+    "headline_effect": "d={{d}}",
+    "headline_retention": "{{pct}}% retention",
+    "load_failed": "Failed to load this pilot's report.",
+    "loading": "Loading report…",
+    "metric_avg_minutes": "Avg practice minutes",
+    "metric_exercises": "Exercises completed",
+    "metric_scenarios": "Scenarios run",
+    "no_headline": "No summary data",
+    "participants_one": "{{count}} patient",
+    "participants_other": "{{count}} patients",
+    "read_only_banner": "Completed pilot · {{start}} – {{end}} · read-only",
+    "section_engagement": "Engagement highlights",
+    "section_outcomes": "Self-severity change by arm (CBSA)",
+    "title": "Past pilots",
+    "view": "View"
+  },
+  "pilot_end": {
+    "completed_range": "Completed {{start}} – {{end}}",
+    "date_cleared": "Pilot reopened",
+    "date_set": "Pilot ended and archived",
+    "end_pilot": "End pilot",
+    "modal": {
+      "arms_label": "Arms",
+      "arms_value": "{{intervention}} intervention · {{control}} control",
+      "bullet_archive": "This pilot moves to Past pilots (read-only).",
+      "bullet_freeze": "Metrics freeze to this window; later activity is excluded.",
+      "bullet_restart": "You can start a new pilot afterwards.",
+      "cancel": "Cancel",
+      "confirm": "End & archive",
+      "date_hint": "Can be a past date to close a pilot you forgot to end.",
+      "date_label": "End date",
+      "ending": "Ending…",
+      "label_label": "Label (optional)",
+      "label_placeholder": "e.g. Spring 2026 cohort",
+      "participants_label": "Participants",
+      "participants_value": "{{patients}} patients",
+      "title": "End this pilot?",
+      "window_label": "Window"
+    },
+    "reopen_tooltip": "Reopen pilot (clear end date)"
   }
 }

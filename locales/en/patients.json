@@ -157,7 +157,10 @@
       "technique_rating": "Technique Rating",
       "quiz": "Quiz",
       "scenario": "Scenario"
-    }
+    },
+    "finish_error": "Could not send feedback. Please try again.",
+    "save_error": "Could not save feedback. Please try again.",
+    "save_success": "Feedback saved."
   },
   "recent_feedback": {
     "page_title": "Feedback from your therapist",

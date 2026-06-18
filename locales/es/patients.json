@@ -157,7 +157,10 @@
       "technique_rating": "Valoración de Técnica",
       "quiz": "Quiz",
       "scenario": "Escenario"
-    }
+    },
+    "finish_error": "No se pudo enviar el comentario. Inténtalo de nuevo.",
+    "save_error": "No se pudo guardar el comentario. Inténtalo de nuevo.",
+    "save_success": "Comentario guardado."
   },
   "recent_feedback": {
     "page_title": "Feedback de tu terapeuta",
