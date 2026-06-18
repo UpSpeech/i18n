@@ -17,8 +17,6 @@
     "score_label": "Puntuación de Severidad",
     "latest_score": "Última Puntuación",
     "average_score": "Promedio",
-    "min_score": "Más Baja",
-    "max_score": "Más Alta",
     "days_count": "{{count}}d",
     "no_data": "Aún no hay datos de severidad diaria.",
     "no_data_description": "Las puntuaciones de severidad aparecerán aquí cuando el paciente comience a completar los check-ins diarios.",

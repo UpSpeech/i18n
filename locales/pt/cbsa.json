@@ -1,28 +1,16 @@
 {
-  "title": "Avaliação da Fala",
   "title_onboarding": "Avaliação Inicial da Fala",
   "title_weekly": "Check-in Semanal",
   "description_onboarding": "Responde com base na tua experiência da última semana. Não há respostas certas ou erradas.",
   "description_weekly": "Como esteve a tua fala esta semana? As tuas respostas ajudam a acompanhar o teu progresso.",
-  "encouragement": "Leva o tempo que precisares. Não há respostas certas ou erradas.",
   "onboarding_gate": {
     "title": "Um passo rápido antes de começares",
     "description": "Estas 10 perguntas ajudam-nos a personalizar os teus exercícios e acompanhar o teu progresso desde o primeiro dia. Demora cerca de 3 minutos.",
     "cta": "Vamos começar"
   },
   "dashboard_card": {
-    "title_onboarding": "Completa a Tua Avaliação Inicial",
-    "title_weekly": "Check-in Semanal da Fala",
-    "description_onboarding": "Ajuda o teu terapeuta a compreender a tua experiência atual com a gaguez completando esta breve avaliação.",
-    "description_weekly": "Reserva um momento para refletires sobre a tua fala na última semana. Isto ajuda a acompanhar o teu progresso.",
-    "cta_onboarding": "Iniciar Avaliação",
-    "cta_weekly": "Iniciar Check-in",
     "badge_onboarding": "10 perguntas",
-    "badge_weekly": "6 perguntas",
-    "time_estimate_onboarding": "Cerca de 3 minutos",
-    "time_estimate_weekly": "Cerca de 2 minutos",
-    "success_title": "Avaliação concluída!",
-    "success_description": "Obrigado! As tuas respostas foram registadas e partilhadas com o teu terapeuta."
+    "time_estimate_onboarding": "Cerca de 3 minutos"
   },
   "questions": {
     "q1": "Quão severa foi a tua gaguez durante a última semana?",

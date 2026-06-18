@@ -35,12 +35,6 @@
     "high": "Alta",
     "critical": "Crítica"
   },
-  "feedback_types": {
-    "upvote": "Voto Positivo",
-    "downvote": "Voto Negativo",
-    "helpful": "Útil",
-    "not_helpful": "Não Útil"
-  },
   "shareYourFeedback": "Partilha o Teu Feedback",
   "selectCategory": "Que tipo de feedback tens?",
   "changeCategory": "Alterar categoria",
@@ -52,7 +46,6 @@
   "thankYou": "Obrigado!",
   "successMessage": "O teu feedback foi recebido. Iremos revê-lo em breve!",
   "feedbackId": "ID do Feedback",
-  "submitting": "A enviar...",
   "sendFeedback": "Enviar Feedback",
   "submitError": "Falha ao enviar feedback. Tenta novamente.",
   "placeholders": {
@@ -67,35 +60,6 @@
     "improvement": "Sugerir uma melhoria",
     "other": "Feedback geral"
   },
-  "general_form": {
-    "title_label": "Título",
-    "title_placeholder": "Resumo breve do teu feedback",
-    "description_label": "Descrição",
-    "description_placeholder": "Fornece informações detalhadas sobre o teu feedback",
-    "category_label": "Categoria",
-    "category_placeholder": "Seleciona uma categoria",
-    "submit_button": "Enviar Feedback",
-    "cancel_button": "Cancelar",
-    "required_field": "Este campo é obrigatório",
-    "min_length": "Mínimo de {{count}} caracteres necessários",
-    "max_length": "Máximo de {{count}} caracteres permitidos"
-  },
-  "report_feedback": {
-    "helpful_question": "Este relatório foi útil?",
-    "vote_helpful": "Sim, útil",
-    "vote_not_helpful": "Não útil",
-    "add_comment_optional": "Adicionar comentário (opcional)",
-    "comment_placeholder": "Explica porque este relatório foi ou não útil...",
-    "submit_button": "Enviar Feedback",
-    "cancel_button": "Cancelar",
-    "update_button": "Atualizar Feedback",
-    "already_voted": "Já votaste neste relatório",
-    "change_vote": "Alterar o teu voto",
-    "score_label": "Pontuação de Utilidade",
-    "upvotes": "{{count}} útil",
-    "downvotes": "{{count}} não útil",
-    "total_votes": "{{count}} votos totais"
-  },
   "addCommentOptional": "Adicionar comentário (opcional)",
   "commentPlaceholder": "O teu comentário...",
   "giveFeedback": "Dar Feedback",
@@ -108,99 +72,23 @@
   "voteChanged": "Voto Alterado",
   "wasReportHelpful": "Este relatório foi útil?",
   "annotations": {
-    "add_annotation": "Adicionar Anotação",
-    "edit_annotation": "Editar Anotação",
-    "delete_annotation": "Eliminar Anotação",
     "annotation_text": "Anotação",
-    "selected_text": "Texto Selecionado",
-    "comment_label": "Comentário",
-    "comment_placeholder": "Adiciona o teu comentário...",
-    "select_text_prompt": "Seleciona texto no relatório para adicionar uma anotação",
-    "no_annotations": "Ainda sem anotações",
-    "by_author": "por {{author}}",
-    "save_button": "Guardar",
-    "cancel_button": "Cancelar",
-    "delete_confirm": "Tens a certeza de que desejas eliminar esta anotação?",
-    "visible_to": "Visível para terapeutas e administradores",
     "view_report": "Ver Relatório",
     "search_placeholder": "Pesquisar anotações por texto, comentário ou título do relatório..."
   },
   "filters": {
-    "all": "Todos",
-    "category_label": "Categoria",
-    "status_label": "Estado",
-    "priority_label": "Prioridade",
-    "search_placeholder": "Pesquisar feedback...",
-    "clear_filters": "Limpar Filtros",
-    "show_filters": "Mostrar Filtros",
-    "hide_filters": "Ocultar Filtros"
+    "clear_filters": "Limpar Filtros"
   },
   "dashboard": {
-    "stats": {
-      "total_feedback": "Feedback Total",
-      "open_items": "Itens Abertos",
-      "closed_items": "Itens Fechados",
-      "avg_response_time": "Tempo Médio de Resposta"
-    },
-    "recent_feedback": "Feedback Recente",
-    "no_feedback": "Ainda sem envios de feedback",
-    "load_more": "Carregar Mais",
-    "view_details": "Ver Detalhes",
-    "change_status": "Alterar Estado",
-    "change_priority": "Alterar Prioridade",
-    "add_response": "Adicionar Resposta"
-  },
-  "detail_modal": {
-    "title": "Detalhes do Feedback",
-    "submitted_by": "Enviado por",
-    "submitted_at": "Enviado em",
-    "last_updated": "Última atualização",
-    "status_label": "Estado",
-    "priority_label": "Prioridade",
-    "category_label": "Categoria",
-    "responses": "Respostas",
-    "no_responses": "Ainda sem respostas",
-    "add_response": "Adicionar Resposta",
-    "response_placeholder": "Escreve a tua resposta...",
-    "close_button": "Fechar",
-    "save_button": "Guardar Alterações"
-  },
-  "feedback_button": {
-    "give_feedback": "Dar Feedback",
-    "tooltip": "Partilha os teus pensamentos ou reporta problemas"
-  },
-  "empty_states": {
-    "no_general_feedback": "Ainda sem envios de feedback geral",
-    "no_report_feedback": "Ainda sem feedback de relatórios",
-    "no_annotations": "Ainda sem anotações em relatórios",
-    "start_by": "Começa por enviar feedback usando o botão acima"
+    "load_more": "Carregar Mais"
   },
   "loading": {
-    "feedback": "A carregar feedback...",
-    "submitting": "A enviar...",
-    "saving": "A guardar...",
-    "deleting": "A eliminar..."
-  },
-  "success": {
-    "submitted": "Feedback enviado com sucesso",
-    "updated": "Feedback atualizado com sucesso",
-    "deleted": "Feedback eliminado com sucesso",
-    "status_changed": "Estado atualizado com sucesso",
-    "priority_changed": "Prioridade atualizada com sucesso",
-    "vote_recorded": "O teu voto foi registado",
-    "vote_updated": "O teu voto foi atualizado",
-    "annotation_saved": "Anotação guardada com sucesso",
-    "annotation_deleted": "Anotação eliminada com sucesso"
+    "feedback": "A carregar feedback..."
   },
   "errors": {
-    "submit_failed": "Falha ao enviar feedback",
     "update_failed": "Falha ao atualizar feedback",
-    "delete_failed": "Falha ao eliminar feedback",
     "delete_annotation_failed": "Falha ao eliminar anotação",
-    "load_failed": "Falha ao carregar feedback",
-    "vote_failed": "Falha ao registar o teu voto",
-    "annotation_failed": "Falha ao guardar anotação",
-    "generic": "Ocorreu um erro. Por favor, tenta novamente."
+    "load_failed": "Falha ao carregar feedback"
   },
   "filters_title": "Filtros",
   "clear_all": "Limpar Tudo",

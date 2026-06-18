@@ -10,54 +10,15 @@
     "1_year": "Último año",
     "all_time": "Todo el tiempo"
   },
-  "loading": "Cargando datos de progreso...",
   "error": {
-    "title": "Datos no Disponibles",
-    "message": "Hubo un problema al cargar el progreso del paciente. Por favor, inténtelo de nuevo.",
-    "go_back": "Volver"
-  },
-  "back": "Volver",
-  "title": "Resumen del Progreso",
-  "stats": {
-    "total_recordings": "Total de Grabaciones",
-    "total_audio_files": "Total de Archivos de Audio",
-    "all_uploads": "Todas las subidas",
-    "total_reports": "Total de Informes",
-    "total_duration": "Duración Total",
-    "consistency_score": "Índice de Constancia",
-    "mini_game_completions": "Finalizaciones de Mini-Juegos",
-    "assignments": "asignaciones",
-    "practice_sessions": "Sesiones de Práctica",
-    "standalone_practice": "Práctica Independiente",
-    "not_from_assignments": "No de asignaciones",
-    "total_exercises": "Total de Ejercicios"
-  },
-  "charts": {
-    "mini_games": "Mini-Juegos",
-    "recordings": "Grabaciones",
-    "reports": "Informes"
-  },
-  "insights": {
-    "title": "Análisis y Perspectivas",
-    "total_reports": "Total de Informes Generados",
-    "last_7_days_activity": "Actividad (Últimos 7 días)",
-    "in_last_30_days": "en los últimos 30 días",
-    "consistency": "Consistencia",
-    "avg_duration": "Grabación Promedio",
-    "recordings_suffix": "grabaciones"
+    "message": "Hubo un problema al cargar el progreso del paciente. Por favor, inténtelo de nuevo."
   },
   "learning_path": {
     "title": "Progreso de la Ruta de Aprendizaje",
-    "current_milestone": "Actualmente en el Hito {{number}}: {{title}}",
     "view_details": "Ver Detalles",
-    "overall_progress": "Progreso General",
     "steps_completed": "{{completed}} de {{total}} pasos",
-    "status_label": "Estado",
     "started": "Iniciado el {{date}}",
     "current_step_label": "Paso Actual",
-    "step_number": "Paso {{number}}",
-    "step_practice": "Práctica del Paso",
-    "attempts": "intentos",
     "step_type": {
       "standard": "Práctica",
       "quiz": "Quiz",
@@ -65,14 +26,6 @@
       "reflection": "Reflexión",
       "modeling": "Modelado",
       "observation": "Observación"
-    },
-    "exercises_built_in": "Los ejercicios de este paso forman parte del currículo.",
-    "submission": {
-      "quiz_score": "Quiz: {{score}}%",
-      "passed": "Aprobado",
-      "attempts": "{{count}} intentos",
-      "rating": "Calificación: {{rating}}/5",
-      "sessions": "{{count}} sesiones"
     }
   },
   "back_to_patients": "Volver a Pacientes",

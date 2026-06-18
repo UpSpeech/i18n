@@ -1,9 +1,7 @@
 {
   "tabs": {
-    "progress": "Progresso",
     "overview": "Visão Geral",
     "learning_path": "Percurso de Aprendizagem",
-    "exercises": "Exercícios",
     "patients": "Pacientes",
     "invites": "Convites"
   },
@@ -23,9 +21,7 @@
   "edit_patient": "Editar Paciente",
   "update_patient": "Atualizar Paciente",
   "delete_patient": "Eliminar Paciente",
-  "patient_email": "Email do Paciente",
   "send_invite": "Enviar Convite",
-  "sending": "A enviar...",
   "stats": {
     "total_patients": "Total de Pacientes",
     "assigned_to_me": "Atribuídos a Mim",
@@ -34,11 +30,9 @@
   "table": {
     "patient": "Paciente",
     "email": "Email",
-    "type": "Tipo",
     "assignment": "Atribuição",
     "activity": "Atividade",
     "consistency": "Consistência",
-    "joined": "Aderiu",
     "activity_window": "(últimos 7 dias)",
     "consistency_window": "(últimos 30 dias)",
     "activity_help": "Em quantos dias o paciente praticou nos últimos 7 dias. Mede a atividade recente.",
@@ -51,13 +45,9 @@
     "assign_to_me": "Atribuir a Mim",
     "assign_to_therapist": "Atribuir a Terapeuta",
     "reassign": "Reatribuir",
-    "assigning": "A atribuir...",
-    "progress": "Progresso",
-    "export": "Exportar",
-    "exporting": "A exportar..."
+    "assigning": "A atribuir..."
   },
   "status": {
-    "assigned": "Atribuído a Ti",
     "assigned_to": "Atribuído a {{name}}",
     "unassigned": "Não Atribuído",
     "no_data": "Sem dados"
@@ -83,8 +73,6 @@
     "pending": "Pendente",
     "assignment": "Atribuição",
     "all_assignments": "Todas as Atribuições",
-    "assigned_to_me": "Atribuídos a Mim",
-    "unassigned": "Não Atribuídos",
     "filter_by_therapist": "Filtrar por Terapeuta",
     "all_therapists": "Todos os Terapeutas",
     "unassigned_only": "Apenas Não Atribuídos",
@@ -141,8 +129,6 @@
     "finish_and_notify": "Concluir e notificar paciente",
     "finishing": "A enviar...",
     "dismiss": "Dispensar",
-    "success_toast": "Feedback enviado e paciente notificado.",
-    "success_toast_no_notify": "Feedback guardado. A notificação está desativada de momento.",
     "empty_state_title": "Tudo em dia",
     "empty_state_description": "Não há treinos pendentes para rever.",
     "exercise_type_label": "Tipo",

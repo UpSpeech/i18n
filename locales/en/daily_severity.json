@@ -17,8 +17,6 @@
     "score_label": "Severity Score",
     "latest_score": "Latest Score",
     "average_score": "Average",
-    "min_score": "Lowest",
-    "max_score": "Highest",
     "days_count": "{{count}}d",
     "no_data": "No daily severity data available yet.",
     "no_data_description": "Severity scores will appear here once the patient starts completing daily check-ins.",

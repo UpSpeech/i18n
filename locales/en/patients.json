@@ -1,9 +1,7 @@
 {
   "tabs": {
-    "progress": "Progress",
     "overview": "Overview",
     "learning_path": "Learning Path",
-    "exercises": "Exercises",
     "patients": "Patients",
     "invites": "Invites"
   },
@@ -23,9 +21,7 @@
   "edit_patient": "Edit Patient",
   "update_patient": "Update Patient",
   "delete_patient": "Delete Patient",
-  "patient_email": "Patient Email",
   "send_invite": "Send Invite",
-  "sending": "Sending...",
   "stats": {
     "total_patients": "Total Patients",
     "assigned_to_me": "Assigned to Me",
@@ -34,11 +30,9 @@
   "table": {
     "patient": "Patient",
     "email": "Email",
-    "type": "Type",
     "assignment": "Assignment",
     "activity": "Activity",
     "consistency": "Consistency",
-    "joined": "Joined",
     "activity_window": "(last 7 days)",
     "consistency_window": "(last 30 days)",
     "activity_help": "How many days the patient practised in the last 7 days. Measures recent activity.",
@@ -54,13 +48,9 @@
     "assign_to_me": "Assign to Me",
     "assign_to_therapist": "Assign to Therapist",
     "reassign": "Reassign",
-    "assigning": "Assigning...",
-    "progress": "Progress",
-    "export": "Export",
-    "exporting": "Exporting..."
+    "assigning": "Assigning..."
   },
   "status": {
-    "assigned": "Assigned to You",
     "assigned_to": "Assigned to {{name}}",
     "unassigned": "Unassigned",
     "no_data": "No data"
@@ -86,8 +76,6 @@
     "pending": "Pending",
     "assignment": "Assignment",
     "all_assignments": "All Assignments",
-    "assigned_to_me": "Assigned to Me",
-    "unassigned": "Unassigned",
     "filter_by_therapist": "Filter by Therapist",
     "all_therapists": "All Therapists",
     "unassigned_only": "Unassigned Only",
@@ -141,8 +129,6 @@
     "finish_and_notify": "Finish and notify patient",
     "finishing": "Sending...",
     "dismiss": "Dismiss",
-    "success_toast": "Feedback sent and patient notified.",
-    "success_toast_no_notify": "Feedback saved. Notification is currently disabled.",
     "empty_state_title": "All caught up",
     "empty_state_description": "No pending practice to review.",
     "exercise_type_label": "Type",

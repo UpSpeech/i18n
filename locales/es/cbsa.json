@@ -1,28 +1,16 @@
 {
-  "title": "Evaluación del Habla",
   "title_onboarding": "Evaluación Inicial del Habla",
   "title_weekly": "Check-in Semanal",
   "description_onboarding": "Responde basándote en tu experiencia de la última semana. No hay respuestas correctas o incorrectas.",
   "description_weekly": "¿Cómo ha estado tu habla esta semana? Tus respuestas ayudan a seguir tu progreso.",
-  "encouragement": "Tómate tu tiempo. No hay respuestas correctas o incorrectas.",
   "onboarding_gate": {
     "title": "Un paso rápido antes de comenzar",
     "description": "Estas 10 preguntas nos ayudan a personalizar tus ejercicios y seguir tu progreso desde el primer día. Toma unos 3 minutos.",
     "cta": "Empecemos"
   },
   "dashboard_card": {
-    "title_onboarding": "Completa Tu Evaluación Inicial",
-    "title_weekly": "Check-in Semanal del Habla",
-    "description_onboarding": "Ayuda a tu terapeuta a comprender tu experiencia actual con la tartamudez completando esta breve evaluación.",
-    "description_weekly": "Tómate un momento para reflexionar sobre tu habla esta semana. Esto ayuda a seguir tu progreso.",
-    "cta_onboarding": "Iniciar Evaluación",
-    "cta_weekly": "Iniciar Check-in",
     "badge_onboarding": "10 preguntas",
-    "badge_weekly": "6 preguntas",
-    "time_estimate_onboarding": "Aproximadamente 3 minutos",
-    "time_estimate_weekly": "Aproximadamente 2 minutos",
-    "success_title": "¡Evaluación completada!",
-    "success_description": "¡Gracias! Tus respuestas han sido registradas y compartidas con tu terapeuta."
+    "time_estimate_onboarding": "Aproximadamente 3 minutos"
   },
   "questions": {
     "q1": "¿Qué tan severa fue tu tartamudez durante la última semana?",

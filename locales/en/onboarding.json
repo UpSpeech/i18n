@@ -17,10 +17,6 @@
         "title": "Welcome to UpSpeech!",
         "description": "Your speech therapy platform is ready to use."
       },
-      "video_placeholder": {
-        "title": "Demo Video Coming Soon",
-        "description": "A quick video tour of the platform will be available here"
-      },
       "video": {
         "admin": {
           "description": "Learn how to manage your organization and customize your platform",
@@ -50,7 +46,6 @@
       "progress_label": "Onboarding progress",
       "items_label": "Getting started tasks",
       "dismiss": "Dismiss checklist",
-      "dismiss_button": "I'm all set",
       "show_steps": "Show steps",
       "skip": "Skip",
       "skipped": "Skipped",
@@ -97,7 +92,6 @@
         "heading": "Before We Begin",
         "title": "Consent & Privacy",
         "intro": "Your privacy and safety are our priority. Please take a moment to review the information below , it explains how we protect your data during the pilot.",
-        "description": "Before getting started, please review and accept the following:",
         "terms_title": "Terms & Conditions",
         "terms_text": "By participating in this pilot program, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymized form to improve the platform. You may withdraw from the pilot at any time by contacting your administrator.",
         "privacy_title": "Privacy Policy",
@@ -191,8 +185,6 @@
           "list_content": "Your patients will appear here once they accept the invitation."
         },
         "report": {
-          "patient_title": "Select Patient",
-          "patient_content": "Choose which patient this report is for.",
           "recording_title": "Session Recording",
           "recording_content": "Upload or select a recording from a therapy session.",
           "generate_title": "Generate Report",
@@ -253,22 +245,6 @@
       "recording_controls": {
         "title": "Recording Controls",
         "description": "Use these controls to record your practice session. You can pause, resume, and add annotations as you practice."
-      },
-      "report_generation": {
-        "title": "AI Report Generation",
-        "description": "Select a recording and patient, then let AI help generate a clinical report. You can review and edit before saving."
-      },
-      "exercise_assignment": {
-        "title": "Exercise Assignment",
-        "description": "Assign exercises to your patients with deadlines and personalized advice. Track their progress from your dashboard."
-      },
-      "learning_path": {
-        "title": "Your Learning Path",
-        "description": "Follow your personalized therapy journey. Complete exercises, track milestones, and see your progress over time."
-      },
-      "annotation_tools": {
-        "title": "Annotation Tools",
-        "description": "Mark disfluencies and techniques in your recordings. Use the timeline to add precise annotations at specific moments."
       }
     }
   }

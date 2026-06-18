@@ -1,28 +1,16 @@
 {
-  "title": "Speech Assessment",
   "title_onboarding": "Initial Speech Assessment",
   "title_weekly": "Weekly Check-in",
   "description_onboarding": "Answer based on your experience over the past week. There are no right or wrong answers.",
   "description_weekly": "How has your speech been this past week? Your answers help track your progress over time.",
-  "encouragement": "Take your time. There are no right or wrong answers.",
   "onboarding_gate": {
     "title": "One quick step before we begin",
     "description": "These 10 questions help us personalize your exercises and track your progress from day one. Takes about 3 minutes.",
     "cta": "Let's get started"
   },
   "dashboard_card": {
-    "title_onboarding": "Complete Your Initial Assessment",
-    "title_weekly": "Weekly Speech Check-in",
-    "description_onboarding": "Help your therapist understand your current experience with stuttering by completing this short assessment.",
-    "description_weekly": "Take a moment to reflect on your speech this past week. This helps track your progress.",
-    "cta_onboarding": "Start Assessment",
-    "cta_weekly": "Start Check-in",
     "badge_onboarding": "10 questions",
-    "badge_weekly": "6 questions",
-    "time_estimate_onboarding": "About 3 minutes",
-    "time_estimate_weekly": "About 2 minutes",
-    "success_title": "Assessment complete!",
-    "success_description": "Thank you! Your responses have been recorded and shared with your therapist."
+    "time_estimate_onboarding": "About 3 minutes"
   },
   "questions": {
     "q1": "How severe was your stuttering over the last week?",

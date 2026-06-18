@@ -3,7 +3,6 @@
   "subtitle": "Operational dashboard for monitoring pilot engagement",
   "select_tenant": "Select a tenant to view pilot data",
   "no_pilot_patients": "No patients are marked as 'in pilot' for this tenant. Use the enrollment section below to add participants.",
-  "last_updated": "Data as of now",
   "key_metrics": {
     "active_pct": "Active Patients",
     "active_pct_helper": "With 2+ sessions this week",
@@ -32,7 +31,6 @@
     "patient": "Patient",
     "therapist": "Therapist",
     "time_since": "Waiting",
-    "submitted_at": "Submitted",
     "action": "Action",
     "remind": "Remind Therapist",
     "hours_ago": "{{count}}h ago",
@@ -59,7 +57,6 @@
     "therapist": "Therapist",
     "sessions": "Sessions",
     "trend": "vs Last Week",
-    "empty": "No high performers this week yet.",
     "info": "Patients with 3 or more practice sessions this week. Trend compares this week's session count against last week , positive values indicate improvement, 'new' means this is their first qualifying week."
   },
   "activity_overview": {
@@ -125,7 +122,6 @@
     "confirm_title": "Request new speech recordings?",
     "confirm_message": "This will assign a new speech assessment to every pilot patient who doesn't already have one pending. Patients will need to record two new speech samples (reading + monologue) before they can continue using the platform.",
     "confirm_button": "Request recordings",
-    "retries": "Retries",
     "round_number": "Round {{count}}",
     "round_label": {
       "baseline": "Baseline",
@@ -340,9 +336,7 @@
     }
   },
   "analytics": {
-    "title": "Pilot Analytics",
     "pilot_not_started": "Set a pilot start date to unlock analytics.",
-    "loading": "Loading analytics...",
     "load_failed": "Failed to load analytics data.",
     "week_label": "Week {{week}}",
     "adherence": {
@@ -356,7 +350,6 @@
       "subtitle": "Average and median minutes practiced per user per week",
       "avg_label": "Average",
       "median_label": "Median",
-      "y_label": "Minutes",
       "info": "Average and median recording practice time per patient per week, in minutes. The median helps identify whether a few heavy users are skewing the average , if the average is much higher than the median, a small group is doing most of the practice. Only exercise-related recordings (mini-games, learning path exercises) count toward practice time."
     },
     "dropoff": {
@@ -395,9 +388,6 @@
     "severity": {
       "title": "Self-Reported Severity Change",
       "subtitle": "Final minus baseline severity score (CBSA-SR, lower = improvement)",
-      "y_label": "Patient",
-      "baseline": "Baseline",
-      "latest": "Latest",
       "change": "Change",
       "empty": "No severity data available yet.",
       "info": "Change in self-reported stuttering severity using the CBSA-SR (Communication-Based Self-Assessment of Stuttering , Self-Report) scale. Compares each patient's onboarding baseline score against their most recent weekly assessment. Negative values (green bars) indicate improvement; positive values (red bars) indicate worsening. Patients need both a baseline and at least one follow-up assessment to appear here."
@@ -409,8 +399,6 @@
       "week1_activation": "Week 1 Activation",
       "week1_helper": "% completing ≥2 sessions in first week",
       "week1_info": "Percentage of pilot patients who completed at least 2 practice sessions during their first week in the program. A session counts when exercise recordings total ≥3 minutes or a quiz exercise is completed. Target: ≥60%. This is a leading indicator , low activation predicts higher dropout.",
-      "therapist_adoption": "Therapist Adoption",
-      "therapist_helper": "Survey data required",
       "not_available": "N/A"
     },
     "alerts": {
@@ -425,25 +413,16 @@
       "inactive_3d": "{{count}} patient(s) inactive for 3+ days",
       "no_alerts": "No alerts , pilot is on track."
     },
-    "users_at_risk": {
-      "title": "Users at Risk",
-      "at_risk": "At Risk (3-6 days)",
-      "high_risk": "High Risk (7+ days)"
-    },
     "snapshots": {
       "compare_label": "Compare with",
       "select_date": "Select a snapshot date",
       "clear": "Clear comparison",
-      "no_snapshots": "No snapshots available yet",
       "patient_count": "{{count}} patients",
-      "vs_days_ago": "vs {{count}}d ago",
-      "vs_yesterday": "vs yesterday",
       "evolution_title": "KPI Trends Over Time",
       "evolution_subtitle": "How key metrics evolved across daily snapshots",
       "show_trends": "Show KPI trends",
       "hide_trends": "Hide KPI trends",
       "adherence_label": "Adherence",
-      "comparison_legend": "Comparison ({{date}})",
       "joined_week": "Joined week {{week}}"
     }
   }

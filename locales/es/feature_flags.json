@@ -9,7 +9,6 @@
     "show_help": "Cómo funcionan las funcionalidades"
   },
   "legend": {
-    "title": "Leyenda de etiquetas",
     "enabled": "Activada en esta organización",
     "disabled": "Desactivada en esta organización",
     "global_override": "Forzada para todas las organizaciones",
@@ -30,7 +29,6 @@
   },
   "flags": {
     "title": "Funcionalidades",
-    "loading": "Cargando funcionalidades...",
     "no_flags": "No hay funcionalidades disponibles",
     "no_results": "Ninguna funcionalidad coincide con \"{{query}}\"",
     "search_placeholder": "Buscar funcionalidades",
@@ -67,9 +65,6 @@
   "warning": {
     "global_override_active": "Anulación Global Activa",
     "global_override_description": "Esta funcionalidad está <strong>globalmente {{status}}</strong> para todas las organizaciones. Las configuraciones específicas de la organización se ignoran. Vaya a la organización <strong>Sistema (Propietarios de la Plataforma)</strong> para cambiar la anulación global."
-  },
-  "loading": {
-    "tenants": "Cargando organizaciones..."
   },
   "success": {
     "flag_enabled": "Funcionalidad \"{{key}}\" activada con éxito",

@@ -19,7 +19,6 @@
     "cancel": "Cancelar",
     "grant": "Conceder Acesso",
     "grant_title": "Conceder {{permission}}",
-    "grant_description": "Seleciona um terapeuta para conceder acesso.",
     "revoke_title": "Revogar Acesso"
   },
   "select_therapist": "Selecionar um terapeuta...",
@@ -28,11 +27,6 @@
   "success": {
     "granted": "Acesso concedido com sucesso.",
     "revoked": "Acesso revogado com sucesso."
-  },
-  "errors": {
-    "grant_failed": "Falha ao conceder acesso.",
-    "revoke_failed": "Falha ao revogar acesso.",
-    "load_failed": "Falha ao carregar permissões."
   },
   "confirm_revoke": "Tens a certeza que desejas revogar o acesso de {{name}}? Deixará de poder utilizar esta funcionalidade.",
   "inherent_access_note": "Administradores e proprietários têm sempre este acesso. Usa esta secção para concedê-lo a terapeutas específicos."

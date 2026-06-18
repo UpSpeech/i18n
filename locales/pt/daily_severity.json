@@ -17,8 +17,6 @@
     "score_label": "Pontuação de Gravidade",
     "latest_score": "Última Pontuação",
     "average_score": "Média",
-    "min_score": "Mais Baixa",
-    "max_score": "Mais Alta",
     "days_count": "{{count}}d",
     "no_data": "Ainda não há dados de gravidade diária.",
     "no_data_description": "As pontuações de gravidade aparecerão aqui quando o paciente começar a completar os check-ins diários.",

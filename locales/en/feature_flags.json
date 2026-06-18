@@ -9,7 +9,6 @@
     "show_help": "How feature flags work"
   },
   "legend": {
-    "title": "Badge legend",
     "enabled": "Currently on for this tenant",
     "disabled": "Currently off for this tenant",
     "global_override": "Forced on or off for every tenant",
@@ -30,7 +29,6 @@
   },
   "flags": {
     "title": "Feature Flags",
-    "loading": "Loading feature flags...",
     "no_flags": "No feature flags available",
     "no_results": "No flags match \"{{query}}\"",
     "search_placeholder": "Search flags",
@@ -67,9 +65,6 @@
   "warning": {
     "global_override_active": "Global Override Active",
     "global_override_description": "This flag is <strong>globally {{status}}</strong> for all tenants. Tenant-specific settings are ignored. Go to <strong>System (Platform Owners)</strong> tenant to change the global override."
-  },
-  "loading": {
-    "tenants": "Loading tenants..."
   },
   "success": {
     "flag_enabled": "Feature flag \"{{key}}\" enabled successfully",

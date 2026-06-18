@@ -1,7 +1,5 @@
 {
   "tenant": {
-    "settings": "definições",
-    "settings_description": "Configura as definições da organização e gere informações da equipa",
     "organization_settings": "Definições da organização",
     "organization_name": "Nome da organização",
     "organization_name_placeholder": "Nome da tua organização",
@@ -10,7 +8,6 @@
     "organization_slug_placeholder": "minha-organizacao",
     "organization_slug_help": "Usado para identificar a organização (apenas letras, números e traços)",
     "save_settings": "Guardar definições",
-    "saving": "A guardar...",
     "settings_updated": "Definições atualizadas com sucesso",
     "organization_info": "Informações da organização",
     "organization_id": "ID da organização",
@@ -31,8 +28,6 @@
     "view_reports_description": "Aceder aos relatórios da organização",
     "not_found": "Organização não encontrada",
     "not_found_description": "Não foi possível carregar as definições da organização. Contacta o suporte.",
-    "no_tenant_assigned": "Nenhuma organização atribuída à tua conta. Contacta o teu administrador.",
-    "tenant_not_found_backend": "Os dados da organização estão incompletos. Algumas funcionalidades podem não funcionar corretamente. Contacta o teu administrador para corrigir a configuração da organização.",
     "logo_alt": "Logótipo",
     "branding": {
       "section_title": "Marca e personalização",
@@ -50,7 +45,6 @@
       "website": "Website",
       "website_placeholder": "https://www.exemplo.com",
       "footer_text": "Texto de rodapé",
-      "footer_text_helper": "Este texto aparecerá no final dos relatórios gerados",
       "footer_text_placeholder": "Texto personalizado a aparecer nos relatórios"
     },
     "select_tenant": "Selecionar organização",
@@ -71,8 +65,6 @@
     "logo_deleted": "Logótipo eliminado com sucesso"
   },
   "tenants": {
-    "tenant": "organização",
-    "tenant_id": "ID da organização",
     "search_placeholder": "Pesquisar organizações...",
     "all_tenants": "Todas as organizações",
     "active_tenants": "Organizações ativas",
@@ -90,7 +82,6 @@
     "active": "Ativas",
     "inactive": "Inativas",
     "created": "Criada",
-    "manage_description": "Gerir todas as organizações no sistema",
     "create_tenant": "Criar organização",
     "edit_tenant": "Editar organização",
     "update_tenant": "Atualizar organização",

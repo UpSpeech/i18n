@@ -17,10 +17,6 @@
         "title": "¡Bienvenido a UpSpeech!",
         "description": "Tu plataforma de terapia del habla está lista para usar."
       },
-      "video_placeholder": {
-        "title": "Vídeo de Demostración Próximamente",
-        "description": "Un vídeo rápido de la plataforma estará disponible aquí"
-      },
       "video": {
         "admin": {
           "description": "Aprende a gestionar tu organización y personalizar tu plataforma",
@@ -50,7 +46,6 @@
       "progress_label": "Progreso de incorporación",
       "items_label": "Tareas de inicio",
       "dismiss": "Cerrar lista",
-      "dismiss_button": "Ya estoy listo",
       "show_steps": "Ver pasos",
       "skip": "Omitir",
       "skipped": "Omitido",
@@ -97,7 +92,6 @@
         "heading": "Antes de Comenzar",
         "title": "Consentimiento y Privacidad",
         "intro": "Tu privacidad y seguridad son nuestra prioridad. Por favor, tómate un momento para revisar la información a continuación , explica cómo protegemos tus datos durante el piloto.",
-        "description": "Antes de comenzar, por favor revisa y acepta lo siguiente:",
         "terms_title": "Términos y Condiciones",
         "terms_text": "Al participar en este programa piloto, aceptas utilizar UpSpeech de acuerdo con su propósito como herramienta de apoyo a la terapia del habla. Tus datos de uso pueden ser recopilados de forma anonimizada para mejorar la plataforma. Puedes retirarte del piloto en cualquier momento contactando a tu administrador.",
         "privacy_title": "Política de Privacidad",
@@ -191,8 +185,6 @@
           "list_content": "Tus pacientes aparecerán aquí cuando acepten la invitación."
         },
         "report": {
-          "patient_title": "Seleccionar Paciente",
-          "patient_content": "Elige para qué paciente es este informe.",
           "recording_title": "Grabación de Sesión",
           "recording_content": "Sube o selecciona una grabación de una sesión terapéutica.",
           "generate_title": "Generar Informe",
@@ -253,22 +245,6 @@
       "recording_controls": {
         "title": "Controles de Grabación",
         "description": "Usa estos controles para grabar tu sesión de práctica. Puedes pausar, reanudar y añadir anotaciones mientras practicas."
-      },
-      "report_generation": {
-        "title": "Generación de Informes con IA",
-        "description": "Selecciona una grabación y paciente, luego deja que la IA ayude a generar un informe clínico. Puedes revisar y editar antes de guardar."
-      },
-      "exercise_assignment": {
-        "title": "Asignación de Ejercicios",
-        "description": "Asigna ejercicios a tus pacientes con plazos y consejos personalizados. Rastrea su progreso desde tu panel."
-      },
-      "learning_path": {
-        "title": "Tu Ruta de Aprendizaje",
-        "description": "Sigue tu viaje terapéutico personalizado. Completa ejercicios, rastrea hitos y observa tu progreso a lo largo del tiempo."
-      },
-      "annotation_tools": {
-        "title": "Herramientas de Anotación",
-        "description": "Marca disfluencias y técnicas en tus grabaciones. Usa la línea de tiempo para añadir anotaciones precisas en momentos específicos."
       }
     }
   }

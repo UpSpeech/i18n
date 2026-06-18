@@ -35,12 +35,6 @@
     "high": "Alta",
     "critical": "Crítica"
   },
-  "feedback_types": {
-    "upvote": "Voto Positivo",
-    "downvote": "Voto Negativo",
-    "helpful": "Útil",
-    "not_helpful": "No Útil"
-  },
   "shareYourFeedback": "Comparte tu Feedback",
   "selectCategory": "¿Qué tipo de feedback tienes?",
   "changeCategory": "Cambiar categoría",
@@ -52,7 +46,6 @@
   "thankYou": "¡Gracias!",
   "successMessage": "Tu feedback ha sido recibido. ¡Lo revisaremos pronto!",
   "feedbackId": "ID del Feedback",
-  "submitting": "Enviando...",
   "sendFeedback": "Enviar Feedback",
   "submitError": "Error al enviar feedback. Por favor inténtalo de nuevo.",
   "placeholders": {
@@ -67,129 +60,24 @@
     "improvement": "Sugerir una mejora",
     "other": "Comentario general"
   },
-  "general_form": {
-    "title_label": "Título",
-    "title_placeholder": "Resumen breve de tu feedback",
-    "description_label": "Descripción",
-    "description_placeholder": "Proporciona información detallada sobre tu feedback",
-    "category_label": "Categoría",
-    "category_placeholder": "Selecciona una categoría",
-    "submit_button": "Enviar Feedback",
-    "cancel_button": "Cancelar",
-    "required_field": "Este campo es obligatorio",
-    "min_length": "Mínimo {{count}} caracteres requeridos",
-    "max_length": "Máximo {{count}} caracteres permitidos"
-  },
-  "report_feedback": {
-    "helpful_question": "¿Fue útil este informe?",
-    "vote_helpful": "Sí, útil",
-    "vote_not_helpful": "No útil",
-    "add_comment_optional": "Agregar comentario (opcional)",
-    "comment_placeholder": "Explica por qué este informe fue o no fue útil...",
-    "submit_button": "Enviar Feedback",
-    "cancel_button": "Cancelar",
-    "update_button": "Actualizar Feedback",
-    "already_voted": "Ya has votado en este informe",
-    "change_vote": "Cambiar tu voto",
-    "score_label": "Puntuación de Utilidad",
-    "upvotes": "{{count}} útil",
-    "downvotes": "{{count}} no útil",
-    "total_votes": "{{count}} votos totales"
-  },
   "annotations": {
     "search_placeholder": "Buscar anotaciones por texto, comentario o título del informe...",
     "view_report": "Ver informe",
-    "add_annotation": "Agregar Anotación",
-    "edit_annotation": "Editar Anotación",
-    "delete_annotation": "Eliminar Anotación",
-    "annotation_text": "Anotación",
-    "selected_text": "Texto Seleccionado",
-    "comment_label": "Comentario",
-    "comment_placeholder": "Agrega tu comentario...",
-    "select_text_prompt": "Selecciona texto en el informe para agregar una anotación",
-    "no_annotations": "Aún no hay anotaciones",
-    "by_author": "por {{author}}",
-    "save_button": "Guardar",
-    "cancel_button": "Cancelar",
-    "delete_confirm": "¿Estás seguro de que deseas eliminar esta anotación?",
-    "visible_to": "Visible para terapeutas y administradores"
+    "annotation_text": "Anotación"
   },
   "filters": {
-    "all": "Todos",
-    "category_label": "Categoría",
-    "status_label": "Estado",
-    "priority_label": "Prioridad",
-    "search_placeholder": "Buscar feedback...",
-    "clear_filters": "Limpiar Filtros",
-    "show_filters": "Mostrar Filtros",
-    "hide_filters": "Ocultar Filtros"
+    "clear_filters": "Limpiar Filtros"
   },
   "dashboard": {
-    "stats": {
-      "total_feedback": "Comentarios Totales",
-      "open_items": "Elementos Abiertos",
-      "closed_items": "Elementos Cerrados",
-      "avg_response_time": "Tiempo Medio de Respuesta"
-    },
-    "recent_feedback": "Comentarios Recientes",
-    "no_feedback": "Aún no hay envíos de comentarios",
-    "load_more": "Cargar Más",
-    "view_details": "Ver Detalles",
-    "change_status": "Cambiar Estado",
-    "change_priority": "Cambiar Prioridad",
-    "add_response": "Agregar Respuesta"
-  },
-  "detail_modal": {
-    "title": "Detalles del Comentario",
-    "submitted_by": "Enviado por",
-    "submitted_at": "Enviado el",
-    "last_updated": "Última actualización",
-    "status_label": "Estado",
-    "priority_label": "Prioridad",
-    "category_label": "Categoría",
-    "responses": "Respuestas",
-    "no_responses": "Aún no hay respuestas",
-    "add_response": "Agregar Respuesta",
-    "response_placeholder": "Escribe tu respuesta...",
-    "close_button": "Cerrar",
-    "save_button": "Guardar Cambios"
-  },
-  "feedback_button": {
-    "give_feedback": "Dar Feedback",
-    "tooltip": "Comparte tus pensamientos o reporta problemas"
-  },
-  "empty_states": {
-    "no_general_feedback": "Aún no hay envíos de comentarios generales",
-    "no_report_feedback": "Aún no hay comentarios de informes",
-    "no_annotations": "Aún no hay anotaciones en informes",
-    "start_by": "Comienza enviando comentarios usando el botón de arriba"
+    "load_more": "Cargar Más"
   },
   "loading": {
-    "feedback": "Cargando feedback...",
-    "submitting": "Enviando...",
-    "saving": "Guardando...",
-    "deleting": "Eliminando..."
-  },
-  "success": {
-    "submitted": "Feedback enviado con éxito",
-    "updated": "Feedback actualizado con éxito",
-    "deleted": "Feedback eliminado con éxito",
-    "status_changed": "Estado actualizado con éxito",
-    "priority_changed": "Prioridad actualizada con éxito",
-    "vote_recorded": "Tu voto ha sido registrado",
-    "vote_updated": "Tu voto ha sido actualizado",
-    "annotation_saved": "Anotación guardada con éxito",
-    "annotation_deleted": "Anotación eliminada con éxito"
+    "feedback": "Cargando feedback..."
   },
   "errors": {
-    "submit_failed": "Error al enviar feedback",
     "update_failed": "Error al actualizar feedback",
-    "delete_failed": "Error al eliminar comentario",
     "delete_annotation_failed": "Error al eliminar anotación",
-    "load_failed": "Error al cargar comentarios",
-    "vote_failed": "Error al registrar su voto",
-    "annotation_failed": "Error al guardar anotación",
-    "generic": "Ocurrió un error. Por favor, intente nuevamente."
+    "load_failed": "Error al cargar comentarios"
   },
   "filters_title": "Filtros",
   "clear_all": "Limpiar todo",

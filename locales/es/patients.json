@@ -1,9 +1,7 @@
 {
   "tabs": {
-    "progress": "Progreso",
     "overview": "Visión General",
     "learning_path": "Ruta de Aprendizaje",
-    "exercises": "Ejercicios",
     "patients": "Pacientes",
     "invites": "Invitaciones"
   },
@@ -23,9 +21,7 @@
   "edit_patient": "Editar Paciente",
   "update_patient": "Actualizar Paciente",
   "delete_patient": "Eliminar Paciente",
-  "patient_email": "Correo del Paciente",
   "send_invite": "Enviar Invitación",
-  "sending": "Enviando...",
   "stats": {
     "total_patients": "Total de Pacientes",
     "assigned_to_me": "Asignados a Mí",
@@ -34,11 +30,9 @@
   "table": {
     "patient": "Paciente",
     "email": "Correo Electrónico",
-    "type": "Tipo",
     "assignment": "Asignación",
     "activity": "Actividad",
     "consistency": "Consistencia",
-    "joined": "Se Unió",
     "activity_window": "(últimos 7 días)",
     "consistency_window": "(últimos 30 días)",
     "activity_help": "Cuántos días practicó el paciente en los últimos 7 días. Mide la actividad reciente.",
@@ -51,13 +45,9 @@
     "assign_to_me": "Asignar a Mí",
     "assign_to_therapist": "Asignar a Terapeuta",
     "reassign": "Reasignar",
-    "assigning": "Asignando...",
-    "progress": "Progreso",
-    "export": "Exportar",
-    "exporting": "Exportando..."
+    "assigning": "Asignando..."
   },
   "status": {
-    "assigned": "Asignado a Ti",
     "assigned_to": "Asignado a {{name}}",
     "unassigned": "No Asignado",
     "no_data": "Sin datos"
@@ -83,8 +73,6 @@
     "pending": "Pendiente",
     "assignment": "Asignación",
     "all_assignments": "Todas las Asignaciones",
-    "assigned_to_me": "Asignados a Mí",
-    "unassigned": "No Asignados",
     "filter_by_therapist": "Filtrar por Terapeuta",
     "all_therapists": "Todos los Terapeutas",
     "unassigned_only": "Solo No Asignados",
@@ -141,8 +129,6 @@
     "finish_and_notify": "Terminar y notificar al paciente",
     "finishing": "Enviando...",
     "dismiss": "Cerrar",
-    "success_toast": "Comentario enviado y paciente notificado.",
-    "success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento.",
     "empty_state_title": "Todo al día",
     "empty_state_description": "No hay prácticas pendientes por revisar.",
     "exercise_type_label": "Tipo",

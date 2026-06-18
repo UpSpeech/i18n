@@ -3,7 +3,6 @@
   "subtitle": "Panel operativo para monitorizar la participación del piloto",
   "select_tenant": "Seleccione una clínica para ver los datos del piloto",
   "no_pilot_patients": "Ningún paciente está marcado como 'en piloto' para esta clínica. Use la sección de inscripción para añadir participantes.",
-  "last_updated": "Datos actuales",
   "group_filter": {
     "label": "Grupo",
     "all": "Todos los grupos",
@@ -44,7 +43,6 @@
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "time_since": "En espera",
-    "submitted_at": "Enviado",
     "action": "Acción",
     "remind": "Recordar Terapeuta",
     "hours_ago": "hace {{count}}h",
@@ -71,7 +69,6 @@
     "therapist": "Terapeuta",
     "sessions": "Sesiones",
     "trend": "vs Semana Anterior",
-    "empty": "Aún sin mejores rendimientos esta semana.",
     "info": "Pacientes con 3 o más sesiones de práctica esta semana. La tendencia compara el número de sesiones de esta semana con la semana anterior , valores positivos indican mejora, 'new' significa que es su primera semana cualificada."
   },
   "activity_overview": {
@@ -137,7 +134,6 @@
     "confirm_title": "¿Solicitar nuevas grabaciones de habla?",
     "confirm_message": "Esto asignará una nueva evaluación de habla a cada paciente del piloto que aún no tenga una pendiente. Los pacientes deberán grabar dos nuevas muestras de habla (lectura + monólogo) antes de poder continuar usando la plataforma.",
     "confirm_button": "Solicitar grabaciones",
-    "retries": "Reintentos",
     "round_number": "Ronda {{count}}",
     "round_label": {
       "baseline": "Inicial",
@@ -340,9 +336,7 @@
     }
   },
   "analytics": {
-    "title": "Analítica del Piloto",
     "pilot_not_started": "Establece una fecha de inicio del piloto para desbloquear la analítica.",
-    "loading": "Cargando analítica...",
     "load_failed": "Error al cargar datos de analítica.",
     "week_label": "Semana {{week}}",
     "adherence": {
@@ -356,7 +350,6 @@
       "subtitle": "Promedio y mediana de minutos practicados por usuario por semana",
       "avg_label": "Promedio",
       "median_label": "Mediana",
-      "y_label": "Minutos",
       "info": "Promedio y mediana del tiempo de práctica de grabación por paciente por semana, en minutos. La mediana ayuda a identificar si algunos usuarios intensivos distorsionan el promedio , si el promedio es mucho mayor que la mediana, un grupo pequeño está haciendo la mayor parte de la práctica. Solo las grabaciones relacionadas con ejercicios (mini-juegos, ejercicios del itinerario de aprendizaje) cuentan para el tiempo de práctica."
     },
     "dropoff": {
@@ -395,9 +388,6 @@
     "severity": {
       "title": "Cambio en Severidad Auto-Reportada",
       "subtitle": "Puntuación final menos baseline (CBSA-SR, menor = mejoría)",
-      "y_label": "Paciente",
-      "baseline": "Línea Base",
-      "latest": "Más Reciente",
       "change": "Cambio",
       "empty": "Sin datos de severidad disponibles.",
       "info": "Cambio en la severidad de la tartamudez auto-reportada usando la escala CBSA-SR (Communication-Based Self-Assessment of Stuttering , Self-Report). Compara la puntuación baseline de onboarding de cada paciente con su evaluación semanal más reciente. Valores negativos (barras verdes) indican mejoría; valores positivos (barras rojas) indican empeoramiento. Los pacientes necesitan un baseline y al menos una evaluación de seguimiento para aparecer aquí."
@@ -409,8 +399,6 @@
       "week1_activation": "Activación Semana 1",
       "week1_helper": "% con ≥2 sesiones en primera semana",
       "week1_info": "Porcentaje de pacientes del piloto que completaron al menos 2 sesiones de práctica durante su primera semana en el programa. Una sesión cuenta cuando las grabaciones de ejercicios totalizan ≥3 minutos o un ejercicio de cuestionario se completa. Objetivo: ≥60%. Este es un indicador adelantado , baja activación predice mayor abandono.",
-      "therapist_adoption": "Adopción por Terapeutas",
-      "therapist_helper": "Datos de encuesta requeridos",
       "not_available": "N/D"
     },
     "alerts": {
@@ -425,25 +413,16 @@
       "inactive_3d": "{{count}} paciente(s) inactivos por 3+ días",
       "no_alerts": "Sin alertas , el piloto va por buen camino."
     },
-    "users_at_risk": {
-      "title": "Usuarios en Riesgo",
-      "at_risk": "En Riesgo (3-6 días)",
-      "high_risk": "Alto Riesgo (7+ días)"
-    },
     "snapshots": {
       "compare_label": "Comparar con",
       "select_date": "Seleccionar fecha del snapshot",
       "clear": "Borrar comparación",
-      "no_snapshots": "Aún no hay snapshots disponibles",
       "patient_count": "{{count}} pacientes",
-      "vs_days_ago": "vs hace {{count}}d",
-      "vs_yesterday": "vs ayer",
       "evolution_title": "Tendencias de KPIs a lo Largo del Tiempo",
       "evolution_subtitle": "Cómo evolucionaron las métricas clave en los snapshots diarios",
       "show_trends": "Mostrar tendencias de KPIs",
       "hide_trends": "Ocultar tendencias de KPIs",
       "adherence_label": "Adherencia",
-      "comparison_legend": "Comparación ({{date}})",
       "joined_week": "Se unió semana {{week}}"
     }
   }
