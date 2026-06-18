@@ -160,7 +160,9 @@
     },
     "finish_error": "Could not send feedback. Please try again.",
     "save_error": "Could not save feedback. Please try again.",
-    "save_success": "Feedback saved."
+    "save_success": "Feedback saved.",
+    "success_toast": "Feedback sent and patient notified.",
+    "success_toast_no_notify": "Feedback saved. Notification is currently disabled."
   },
   "recent_feedback": {
     "page_title": "Feedback from your therapist",

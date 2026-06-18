@@ -160,7 +160,9 @@
     },
     "finish_error": "No se pudo enviar el comentario. Inténtalo de nuevo.",
     "save_error": "No se pudo guardar el comentario. Inténtalo de nuevo.",
-    "save_success": "Comentario guardado."
+    "save_success": "Comentario guardado.",
+    "success_toast": "Comentario enviado y paciente notificado.",
+    "success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento."
   },
   "recent_feedback": {
     "page_title": "Feedback de tu terapeuta",

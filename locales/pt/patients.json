@@ -160,7 +160,9 @@
     },
     "finish_error": "Não foi possível enviar o feedback. Tente novamente.",
     "save_error": "Não foi possível guardar o feedback. Tente novamente.",
-    "save_success": "Feedback guardado."
+    "save_success": "Feedback guardado.",
+    "success_toast": "Feedback enviado e paciente notificado.",
+    "success_toast_no_notify": "Feedback guardado. A notificação está desativada de momento."
   },
   "recent_feedback": {
     "page_title": "Feedback do teu terapeuta",
