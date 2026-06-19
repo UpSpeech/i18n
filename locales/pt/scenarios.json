@@ -58,6 +58,7 @@
   "view_analysis": "Ver Análise",
   "session_duration": "Sessão: {{minutes}}m {{seconds}}s",
   "objectives_loading": "Pratica este cenário de forma natural. Concentra-te numa comunicação clara e em manter a calma.",
+  "objectives_in_call_hint": "Fala com naturalidade. A IA vai guiar-te até aos teus objetivos.",
   "tab": {
     "title": "Prática de Cenários",
     "subtitle": "Pratica conversas do dia a dia num ambiente seguro e acolhedor",
