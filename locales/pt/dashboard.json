@@ -21,6 +21,7 @@
     "recordings_reviewed": "{{count}} gravações revistas",
     "no_recordings_reviewed": "Nenhuma gravação revista ainda",
     "pending_review": "{{count}} pendentes de revisão",
+    "recent_feedback_title": "Feedback recente",
     "steps_completed": "Passos Concluídos",
     "of_steps": "de {{total}} passos",
     "practice_time": "Tempo de Prática",
