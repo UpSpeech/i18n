@@ -155,7 +155,9 @@
     "no_patients": "No patients yet",
     "empty_admin": "Messaging is for therapists and patients",
     "empty_admin_description": "Direct messages connect patients with their assigned therapist.",
-    "send_error": "Could not send your message. Please try again."
+    "send_error": "Could not send your message. Please try again.",
+    "unread_count_one": "{{count}} unread message",
+    "unread_count_other": "{{count}} unread messages"
   },
   "practice": {
     "title": "Practice Mini-Games",

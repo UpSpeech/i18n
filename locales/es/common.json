@@ -148,7 +148,9 @@
     "no_patients": "Aún no tienes pacientes",
     "empty_admin": "Los mensajes son para terapeutas y pacientes",
     "empty_admin_description": "Los mensajes directos conectan a los pacientes con su terapeuta asignado.",
-    "send_error": "No se pudo enviar tu mensaje. Inténtalo de nuevo."
+    "send_error": "No se pudo enviar tu mensaje. Inténtalo de nuevo.",
+    "unread_count_one": "{{count}} mensaje sin leer",
+    "unread_count_other": "{{count}} mensajes sin leer"
   },
   "practice": {
     "title": "Practicar Mini Juegos",
