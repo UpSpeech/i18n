@@ -21,6 +21,7 @@
     "recordings_reviewed": "{{count}} recordings reviewed",
     "no_recordings_reviewed": "No recordings reviewed yet",
     "pending_review": "{{count}} pending review",
+    "recent_feedback_title": "Recent feedback",
     "steps_completed": "Steps Completed",
     "of_steps": "of {{total}} steps",
     "practice_time": "Practice Time",
