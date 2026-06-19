@@ -95,7 +95,8 @@
         "terms_title": "Términos y Condiciones",
         "terms_text": "Al participar en este programa piloto, aceptas utilizar UpSpeech de acuerdo con su propósito como herramienta de apoyo a la terapia del habla. Tus datos de uso pueden ser recopilados de forma anonimizada para mejorar la plataforma. Puedes retirarte del piloto en cualquier momento contactando a tu administrador.",
         "privacy_title": "Política de Privacidad",
-        "privacy_text": "UpSpeech recopila grabaciones de audio, datos de ejercicios y análisis de uso para proporcionar servicios de terapia del habla. Tus datos se almacenan de forma segura, cifrados en reposo y en tránsito. Los datos personales nunca se comparten con terceros sin tu consentimiento explícito. Las grabaciones de audio se procesan únicamente para análisis del habla y elaboración de informes clínicos.",
+        "privacy_text": "UpSpeech recopila grabaciones de audio, datos de ejercicios y análisis de uso para proporcionar servicios de terapia del habla. Tus datos se almacenan de forma segura, cifrados en reposo y en tránsito. Tus grabaciones se procesan para el análisis del habla y la generación de informes clínicos, lo que implica a proveedores de IA externos de confianza (ElevenLabs para la transcripción y Gemini de Google para la generación de informes) que actúan únicamente según nuestras instrucciones. Nunca vendemos tus datos ni los compartimos para ningún otro fin sin tu consentimiento explícito. Tus grabaciones solo se usan para entrenar modelos de IA si decides participar por separado.",
+        "privacy_link": "Leer nuestra Política de Privacidad completa",
         "accept_terms": "Acepto los Términos y Condiciones",
         "accept_privacy": "Acepto la Política de Privacidad",
         "required_hint": "Por favor, completa este paso para continuar"
