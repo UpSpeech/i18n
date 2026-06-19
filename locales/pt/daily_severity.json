@@ -31,5 +31,10 @@
     "note_deleted": "Nota eliminada",
     "note_save_error": "Falha ao guardar nota. Por favor tenta novamente.",
     "note_hint": "Clica num dia para adicionar uma nota"
+  },
+  "patient_trend": {
+    "title": "Dia a dia",
+    "subtitle": "Os teus registos diários rápidos entre os semanais.",
+    "hint": "Mais baixo significa um dia mais calmo. As subidas e descidas diárias são normais."
   }
 }

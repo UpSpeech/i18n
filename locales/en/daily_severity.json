@@ -31,5 +31,10 @@
     "note_deleted": "Note deleted",
     "note_save_error": "Failed to save note. Please try again.",
     "note_hint": "Click on a day to add a note"
+  },
+  "patient_trend": {
+    "title": "Day by day",
+    "subtitle": "Your quick daily check-ins between the weekly ones.",
+    "hint": "Lower means a calmer day. Daily dips and rises are normal."
   }
 }
