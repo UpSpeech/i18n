@@ -58,6 +58,7 @@
   "view_analysis": "View Analysis",
   "session_duration": "Session: {{minutes}}m {{seconds}}s",
   "objectives_loading": "Practice this scenario naturally. Focus on clear communication and staying calm.",
+  "objectives_in_call_hint": "Speak naturally. The AI will guide you toward your objectives.",
   "tab": {
     "title": "Scenario Practice",
     "subtitle": "Practice real-world conversations in a safe, supportive environment",
