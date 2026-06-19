@@ -1049,5 +1049,19 @@
   "recent_feedback_empty_hint": "Feedback from your therapist will appear here after they review your practice.",
   "recent_feedback_type_recording": "Practice recording",
   "recent_feedback_type_mini_game": "Mini-game",
-  "recent_feedback_type_scenario": "Conversation scenario"
+  "recent_feedback_type_scenario": "Conversation scenario",
+
+  "progress_consistency": "Consistency",
+  "progress_consistency_pending": "Practice on another day to start tracking your consistency.",
+  "progress_habit": "Habit",
+  "progress_days_of_21": "{{days}} / {{total}} days",
+  "progress_habit_caption": "Active days, last 3 weeks",
+  "progress_activity_title": "Activity",
+  "progress_activity_range": "Last 12 weeks",
+  "progress_activity_less": "Less",
+  "progress_activity_more": "More",
+  "progress_weekly_title": "This Week",
+  "progress_weekly_sessions": "Sessions",
+  "progress_weekly_avg": "Avg session",
+  "progress_weekly_total": "Total time"
 }

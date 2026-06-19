@@ -1049,5 +1049,19 @@
   "recent_feedback_empty_hint": "O feedback do teu terapeuta aparece aqui depois de ele rever as tuas sessões de prática.",
   "recent_feedback_type_recording": "Gravação de prática",
   "recent_feedback_type_mini_game": "Mini-jogo",
-  "recent_feedback_type_scenario": "Cenário de conversa"
+  "recent_feedback_type_scenario": "Cenário de conversa",
+
+  "progress_consistency": "Consistência",
+  "progress_consistency_pending": "Pratica noutro dia para começar a medir a tua consistência.",
+  "progress_habit": "Hábito",
+  "progress_days_of_21": "{{days}} / {{total}} dias",
+  "progress_habit_caption": "Dias ativos, últimas 3 semanas",
+  "progress_activity_title": "Atividade",
+  "progress_activity_range": "Últimas 12 semanas",
+  "progress_activity_less": "Menos",
+  "progress_activity_more": "Mais",
+  "progress_weekly_title": "Esta Semana",
+  "progress_weekly_sessions": "Sessões",
+  "progress_weekly_avg": "Sessão média",
+  "progress_weekly_total": "Tempo total"
 }
