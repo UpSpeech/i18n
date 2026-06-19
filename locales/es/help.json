@@ -107,7 +107,7 @@
   "faq": {
     "what_is_upspeech": {
       "question": "¿Qué es UpSpeech y para quién es?",
-      "answer": "UpSpeech es una plataforma de terapia del habla construida para terapeutas y sus pacientes, con enfoque en la terapia de la tartamudez. Los terapeutas la usan para asignar ejercicios, gestionar rutas de aprendizaje, generar informes clínicos con IA y hacer seguimiento del progreso de los pacientes. Los pacientes la usan para practicar ejercicios diarios, seguir jornadas terapéuticas estructuradas y grabar sesiones de práctica."
+      "answer": "UpSpeech es una plataforma de logopedia construida para terapeutas y sus pacientes, con enfoque en la terapia de la tartamudez. Los terapeutas la usan para asignar ejercicios, gestionar rutas de aprendizaje, generar informes clínicos con IA y hacer seguimiento del progreso de los pacientes. Los pacientes la usan para practicar ejercicios diarios, seguir jornadas terapéuticas estructuradas y grabar sesiones de práctica."
     },
     "what_are_learning_paths": {
       "question": "¿Qué son las rutas de aprendizaje?",

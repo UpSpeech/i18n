@@ -73,7 +73,7 @@
     "duplicate_file_processing": "Este archivo está siendo procesado. Redirigiendo a informes...",
     "select_report_type_description": "Selecciona el tipo de informe que deseas generar a partir de esta grabación.",
     "select_report_type_placeholder": "Selecciona un tipo de informe...",
-    "consent_label": "Reconozco que el paciente ha consentido que esta grabación de audio sea transcrita y analizada para fines de terapia del habla.",
+    "consent_label": "Reconozco que el paciente ha consentido que esta grabación de audio sea transcrita y analizada para fines de logopedia.",
     "consent_helper": "Este reconocimiento es necesario para cumplir con las regulaciones de protección de datos y garantizar prácticas clínicas éticas.",
     "duplicate_file_no_report": "Este archivo ya ha sido subido.",
     "configuration": "Configuración",

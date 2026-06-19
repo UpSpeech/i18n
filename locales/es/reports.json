@@ -42,7 +42,7 @@
   "delete_report": "Eliminar Informe",
   "delete_confirmation": "¿Estás seguro de que quieres eliminar {{title}}? Esta acción no se puede deshacer.",
   "template": {
-    "subtitle": "Informe de Terapia del Habla",
+    "subtitle": "Informe de Logopedia",
     "clinical_analysis": "Análisis Clínico",
     "report_date": "Fecha del Informe",
     "patient_information": "Información del Paciente",

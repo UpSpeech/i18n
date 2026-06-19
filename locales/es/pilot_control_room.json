@@ -230,7 +230,7 @@
   },
   "outcomes": {
     "no_data": "Aún no hay datos para esta medida.",
-    "arm_note": "Grupos: Intervención ({{intervention}}) = Grupo 1 + Grupo 2. El Grupo 1 ({{group1}}) empezó la terapia del habla con UpSpeech; el Grupo 2 ({{group2}}) ya estaba en terapia del habla. El Control ({{control}}) fue evaluado pero no usó la app, por lo que aparece sobre todo en la evaluación pre/post de abajo. En las medidas de gravedad, valores más bajos son mejores.",
+    "arm_note": "Grupos: Intervención ({{intervention}}) = Grupo 1 + Grupo 2. El Grupo 1 ({{group1}}) empezó la logopedia con UpSpeech; el Grupo 2 ({{group2}}) ya estaba en logopedia. El Control ({{control}}) fue evaluado pero no usó la app, por lo que aparece sobre todo en la evaluación pre/post de abajo. En las medidas de gravedad, valores más bajos son mejores.",
     "arms": {
       "intervention": "Intervención",
       "group1": "Grupo 1 (empezó con UpSpeech)",
