@@ -148,14 +148,14 @@
     "start": "Start the conversation",
     "tipsTitle": "Set the scene",
     "tips": {
-      "job_interview": "Sit up straight, picture the interviewer across the desk, and treat the first question like the real thing.",
-      "phone_call": "Imagine holding a phone to your ear and speak as if the other person can only hear your voice, not see you.",
-      "social_interaction": "Picture yourself walking up to someone new. Keep it light and let the small talk flow.",
-      "ordering_food": "Picture the counter in front of you and the line behind. Decide your order before you start.",
-      "medical_appointment": "Imagine you are in the room with the doctor. Be ready to describe how you feel in your own words.",
-      "public_speaking": "Stand if you can, picture the room looking back at you, and take one breath before your first line.",
-      "customer_service": "Picture the person who can help you. Say what you need clearly and stay calm if it takes a moment.",
-      "other": "Take a moment to picture where this conversation happens and who you are speaking to before you start."
+      "job_interview": "Sit up, hands on the desk or in your lap. Look at the camera as if you're making eye contact.",
+      "phone_call": "Pick up your phone and hold it to your ear. Speak directly into it, not at the screen.",
+      "social_interaction": "Lean slightly forward, as if you're starting a real conversation. Keep your hands relaxed.",
+      "ordering_food": "Sit or stand up. Keep a real drink or snack nearby if you can, and decide what you'd order before you press Start.",
+      "medical_appointment": "Sit back with your feet on the floor. You're in the chair across from the doctor.",
+      "public_speaking": "Stand up if you can, face the camera directly, and place your feet shoulder-width apart.",
+      "customer_service": "Sit or stand as if you're at a counter. You can take a moment before you speak.",
+      "other": "Get comfortable and take one breath before you start. Speak out loud, as if the conversation were really happening."
     }
   },
   "realtime": {

@@ -148,14 +148,14 @@
     "start": "Iniciar conversa",
     "tipsTitle": "Prepara o ambiente",
     "tips": {
-      "job_interview": "Senta-te direito, imagina o entrevistador à tua frente e responde à primeira pergunta como se fosse a sério.",
-      "phone_call": "Imagina que tens um telefone encostado ao ouvido e fala como se a outra pessoa só te conseguisse ouvir, não ver.",
-      "social_interaction": "Imagina que te aproximas de alguém novo. Mantém um tom leve e deixa a conversa fluir.",
-      "ordering_food": "Imagina o balcão à tua frente e a fila atrás de ti. Decide o teu pedido antes de começar.",
-      "medical_appointment": "Imagina que estás no consultório com o médico. Prepara-te para descrever como te sentes por palavras tuas.",
-      "public_speaking": "Põe-te de pé se puderes, imagina a sala a olhar para ti e respira uma vez antes da primeira frase.",
-      "customer_service": "Imagina a pessoa que te pode ajudar. Diz o que precisas com clareza e mantém a calma se demorar um momento.",
-      "other": "Reserva um momento para imaginar onde acontece esta conversa e com quem falas antes de começar."
+      "job_interview": "Senta-te direito, com as mãos sobre a mesa ou no colo. Olha para a câmara como se estivesses a fazer contacto visual.",
+      "phone_call": "Pega no telemóvel e encosta-o ao ouvido. Fala diretamente para ele, não para o ecrã.",
+      "social_interaction": "Inclina-te ligeiramente para a frente, como se estivesses a começar uma conversa real. Mantém as mãos relaxadas.",
+      "ordering_food": "Senta-te ou põe-te de pé. Tem por perto uma bebida ou um snack a sério se puderes, e decide o teu pedido antes de carregares em Iniciar.",
+      "medical_appointment": "Encosta-te para trás com os pés no chão. Estás na cadeira em frente ao médico.",
+      "public_speaking": "Põe-te de pé se puderes, olha de frente para a câmara e afasta os pés à largura dos ombros.",
+      "customer_service": "Senta-te ou põe-te de pé como se estivesses ao balcão. Podes fazer uma pausa antes de falar.",
+      "other": "Põe-te confortável e respira uma vez antes de começar. Fala em voz alta, como se a conversa estivesse mesmo a acontecer."
     }
   },
   "realtime": {
