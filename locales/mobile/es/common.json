@@ -1073,5 +1073,22 @@
   "progress_weekly_title": "Esta Semana",
   "progress_weekly_sessions": "Sesiones",
   "progress_weekly_avg": "Sesión promedio",
-  "progress_weekly_total": "Tiempo total"
+  "progress_weekly_total": "Tiempo total",
+  "attention_queue_title": "Cola de atención",
+  "attention_queue_description": "Pacientes que necesitan tu acción hoy, los más urgentes primero.",
+  "attention_queue_sublabel": "Requieren acción hoy",
+  "attention_queue_state_needs_attention": "Necesita atención",
+  "attention_queue_state_observing": "En observación",
+  "attention_queue_reason_never_active": "Sin actividad todavía",
+  "attention_queue_reason_inactive_3d_plus": "Sin práctica desde hace 3+ días",
+  "attention_queue_reason_inactive_1_2d": "Sin práctica desde hace 1-2 días",
+  "attention_queue_reason_recordings_pending_48h": "Grabaciones por revisar desde hace 48h+",
+  "attention_queue_reason_weekly_checkin_overdue": "Revisión semanal pendiente",
+  "attention_queue_reason_moderate_or_worse": "Gravedad moderada o peor",
+  "attention_queue_reason_worsening_weekly": "Tendencia semanal a empeorar",
+  "attention_queue_reason_high_daily": "Puntuaciones diarias recientes altas",
+  "attention_queue_action_review": "Revisar ahora",
+  "attention_queue_milestone": "Hito {{position}} / {{total}}",
+  "last_active_days_ago_one": "Última actividad hace 1 día",
+  "last_active_days_ago_other": "Última actividad hace {{count}} días"
 }
