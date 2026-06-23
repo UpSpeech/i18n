@@ -1057,7 +1057,7 @@
   "scenario_realtime_fallback_server_error": "The AI service hit an error. Switching to guided mode.",
   "recent_feedback_title": "Recent Feedback",
   "recent_feedback_empty": "No feedback yet",
-  "recent_feedback_empty_hint": "Feedback you give patients will appear here.",
+  "recent_feedback_empty_hint": "Feedback from your therapist will appear here after they review your practice.",
   "recent_feedback_type_recording": "Practice recording",
   "recent_feedback_type_mini_game": "Mini-game",
   "recent_feedback_type_scenario": "Conversation scenario",

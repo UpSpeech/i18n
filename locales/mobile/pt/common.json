@@ -1057,7 +1057,7 @@
   "scenario_realtime_fallback_server_error": "O serviço de IA encontrou um erro. A mudar para modo guiado.",
   "recent_feedback_title": "Feedback Recente",
   "recent_feedback_empty": "Ainda sem feedback",
-  "recent_feedback_empty_hint": "O feedback que deres aos teus pacientes aparece aqui.",
+  "recent_feedback_empty_hint": "O feedback do teu terapeuta aparece aqui depois de ele rever as tuas sessões de prática.",
   "recent_feedback_type_recording": "Gravação de prática",
   "recent_feedback_type_mini_game": "Mini-jogo",
   "recent_feedback_type_scenario": "Cenário de conversa",
