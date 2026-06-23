@@ -854,5 +854,22 @@
     "microphone": "Microphone",
     "camera": "Camera",
     "grant_access": "Allow access to see device names"
+  },
+  "learning_path": {
+    "recap_fallback": "Prefer to read or listen?",
+    "hierarchy_easiest": "Easiest",
+    "hierarchy_hardest": "Hardest",
+    "hierarchy_placeholder": "e.g. ordering a coffee",
+    "hierarchy_submit": "Send to therapist",
+    "real_world_outside_note": "The one task that happens outside the app",
+    "real_world_who": "Who did you speak to?",
+    "real_world_technique": "Which technique did you use?",
+    "real_world_surprised": "What surprised you?",
+    "real_world_submit": "Submit report",
+    "toolkit_pick": "Pick 2 to 3 that feel most like yours",
+    "toolkit_when": "When would you use each one?",
+    "toolkit_submit": "Save my toolkit",
+    "technique_watch_demo": "Watch the demo",
+    "technique_submit": "Submit recording"
   }
 }

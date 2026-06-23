@@ -1151,5 +1151,20 @@
   "quick_review_save_error": "No se pudo guardar el comentario. Inténtalo de nuevo.",
   "quick_review_save_success": "Comentario guardado.",
   "quick_review_success_toast": "Comentario enviado y paciente notificado.",
-  "quick_review_success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento."
+  "quick_review_success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento.",
+  "learning_path_recap_fallback": "¿Prefieres leer o escuchar?",
+  "learning_path_hierarchy_easiest": "Más fácil",
+  "learning_path_hierarchy_hardest": "Más difícil",
+  "learning_path_hierarchy_placeholder": "p. ej. pedir un café",
+  "learning_path_hierarchy_submit": "Enviar al terapeuta",
+  "learning_path_real_world_outside_note": "La tarea que ocurre fuera de la app",
+  "learning_path_real_world_who": "¿Con quién hablaste?",
+  "learning_path_real_world_technique": "¿Qué técnica usaste?",
+  "learning_path_real_world_surprised": "¿Qué te sorprendió?",
+  "learning_path_real_world_submit": "Enviar informe",
+  "learning_path_toolkit_pick": "Elige de 2 a 3 que sientas más tuyas",
+  "learning_path_toolkit_when": "¿Cuándo usarías cada una?",
+  "learning_path_toolkit_submit": "Guardar mi kit",
+  "learning_path_technique_watch_demo": "Ver la demostración",
+  "learning_path_technique_submit": "Enviar grabación"
 }

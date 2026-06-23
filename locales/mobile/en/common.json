@@ -1151,5 +1151,20 @@
   "quick_review_save_error": "Could not save feedback. Please try again.",
   "quick_review_save_success": "Feedback saved.",
   "quick_review_success_toast": "Feedback sent and patient notified.",
-  "quick_review_success_toast_no_notify": "Feedback saved. Notification is currently disabled."
+  "quick_review_success_toast_no_notify": "Feedback saved. Notification is currently disabled.",
+  "learning_path_recap_fallback": "Prefer to read or listen?",
+  "learning_path_hierarchy_easiest": "Easiest",
+  "learning_path_hierarchy_hardest": "Hardest",
+  "learning_path_hierarchy_placeholder": "e.g. ordering a coffee",
+  "learning_path_hierarchy_submit": "Send to therapist",
+  "learning_path_real_world_outside_note": "The one task that happens outside the app",
+  "learning_path_real_world_who": "Who did you speak to?",
+  "learning_path_real_world_technique": "Which technique did you use?",
+  "learning_path_real_world_surprised": "What surprised you?",
+  "learning_path_real_world_submit": "Submit report",
+  "learning_path_toolkit_pick": "Pick 2 to 3 that feel most like yours",
+  "learning_path_toolkit_when": "When would you use each one?",
+  "learning_path_toolkit_submit": "Save my toolkit",
+  "learning_path_technique_watch_demo": "Watch the demo",
+  "learning_path_technique_submit": "Submit recording"
 }
