@@ -242,5 +242,11 @@
     "complete": "Completo",
     "inactive_tenants": "Organizações Inativas",
     "inactive_tenants_description": "Organizações sem gravações no período atual"
+  },
+  "training_consent_prompt": {
+    "title": "Ajuda a melhorar a terapia para os outros",
+    "body": "Com a tua autorização, as tuas gravações podem treinar a IA de terapia da fala da UpSpeech para que melhore para todos. É opcional e podes mudar de ideias a qualquer momento.",
+    "accept": "Usar as minhas gravações",
+    "success": "Obrigado por ajudares a melhorar a UpSpeech."
   }
 }

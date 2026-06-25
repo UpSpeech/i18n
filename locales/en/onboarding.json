@@ -99,7 +99,8 @@
         "privacy_link": "Read our full Privacy Policy",
         "accept_terms": "I accept the Terms & Conditions",
         "accept_privacy": "I accept the Privacy Policy",
-        "required_hint": "Please complete this step to continue"
+        "required_hint": "Please complete this step to continue",
+        "training_benefit_title": "Help improve UpSpeech for others (optional)"
       },
       "media": {
         "heading": "Camera & Microphone",
