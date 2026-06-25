@@ -76,8 +76,8 @@
         "invite_patient_description": "Envía una invitación para empezar a trabajar juntos",
         "create_report": "Crea tu primer informe",
         "create_report_description": "Genera un informe clínico asistido por IA",
-        "assign_exercise": "Asigna un ejercicio",
-        "assign_exercise_description": "Ayuda a tu paciente a practicar en casa",
+        "assign_exercise": "Asigna una ruta de aprendizaje",
+        "assign_exercise_description": "Define el camino terapéutico de tu paciente",
         "explore_library": "Descubre ejercicios",
         "explore_library_description": "Navega por los ejercicios y juegos disponibles"
       }
@@ -171,8 +171,6 @@
           "activity_content": "Grabaciones recientes y actividad de tus pacientes aparecen aquí.",
           "bubble_chart_title": "Participación de Pacientes",
           "bubble_chart_content": "Identifica patrones de participación de tus pacientes rápidamente.",
-          "stale_patients_title": "Pacientes Inactivos",
-          "stale_patients_content": "Pacientes sin actividad durante 5+ días se señalan aquí.",
           "nav_patients_title": "Mis Pacientes",
           "nav_patients_content": "Gestiona tus pacientes, envía invitaciones y ve su progreso.",
           "nav_reports_title": "Informes",
@@ -194,9 +192,7 @@
         },
         "assign": {
           "row_title": "Seleccionar Paciente",
-          "row_content": "Haz clic en un paciente para ver su perfil y opciones de asignación.",
-          "action_title": "Asignar Ejercicios",
-          "action_content": "Usa este botón para asignar ejercicios a tu paciente."
+          "row_content": "Haz clic en un paciente para abrir su perfil y gestionar su ruta de aprendizaje."
         },
         "library": {
           "grid_title": "Biblioteca de Ejercicios",

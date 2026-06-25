@@ -76,8 +76,8 @@
         "invite_patient_description": "Envia um convite para começarem a trabalhar juntos",
         "create_report": "Cria o teu primeiro relatório",
         "create_report_description": "Gera um relatório clínico assistido por IA",
-        "assign_exercise": "Atribui um exercício",
-        "assign_exercise_description": "Ajuda o teu paciente a praticar em casa",
+        "assign_exercise": "Atribui um percurso de aprendizagem",
+        "assign_exercise_description": "Define a jornada terapêutica do teu paciente",
         "explore_library": "Descobre exercícios",
         "explore_library_description": "Navega pelos exercícios e jogos disponíveis"
       }
@@ -171,8 +171,6 @@
           "activity_content": "Gravações recentes e atividade dos teus pacientes aparecem aqui.",
           "bubble_chart_title": "Envolvimento dos Pacientes",
           "bubble_chart_content": "Identifica padrões de envolvimento dos teus pacientes rapidamente.",
-          "stale_patients_title": "Pacientes Inativos",
-          "stale_patients_content": "Pacientes sem atividade há 5+ dias são sinalizados aqui.",
           "nav_patients_title": "Os Meus Pacientes",
           "nav_patients_content": "Gere os teus pacientes, envia convites e vê o progresso deles.",
           "nav_reports_title": "Relatórios",
@@ -194,9 +192,7 @@
         },
         "assign": {
           "row_title": "Selecionar Paciente",
-          "row_content": "Clica num paciente para veres o perfil e opções de atribuição.",
-          "action_title": "Atribuir Exercícios",
-          "action_content": "Usa este botão para atribuíres exercícios ao teu paciente."
+          "row_content": "Clica num paciente para abrires o perfil e gerires o percurso de aprendizagem."
         },
         "library": {
           "grid_title": "Biblioteca de Exercícios",

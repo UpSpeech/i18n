@@ -76,8 +76,8 @@
         "invite_patient_description": "Send an invitation to start working together",
         "create_report": "Create your first report",
         "create_report_description": "Generate an AI-assisted clinical report",
-        "assign_exercise": "Assign an exercise",
-        "assign_exercise_description": "Help your patient practice at home",
+        "assign_exercise": "Assign a learning path",
+        "assign_exercise_description": "Set your patient's therapy journey",
         "explore_library": "Discover exercises",
         "explore_library_description": "Browse available exercises and mini-games"
       }
@@ -171,8 +171,6 @@
           "activity_content": "Recent recordings and activity from your patients appear here.",
           "bubble_chart_title": "Patient Engagement",
           "bubble_chart_content": "Spot engagement patterns across your patients at a glance.",
-          "stale_patients_title": "Inactive Patients",
-          "stale_patients_content": "Patients who haven't been active for 5+ days are flagged here.",
           "nav_patients_title": "My Patients",
           "nav_patients_content": "Manage your patients, send invitations, and view their progress.",
           "nav_reports_title": "Reports",
@@ -194,9 +192,7 @@
         },
         "assign": {
           "row_title": "Select a Patient",
-          "row_content": "Click a patient to see their profile and assignment options.",
-          "action_title": "Assign Exercises",
-          "action_content": "Use this button to assign exercises to your patient."
+          "row_content": "Click a patient to open their profile and manage their learning path."
         },
         "library": {
           "grid_title": "Exercise Library",
