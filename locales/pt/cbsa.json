@@ -73,10 +73,10 @@
     "global_impression": "Impressão Global",
     "question_scores": "Pontuações por Pergunta",
     "q1_short": "Severidade",
-    "q2_short": "Evit. Palavras",
+    "q2_short": "Evitar palavras",
     "q3_short": "Tensão",
     "q4_short": "Energia",
-    "q5_short": "Evit. Conversa",
+    "q5_short": "Evitar conversa",
     "q6_short": "Ansiedade"
   },
   "patient_progress": {
