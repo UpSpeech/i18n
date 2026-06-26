@@ -1032,6 +1032,8 @@
 
   "scenario_realtime_ready_title": "Ready when you are",
   "scenario_realtime_ready_subtitle": "We'll connect you with the AI for a live conversation. Take your time and stutter freely.",
+  "scenario_realtime_ready_tip_title": "Set the scene",
+  "scenario_realtime_ready_tip": "Get comfortable and take one breath before you start. Speak out loud, as if the conversation were really happening.",
   "scenario_realtime_start": "Start the call",
   "scenario_realtime_headphones_hint": "Headphones recommended for the cleanest audio.",
   "scenario_realtime_status_connecting": "Connecting…",

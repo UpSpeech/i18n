@@ -1032,6 +1032,8 @@
 
   "scenario_realtime_ready_title": "Listo cuando lo estés",
   "scenario_realtime_ready_subtitle": "Te conectaremos con la IA para una conversación en vivo. Tómate tu tiempo y tartamudea con libertad.",
+  "scenario_realtime_ready_tip_title": "Prepara el ambiente",
+  "scenario_realtime_ready_tip": "Ponte cómodo y respira una vez antes de empezar. Habla en voz alta, como si la conversación ocurriera de verdad.",
   "scenario_realtime_start": "Iniciar llamada",
   "scenario_realtime_headphones_hint": "Recomendamos auriculares para un audio más limpio.",
   "scenario_realtime_status_connecting": "Conectando…",
