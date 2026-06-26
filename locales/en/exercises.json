@@ -571,24 +571,24 @@
   "motor_control": {
     "step": {
       "easy_voluntary": "Easy Voluntary Stuttering",
-      "voluntary_with_force": "Voluntary Stuttering with Force",
-      "voluntary_without_force": "Voluntary Stuttering without Force",
+      "voluntary_with_force": "Voluntary Stuttering with Tension",
+      "voluntary_without_force": "Voluntary Stuttering without Tension",
       "easy_voluntary_desc": "Practice easy repetitions. Mark when you're doing voluntary (controlled) stuttering.",
-      "voluntary_with_force_desc": "Exaggerate the tension. Press the Force button when you start using force, and Release when you let go.",
+      "voluntary_with_force_desc": "Exaggerate the tension. Press the Tension button when you start adding tension, and Release when you let go.",
       "voluntary_without_force_desc": "Same stuttering moments, but now soft and controlled. Mark the moments to show your control."
     },
     "ready_title": "Ready to Practice",
     "ready_desc": "Start recording and practice voluntary stuttering. Use the button to mark your moments.",
-    "ready_force_desc": "Start recording and use the buttons below to mark when you're using force and when you release.",
+    "ready_force_desc": "Start recording and use the buttons below to mark when you're adding tension and when you release.",
     "completed": "Practice Completed!",
     "submit": "Submit Practice",
     "finish": "Finish",
     "practice_again": "Practice Again",
     "mark": "Mark",
-    "force": "Force",
+    "force": "Tension",
     "release": "Release",
     "marking": "Marking...",
-    "forcing": "Forcing...",
+    "forcing": "Tensing...",
     "releasing": "Releasing...",
     "hold_count": "Moments: {{count}}",
     "completed_no_moments": "Practice Recorded",
@@ -706,6 +706,7 @@
       "pull_out": "Pull-out",
       "cancellation": "Cancellation",
       "easy_onset": "Easy Onset",
+      "preparatory_set": "Preparatory set",
       "pause": "Pause"
     },
     "submit": "Complete Exercise",
@@ -870,6 +871,33 @@
     "toolkit_when": "When would you use each one?",
     "toolkit_submit": "Save my toolkit",
     "technique_watch_demo": "Watch the demo",
-    "technique_submit": "Submit recording"
+    "technique_submit": "Submit recording",
+    "speech_rate_warmup_reading": {
+      "title": "Slow reading warm-up",
+      "pause_legend": "Each break is a pause: hold it, and stretch the syllables on either side.",
+      "passage": [
+        "The morning sun",
+        "came in slowly",
+        "through the open window",
+        "and filled the quiet room",
+        "with a soft, warm light"
+      ]
+    },
+    "soft_articulatory_contacts": {
+      "title": "Soft articulatory contacts",
+      "with_tension": "With tension",
+      "without_tension": "Without tension",
+      "soften_only": "Soften only",
+      "hint": "Say each one twice: first with tension, then let it go soft. At sentence level, soften only the hard word.",
+      "levels": [
+        { "label": "Syllables", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
+        { "label": "Words", "items": ["prize", "press", "proud", "print", "prompt"] },
+        {
+          "label": "Sentences",
+          "softenOnly": true,
+          "items": ["The proud prince pressed print.", "Press the prize and stay calm."]
+        }
+      ]
+    }
   }
 }

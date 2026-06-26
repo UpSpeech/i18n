@@ -535,24 +535,24 @@
   "motor_control": {
     "step": {
       "easy_voluntary": "Gaguez Voluntária Fácil",
-      "voluntary_with_force": "Gaguez Voluntária com Força",
-      "voluntary_without_force": "Gaguez Voluntária sem Força",
+      "voluntary_with_force": "Gaguez Voluntária com Tensão",
+      "voluntary_without_force": "Gaguez Voluntária sem Tensão",
       "easy_voluntary_desc": "Pratica repetições fáceis. Marca quando estás a fazer gaguez voluntária (controlada).",
-      "voluntary_with_force_desc": "Exagera a tensão. Prime o botão Força quando começares a usar força, e Libertar quando soltares.",
+      "voluntary_with_force_desc": "Exagera a tensão. Prime o botão Tensão quando começares a aumentar a tensão, e Libertar quando soltares.",
       "voluntary_without_force_desc": "Os mesmos momentos de gaguez, mas agora suaves e controlados. Marca os momentos para mostrar o teu controlo."
     },
     "ready_title": "Pronto para Praticar",
     "ready_desc": "Inicia a gravação e pratica gaguez voluntária. Usa o botão para marcar os teus momentos.",
-    "ready_force_desc": "Inicia a gravação e usa os botões abaixo para marcar quando estás a usar força e quando libertas.",
+    "ready_force_desc": "Inicia a gravação e usa os botões abaixo para marcar quando estás a aumentar a tensão e quando libertas.",
     "completed": "Prática Concluída!",
     "submit": "Submeter Prática",
     "finish": "Terminar",
     "practice_again": "Praticar Novamente",
     "mark": "Marcar",
-    "force": "Forçar",
+    "force": "Tensão",
     "release": "Libertar",
     "marking": "A marcar...",
-    "forcing": "A forçar...",
+    "forcing": "A tensar...",
     "releasing": "A libertar...",
     "hold_count": "Momentos: {{count}}",
     "completed_no_moments": "Prática Gravada",
@@ -706,6 +706,7 @@
       "pull_out": "Pull-out",
       "cancellation": "Cancelamento",
       "easy_onset": "Início Suave",
+      "preparatory_set": "Preparatory set",
       "pause": "Pausa"
     },
     "submit": "Completar Exercício",
@@ -870,6 +871,33 @@
     "toolkit_when": "Quando usarias cada uma?",
     "toolkit_submit": "Guardar o meu kit",
     "technique_watch_demo": "Ver a demonstração",
-    "technique_submit": "Enviar gravação"
+    "technique_submit": "Enviar gravação",
+    "speech_rate_warmup_reading": {
+      "title": "Aquecimento de leitura lenta",
+      "pause_legend": "Cada corte é uma pausa: mantém-na e estica as sílabas de cada lado.",
+      "passage": [
+        "O sol da manhã",
+        "entrou devagar",
+        "pela janela aberta",
+        "e encheu a sala tranquila",
+        "com uma luz suave e quente"
+      ]
+    },
+    "soft_articulatory_contacts": {
+      "title": "Contactos articulatórios suaves",
+      "with_tension": "Com tensão",
+      "without_tension": "Sem tensão",
+      "soften_only": "Só suavizar",
+      "hint": "Diz cada um duas vezes: primeiro com tensão e depois deixa-o suave. Na frase, suaviza só a palavra difícil.",
+      "levels": [
+        { "label": "Sílabas", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
+        { "label": "Palavras", "items": ["prato", "prenda", "primo", "pronto", "prémio"] },
+        {
+          "label": "Frases",
+          "softenOnly": true,
+          "items": ["O primo prometeu uma prenda.", "Prepara o prato com calma."]
+        }
+      ]
+    }
   }
 }
