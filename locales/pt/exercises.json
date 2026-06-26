@@ -871,6 +871,33 @@
     "toolkit_when": "Quando usarias cada uma?",
     "toolkit_submit": "Guardar o meu kit",
     "technique_watch_demo": "Ver a demonstração",
-    "technique_submit": "Enviar gravação"
+    "technique_submit": "Enviar gravação",
+    "speech_rate_warmup_reading": {
+      "title": "Aquecimento de leitura lenta",
+      "pause_legend": "Cada corte é uma pausa: mantém-na e estica as sílabas de cada lado.",
+      "passage": [
+        "O sol da manhã",
+        "entrou devagar",
+        "pela janela aberta",
+        "e encheu a sala tranquila",
+        "com uma luz suave e quente"
+      ]
+    },
+    "soft_articulatory_contacts": {
+      "title": "Contactos articulatórios suaves",
+      "with_tension": "Com tensão",
+      "without_tension": "Sem tensão",
+      "soften_only": "Só suavizar",
+      "hint": "Diz cada um duas vezes: primeiro com tensão e depois deixa-o suave. Na frase, suaviza só a palavra difícil.",
+      "levels": [
+        { "label": "Sílabas", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
+        { "label": "Palavras", "items": ["prato", "prenda", "primo", "pronto", "prémio"] },
+        {
+          "label": "Frases",
+          "softenOnly": true,
+          "items": ["O primo prometeu uma prenda.", "Prepara o prato com calma."]
+        }
+      ]
+    }
   }
 }
