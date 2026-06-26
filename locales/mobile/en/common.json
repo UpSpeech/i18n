@@ -1166,5 +1166,32 @@
   "learning_path_toolkit_when": "When would you use each one?",
   "learning_path_toolkit_submit": "Save my toolkit",
   "learning_path_technique_watch_demo": "Watch the demo",
-  "learning_path_technique_submit": "Submit recording"
+  "learning_path_technique_submit": "Submit recording",
+  "learning_path_speech_rate_warmup_reading": {
+    "title": "Slow reading warm-up",
+    "pause_legend": "Each break is a pause: hold it, and stretch the syllables on either side.",
+    "passage": [
+      "The morning sun",
+      "came in slowly",
+      "through the open window",
+      "and filled the quiet room",
+      "with a soft, warm light"
+    ]
+  },
+  "learning_path_soft_articulatory_contacts": {
+    "title": "Soft articulatory contacts",
+    "with_tension": "With tension",
+    "without_tension": "Without tension",
+    "soften_only": "Soften only",
+    "hint": "Say each one twice: first with tension, then let it go soft. At sentence level, soften only the hard word.",
+    "levels": [
+      { "label": "Syllables", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
+      { "label": "Words", "items": ["prize", "press", "proud", "print", "prompt"] },
+      {
+        "label": "Sentences",
+        "softenOnly": true,
+        "items": ["The proud prince pressed print.", "Press the prize and stay calm."]
+      }
+    ]
+  }
 }
