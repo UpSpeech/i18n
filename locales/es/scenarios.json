@@ -199,7 +199,8 @@
       "ws_failed": "La conexión en directo falló",
       "mic_denied": "Permiso de micrófono denegado",
       "audio_unsupported": "Tu navegador no soporta audio en tiempo real"
-    }
+    },
+    "audioLiveHint": "Habla con naturalidad. Estamos escuchando, no hace falta que leas."
   },
   "session": {
     "title": "Práctica de Escenario",

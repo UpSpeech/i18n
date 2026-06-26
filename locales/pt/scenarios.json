@@ -199,7 +199,8 @@
       "ws_failed": "A ligação em direto falhou",
       "mic_denied": "Permissão do microfone negada",
       "audio_unsupported": "O teu navegador não suporta áudio em tempo real"
-    }
+    },
+    "audioLiveHint": "Fala com naturalidade. Estamos a ouvir, não precisas de ler em voz alta."
   },
   "session": {
     "title": "Prática de Cenário",

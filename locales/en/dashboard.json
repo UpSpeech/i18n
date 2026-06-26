@@ -34,6 +34,7 @@
     "steps_progress": "{{completed}}/{{total}} exercises",
     "consistency": "Consistency",
     "consistency_info": "How regularly you practiced over the last 30 days. Steady, repeated practice matters more than a long unbroken streak.",
+    "consistency_pending": "Practice on another day to start measuring how regularly you practice.",
     "habit_score": "Habit",
     "habit_info": "The number of days you practiced at least once in the last 21 days.",
     "habit_caption": "Active days, last 3 weeks",

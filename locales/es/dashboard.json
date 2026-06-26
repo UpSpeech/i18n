@@ -34,6 +34,7 @@
     "steps_progress": "{{completed}}/{{total}} ejercicios",
     "consistency": "Constancia",
     "consistency_info": "Con qué regularidad practicaste en los últimos 30 días. La práctica constante y repetida importa más que una racha larga e ininterrumpida.",
+    "consistency_pending": "Practica otro día para empezar a medir con qué regularidad practicas.",
     "habit_score": "Hábito",
     "habit_info": "El número de días que practicaste al menos una vez en los últimos 21 días.",
     "habit_caption": "Días activos, últimas 3 semanas",
