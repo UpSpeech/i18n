@@ -858,6 +858,7 @@
   },
   "learning_path": {
     "recap_fallback": "Prefere ler ou ouvir?",
+    "read_recap": "Ler o resumo",
     "hierarchy_easiest": "Mais fácil",
     "hierarchy_hardest": "Mais difícil",
     "hierarchy_placeholder": "ex. pedir um café",

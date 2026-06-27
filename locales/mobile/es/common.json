@@ -1166,6 +1166,8 @@
   "quick_review_success_toast": "Comentario enviado y paciente notificado.",
   "quick_review_success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento.",
   "learning_path_recap_fallback": "¿Prefieres leer o escuchar?",
+  "learning_path_read_recap": "Leer el resumen",
+  "learning_path_reference_label": "En qué fijarte",
   "learning_path_hierarchy_easiest": "Más fácil",
   "learning_path_hierarchy_hardest": "Más difícil",
   "learning_path_hierarchy_placeholder": "p. ej. pedir un café",

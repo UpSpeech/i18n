@@ -1166,6 +1166,8 @@
   "quick_review_success_toast": "Feedback sent and patient notified.",
   "quick_review_success_toast_no_notify": "Feedback saved. Notification is currently disabled.",
   "learning_path_recap_fallback": "Prefer to read or listen?",
+  "learning_path_read_recap": "Read the recap",
+  "learning_path_reference_label": "What to focus on",
   "learning_path_hierarchy_easiest": "Easiest",
   "learning_path_hierarchy_hardest": "Hardest",
   "learning_path_hierarchy_placeholder": "e.g. ordering a coffee",
