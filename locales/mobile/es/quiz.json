@@ -2,152 +2,296 @@
   "knowledge": {
     "what_is_stuttering": {
       "q1": {
-        "question": "La tartamudez es causada por nerviosismo, alteraciones de la respiración o falta de fuerza de voluntad.",
-        "explanation": "La tartamudez no es causada por nerviosismo, alteraciones de la respiración o fuerza de voluntad, sino por la interacción de factores genéticos, neurológicos, lingüísticos, temperamentales y contextuales."
+        "question": "La tartamudez es causada por el nerviosismo, la ansiedad o la falta de fuerza de voluntad.",
+        "explanation": "La ansiedad y el estrés pueden dificultar la tartamudez en el momento, pero no la causan. La tartamudez es una condición del neurodesarrollo con una base genética y neurológica."
       },
       "q2": {
-        "question": "¿Cuáles son las manifestaciones primarias de la tartamudez?",
+        "question": "¿Cuáles son los comportamientos centrales de la tartamudez?",
         "options": [
           "Pausas, vacilaciones y muletillas",
           "Repeticiones, prolongaciones y bloqueos",
-          "Habla rápida y pensamiento acelerado",
-          "Dificultades de articulación y problemas de voz"
+          "Habla rápida y pensamientos acelerados",
+          "Parpadeo, movimientos de cabeza y tensión facial"
         ],
-        "explanation": "La tartamudez se manifiesta a través de repeticiones, prolongaciones y bloqueos de naturaleza involuntaria y con duración variable."
+        "explanation": "Los comportamientos centrales son las repeticiones, las prolongaciones y los bloqueos. El parpadeo y la tensión facial son comportamientos secundarios, reacciones aprendidas que se añaden sobre el momento central."
       },
       "q3": {
-        "question": "La expresión de la tartamudez varía a lo largo del tiempo y entre diferentes situaciones de comunicación.",
-        "explanation": "Sí, la expresión de la tartamudez no es constante — varía a lo largo del tiempo y entre diferentes situaciones de comunicación, lo que es una característica del trastorno."
+        "question": "La misma persona puede tartamudear más en unas situaciones que en otras, y esta variabilidad es una característica normal de la tartamudez.",
+        "explanation": "Sí. La tartamudez varía con el tiempo y según la situación, como el teléfono, los grupos o hablar con figuras de autoridad. Muchas personas son más fluidas a solas o al cantar."
       },
       "q4": {
-        "question": "¿Qué factores contribuyen a la tartamudez?",
+        "question": "¿Qué contribuye al desarrollo de la tartamudez?",
         "options": [
-          "Solo factores psicológicos como estrés y nerviosismo",
-          "Solo factores genéticos hereditarios",
-          "La interacción de factores genéticos, neurológicos, lingüísticos, temperamentales y contextuales",
-          "Solo factores ambientales y educacionales"
+          "Solo el estrés y el nerviosismo",
+          "Malos hábitos de habla adquiridos en la infancia",
+          "La interacción de factores genéticos, neurológicos y del desarrollo",
+          "Imitar a otra persona que tartamudea"
         ],
-        "explanation": "La tartamudez resulta de la interacción de múltiples factores: genéticos, neurológicos, lingüísticos, temperamentales y contextuales — no de un factor aislado."
+        "explanation": "La tartamudez es multifactorial. Interactúan factores genéticos, neurológicos y del desarrollo. No se contagia por imitación ni la causa el estrés por sí solo."
+      },
+      "q5": {
+        "question": "¿Aproximadamente cuántos adultos tartamudean?",
+        "options": [
+          "Alrededor de 1 de cada 100",
+          "Alrededor de 1 de cada 10",
+          "Alrededor de 1 de cada 1.000",
+          "Alrededor de 1 de cada 4"
+        ],
+        "explanation": "Alrededor del 1% de los adultos tartamudean, más de 80 millones de personas en todo el mundo. La cifra más alta del 5 al 10% corresponde a niños pequeños, la mayoría de los cuales se recuperan."
+      },
+      "q6": {
+        "question": "La tartamudez es señal de baja inteligencia.",
+        "explanation": "No. La tartamudez no tiene relación con la inteligencia. Refleja una diferencia en cómo el cerebro controla el habla, no en la capacidad de pensar de la persona."
+      },
+      "q7": {
+        "question": "Los comportamientos secundarios, como el parpadeo o la tensión facial durante un bloqueo, se describen mejor como:",
+        "options": [
+          "La causa principal de la tartamudez",
+          "Una señal de personalidad nerviosa",
+          "Reacciones aprendidas a los momentos de tartamudez",
+          "Hábitos deliberados que la persona podría simplemente dejar"
+        ],
+        "explanation": "Los comportamientos secundarios son reacciones físicas aprendidas que se superponen a la tartamudez central. No son su causa, y no son algo que la persona pueda apagar sin más."
       }
     },
     "how_speech_works": {
       "q1": {
-        "question": "¿Qué procesos están involucrados en la producción del habla?",
+        "question": "¿Qué tres sistemas del cuerpo trabajan juntos para producir el habla?",
         "options": [
-          "Planificación lingüística, planificación motora, respiración, fonación y articulación",
-          "Solo la respiración y el movimiento de los labios",
-          "Solo el pensamiento y la vocalización",
-          "Solo la articulación y la audición"
+          "Respiración, fonación (voz) y articulación (movimientos de la boca)",
+          "El corazón, los pulmones y el estómago",
+          "La audición, la memoria y el vocabulario",
+          "Solo la lengua, los dientes y los labios"
         ],
-        "explanation": "La producción del habla involucra varios procesos coordinados: planificación lingüística, planificación y control motor del habla, respiración, fonación y articulación."
+        "explanation": "El habla se construye a partir de tres sistemas coordinados: la respiración, la fonación en la laringe y la articulación con la lengua, el paladar y los labios, todo dirigido por el cerebro."
       },
       "q2": {
-        "question": "Los procesos del habla son coordinados por diferentes redes cerebrales que trabajan en conjunto.",
-        "explanation": "Sí, diferentes redes cerebrales trabajan en conjunto para coordinar todos los procesos necesarios para producir un habla fluida."
+        "question": "¿Dónde reside principalmente la diferencia que subyace a la tartamudez?",
+        "options": [
+          "En cuerdas vocales malformadas",
+          "En músculos respiratorios débiles",
+          "En cómo el cerebro controla el timing y la coordinación del habla",
+          "En la forma de la lengua"
+        ],
+        "explanation": "Los órganos del habla suelen ser normales. La tartamudez es una diferencia en el control cerebral del timing del habla, no un problema de los músculos en sí."
       },
       "q3": {
-        "question": "¿Qué puede influir en la fluidez del habla?",
-        "options": [
-          "Solo la velocidad del habla",
-          "Solo el volumen de la voz",
-          "Pequeños cambios en el tiempo, la coordinación o el control de los sistemas del habla",
-          "Solo la postura corporal"
-        ],
-        "explanation": "Pequeños cambios en el tiempo, la coordinación o el control de los sistemas involucrados en la producción del habla pueden influir en la fluidez."
+        "question": "Los músculos del habla de las personas que tartamudean son físicamente anormales.",
+        "explanation": "No. Los músculos suelen ser normales. Lo que difiere es el timing y la coordinación neuronal que los dirige."
       },
       "q4": {
-        "question": "La producción del habla involucra solo un proceso simple y aislado.",
-        "explanation": "No, la producción del habla involucra varios procesos que ocurren de forma rápida y coordinada, no un proceso simple y aislado."
+        "question": "Producir el habla requiere que varios procesos se coordinen con un timing preciso.",
+        "explanation": "Sí. La planificación lingüística, la planificación motora, la respiración, la fonación y la articulación tienen que funcionar juntas con un timing de fracciones de segundo."
+      },
+      "q5": {
+        "question": "¿Por qué una persona que tartamudea suele ser más fluida al cantar o leer al unísono con otros?",
+        "options": [
+          "Cantar usa cuerdas vocales diferentes",
+          "Un ritmo externo reduce la carga sobre su propio control del timing del habla",
+          "La tartamudez se cura después de cantar",
+          "Dejan de preocuparse por los errores"
+        ],
+        "explanation": "Cantar, leer en coro y un ritmo externo estable alivian la exigencia sobre el propio control del timing del hablante, por eso la fluidez suele mejorar en esos momentos."
+      },
+      "q6": {
+        "question": "¿Qué han encontrado los estudios de neuroimagen (fMRI, PET) en personas que tartamudean?",
+        "options": [
+          "Diferencias consistentes en cómo el cerebro procesa y coordina el habla",
+          "Ninguna diferencia cerebral medible",
+          "Menor inteligencia general",
+          "Daños causados por un trauma infantil"
+        ],
+        "explanation": "La neuroimagen muestra diferencias consistentes en cómo el cerebro procesa y coordina el habla, lo que respalda la base neurológica de la tartamudez."
+      },
+      "q7": {
+        "question": "¿Qué puede hacer que el habla sea menos fluida para una persona que tartamudea?",
+        "options": [
+          "Solo hablar demasiado alto",
+          "Solo una mala postura",
+          "Exigencias como la presión de tiempo, el lenguaje complejo o una emoción intensa que afectan al timing del habla",
+          "Solo beber agua fría"
+        ],
+        "explanation": "Pequeños aumentos de exigencia, como la presión de tiempo, el lenguaje complejo o una emoción intensa, pueden desestabilizar el sistema de timing. Por eso la fluidez fluctúa."
       }
     },
     "therapy_process": {
       "q1": {
-        "question": "¿Cuál es la naturaleza del proceso terapéutico?",
+        "question": "¿Cuál es el objetivo realista de la terapia de la tartamudez para adultos?",
         "options": [
-          "Es rígido e igual para todas las personas",
-          "Es estructurado, progresivo y adaptado a cada persona",
-          "Siempre comienza con técnicas de habla",
-          "No tiene fases definidas"
+          "Una cura permanente",
+          "Hablar sin ninguna tartamudez para siempre",
+          "Hacer la comunicación más fácil y eficaz, y manejar la tartamudez",
+          "Eliminar la necesidad de pensar alguna vez en el habla"
         ],
-        "explanation": "El proceso terapéutico es estructurado, progresivo y adaptado a cada persona, con fases que se ajustan según los objetivos, necesidades y evolución de cada uno."
+        "explanation": "No hay cura para la tartamudez. Una terapia eficaz la maneja, haciendo el habla más fácil y la comunicación más eficaz y segura."
       },
       "q2": {
-        "question": "La intervención terapéutica siempre comienza necesariamente con técnicas de habla.",
-        "explanation": "No necesariamente. La reactividad a la propia tartamudez (miedo, anticipación, tensión) puede interferir con la capacidad de aplicar estrategias, por eso las fases iniciales se centran frecuentemente en la comprensión de la tartamudez y la reducción del miedo."
+        "question": "El proceso terapéutico se describe mejor como:",
+        "options": [
+          "Rígido e idéntico para todos",
+          "Estructurado y progresivo, adaptado a cada persona",
+          "Que siempre empieza con técnicas de habla",
+          "Un conjunto fijo de pasos sin flexibilidad"
+        ],
+        "explanation": "La terapia es estructurada y progresiva, pero se adapta a los objetivos, necesidades y evolución de cada persona. Sus fases pueden superponerse en lugar de seguir una línea estricta."
       },
       "q3": {
-        "question": "Las fases del proceso terapéutico no son rígidas ni lineales y pueden superponerse.",
-        "explanation": "Sí, las fases no son rígidas ni lineales — pueden superponerse y se ajustan según los objetivos, necesidades y evolución de cada persona."
+        "question": "La terapia siempre tiene que empezar por técnicas de habla.",
+        "explanation": "No necesariamente. El miedo, la anticipación y la tensión pueden dificultar la aplicación de las técnicas, así que el trabajo inicial suele centrarse primero en comprender la tartamudez y reducir el miedo."
       },
       "q4": {
-        "question": "¿Cuáles son los métodos basados en evidencia utilizados en la terapia de la tartamudez?",
+        "question": "En la modificación de la tartamudez (Van Riper), ¿qué es una 'salida' (pull-out)?",
         "options": [
-          "Solo ejercicios de relajación",
-          "Solo técnicas de respiración profunda",
-          "Solo evitación de situaciones difíciles",
-          "Modificación de la tartamudez, estrategias de fluidez, trabajo cognitivo-emocional y participación comunicativa"
+          "Evitar la palabra por completo",
+          "Corregir el momento solo después de que ha pasado",
+          "Prepararse antes de una palabra que se espera difícil",
+          "Aliviar la tensión durante un momento de tartamudez, mientras ocurre"
         ],
-        "explanation": "Existen diferentes métodos basados en evidencia: modificación de la tartamudez, estrategias para el aumento de la fluidez, trabajo cognitivo-emocional y promoción de la participación comunicativa, integrados a lo largo de diferentes fases."
+        "explanation": "Una salida consiste en aliviar la tensión durante el propio momento de tartamudez. Prepararse antes es un ajuste preparatorio, y corregir después es una cancelación."
+      },
+      "q5": {
+        "question": "La recaída, es decir, volver a tartamudear más tras un periodo de terapia, es una parte normal y esperable del proceso.",
+        "explanation": "Sí. Los modelos de cambio de conducta incluyen una fase de mantenimiento centrada en manejar las recaídas. Volver a tartamudear más no significa que la terapia haya fracasado."
+      },
+      "q6": {
+        "question": "¿Por qué la terapia incluye práctica en cafeterías, en llamadas telefónicas y con desconocidos?",
+        "options": [
+          "Para demostrar que la tartamudez desapareció",
+          "Para que las habilidades se transfieran de la consulta a situaciones de la vida real",
+          "Porque la práctica en consulta no importa",
+          "Para poner nerviosa a la persona a propósito"
+        ],
+        "explanation": "Las habilidades tienen que generalizarse. La terapia recorre una jerarquía de situaciones reales para que los avances se trasladen a la vida cotidiana."
+      },
+      "q7": {
+        "question": "Además de las técnicas de habla, ¿qué más aborda una buena terapia?",
+        "options": [
+          "Solo la respiración",
+          "Solo la velocidad del habla",
+          "Nada, la terapia es puramente mecánica",
+          "Los pensamientos y las emociones, como reducir el miedo y la evitación y ganar confianza"
+        ],
+        "explanation": "La terapia basada en la evidencia también trabaja la parte interna: reducir el miedo mediante la desensibilización, disminuir la evitación y la autodivulgación, no solo la mecánica del habla."
       }
     },
     "therapeutic_objectives": {
       "q1": {
-        "question": "¿Cuál puede ser un objetivo terapéutico?",
+        "question": "¿Cuál de estos es un objetivo terapéutico realista?",
         "options": [
-          "Eliminar completamente la tartamudez",
-          "Nunca tartamudear en público",
-          "Reducir la tensión y los comportamientos secundarios durante los momentos de tartamudez",
-          "Evitar todas las situaciones de comunicación"
+          "Eliminar por completo la tartamudez",
+          "No volver a tartamudear nunca en público",
+          "Reducir la tensión y la lucha durante los momentos de tartamudez",
+          "Evitar todas las situaciones de habla difíciles"
         ],
-        "explanation": "Los objetivos terapéuticos pueden incluir la reducción de la tensión y comportamientos secundarios, el aumento de la fluidez, la disminución de la evitación, el aumento de la participación comunicativa y la mejora de la relación con el propio habla."
+        "explanation": "Los objetivos incluyen reducir la tensión y los comportamientos secundarios, disminuir la evitación y mejorar la relación de la persona con su propia habla, en lugar de eliminar la tartamudez."
       },
       "q2": {
-        "question": "Los objetivos terapéuticos se definen de forma colaborativa y se revisan a lo largo del proceso.",
-        "explanation": "Sí, los objetivos se definen de forma colaborativa entre la persona y el terapeuta y se revisan a lo largo del proceso terapéutico, ajustándose a la evolución."
+        "question": "¿Cuál refleja mejor una visión moderna del 'éxito' de la terapia?",
+        "options": [
+          "Una comunicación más fácil y segura, aunque quede algo de tartamudez",
+          "Cero tartamudez",
+          "Hablar solo cuando estás seguro de que serás fluido",
+          "Ocultar bien la tartamudez"
+        ],
+        "explanation": "La práctica actual valora la comunicación eficaz y segura por encima de la fluidez perfecta. Puede quedar algo de tartamudez mientras la comunicación se vuelve mucho más fácil."
       },
       "q3": {
-        "question": "¿Qué caracteriza a los objetivos terapéuticos?",
-        "options": [
-          "Pueden variar entre personas y a lo largo del tiempo",
-          "Son iguales para todos los pacientes",
-          "Son definidos solo por el terapeuta",
-          "Nunca cambian durante la terapia"
-        ],
-        "explanation": "Los objetivos terapéuticos pueden variar entre personas y a lo largo del tiempo, adaptándose a las necesidades y evolución de cada uno en el proceso terapéutico."
+        "question": "Los objetivos de la terapia se definen en conjunto entre la persona y el terapeuta, y se revisan a medida que avanza la terapia.",
+        "explanation": "Sí. Los objetivos son colaborativos y se revisan con el tiempo para ajustarse a la evolución, las necesidades y las situaciones que importan en la vida de la persona."
       },
       "q4": {
-        "question": "Los objetivos terapéuticos son fijos e iguales para todas las personas que tartamudean.",
-        "explanation": "No, los objetivos terapéuticos pueden variar entre personas y a lo largo del tiempo. Son individualizados y revisados colaborativamente a lo largo del proceso."
+        "question": "¿Qué significa la 'desensibilización' como objetivo terapéutico?",
+        "options": [
+          "Adormecer los músculos de la boca",
+          "Reducir el miedo y la vergüenza en torno a la tartamudez para que provoque menos lucha",
+          "Practicar hasta no tartamudear nunca",
+          "Ignorar la tartamudez y esperar a que desaparezca"
+        ],
+        "explanation": "La desensibilización reduce el miedo y la carga emocional en torno a la tartamudez. Al disminuir el miedo, también disminuyen la tensión y la lucha que este provoca."
+      },
+      "q5": {
+        "question": "Un terapeuta anima a un paciente a intervenir en una reunión aunque pueda tartamudear. ¿Qué objetivo es este?",
+        "options": [
+          "Comprobar si la tartamudez está curada",
+          "Castigar al paciente",
+          "Aumentar la disposición a comunicar independientemente de la fluidez, y reducir la evitación",
+          "Demostrar que las técnicas fracasaron"
+        ],
+        "explanation": "Aumentar la disposición a hablar y participar, sea cual sea el nivel de fluidez, es un objetivo central y una respuesta directa a la evitación."
+      },
+      "q6": {
+        "question": "Los objetivos de la terapia son fijos y los mismos para toda persona que tartamudea.",
+        "explanation": "No. Los objetivos son individuales y cambian con el tiempo. Se adaptan a las situaciones concretas que importan en la vida de cada persona."
+      },
+      "q7": {
+        "question": "¿Por qué la terapia para adultos suele abordar la vergüenza y la ansiedad social, y no solo el habla?",
+        "options": [
+          "Porque los adultos que tartamudean suelen cargar años de estigma que afectan a la confianza y la participación",
+          "Porque la vergüenza causa la tartamudez",
+          "Porque la ansiedad es la causa raíz de la tartamudez",
+          "No lo hace; la terapia ignora las emociones"
+        ],
+        "explanation": "Muchos adultos cargan vergüenza y autoestigma acumulados que afectan al ánimo y la participación, así que la terapia los trabaja junto con el habla. Es una consecuencia que hay que abordar, no la causa de la tartamudez."
       }
     },
     "avoidance_vs_struggle": {
       "q1": {
-        "question": "¿Qué son los comportamientos de evitación?",
+        "question": "¿Cuál de estos es un comportamiento de evitación?",
         "options": [
-          "Comportamientos que surgen como intento de no tartamudear, como evitar palabras, situaciones o personas",
-          "Ejercicios de práctica del habla recomendados por el terapeuta",
-          "Técnicas de relajación muscular",
-          "Estrategias de comunicación efectiva"
+          "Cambiar una palabra en la que se espera tartamudear por otra más fácil",
+          "Tensión facial durante un bloqueo",
+          "Una repetición de un sonido",
+          "Usar un inicio de voz suave y fácil"
         ],
-        "explanation": "Los comportamientos de evitación surgen como intento de no tartamudear e incluyen evitar palabras, situaciones o personas — son respuestas aprendidas a la experiencia repetida de tartamudear."
+        "explanation": "La evitación ocurre antes del momento y busca ocultar la tartamudez: cambiar palabras, rodearlas o esquivar sonidos, situaciones o personas. La tensión facial es lucha, y una repetición es un comportamiento central."
       },
       "q2": {
         "question": "¿Qué son los comportamientos de lucha (escape)?",
         "options": [
-          "Evitar situaciones de comunicación",
-          "Usar tensión excesiva y fuerza para intentar forzar la palabra a salir durante un momento de tartamudez",
-          "Técnicas terapéuticas aprendidas",
+          "Evitar una llamada telefónica",
+          "Usar tensión y fuerza adicionales para empujar una palabra durante un bloqueo",
+          "Técnicas que enseña el terapeuta",
           "Pausas naturales en el habla"
         ],
-        "explanation": "Los comportamientos de lucha (escape) surgen cuando la persona está tartamudeando e intenta forzar la palabra a salir, usando tensión excesiva, fuerza u otros comportamientos como parpadear o hacer movimientos."
+        "explanation": "Los comportamientos de lucha aparecen durante el momento de tartamudez: tensión y fuerza adicionales, a veces con parpadeo o movimiento de cabeza, mientras la persona intenta escapar del bloqueo."
       },
       "q3": {
-        "question": "Los comportamientos secundarios pueden, con el tiempo, volverse automáticos y poco funcionales.",
-        "explanation": "Sí, a medida que se repiten, los comportamientos secundarios se vuelven automáticos, pasan a formar parte del patrón de tartamudez y en la mayoría de las veces aumentan la lucha, la tensión y el esfuerzo cognitivo."
+        "question": "¿Qué muestra el modelo del 'iceberg' de la tartamudez de Sheehan?",
+        "options": [
+          "La tartamudez empeora con el frío",
+          "La tartamudez es sobre todo un problema respiratorio",
+          "La tartamudez visible es solo la punta; los sentimientos ocultos y la evitación forman la mayor parte bajo la superficie",
+          "La tartamudez se disuelve con suficiente práctica"
+        ],
+        "explanation": "Lo que quien escucha ve u oye es solo la punta. Bajo la superficie están la vergüenza, el miedo y la evitación, que a menudo aumentan la tensión y el esfuerzo de la tartamudez."
       },
       "q4": {
-        "question": "Los comportamientos secundarios siempre son útiles y ayudan a la persona a hablar mejor.",
-        "explanation": "No, aunque inicialmente pueden parecer útiles o dar una sensación momentánea de control, con el tiempo se vuelven automáticos y poco funcionales, aumentando la lucha y la tensión."
+        "question": "Evitar constantemente las palabras temidas puede hacer que la tartamudez sea más difícil de manejar con el tiempo.",
+        "explanation": "Sí. La evitación da un alivio breve pero refuerza el miedo y mantiene la tartamudez oculta, lo que perpetúa el ciclo en lugar de aliviarlo."
+      },
+      "q5": {
+        "question": "Una persona oculta bien su tartamudez cambiando palabras. Esto significa que:",
+        "options": [
+          "Sin duda tiene una tartamudez leve",
+          "Puede tener una tartamudez importante que la evitación está enmascarando",
+          "Está casi curada",
+          "En realidad no tartamudea"
+        ],
+        "explanation": "La evitación puede enmascarar la gravedad real. La tartamudez encubierta y oculta puede ser tan importante como la que se ve abiertamente."
+      },
+      "q6": {
+        "question": "En términos de Sheehan, la terapia ayuda a la persona a pasar de la evitación hacia:",
+        "options": [
+          "Un mayor ocultamiento",
+          "La aproximación, es decir, tartamudear de forma más abierta y revelarlo en lugar de esconderlo",
+          "Hablar solo cuando se es fluido",
+          "Quedarse en silencio en situaciones difíciles"
+        ],
+        "explanation": "Avanzar hacia la aproximación, incluido tartamudear abiertamente y decir a quien escucha que uno tartamudea, reduce el conflicto de acercamiento y evitación que alimenta la tensión."
+      },
+      "q7": {
+        "question": "Los comportamientos secundarios como la tensión adicional y el parpadeo siempre ayudan y facilitan el habla.",
+        "explanation": "No. Pueden parecer útiles al principio o dar una breve sensación de control, pero con el tiempo se automatizan y aumentan la lucha, la tensión y el esfuerzo."
       }
     }
   },
@@ -169,7 +313,7 @@
       "needs_review": "Revisemos un poco más antes de continuar. No te preocupes - aprender toma tiempo.",
       "retry": "Intentar de Nuevo",
       "continue": "Continuar",
-      "needs_review_warm": "Algunos temas para repasar — es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
+      "needs_review_warm": "Algunos temas para repasar, es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
       "review_title": "Revisión de Preguntas",
       "title_passed": "¡Muy bien!",
       "title_review": "¡Casi lo logras!"
