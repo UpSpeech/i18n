@@ -899,6 +899,12 @@
           "items": ["O primo prometeu uma prenda.", "Prepara o prato com calma."]
         }
       ]
+    },
+    "practice_material": {
+      "title": "Pratica com o seguinte",
+      "words": "Palavras",
+      "phrases": "Expressões",
+      "sentences": "Frases"
     }
   }
 }

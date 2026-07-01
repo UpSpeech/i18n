@@ -899,6 +899,12 @@
           "items": ["The proud prince pressed print.", "Press the prize and stay calm."]
         }
       ]
+    },
+    "practice_material": {
+      "title": "Practice with these",
+      "words": "Words",
+      "phrases": "Phrases",
+      "sentences": "Sentences"
     }
   }
 }
