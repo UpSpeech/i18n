@@ -238,7 +238,7 @@
       "q1": {
         "question": "¿Cuál de estos es un comportamiento de evitación?",
         "options": [
-          "Cambiar una palabra en la que se espera tartamudear por otra más fácil",
+          "Cambiar una palabra en la que esperas tartamudear por otra más fácil",
           "Tensión facial durante un bloqueo",
           "Una repetición de un sonido",
           "Usar un inicio de voz suave y fácil"
@@ -313,11 +313,10 @@
       "needs_review": "Revisemos un poco más antes de continuar. No te preocupes - aprender toma tiempo.",
       "retry": "Intentar de Nuevo",
       "continue": "Continuar",
-      "needs_review_warm": "Algunos temas para repasar, es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
+      "needs_review_warm": "Algunos temas para repasar — es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
       "review_title": "Revisión de Preguntas",
       "title_passed": "¡Muy bien!",
-      "title_review": "¡Casi lo logras!",
-      "save_failed": "Tus respuestas se verificaron localmente pero no se pudieron guardar. Inténtalo de nuevo cuando tengas conexión."
+      "title_review": "¡Casi lo logras!"
     },
     "correct_answer_label": "Respuesta correcta",
     "your_answer_label": "Tu respuesta"

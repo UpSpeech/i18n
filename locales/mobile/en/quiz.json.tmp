@@ -144,7 +144,7 @@
         "options": [
           "Avoiding the word entirely",
           "Fixing the moment only after it has passed",
-          "Preparing before a word the person expects to be hard",
+          "Preparing before a word you expect to be hard",
           "Easing out of the tension during a moment of stuttering, as it happens"
         ],
         "explanation": "A pull-out means easing out of tension during the stuttering moment itself. Preparing beforehand is a preparatory set, and repairing afterward is a cancellation."
@@ -238,7 +238,7 @@
       "q1": {
         "question": "Which of these is an avoidance behavior?",
         "options": [
-          "Swapping a word the person expects to stutter on for an easier one",
+          "Swapping a word you expect to stutter on for an easier one",
           "Facial tension during a block",
           "A sound repetition",
           "Using an easy, gentle voice onset"
@@ -287,7 +287,7 @@
           "Speaking only when fluent",
           "Staying silent in hard situations"
         ],
-        "explanation": "Moving toward approach, including openly stuttering and telling listeners about it, reduces the push-pull conflict that fuels tension."
+        "explanation": "Moving toward approach, including openly stuttering and telling listeners you stutter, reduces the push-pull conflict that fuels tension."
       },
       "q7": {
         "question": "Secondary behaviors like extra tension and blinking are always helpful and make speaking easier.",
@@ -313,11 +313,10 @@
       "needs_review": "Let's review a bit more before moving on. Don't worry - learning takes time.",
       "retry": "Try Again",
       "continue": "Continue",
-      "needs_review_warm": "A few topics to revisit, that's part of learning. Review the explanations below and try again when you're ready.",
+      "needs_review_warm": "A few topics to revisit — that's part of learning. Review the explanations below and try again when you're ready.",
       "review_title": "Question Review",
       "title_passed": "Well done!",
-      "title_review": "Almost there!",
-      "save_failed": "Your answers were checked locally but couldn't be saved. Try again when you have a connection."
+      "title_review": "Almost there!"
     },
     "correct_answer_label": "Correct answer",
     "your_answer_label": "Your answer"
