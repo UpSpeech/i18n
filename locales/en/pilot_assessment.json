@@ -20,7 +20,14 @@
     "or_pick": "or pick one:",
     "pick_topic": "Here are some ideas , pick one or just speak freely:",
     "loading_topics": "Finding topic suggestions...",
-    "topics_error": "Couldn't load topics. Try again."
+    "topics_error": "Couldn't load topics. Try again.",
+    "quick_cooking": "Cooking",
+    "quick_travel": "Travel",
+    "quick_sports": "Sports",
+    "quick_music": "Music",
+    "quick_movies": "Movies",
+    "quick_nature": "Nature",
+    "quick_pets": "Pets"
   },
   "recording": {
     "duration_hint": "Your recording should be between 2 and 3 minutes long.",

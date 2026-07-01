@@ -20,7 +20,14 @@
     "or_pick": "o elige uno:",
     "pick_topic": "Aquí tienes algunas ideas , elige una o habla libremente:",
     "loading_topics": "Buscando sugerencias de temas...",
-    "topics_error": "No se pudieron cargar los temas. Inténtalo de nuevo."
+    "topics_error": "No se pudieron cargar los temas. Inténtalo de nuevo.",
+    "quick_cooking": "Cocina",
+    "quick_travel": "Viajes",
+    "quick_sports": "Deportes",
+    "quick_music": "Música",
+    "quick_movies": "Cine",
+    "quick_nature": "Naturaleza",
+    "quick_pets": "Mascotas"
   },
   "recording": {
     "duration_hint": "Su grabación debe tener entre 2 y 3 minutos.",
