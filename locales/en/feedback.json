@@ -59,6 +59,16 @@
   "feedbackId": "Feedback ID",
   "sendFeedback": "Send Feedback",
   "submitError": "Failed to submit feedback. Please try again.",
+  "image": {
+    "label": "Screenshot (optional)",
+    "helper": "Attach a screenshot to show us what you mean (PNG, JPEG or WebP, up to 5 MB).",
+    "uploading": "Uploading...",
+    "remove": "Remove",
+    "previewAlt": "Attached screenshot",
+    "invalidType": "Please choose a PNG, JPEG or WebP image.",
+    "tooLarge": "Image must be under 5 MB.",
+    "uploadError": "Could not upload the image. Please try again."
+  },
   "placeholders": {
     "bug": "What went wrong?",
     "feature": "What would you like to see?",
