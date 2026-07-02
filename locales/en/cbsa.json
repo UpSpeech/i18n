@@ -25,7 +25,7 @@
     "q10": "How would you rate the global impact of stuttering in your quality of life?"
   },
   "labels": {
-    "q1_start": "Never",
+    "q1_start": "Not at all",
     "q1_end": "Extremely severe",
     "q2_start": "Never",
     "q2_end": "Constantly",
