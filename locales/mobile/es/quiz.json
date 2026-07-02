@@ -140,14 +140,14 @@
         "explanation": "No necesariamente. El miedo, la anticipación y la tensión pueden dificultar la aplicación de las técnicas, así que el trabajo inicial suele centrarse primero en comprender la tartamudez y reducir el miedo."
       },
       "q4": {
-        "question": "En la modificación de la tartamudez (Van Riper), ¿qué es una 'salida' (pull-out)?",
+        "question": "En la modificación de la tartamudez, ¿qué es una 'salida suave'?",
         "options": [
           "Evitar la palabra por completo",
           "Corregir el momento solo después de que ha pasado",
           "Prepararse antes de una palabra que se espera difícil",
           "Aliviar la tensión durante un momento de tartamudez, mientras ocurre"
         ],
-        "explanation": "Una salida consiste en aliviar la tensión durante el propio momento de tartamudez. Prepararse antes es un ajuste preparatorio, y corregir después es una cancelación."
+        "explanation": "Una salida suave consiste en aliviar la tensión durante el propio momento de tartamudez. Prepararse antes es un ajuste preparatorio, y corregir después es una cancelación."
       },
       "q5": {
         "question": "La recaída, es decir, volver a tartamudear más tras un periodo de terapia, es una parte normal y esperable del proceso.",
@@ -256,14 +256,14 @@
         "explanation": "Los comportamientos de lucha aparecen durante el momento de tartamudez: tensión y fuerza adicionales, a veces con parpadeo o movimiento de cabeza, mientras la persona intenta escapar del bloqueo."
       },
       "q3": {
-        "question": "¿Qué muestra el modelo del 'iceberg' de la tartamudez de Sheehan?",
+        "question": "En la tartamudez, ¿qué es visible para los demás y qué suele quedar oculto?",
         "options": [
           "La tartamudez empeora con el frío",
           "La tartamudez es sobre todo un problema respiratorio",
-          "La tartamudez visible es solo la punta; los sentimientos ocultos y la evitación forman la mayor parte bajo la superficie",
+          "La parte visible de la tartamudez es pequeña; los sentimientos ocultos y la evitación son la mayor parte",
           "La tartamudez se disuelve con suficiente práctica"
         ],
-        "explanation": "Lo que quien escucha ve u oye es solo la punta. Bajo la superficie están la vergüenza, el miedo y la evitación, que a menudo aumentan la tensión y el esfuerzo de la tartamudez."
+        "explanation": "Lo que quien escucha ve u oye es solo una parte. El resto, la vergüenza, el miedo y la evitación, queda oculto y a menudo aumenta la tensión y el esfuerzo de la tartamudez."
       },
       "q4": {
         "question": "Evitar constantemente las palabras temidas puede hacer que la tartamudez sea más difícil de manejar con el tiempo.",

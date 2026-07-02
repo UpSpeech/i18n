@@ -140,14 +140,14 @@
         "explanation": "Não necessariamente. O medo, a antecipação e a tensão podem dificultar a aplicação das técnicas, por isso o trabalho inicial foca-se muitas vezes primeiro em compreender a gaguez e reduzir o medo."
       },
       "q4": {
-        "question": "Na modificação da gaguez (Van Riper), o que é uma 'saída' (pull-out)?",
+        "question": "Na modificação da gaguez, o que é uma 'saída suave'?",
         "options": [
           "Evitar a palavra por completo",
           "Corrigir o momento apenas depois de ele passar",
           "Preparar-se antes de uma palavra que se espera difícil",
           "Aliviar a tensão durante um momento de gaguez, enquanto ele acontece"
         ],
-        "explanation": "Uma saída consiste em aliviar a tensão durante o próprio momento de gaguez. Preparar-se antes é um ajuste preparatório, e corrigir depois é um cancelamento."
+        "explanation": "Uma saída suave consiste em aliviar a tensão durante o próprio momento de gaguez. Preparar-se antes é um ajuste preparatório, e corrigir depois é um cancelamento."
       },
       "q5": {
         "question": "A recaída, ou seja, voltar a gaguejar mais depois de um período de terapia, é uma parte normal e esperada do processo.",
@@ -256,14 +256,14 @@
         "explanation": "Os comportamentos de luta surgem durante o momento de gaguez: tensão e força adicionais, por vezes com piscar de olhos ou movimento da cabeça, enquanto a pessoa tenta escapar do bloqueio."
       },
       "q3": {
-        "question": "O que mostra o modelo do 'iceberg' da gaguez de Sheehan?",
+        "question": "Na gaguez, o que é visível para os outros e o que costuma ficar escondido?",
         "options": [
           "A gaguez piora com o frio",
           "A gaguez é sobretudo um problema respiratório",
-          "A gaguez visível é apenas a ponta; os sentimentos ocultos e o evitamento formam a maior parte abaixo da superfície",
+          "A parte visível da gaguez é pequena; os sentimentos escondidos e o evitamento são a maior parte",
           "A gaguez dissolve-se com prática suficiente"
         ],
-        "explanation": "O que quem ouve vê ou ouve é apenas a ponta. Abaixo da superfície estão a vergonha, o medo e o evitamento, que muitas vezes aumentam a tensão e o esforço da gaguez."
+        "explanation": "O que os outros veem ou ouvem é só uma parte. O resto, a vergonha, o medo e o evitamento, fica escondido e muitas vezes aumenta a tensão e o esforço da gaguez."
       },
       "q4": {
         "question": "Evitar constantemente as palavras temidas pode tornar a gaguez mais difícil de gerir ao longo do tempo.",

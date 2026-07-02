@@ -48,6 +48,16 @@
   "feedbackId": "ID do Feedback",
   "sendFeedback": "Enviar Feedback",
   "submitError": "Falha ao enviar feedback. Tenta novamente.",
+  "image": {
+    "label": "Captura de ecrã (opcional)",
+    "helper": "Anexa uma captura de ecrã para nos mostrares o que queres dizer (PNG, JPEG ou WebP, até 5 MB).",
+    "uploading": "A carregar...",
+    "remove": "Remover",
+    "previewAlt": "Captura de ecrã anexada",
+    "invalidType": "Escolhe uma imagem PNG, JPEG ou WebP.",
+    "tooLarge": "A imagem tem de ter menos de 5 MB.",
+    "uploadError": "Não foi possível carregar a imagem. Tenta novamente."
+  },
   "placeholders": {
     "bug": "O que correu mal?",
     "feature": "O que gostarias de ver?",
