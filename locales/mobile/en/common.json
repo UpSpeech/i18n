@@ -469,6 +469,7 @@
   "technique_rating_naturalness_low": "Very unnatural",
   "technique_rating_naturalness_high": "Completely natural",
   "technique_rating_submit": "Continue",
+  "technique_rating_choose_value": "Choose a value to continue",
   "scenario_practice_title": "Scenario Practice",
   "scenario_practice_description": "Practice your techniques in a realistic AI-powered conversation scenario.",
   "start_scenario_practice": "Start Scenario Practice",

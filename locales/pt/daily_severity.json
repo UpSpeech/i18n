@@ -7,6 +7,7 @@
     "helper": "Demora apenas um momento e ajuda a acompanhar o teu progresso.",
     "label_start": "Sem gaguez",
     "label_end": "Extremamente grave",
+    "choose_value": "Escolhe um valor para continuar",
     "submit": "Continuar",
     "success": "Obrigado! Tem uma ótima sessão.",
     "submit_error": "Algo correu mal. Por favor tenta novamente."

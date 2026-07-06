@@ -469,6 +469,7 @@
   "technique_rating_naturalness_low": "Muy antinatural",
   "technique_rating_naturalness_high": "Completamente natural",
   "technique_rating_submit": "Continuar",
+  "technique_rating_choose_value": "Elige un valor para continuar",
   "scenario_practice_title": "Practica de Escenario",
   "scenario_practice_description": "Practica tus tecnicas en un escenario de conversacion realista con IA.",
   "start_scenario_practice": "Iniciar Practica de Escenario",

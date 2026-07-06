@@ -7,6 +7,7 @@
     "helper": "This takes just a moment and helps track your progress.",
     "label_start": "No stuttering",
     "label_end": "Extremely severe",
+    "choose_value": "Choose a value to continue",
     "submit": "Continue",
     "success": "Thank you! Have a great session.",
     "submit_error": "Something went wrong. Please try again."

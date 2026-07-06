@@ -826,6 +826,7 @@
     "naturalness_label": "How natural the speech felt",
     "naturalness_low": "Very unnatural",
     "naturalness_high": "Completely natural",
+    "choose_value": "Choose a value to continue",
     "submit": "Continue"
   },
   "recording_duration_hint": "Longer recordings (3+ minutes) help your therapist give better feedback.",

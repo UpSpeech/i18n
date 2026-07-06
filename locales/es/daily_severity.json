@@ -7,6 +7,7 @@
     "helper": "Solo toma un momento y ayuda a seguir tu progreso.",
     "label_start": "Sin tartamudez",
     "label_end": "Extremadamente severa",
+    "choose_value": "Elige un valor para continuar",
     "submit": "Continuar",
     "success": "¡Gracias! Que tengas una gran sesión.",
     "submit_error": "Algo salió mal. Por favor intenta de nuevo."

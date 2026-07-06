@@ -826,6 +826,7 @@
     "naturalness_label": "Quão natural a fala pareceu",
     "naturalness_low": "Muito artificial",
     "naturalness_high": "Completamente natural",
+    "choose_value": "Escolhe um valor para continuar",
     "submit": "Continuar"
   },
   "recording_duration_hint": "Gravações mais longas (3+ minutos) ajudam o teu terapeuta a dar melhor feedback.",
