@@ -419,8 +419,8 @@
   "review_attempt": "Intento {{number}}",
   "review_submitted_at": "Enviado {{date}}",
   "review_feedback": "Retroalimentacion del Terapeuta",
-  "submissions_title": "Envios",
-  "submissions_empty": "No se encontraron envios.",
+  "submissions_title": "Entregas",
+  "submissions_empty": "No se encontraron entregas",
   "submissions_filter_all": "Todos",
   "patient_tab_overview": "Vista General",
   "patient_tab_learning_path": "Ruta",
@@ -788,11 +788,9 @@
   "more_pilot_accounts": "Cuentas Piloto",
   "coming_soon": "Próximamente",
   "coming_soon_description": "Esta funcionalidad aún no está disponible en la aplicación móvil.",
-
   "sessions_this_week": "{{count}} sesiones esta semana",
   "vs_last_week": "vs {{count}} la semana pasada",
   "no_sessions_last_week": "Sin sesiones la semana pasada",
-
   "therapist_home_active_assignments": "Activos",
   "therapist_home_completed_this_week": "Completados",
   "therapist_home_engaged_this_week": "Participantes",
@@ -800,10 +798,7 @@
   "therapist_home_to_review": "{{count}} para revisar",
   "therapist_home_processed_recordings": "Grabaciones procesadas pendientes de revisión",
   "therapist_home_view_all_submissions": "Ver Todas las Entregas",
-
-  "submissions_title": "Entregas",
   "submissions_filter_all_types": "Todos los Tipos",
-  "submissions_empty": "No se encontraron entregas",
   "submissions_empty_hint": "Las entregas aparecerán aquí a medida que los pacientes completen ejercicios.",
   "submissions_no_patients": "Aún no tienes pacientes",
   "submissions_no_patients_hint": "Cuando tengas pacientes, sus entregas aparecerán aquí.",
@@ -813,7 +808,6 @@
   "submission_type_scenario": "Escenario",
   "submission_type_recording": "Grabación",
   "submission_type_cbsa": "CBSA",
-
   "assessments_title": "Evaluaciones del Habla",
   "assessments_reading": "Lectura",
   "assessments_monologue": "Monólogo",
@@ -821,7 +815,6 @@
   "assessments_empty_hint": "Las evaluaciones del habla aparecerán aquí cuando este paciente registre una.",
   "video_not_available": "Video no disponible",
   "assessments_view": "Ver Evaluaciones",
-
   "consultation_exercises_title": "Ejercicios",
   "consultation_exercises_create": "Nuevo Ejercicio",
   "consultation_exercises_edit": "Editar Ejercicio",
@@ -836,7 +829,6 @@
   "consultation_exercises_field_text": "Contenido de texto (opcional)",
   "consultation_exercises_saved": "Ejercicio guardado",
   "consultation_exercises_deleted": "Ejercicio eliminado",
-
   "assignment_create_title": "Nueva Asignación",
   "assignment_step_select_game": "Seleccionar Ejercicio",
   "assignment_step_select_patient": "Seleccionar Paciente",
@@ -851,13 +843,10 @@
   "assignment_created": "Asignación creada con éxito",
   "assignment_search_games": "Buscar ejercicios...",
   "assignment_deadline_label": "Fecha límite: {{date}}",
-
   "assessment_status_completed": "Completada",
   "assessment_status_reading_done": "Lectura Completada",
   "assessment_status_pending": "Pendiente",
-
   "ok": "OK",
-
   "admin_users_title": "Usuarios",
   "admin_users_create": "Nuevo Usuario",
   "admin_users_edit": "Editar Usuario",
@@ -880,7 +869,6 @@
   "admin_users_invite_revoked": "Invitación revocada",
   "admin_users_copy_link": "Copiar Enlace",
   "admin_users_link_copied": "Enlace copiado",
-
   "admin_tenant_title": "Configuración de Clínica",
   "admin_tenant_section_info": "Información de la Organización",
   "admin_tenant_section_branding": "Marca",
@@ -895,7 +883,6 @@
   "admin_tenant_field_phone": "Teléfono de Contacto",
   "admin_tenant_field_website": "Sitio Web",
   "admin_tenant_saved": "Configuración guardada",
-
   "admin_special_access_title": "Acceso Especial",
   "admin_special_access_empty": "Sin permisos otorgados",
   "admin_special_access_empty_hint": "Otorgue acceso especial a terapeutas.",
@@ -907,7 +894,6 @@
   "admin_special_access_control_room_desc": "Acceso a la estación de revisión de grabaciones",
   "admin_special_access_select_therapist": "Seleccionar Terapeuta",
   "admin_special_access_granted_by": "Otorgado por {{name}}",
-
   "admin_tenants_title": "Clínicas",
   "admin_tenants_create": "Nueva Clínica",
   "admin_tenants_edit": "Editar Clínica",
@@ -919,7 +905,6 @@
   "admin_tenants_users": "{{count}} usuarios",
   "admin_tenants_created_on": "Creada el {{date}}",
   "admin_tenants_search": "Buscar clínicas...",
-
   "admin_flags_title": "Funcionalidades",
   "admin_flags_select_tenant": "Seleccionar Clínica",
   "admin_flags_enabled": "Activada",
@@ -932,7 +917,6 @@
   "admin_flags_section": "Funcionalidades",
   "admin_flags_empty": "Sin funcionalidades",
   "admin_flags_empty_hint": "No hay funcionalidades para configurar en esta clínica.",
-
   "admin_feedback_title": "Comentarios",
   "admin_feedback_empty": "Sin comentarios",
   "admin_feedback_empty_hint": "Los comentarios de los usuarios aparecerán aquí.",
@@ -950,7 +934,6 @@
   "admin_feedback_priority_medium": "Media",
   "admin_feedback_priority_high": "Alta",
   "admin_feedback_priority_critical": "Crítica",
-
   "admin_pilot_title": "Cuentas Piloto",
   "admin_pilot_role": "Rol",
   "admin_pilot_count": "Número de Cuentas",
@@ -962,7 +945,6 @@
   "admin_pilot_warning": "Guarde estas credenciales ahora. Las contraseñas no se pueden recuperar.",
   "admin_pilot_empty": "Aún sin cuentas",
   "admin_pilot_empty_hint": "Las credenciales generadas aparecerán aquí.",
-
   "role_owner": "Propietario",
   "role_admin": "Administrador",
   "role_therapist": "Terapeuta",
@@ -973,17 +955,13 @@
   "lp_status_active": "Activo",
   "lp_status_paused": "En pausa",
   "lp_status_completed": "Completado",
-
   "error_boundary_title": "Algo salio mal",
   "error_boundary_description": "Ocurrio un error inesperado. Por favor intenta de nuevo.",
   "error_boundary_retry": "Intentar de Nuevo",
-
   "acknowledgment_finish": "Finalizar",
   "acknowledgment_continue": "Continuar",
-
   "finish": "Finalizar",
   "continue_button": "Continuar",
-
   "accessibility_reconnect": "Reconectar",
   "accessibility_new_chat": "Nueva conversacion",
   "accessibility_back": "Volver",
@@ -1003,10 +981,8 @@
   "accessibility_remove": "Eliminar",
   "dev_build_audio": "La reproducción de audio requiere una compilación de desarrollo",
   "dev_build_video": "La reproducción de vídeo requiere una compilación de desarrollo",
-
   "not_found_title": "Esta pantalla no existe.",
   "not_found_go_home": "Ir a la pantalla principal",
-
   "patient_scenario_settings_title": "Ajustes del escenario",
   "patient_scenario_settings_description": "Ajusta cómo se comportan las llamadas en modo realista para este paciente.",
   "patient_scenario_settings_vad_label": "Silencio antes de que hable el bot",
@@ -1018,7 +994,6 @@
   "patient_scenario_settings_vad_preset_long_blocks": "4,0s, bloqueos largos",
   "patient_scenario_settings_load_error": "No se pudieron cargar los ajustes del escenario.",
   "patient_scenario_settings_save_error": "No se pudo guardar. Vuelve a intentarlo.",
-
   "self_annotation_title": "Marca disfluencias",
   "self_annotation_intro": "Escucha tu grabación y toca Marcar cada vez que detectes una disfluencia. Puedes añadir notas más tarde.",
   "self_annotation_mark_at": "Marcar en {{time}}",
@@ -1034,14 +1009,12 @@
   "self_annotation_video_only": "{{type}} solo se puede marcar en grabaciones de vídeo.",
   "self_annotation_video_unsupported": "La anotación de vídeo aún no está disponible en la app móvil. Usa la versión de escritorio para grabaciones de vídeo.",
   "self_annotation_open_cta": "Marcar disfluencias en esta grabación",
-
   "disfluency_type_repetition": "Repetición",
   "disfluency_type_prolongation": "Prolongación",
   "disfluency_type_block": "Bloqueo",
   "disfluency_type_escape_behavior": "Comportamiento de escape",
   "disfluency_type_avoidance_behavior": "Comportamiento de evitación",
   "disfluency_type_starter_postponement": "Iniciador / aplazamiento",
-
   "scenario_realtime_ready_title": "Listo cuando lo estés",
   "scenario_realtime_ready_subtitle": "Te conectaremos con la IA para una conversación en vivo. Tómate tu tiempo y tartamudea con libertad.",
   "scenario_realtime_ready_tip_title": "Prepara el ambiente",
@@ -1075,7 +1048,6 @@
   "recent_feedback_type_recording": "Grabacion de practica",
   "recent_feedback_type_mini_game": "Mini-juego",
   "recent_feedback_type_scenario": "Escenario de conversacion",
-
   "progress_consistency": "Constancia",
   "progress_consistency_pending": "Practica otro día para empezar a medir tu constancia.",
   "progress_habit": "Hábito",
@@ -1201,13 +1173,49 @@
     "soften_only": "Solo suavizar",
     "hint": "Di cada uno dos veces: primero con tensión y luego déjalo suave. En la frase, suaviza solo la palabra difícil.",
     "levels": [
-      { "label": "Sílabas", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
-      { "label": "Palabras", "items": ["premio", "prenda", "primo", "pronto", "precio"] },
+      {
+        "label": "Sílabas",
+        "items": [
+          "PRA",
+          "PRE",
+          "PRI",
+          "PRO",
+          "PRU"
+        ]
+      },
+      {
+        "label": "Palabras",
+        "items": [
+          "premio",
+          "prenda",
+          "primo",
+          "pronto",
+          "precio"
+        ]
+      },
       {
         "label": "Frases",
         "softenOnly": true,
-        "items": ["El primo prometió un premio pronto.", "Prepara la prenda con calma."]
+        "items": [
+          "El primo prometió un premio pronto.",
+          "Prepara la prenda con calma."
+        ]
       }
     ]
-  }
+  },
+  "exercise_clip_rounds_round_counter": "Ronda {{current}} / {{total}}",
+  "exercise_clip_rounds_identify_desc": "Mira este clip corto y toca un botón cada vez que notes una disfluencia. Si no hay nada que marcar, está bien.",
+  "exercise_clip_rounds_classify_desc": "Para cada momento que marcaste, indica si fue corto o largo, y suave o tenso.",
+  "exercise_clip_rounds_mark_label": "Marca una disfluencia",
+  "exercise_clip_rounds_empty": "Mira el clip y marca lo que notes.",
+  "exercise_clip_rounds_identified_count": "Momentos marcados ({{count}})",
+  "exercise_clip_rounds_nothing_here": "Nada que marcar aquí",
+  "exercise_clip_rounds_classify_continue": "Clasificar momentos",
+  "exercise_clip_rounds_next_clip": "Siguiente clip",
+  "exercise_clip_rounds_finish": "Finalizar",
+  "exercise_clip_rounds_empty_pool_title": "Aún no hay clips disponibles",
+  "exercise_clip_rounds_empty_pool_desc": "Los clips de práctica aún no están listos para este ejercicio. Vuelve más tarde.",
+  "exercise_clip_rounds_loading": "Cargando clips…",
+  "exercise_clip_rounds_error": "No pudimos cargar los clips. Inténtalo de nuevo.",
+  "exercise_clip_rounds_retry": "Intentar de nuevo"
 }

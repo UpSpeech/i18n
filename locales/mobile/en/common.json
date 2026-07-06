@@ -420,7 +420,7 @@
   "review_submitted_at": "Submitted {{date}}",
   "review_feedback": "Therapist Feedback",
   "submissions_title": "Submissions",
-  "submissions_empty": "No submissions found.",
+  "submissions_empty": "No submissions found",
   "submissions_filter_all": "All",
   "patient_tab_overview": "Overview",
   "patient_tab_learning_path": "Learning Path",
@@ -788,11 +788,9 @@
   "more_pilot_accounts": "Pilot Accounts",
   "coming_soon": "Coming Soon",
   "coming_soon_description": "This feature is not yet available in the mobile app.",
-
   "sessions_this_week": "{{count}} sessions this week",
   "vs_last_week": "vs {{count}} last week",
   "no_sessions_last_week": "No sessions last week",
-
   "therapist_home_active_assignments": "Active",
   "therapist_home_completed_this_week": "Completed",
   "therapist_home_engaged_this_week": "Engaged",
@@ -800,10 +798,7 @@
   "therapist_home_to_review": "{{count}} to review",
   "therapist_home_processed_recordings": "Processed recordings awaiting review",
   "therapist_home_view_all_submissions": "View All Submissions",
-
-  "submissions_title": "Submissions",
   "submissions_filter_all_types": "All Types",
-  "submissions_empty": "No submissions found",
   "submissions_empty_hint": "Submissions will appear here as patients complete exercises.",
   "submissions_no_patients": "No patients yet",
   "submissions_no_patients_hint": "Once you have patients, their submissions will appear here.",
@@ -813,7 +808,6 @@
   "submission_type_scenario": "Scenario",
   "submission_type_recording": "Recording",
   "submission_type_cbsa": "CBSA",
-
   "assessments_title": "Speech Assessments",
   "assessments_reading": "Reading",
   "assessments_monologue": "Monologue",
@@ -821,7 +815,6 @@
   "assessments_empty_hint": "Speech assessments will appear here once this patient records one.",
   "video_not_available": "Video not available",
   "assessments_view": "View Assessments",
-
   "consultation_exercises_title": "Exercises",
   "consultation_exercises_create": "New Exercise",
   "consultation_exercises_edit": "Edit Exercise",
@@ -836,7 +829,6 @@
   "consultation_exercises_field_text": "Text content (optional)",
   "consultation_exercises_saved": "Exercise saved",
   "consultation_exercises_deleted": "Exercise deleted",
-
   "assignment_create_title": "New Assignment",
   "assignment_step_select_game": "Select Exercise",
   "assignment_step_select_patient": "Select Patient",
@@ -851,13 +843,10 @@
   "assignment_created": "Assignment created successfully",
   "assignment_search_games": "Search exercises...",
   "assignment_deadline_label": "Deadline: {{date}}",
-
   "assessment_status_completed": "Completed",
   "assessment_status_reading_done": "Reading Done",
   "assessment_status_pending": "Pending",
-
   "ok": "OK",
-
   "admin_users_title": "Users",
   "admin_users_create": "New User",
   "admin_users_edit": "Edit User",
@@ -880,7 +869,6 @@
   "admin_users_invite_revoked": "Invite revoked",
   "admin_users_copy_link": "Copy Link",
   "admin_users_link_copied": "Link copied",
-
   "admin_tenant_title": "Tenant Settings",
   "admin_tenant_section_info": "Organization Info",
   "admin_tenant_section_branding": "Branding",
@@ -895,7 +883,6 @@
   "admin_tenant_field_phone": "Contact Phone",
   "admin_tenant_field_website": "Website",
   "admin_tenant_saved": "Settings saved",
-
   "admin_special_access_title": "Special Access",
   "admin_special_access_empty": "No permissions granted",
   "admin_special_access_empty_hint": "Grant special access to therapists.",
@@ -907,7 +894,6 @@
   "admin_special_access_control_room_desc": "Access to the recording review workstation",
   "admin_special_access_select_therapist": "Select Therapist",
   "admin_special_access_granted_by": "Granted by {{name}}",
-
   "admin_tenants_title": "Tenants",
   "admin_tenants_create": "New Tenant",
   "admin_tenants_edit": "Edit Tenant",
@@ -919,7 +905,6 @@
   "admin_tenants_users": "{{count}} users",
   "admin_tenants_created_on": "Created {{date}}",
   "admin_tenants_search": "Search tenants...",
-
   "admin_flags_title": "Feature Flags",
   "admin_flags_select_tenant": "Select Tenant",
   "admin_flags_enabled": "Enabled",
@@ -932,7 +917,6 @@
   "admin_flags_section": "Flags",
   "admin_flags_empty": "No feature flags",
   "admin_flags_empty_hint": "There are no feature flags to configure for this tenant.",
-
   "admin_feedback_title": "Feedback",
   "admin_feedback_empty": "No feedback",
   "admin_feedback_empty_hint": "Feedback from users will appear here.",
@@ -950,7 +934,6 @@
   "admin_feedback_priority_medium": "Medium",
   "admin_feedback_priority_high": "High",
   "admin_feedback_priority_critical": "Critical",
-
   "admin_pilot_title": "Pilot Accounts",
   "admin_pilot_role": "Role",
   "admin_pilot_count": "Number of Accounts",
@@ -962,7 +945,6 @@
   "admin_pilot_warning": "Save these credentials now. Passwords cannot be recovered.",
   "admin_pilot_empty": "No accounts yet",
   "admin_pilot_empty_hint": "Generated credentials will appear here.",
-
   "role_owner": "Owner",
   "role_admin": "Admin",
   "role_therapist": "Therapist",
@@ -973,17 +955,13 @@
   "lp_status_active": "Active",
   "lp_status_paused": "Paused",
   "lp_status_completed": "Completed",
-
   "error_boundary_title": "Something went wrong",
   "error_boundary_description": "An unexpected error occurred. Please try again.",
   "error_boundary_retry": "Try Again",
-
   "acknowledgment_finish": "Finish",
   "acknowledgment_continue": "Continue",
-
   "finish": "Finish",
   "continue_button": "Continue",
-
   "accessibility_reconnect": "Reconnect",
   "accessibility_new_chat": "New chat",
   "accessibility_back": "Go back",
@@ -1003,10 +981,8 @@
   "accessibility_remove": "Remove",
   "dev_build_audio": "Audio playback requires a development build",
   "dev_build_video": "Video playback requires a development build",
-
   "not_found_title": "This screen doesn't exist.",
   "not_found_go_home": "Go to home screen",
-
   "patient_scenario_settings_title": "Scenario settings",
   "patient_scenario_settings_description": "Tune how realistic-mode live calls behave for this patient.",
   "patient_scenario_settings_vad_label": "Silence before the bot speaks",
@@ -1018,7 +994,6 @@
   "patient_scenario_settings_vad_preset_long_blocks": "4.0s, long blocks",
   "patient_scenario_settings_load_error": "Couldn't load scenario settings.",
   "patient_scenario_settings_save_error": "Couldn't save. Try again.",
-
   "self_annotation_title": "Mark disfluencies",
   "self_annotation_intro": "Listen back and tap Mark whenever you spot a disfluency. You can review and add notes later.",
   "self_annotation_mark_at": "Mark at {{time}}",
@@ -1034,14 +1009,12 @@
   "self_annotation_video_only": "{{type}} can only be marked on video recordings.",
   "self_annotation_video_unsupported": "Video annotation isn't available on mobile yet. Use the desktop app for video recordings.",
   "self_annotation_open_cta": "Mark disfluencies on this recording",
-
   "disfluency_type_repetition": "Repetition",
   "disfluency_type_prolongation": "Prolongation",
   "disfluency_type_block": "Block",
   "disfluency_type_escape_behavior": "Escape behavior",
   "disfluency_type_avoidance_behavior": "Avoidance behavior",
   "disfluency_type_starter_postponement": "Starter / postponement",
-
   "scenario_realtime_ready_title": "Ready when you are",
   "scenario_realtime_ready_subtitle": "We'll connect you with the AI for a live conversation. Take your time and stutter freely.",
   "scenario_realtime_ready_tip_title": "Set the scene",
@@ -1075,7 +1048,6 @@
   "recent_feedback_type_recording": "Practice recording",
   "recent_feedback_type_mini_game": "Mini-game",
   "recent_feedback_type_scenario": "Conversation scenario",
-
   "progress_consistency": "Consistency",
   "progress_consistency_pending": "Practice on another day to start tracking your consistency.",
   "progress_habit": "Habit",
@@ -1201,13 +1173,49 @@
     "soften_only": "Soften only",
     "hint": "Say each one twice: first with tension, then let it go soft. At sentence level, soften only the hard word.",
     "levels": [
-      { "label": "Syllables", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
-      { "label": "Words", "items": ["prize", "press", "proud", "print", "prompt"] },
+      {
+        "label": "Syllables",
+        "items": [
+          "PRA",
+          "PRE",
+          "PRI",
+          "PRO",
+          "PRU"
+        ]
+      },
+      {
+        "label": "Words",
+        "items": [
+          "prize",
+          "press",
+          "proud",
+          "print",
+          "prompt"
+        ]
+      },
       {
         "label": "Sentences",
         "softenOnly": true,
-        "items": ["The proud prince pressed print.", "Press the prize and stay calm."]
+        "items": [
+          "The proud prince pressed print.",
+          "Press the prize and stay calm."
+        ]
       }
     ]
-  }
+  },
+  "exercise_clip_rounds_round_counter": "Round {{current}} / {{total}}",
+  "exercise_clip_rounds_identify_desc": "Watch this short clip and tap a button whenever you notice a disfluency. If there's nothing to mark, that's fine.",
+  "exercise_clip_rounds_classify_desc": "For each moment you marked, note whether it was short or long, and soft or tense.",
+  "exercise_clip_rounds_mark_label": "Mark a disfluency",
+  "exercise_clip_rounds_empty": "Watch the clip and mark what you notice.",
+  "exercise_clip_rounds_identified_count": "Marked moments ({{count}})",
+  "exercise_clip_rounds_nothing_here": "Nothing to mark here",
+  "exercise_clip_rounds_classify_continue": "Classify moments",
+  "exercise_clip_rounds_next_clip": "Next clip",
+  "exercise_clip_rounds_finish": "Finish",
+  "exercise_clip_rounds_empty_pool_title": "No clips available yet",
+  "exercise_clip_rounds_empty_pool_desc": "Practice clips aren't ready for this exercise yet. Check back later.",
+  "exercise_clip_rounds_loading": "Loading clips…",
+  "exercise_clip_rounds_error": "We couldn't load the clips. Please try again.",
+  "exercise_clip_rounds_retry": "Try again"
 }
