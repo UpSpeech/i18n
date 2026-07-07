@@ -14,6 +14,7 @@
     "missing_feedback": "{{patient_name}} has recordings waiting for review ({{hours_since_submission}}h)",
     "practice_reminder": "Time to practice! Your {{exercise_name}} exercise is waiting.",
     "therapist_feedback": "{{therapist_name}} left feedback on your {{exercise_name}} submission",
+    "therapist_feedback_batch": "{{therapist_name}} left feedback on your recent practice",
     "milestone_unlocked": "You reached Milestone {{milestone_position}}. Your next step is ready.",
     "direct_message": "You have a new message"
   },

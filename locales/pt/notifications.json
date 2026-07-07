@@ -14,6 +14,7 @@
     "missing_feedback": "{{patient_name}} tem gravações à espera de revisão ({{hours_since_submission}}h)",
     "practice_reminder": "Hora de praticar! O exercício {{exercise_name}} está à tua espera.",
     "therapist_feedback": "{{therapist_name}} deixou feedback na tua submissão de {{exercise_name}}",
+    "therapist_feedback_batch": "{{therapist_name}} deixou feedback sobre o teu treino recente",
     "milestone_unlocked": "Chegaste ao Marco {{milestone_position}}. O teu próximo passo já está disponível.",
     "direct_message": "Tens uma nova mensagem"
   },
