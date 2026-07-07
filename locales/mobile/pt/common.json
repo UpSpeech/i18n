@@ -1048,6 +1048,7 @@
   "recent_feedback_type_recording": "Gravação de prática",
   "recent_feedback_type_mini_game": "Mini-jogo",
   "recent_feedback_type_scenario": "Cenário de conversa",
+  "recent_feedback_message_from": "Mensagem de {{name}}",
   "progress_consistency": "Consistência",
   "progress_consistency_pending": "Pratica noutro dia para começar a medir a tua consistência.",
   "progress_habit": "Hábito",
