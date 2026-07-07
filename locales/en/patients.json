@@ -3,7 +3,8 @@
     "overview": "Overview",
     "learning_path": "Learning Path",
     "patients": "Patients",
-    "invites": "Invites"
+    "invites": "Invites",
+    "assessments": "Assessments"
   },
   "invites_tab": {
     "no_invites": "No invites sent",
@@ -195,5 +196,17 @@
     },
     "loadError": "Couldn't load scenario settings.",
     "saveError": "Couldn't save. Try again."
+  },
+  "assessments": {
+    "status": {
+      "pending": "Not started",
+      "reading_done": "Reading complete",
+      "completed": "Completed"
+    },
+    "reading": "Reading",
+    "monologue": "Monologue",
+    "no_recording": "No recording available",
+    "empty_title": "No assessments yet",
+    "empty_description": "Speech assessments will appear here once this patient completes one."
   }
 }

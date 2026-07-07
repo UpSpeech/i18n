@@ -3,7 +3,8 @@
     "overview": "Visión General",
     "learning_path": "Ruta de Aprendizaje",
     "patients": "Pacientes",
-    "invites": "Invitaciones"
+    "invites": "Invitaciones",
+    "assessments": "Evaluaciones"
   },
   "invites_tab": {
     "no_invites": "No se han enviado invitaciones",
@@ -195,5 +196,17 @@
     },
     "loadError": "No se pudieron cargar los ajustes.",
     "saveError": "No se pudo guardar. Inténtalo de nuevo."
+  },
+  "assessments": {
+    "status": {
+      "pending": "No iniciada",
+      "reading_done": "Lectura hecha",
+      "completed": "Completada"
+    },
+    "reading": "Lectura",
+    "monologue": "Monólogo",
+    "no_recording": "No hay grabación disponible",
+    "empty_title": "Aún no hay evaluaciones",
+    "empty_description": "Las evaluaciones de habla aparecerán aquí cuando este paciente complete una."
   }
 }

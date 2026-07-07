@@ -3,7 +3,8 @@
     "overview": "Visão Geral",
     "learning_path": "Percurso de Aprendizagem",
     "patients": "Pacientes",
-    "invites": "Convites"
+    "invites": "Convites",
+    "assessments": "Avaliações"
   },
   "invites_tab": {
     "no_invites": "Nenhum convite enviado",
@@ -195,5 +196,17 @@
     },
     "loadError": "Não foi possível carregar as definições.",
     "saveError": "Não foi possível guardar. Tenta novamente."
+  },
+  "assessments": {
+    "status": {
+      "pending": "Não iniciada",
+      "reading_done": "Leitura concluída",
+      "completed": "Concluída"
+    },
+    "reading": "Leitura",
+    "monologue": "Monólogo",
+    "no_recording": "Nenhuma gravação disponível",
+    "empty_title": "Ainda não há avaliações",
+    "empty_description": "As avaliações de fala aparecerão aqui assim que este paciente concluir uma."
   }
 }
