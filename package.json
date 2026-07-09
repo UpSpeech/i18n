@@ -1,6 +1,6 @@
 {
   "name": "@upspeech/i18n",
-  "version": "0.43.0",
+  "version": "0.44.0",
   "description": "Shared i18next translation files (en/es/pt) for UpSpeech frontend and mobile. Consumed as a git dependency via subpath imports.",
   "type": "module",
   "exports": {
