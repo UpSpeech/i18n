@@ -1259,5 +1259,15 @@
   "exercise_dimension_gestures_high": "Many gestures",
   "exercise_dimension_eye_contact": "Eye contact",
   "exercise_dimension_eye_contact_low": "Very little",
-  "exercise_dimension_eye_contact_high": "Constant"
+  "exercise_dimension_eye_contact_high": "Constant",
+  "scenarios_objectives_hint": "Speak naturally. The AI will guide you toward your goals.",
+  "scenario_realtime_speak_naturally": "Speak naturally. We're listening, no need to read along.",
+  "scenarios_transcript_empty": "No messages yet.",
+  "camera_unavailable": "Camera unavailable",
+  "scenarios_end": "End",
+  "scenarios_role_you": "You",
+  "scenarios_expand_video": "Expand video",
+  "step_title_fallback": "Step",
+  "exercise_generalisation_tap_technique": "Tap when you use a technique",
+  "exercise_pause_pauses": "Pauses"
 }

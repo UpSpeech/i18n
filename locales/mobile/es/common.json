@@ -1259,5 +1259,15 @@
   "exercise_dimension_gestures_high": "Muchos gestos",
   "exercise_dimension_eye_contact": "Contacto visual",
   "exercise_dimension_eye_contact_low": "Muy poco",
-  "exercise_dimension_eye_contact_high": "Constante"
+  "exercise_dimension_eye_contact_high": "Constante",
+  "scenarios_objectives_hint": "Habla con naturalidad. La IA te guiará hacia tus objetivos.",
+  "scenario_realtime_speak_naturally": "Habla con naturalidad. Te escuchamos, no hace falta que leas.",
+  "scenarios_transcript_empty": "Aún no hay mensajes.",
+  "camera_unavailable": "Cámara no disponible",
+  "scenarios_end": "Finalizar",
+  "scenarios_role_you": "Tú",
+  "scenarios_expand_video": "Ampliar vídeo",
+  "step_title_fallback": "Paso",
+  "exercise_generalisation_tap_technique": "Toca cuando uses una técnica",
+  "exercise_pause_pauses": "Pausas"
 }
