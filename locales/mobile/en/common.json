@@ -238,7 +238,7 @@
   "settings_confirm_password": "Confirm New Password",
   "settings_password_changed": "Password changed!",
   "settings_password_mismatch": "Passwords don't match.",
-  "settings_password_min_length": "Password must be at least 6 characters.",
+  "settings_password_min_length": "Password must be at least 8 characters.",
   "settings_save_failed": "Couldn't save your changes. Check your connection and try again.",
   "delete_account_title": "Delete account",
   "delete_account_warning_heading": "This action is permanent",

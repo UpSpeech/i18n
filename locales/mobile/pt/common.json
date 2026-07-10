@@ -238,7 +238,7 @@
   "settings_confirm_password": "Confirmar Nova Palavra-passe",
   "settings_password_changed": "Palavra-passe alterada!",
   "settings_password_mismatch": "As palavras-passe não coincidem.",
-  "settings_password_min_length": "A palavra-passe deve ter pelo menos 6 caracteres.",
+  "settings_password_min_length": "A palavra-passe deve ter pelo menos 8 caracteres.",
   "settings_save_failed": "Não foi possível guardar as alterações. Verifica a tua ligação e tenta novamente.",
   "delete_account_title": "Eliminar conta",
   "delete_account_warning_heading": "Esta ação é permanente",
