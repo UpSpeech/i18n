@@ -238,7 +238,7 @@
   "settings_confirm_password": "Confirmar Nueva Contrasena",
   "settings_password_changed": "Contrasena cambiada!",
   "settings_password_mismatch": "Las contrasenas no coinciden.",
-  "settings_password_min_length": "La contraseña debe tener al menos 6 caracteres.",
+  "settings_password_min_length": "La contraseña debe tener al menos 8 caracteres.",
   "settings_save_failed": "No se pudieron guardar los cambios. Revisa tu conexión e inténtalo de nuevo.",
   "delete_account_title": "Eliminar cuenta",
   "delete_account_warning_heading": "Esta acción es permanente",
