@@ -699,6 +699,7 @@
   "notification_type_milestone_unlocked": "Marco desbloqueado",
   "notification_type_direct_message": "Mensagens",
   "messages_title": "Mensagens",
+  "my_exercises_title": "Os Meus Exercícios",
   "messages_empty_patient": "Ainda não há mensagens, diz olá ao teu terapeuta",
   "messages_empty_therapist_conversation": "Ainda não há mensagens. Envia a primeira mensagem.",
   "messages_empty_therapist_no_selection": "Seleciona um paciente para começar a conversar",

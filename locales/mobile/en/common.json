@@ -699,6 +699,7 @@
   "notification_type_milestone_unlocked": "Milestone unlocked",
   "notification_type_direct_message": "Messages",
   "messages_title": "Messages",
+  "my_exercises_title": "My Exercises",
   "messages_empty_patient": "No messages yet, say hello to your therapist",
   "messages_empty_therapist_conversation": "No messages yet. Send the first message.",
   "messages_empty_therapist_no_selection": "Select a patient to start messaging",
