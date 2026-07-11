@@ -661,6 +661,7 @@
   "scenarios_notes_saved": "Notes saved!",
   "scenarios_playback_title": "Conversation Playback",
   "scenarios_playback_no_audio": "No audio available for this session.",
+  "scenarios_playback_processing": "Your recording is still being prepared. This can take a few seconds after the session ends.",
   "scenarios_recording_mode": "Recording Mode",
   "scenarios_audio_only": "Audio Only",
   "scenarios_video_and_audio": "Video & Audio",
