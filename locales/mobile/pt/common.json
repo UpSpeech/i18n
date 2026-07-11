@@ -661,6 +661,7 @@
   "scenarios_notes_saved": "Notas guardadas!",
   "scenarios_playback_title": "Reprodução da Conversa",
   "scenarios_playback_no_audio": "Sem áudio disponível para esta sessão.",
+  "scenarios_playback_processing": "A tua gravação ainda está a ser preparada. Pode demorar alguns segundos após o fim da sessão.",
   "scenarios_recording_mode": "Modo de Gravação",
   "scenarios_audio_only": "Apenas Áudio",
   "scenarios_video_and_audio": "Vídeo e Áudio",
