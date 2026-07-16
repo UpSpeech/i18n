@@ -646,6 +646,8 @@
   "scenarios_playing_response": "Playing response...",
   "scenarios_tap_to_replay": "Tap to replay",
   "scenarios_conversation": "Conversation",
+  "scenarios_ambient_mute": "Mute background sound",
+  "scenarios_ambient_unmute": "Unmute background sound",
   "scenarios_turn": "Turn {{count}}",
   "scenarios_turns_one": "{{count}} turn",
   "scenarios_turns_other": "{{count}} turns",

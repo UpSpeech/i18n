@@ -646,6 +646,8 @@
   "scenarios_playing_response": "Reproduciendo respuesta...",
   "scenarios_tap_to_replay": "Toca para repetir",
   "scenarios_conversation": "Conversación",
+  "scenarios_ambient_mute": "Silenciar sonido de fondo",
+  "scenarios_ambient_unmute": "Activar sonido de fondo",
   "scenarios_turn": "Turno {{count}}",
   "scenarios_turns_one": "{{count}} turno",
   "scenarios_turns_other": "{{count}} turnos",
