@@ -11,7 +11,7 @@
       },
       "admin": {
         "title": "Welcome to UpSpeech!",
-        "description": "Manage your organization, customize branding, and oversee platform usage."
+        "description": "Manage your organisation, customise branding, and oversee platform usage."
       },
       "default": {
         "title": "Welcome to UpSpeech!",
@@ -19,7 +19,7 @@
       },
       "video": {
         "admin": {
-          "description": "Learn how to manage your organization and customize your platform",
+          "description": "Learn how to manage your organisation and customise your platform",
           "title": "Getting Started as an Admin"
         },
         "default": {
@@ -38,7 +38,7 @@
       "dont_show_again": "Don't show this again",
       "skip": "Skip for now",
       "get_started": "Get Started",
-      "view_all_videos": "View all videos in Help Center"
+      "view_all_videos": "View all videos in Help Centre"
     },
     "checklist": {
       "title": "Your First Steps",
@@ -67,7 +67,7 @@
         "manage_users": "Manage users",
         "manage_users_description": "See who's on your platform",
         "configure_settings": "Configure settings",
-        "configure_settings_description": "Set up your organization",
+        "configure_settings_description": "Set up your organisation",
         "view_analytics": "View analytics",
         "view_analytics_description": "Check platform engagement"
       },
@@ -140,7 +140,7 @@
         },
         "journey": {
           "progress_title": "Your Therapy Path",
-          "progress_content": "This is your personalized journey. Each step builds on the last.",
+          "progress_content": "This is your personalised journey. Each step builds on the last.",
           "current_step_title": "Current Step",
           "current_step_content": "This is where you are now. Tap to start working on it.",
           "indicators_title": "Progress Indicators",
@@ -150,14 +150,14 @@
           "list_title": "Your Assignments",
           "list_content": "Your therapist assigns exercises here for you to complete.",
           "card_title": "Exercise Details",
-          "card_content": "Click any exercise to see the details and start practicing.",
+          "card_content": "Click any exercise to see the details and start practising.",
           "filters_title": "Filter Exercises",
           "filters_content": "Filter by status to find what needs your attention."
         },
         "practice": {
           "library_title": "Exercise Library",
           "library_content": "Choose from these exercises to practice anytime you want.",
-          "button_title": "Start Practicing",
+          "button_title": "Start Practising",
           "button_content": "Hit the practice button to start a recording session.",
           "scenarios_title": "Conversation Scenarios",
           "scenarios_content": "Try conversation scenarios for realistic practice situations."
@@ -196,7 +196,7 @@
         },
         "library": {
           "grid_title": "Exercise Library",
-          "grid_content": "Browse all available exercises organized by category.",
+          "grid_content": "Browse all available exercises organised by category.",
           "card_title": "Exercise Details",
           "card_content": "Click to preview an exercise or assign it to a patient.",
           "filters_title": "Filter & Search",
@@ -210,7 +210,7 @@
           "actions_title": "Quick Actions",
           "actions_content": "Jump to Users, Analytics, Settings, or Reports from here.",
           "users_title": "Recent Registrations",
-          "users_content": "New users who recently joined your organization.",
+          "users_content": "New users who recently joined your organisation.",
           "activity_title": "Platform Activity",
           "activity_content": "Recent platform activity, including any failed recordings that need attention.",
           "workload_title": "Therapist Workload",
@@ -218,17 +218,17 @@
         },
         "users": {
           "list_title": "User Directory",
-          "list_content": "All users across your organization are listed here.",
+          "list_content": "All users across your organisation are listed here.",
           "roles_title": "Roles & Status",
           "roles_content": "See each user's role and account status at a glance.",
           "actions_title": "User Actions",
           "actions_content": "Edit roles, deactivate users, or send new invitations."
         },
         "settings": {
-          "org_title": "Organization Info",
-          "org_content": "Your organization's name and basic information.",
+          "org_title": "Organisation Info",
+          "org_content": "Your organisation's name and basic information.",
           "sections_title": "Settings",
-          "sections_content": "Configure features and preferences for your organization."
+          "sections_content": "Configure features and preferences for your organisation."
         },
         "analytics": {
           "dashboard_title": "Analytics Dashboard",

@@ -44,7 +44,7 @@
       "description": "Open an assignment, view instructions, and start an exercise"
     },
     "practice_scenarios": {
-      "title": "Practicing with AI Scenarios",
+      "title": "Practising with AI Scenarios",
       "description": "Browse practice library, pick a scenario, and start a session"
     },
     "review_history": {
@@ -80,8 +80,8 @@
       "description": "View user list, invite new users, and manage roles"
     },
     "tenant_settings": {
-      "title": "Organization Settings",
-      "description": "View branding, colors, language, and team members"
+      "title": "Organisation Settings",
+      "description": "View branding, colours, language, and team members"
     },
     "analytics": {
       "title": "Understanding Analytics",
@@ -151,7 +151,7 @@
     },
     "report_generation": {
       "question": "How does AI report generation work?",
-      "answer": "Upload an audio recording of your therapy session, and the platform will automatically transcribe it using AI speech recognition. The transcription is then analyzed to generate a structured report. You can review, edit, and customize the report before exporting it as a PDF."
+      "answer": "Upload an audio recording of your therapy session, and the platform will automatically transcribe it using AI speech recognition. The transcription is then analysed to generate a structured report. You can review, edit, and customise the report before exporting it as a PDF."
     },
     "report_types": {
       "question": "What report types are available?",
@@ -163,15 +163,15 @@
     },
     "report_templates": {
       "question": "How do report templates work?",
-      "answer": "Reports use templates that match your organization's branding, including colors and logo. Templates can be customized per organization. Admins can configure them in Organization Settings."
+      "answer": "Reports use templates that match your organisation's branding, including colours and logo. Templates can be customised per organisation. Admins can configure them in Organisation Settings."
     },
     "disfluency_annotations": {
       "question": "What are disfluency annotations?",
-      "answer": "Disfluency annotations mark specific moments in a recording where speech disruptions occur. You can annotate repetitions, prolongations, blocks, escape behaviors, avoidance behaviors, and starter/postponement patterns. Each annotation is timestamped to the exact moment in the recording, helping track patterns over time."
+      "answer": "Disfluency annotations mark specific moments in a recording where speech disruptions occur. You can annotate repetitions, prolongations, blocks, escape behaviours, avoidance behaviours, and starter/postponement patterns. Each annotation is timestamped to the exact moment in the recording, helping track patterns over time."
     },
     "technique_annotations": {
       "question": "What are technique annotations?",
-      "answer": "Technique annotations mark when you use specific fluency strategies in a recording, such as voluntary stuttering, holding onto stuttering, pull-outs, or cancelling. They help you and your therapist see which techniques you're practicing and track your use of them over time."
+      "answer": "Technique annotations mark when you use specific fluency strategies in a recording, such as voluntary stuttering, holding onto stuttering, pull-outs, or cancelling. They help you and your therapist see which techniques you're practising and track your use of them over time."
     },
     "edit_annotations": {
       "question": "Can I edit annotations after saving?",
@@ -179,10 +179,10 @@
     },
     "recording_reviews": {
       "question": "What is the Recording Reviews feature?",
-      "answer": "Recording Reviews (available to admins and users with special access) is a dedicated tool for evaluating patient recordings across the organization. Reviewers can annotate disfluencies and techniques, add clinical notes, and work through a review queue."
+      "answer": "Recording Reviews (available to admins and users with special access) is a dedicated tool for evaluating patient recordings across the organisation. Reviewers can annotate disfluencies and techniques, add clinical notes, and work through a review queue."
     },
     "accept_invite": {
-      "question": "How do I join my therapist's organization?",
+      "question": "How do I join my therapist's organisation?",
       "answer": "Your therapist will send you an email invitation with a link. Click the link to create your account and you'll be automatically linked to your therapist. Invite links expire after 7 days, so make sure to sign up promptly."
     },
     "therapist_add_patient": {
@@ -203,7 +203,7 @@
     },
     "analytics": {
       "question": "What analytics are available?",
-      "answer": "Admins and owners can access the Analytics page for organization-level metrics, including user activity, growth trends, and usage statistics. Therapists see patient-specific progress data on each patient's profile page."
+      "answer": "Admins and owners can access the Analytics page for organisation-level metrics, including user activity, growth trends, and usage statistics. Therapists see patient-specific progress data on each patient's profile page."
     },
     "change_language": {
       "question": "How do I change my language?",
@@ -215,7 +215,7 @@
     },
     "user_roles": {
       "question": "What are the different user roles?",
-      "answer": "There are five roles: Owner manages the entire platform. Admin manages an organization's users and settings. Therapist manages patients, exercises, reports, and learning paths. Patient and Member are both patient roles with the same permissions , they complete exercises and follow therapy programs."
+      "answer": "There are five roles: Owner manages the entire platform. Admin manages an organisation's users and settings. Therapist manages patients, exercises, reports, and learning paths. Patient and Member are both patient roles with the same permissions , they complete exercises and follow therapy programs."
     },
     "audio_formats": {
       "question": "What audio and video formats are supported?",

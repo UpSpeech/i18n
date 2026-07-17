@@ -16,7 +16,7 @@
   "scenario": "Scenario",
   "objectives": "Objectives",
   "categoryLabel": "Category",
-  "start": "Start Practicing",
+  "start": "Start Practising",
   "quickStart": {
     "clickToStart": "Click to start",
     "templates": {
@@ -68,8 +68,8 @@
     "newScenario": "New Scenario",
     "showAll": "Show All",
     "noSessionsTitle": "No scenarios yet",
-    "noSessionsDescription": "Start practicing real-world conversations by creating your first scenario",
-    "startPracticing": "Start Practicing",
+    "noSessionsDescription": "Start practising real-world conversations by creating your first scenario",
+    "startPracticing": "Start Practising",
     "scenariosCount": "{{count}} scenarios"
   },
   "categories": {
@@ -255,7 +255,7 @@
     "endSessionTitle": "End Session",
     "howAreYouFeeling": "How are you feeling?",
     "saveAndExit": "Save & Exit",
-    "keepPracticing": "Keep Practicing",
+    "keepPracticing": "Keep Practising",
     "deleteSession": "Delete Session",
     "endReasons": {
       "done_for_now": "I'm done for now",
@@ -294,7 +294,7 @@
     "overallPerformance": "Overall Performance",
     "excellent": "Excellent",
     "goodProgress": "Good Progress",
-    "keepPracticing": "Keep Practicing",
+    "keepPracticing": "Keep Practising",
     "clarity": "Clarity",
     "confidence": "Confidence",
     "goalAchievement": "Goal Achievement",
@@ -364,7 +364,7 @@
     "examples": {
       "job_interview": [
         "Practice answering 'Tell me about yourself' in a professional interview setting",
-        "Prepare for behavioral questions like 'Describe a challenge you overcame'",
+        "Prepare for behavioural questions like 'Describe a challenge you overcame'",
         "Practice negotiating salary and benefits with a hiring manager"
       ],
       "phone_call": [
