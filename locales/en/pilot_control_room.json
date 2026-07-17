@@ -2,7 +2,7 @@
   "title": "Pilot Control Room",
   "subtitle": "Operational dashboard for monitoring pilot engagement",
   "select_tenant": "Select a tenant to view pilot data",
-  "no_pilot_patients": "No patients are marked as 'in pilot' for this tenant. Use the enrollment section below to add participants.",
+  "no_pilot_patients": "No patients are marked as 'in pilot' for this tenant. Use the enrolment section below to add participants.",
   "key_metrics": {
     "active_pct": "Active Patients",
     "active_pct_helper": "With 2+ sessions this week",
@@ -78,7 +78,7 @@
     "info": "Summary of all platform activity for pilot patients (excluding control group). Tracks audio recordings, completed scenario sessions, and completed exercises. Last Active shows the most recent activity across all types. Practice Time is total recording duration in minutes."
   },
   "enrollment": {
-    "title": "Pilot Enrollment",
+    "title": "Pilot Enrolment",
     "subtitle": "Toggle which users participate in the pilot",
     "name": "Name",
     "email": "Email",
@@ -90,7 +90,7 @@
     "control_group": "Control",
     "control": "Control",
     "control_group_confirm_title": "Move to control group?",
-    "control_group_confirm_message": "{{name}} will lose access to all app features. They will only see a study enrollment screen after completing their speech assessment.",
+    "control_group_confirm_message": "{{name}} will lose access to all app features. They will only see a study enrolment screen after completing their speech assessment.",
     "control_group_confirm_button": "Move to control group"
   },
   "feature_flags": {
@@ -195,7 +195,7 @@
     },
     "learning_path": {
       "title": "Learning path",
-      "info": "Progress through the guided learning path and time spent practicing, per arm.",
+      "info": "Progress through the guided learning path and time spent practising, per arm.",
       "active": "Active paths",
       "completed": "Completed paths",
       "avg_steps": "Avg steps completed / patient",
@@ -278,7 +278,7 @@
   },
   "dose_response": {
     "title": "Dose-response: practice vs improvement",
-    "info": "Each point is one patient: practice minutes (x) against their CBSA self-severity change (y). A downward cloud, and a negative r, means more practice goes with lower severity, the signal that use drives the change rather than just co-occurring with it. Colored by arm.",
+    "info": "Each point is one patient: practice minutes (x) against their CBSA self-severity change (y). A downward cloud, and a negative r, means more practice goes with lower severity, the signal that use drives the change rather than just co-occurring with it. Coloured by arm.",
     "no_data": "Not enough paired data yet. A point needs both practice time and at least two CBSA submissions.",
     "r_caption": "Correlation r = {{r}} across {{n}} patients. Negative means more practice goes with lower severity (improvement).",
     "r_insufficient": "Only {{n}} paired patient(s); at least 3 are needed to estimate a correlation.",
@@ -350,7 +350,7 @@
     },
     "minutes": {
       "title": "Practice Time per Week",
-      "subtitle": "Average and median minutes practiced per user per week",
+      "subtitle": "Average and median minutes practised per user per week",
       "avg_label": "Average",
       "median_label": "Median",
       "info": "Average and median recording practice time per patient per week, in minutes. The median helps identify whether a few heavy users are skewing the average , if the average is much higher than the median, a small group is doing most of the practice. Only exercise-related recordings (mini-games, learning path exercises) count toward practice time."

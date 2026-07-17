@@ -5,9 +5,9 @@
   "users_subtitle": "Manage system users and permissions",
   "analytics_subtitle": "View system-wide analytics and insights",
   "patients_subtitle_therapist": "Manage your assigned patients and track their progress",
-  "patients_subtitle_admin": "Manage all patients in your organization and track their progress",
-  "tenant_subtitle": "Configure your organization settings",
-  "tenants_subtitle": "Manage all organizations in the system",
+  "patients_subtitle_admin": "Manage all patients in your organisation and track their progress",
+  "tenant_subtitle": "Configure your organisation settings",
+  "tenants_subtitle": "Manage all organisations in the system",
   "client": {
     "greeting_morning": "Good morning",
     "greeting_afternoon": "Good afternoon",
@@ -33,10 +33,10 @@
     "upcoming_steps": "Upcoming Steps",
     "steps_progress": "{{completed}}/{{total}} exercises",
     "consistency": "Consistency",
-    "consistency_info": "How regularly you practiced over the last 30 days. Steady, repeated practice matters more than a long unbroken streak.",
+    "consistency_info": "How regularly you practised over the last 30 days. Steady, repeated practice matters more than a long unbroken streak.",
     "consistency_pending": "Practice on another day to start measuring how regularly you practice.",
     "habit_score": "Habit",
-    "habit_info": "The number of days you practiced at least once in the last 21 days.",
+    "habit_info": "The number of days you practised at least once in the last 21 days.",
     "habit_caption": "Active days, last 3 weeks",
     "habit_meter_aria": "{{days}} of {{total}} active days in the last 3 weeks",
     "days_of_21": "{{days}} / {{total}} days",
@@ -45,7 +45,7 @@
     "practice_total": "{{minutes}} min this week",
     "day_minutes": "{{day}}: {{minutes}} min",
     "activity_overview": "Activity",
-    "activity_info": "Days you practiced over the last 12 weeks. A darker square means more activity that day.",
+    "activity_info": "Days you practised over the last 12 weeks. A darker square means more activity that day.",
     "activity_range": "Last 12 weeks",
     "activity_less": "Less",
     "activity_more": "More",
@@ -157,11 +157,11 @@
     "greeting_morning": "Good morning",
     "greeting_afternoon": "Good afternoon",
     "greeting_evening": "Good evening",
-    "total_organizations": "Total Organizations"
+    "total_organizations": "Total Organisations"
   },
   "admin_dashboard": {
     "title": "Administration Panel",
-    "subtitle": "Manage users, therapists and monitor your organization's activity.",
+    "subtitle": "Manage users, therapists and monitor your organisation's activity.",
     "stats": {
       "total_users": "Total Users",
       "active_clients": "Active Patients",
@@ -185,7 +185,7 @@
       "analytics": "Analytics",
       "analytics_description": "Detailed metrics",
       "settings": "Settings",
-      "settings_description": "Organization",
+      "settings_description": "Organisation",
       "reports": "Reports",
       "reports_description": "All reports"
     },
@@ -211,7 +211,7 @@
     "global_system_management": "Global System Management",
     "actions": {
       "manage_tenants": "Manage Tenants",
-      "manage_tenants_description": "All organizations",
+      "manage_tenants_description": "All organisations",
       "all_users": "All Users",
       "all_users_description": "Cross-tenant",
       "global_analytics": "Global Analytics",
@@ -241,8 +241,8 @@
     "total_storage_label": "Total Storage",
     "avg_file_size": "Avg File Size",
     "complete": "complete",
-    "inactive_tenants": "Inactive Organizations",
-    "inactive_tenants_description": "Organizations with no recordings in the current period"
+    "inactive_tenants": "Inactive Organisations",
+    "inactive_tenants_description": "Organisations with no recordings in the current period"
   },
   "training_consent_prompt": {
     "title": "Help improve therapy for others",

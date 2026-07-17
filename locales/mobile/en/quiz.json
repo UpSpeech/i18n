@@ -6,14 +6,14 @@
         "explanation": "Anxiety and stress can make stuttering harder in the moment, but they do not cause it. Stuttering is a neurodevelopmental condition with a genetic and neurological basis."
       },
       "q2": {
-        "question": "What are the core behaviors of stuttering?",
+        "question": "What are the core behaviours of stuttering?",
         "options": [
           "Pauses, hesitations, and filler words",
           "Repetitions, prolongations, and blocks",
           "Fast speech and racing thoughts",
           "Eye-blinking, head movements, and facial tension"
         ],
-        "explanation": "The core behaviors are repetitions, prolongations, and blocks. Eye-blinking and facial tension are secondary behaviors, learned reactions that get added on top of the core moment."
+        "explanation": "The core behaviours are repetitions, prolongations, and blocks. Eye-blinking and facial tension are secondary behaviours, learned reactions that get added on top of the core moment."
       },
       "q3": {
         "question": "The same person may stutter more in some situations than in others, and this variability is a normal feature of stuttering.",
@@ -44,14 +44,14 @@
         "explanation": "No. Stuttering is unrelated to intelligence. It reflects a difference in how the brain controls speech, not in a person's thinking ability."
       },
       "q7": {
-        "question": "Secondary behaviors, such as eye-blinking or facial tension during a block, are best described as:",
+        "question": "Secondary behaviours, such as eye-blinking or facial tension during a block, are best described as:",
         "options": [
           "The main cause of stuttering",
           "A sign of a nervous personality",
           "Learned reactions to moments of stuttering",
           "Deliberate habits the person could simply stop"
         ],
-        "explanation": "Secondary behaviors are learned physical reactions layered on top of the core stutter. They are not its cause, and they are not something a person can just switch off."
+        "explanation": "Secondary behaviours are learned physical reactions layered on top of the core stutter. They are not its cause, and they are not something a person can just switch off."
       }
     },
     "how_speech_works": {
@@ -151,7 +151,7 @@
       },
       "q5": {
         "question": "Relapse, meaning stuttering more again after a period of therapy, is a normal and expected part of the process.",
-        "explanation": "Yes. Behavior-change models build in a maintenance stage focused on handling relapse. Stuttering more again does not mean therapy failed."
+        "explanation": "Yes. Behaviour-change models build in a maintenance stage focused on handling relapse. Stuttering more again does not mean therapy failed."
       },
       "q6": {
         "question": "Why does therapy include practice in cafes, on phone calls, and with strangers?",
@@ -183,7 +183,7 @@
           "Reducing tension and struggle during moments of stuttering",
           "Avoiding all difficult speaking situations"
         ],
-        "explanation": "Objectives include reducing tension and secondary behaviors, decreasing avoidance, and improving how a person relates to their own speech, rather than erasing stuttering."
+        "explanation": "Objectives include reducing tension and secondary behaviours, decreasing avoidance, and improving how a person relates to their own speech, rather than erasing stuttering."
       },
       "q2": {
         "question": "Which best reflects a modern view of therapy 'success'?",
@@ -204,7 +204,7 @@
         "options": [
           "Numbing the mouth muscles",
           "Reducing the fear and shame around stuttering so it triggers less struggle",
-          "Practicing until you never stutter",
+          "Practising until you never stutter",
           "Ignoring the stutter and hoping it goes away"
         ],
         "explanation": "Desensitization lowers the fear and emotional charge around stuttering. As the fear eases, the tension and struggle it triggers ease too."
@@ -236,24 +236,24 @@
     },
     "avoidance_vs_struggle": {
       "q1": {
-        "question": "Which of these is an avoidance behavior?",
+        "question": "Which of these is an avoidance behaviour?",
         "options": [
           "Swapping a word the person expects to stutter on for an easier one",
           "Facial tension during a block",
           "A sound repetition",
           "Using an easy, gentle voice onset"
         ],
-        "explanation": "Avoidance happens before the moment and aims to hide stuttering: switching words, talking around them, or dodging sounds, situations, or people. Facial tension is struggle, and a repetition is a core behavior."
+        "explanation": "Avoidance happens before the moment and aims to hide stuttering: switching words, talking around them, or dodging sounds, situations, or people. Facial tension is struggle, and a repetition is a core behaviour."
       },
       "q2": {
-        "question": "What are struggle (escape) behaviors?",
+        "question": "What are struggle (escape) behaviours?",
         "options": [
           "Avoiding a phone call",
           "Using extra tension and force to push a word out during a block",
           "Techniques the therapist teaches",
           "Natural pauses in speech"
         ],
-        "explanation": "Struggle behaviors appear during the stuttering moment: extra tension and force, sometimes with blinking or head movement, as the person tries to escape the block."
+        "explanation": "Struggle behaviours appear during the stuttering moment: extra tension and force, sometimes with blinking or head movement, as the person tries to escape the block."
       },
       "q3": {
         "question": "In stuttering, what is visible to others and what usually stays hidden?",
@@ -290,7 +290,7 @@
         "explanation": "Moving toward approach, including openly stuttering and telling listeners about it, reduces the push-pull conflict that fuels tension."
       },
       "q7": {
-        "question": "Secondary behaviors like extra tension and blinking are always helpful and make speaking easier.",
+        "question": "Secondary behaviours like extra tension and blinking are always helpful and make speaking easier.",
         "explanation": "No. They may feel useful at first or give a brief sense of control, but over time they become automatic and add to the struggle, tension, and effort."
       }
     }

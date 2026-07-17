@@ -4,7 +4,7 @@
   "permissions": {
     "control_room_access": {
       "title": "Recording Reviews Access",
-      "description": "Access the Recording Reviews dashboard to review patient recordings across the organization."
+      "description": "Access the Recording Reviews dashboard to review patient recordings across the organisation."
     }
   },
   "granted_users": {

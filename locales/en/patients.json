@@ -117,7 +117,7 @@
     "modal_description": "Step through pending practice and send feedback.",
     "progress_strip": "Practice {{current}} of {{total}}",
     "pending_count": "{{count}} pending",
-    "last_practiced": "Last practiced: {{date}}",
+    "last_practiced": "Last practised: {{date}}",
     "feedback_label": "Note on this practice",
     "feedback_placeholder": "What went well, and what to work on next?",
     "save_feedback": "Save",
