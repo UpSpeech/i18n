@@ -209,7 +209,13 @@
     "open_sidebar": "Open sidebar",
     "collapse_sidebar": "Collapse sidebar",
     "expand_sidebar": "Expand sidebar",
-    "navigation": "Navigation"
+    "navigation": "Navigation",
+    "open_in_app": {
+      "title": "UpSpeech app",
+      "open": "Open",
+      "get_it": "Get the app",
+      "dismiss": "Dismiss"
+    }
   },
   "roles": {
     "owner": "Owner",

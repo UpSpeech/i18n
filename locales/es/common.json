@@ -202,7 +202,13 @@
     "open_sidebar": "Abrir barra lateral",
     "collapse_sidebar": "Contraer barra lateral",
     "expand_sidebar": "Expandir barra lateral",
-    "navigation": "Navegación"
+    "navigation": "Navegación",
+    "open_in_app": {
+      "title": "Aplicación UpSpeech",
+      "open": "Abrir",
+      "get_it": "Consigue la aplicación",
+      "dismiss": "Descartar"
+    }
   },
   "roles": {
     "owner": "Propietario",
