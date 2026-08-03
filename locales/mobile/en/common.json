@@ -1345,5 +1345,7 @@
   "review_mood": "Mood",
   "review_confidence": "Confidence",
   "review_submissions": "Submissions",
-  "review_video_reviewed": "Video reviewed"
+  "review_video_reviewed": "Video reviewed",
+  "recording_too_short": "That take was too short. Please record at least {{seconds}} seconds.",
+  "recording_too_small": "That recording did not save properly. Please record again."
 }

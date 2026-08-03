@@ -1345,5 +1345,7 @@
   "review_mood": "Ánimo",
   "review_confidence": "Confianza",
   "review_submissions": "Envíos",
-  "review_video_reviewed": "Vídeo revisado"
+  "review_video_reviewed": "Vídeo revisado",
+  "recording_too_short": "La grabación fue demasiado corta. Por favor, graba al menos {{seconds}} segundos.",
+  "recording_too_small": "La grabación no se guardó correctamente. Por favor, graba de nuevo."
 }
