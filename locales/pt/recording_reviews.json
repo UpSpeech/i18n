@@ -96,7 +96,10 @@
     "severity_scale_min": "Sem gaguez",
     "severity_scale_mid": "Moderada",
     "severity_scale_max": "Muito severa",
-    "severity_submit": "Submeter Revisão"
+    "severity_submit": "Submeter Revisão",
+    "category_disfluency": "Disfluência",
+    "category_technique": "Uso de técnica",
+    "technique_used": "Técnica utilizada"
   },
   "lbdl": {
     "syllable_repetition": "Repetição de Sílaba",
@@ -168,7 +171,12 @@
     "avoidance": "Evitamento",
     "syllable_repetition": "Repetição de Sílaba",
     "incomplete_syllable_repetition": "Rep. de Sílaba Incompleta",
-    "multisyllable_unit_repetition": "Rep. de Unidade Multissilábica"
+    "multisyllable_unit_repetition": "Rep. de Unidade Multissilábica",
+    "soft_starts": "Inícios Suaves",
+    "soft_articulation_contact": "Contacto Articulatório Suave",
+    "prolonged_speech": "Fala Prolongada",
+    "speech_speed_management": "Gestão da Velocidade da Fala",
+    "pauses": "Pausas Estratégicas"
   },
   "summary_panel": {
     "disfluencies": "Disfluências",
