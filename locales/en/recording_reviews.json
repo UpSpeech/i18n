@@ -96,7 +96,10 @@
     "severity_scale_min": "No stuttering",
     "severity_scale_mid": "Moderate",
     "severity_scale_max": "Very severe",
-    "severity_submit": "Submit Review"
+    "severity_submit": "Submit Review",
+    "category_disfluency": "Disfluency",
+    "category_technique": "Technique use",
+    "technique_used": "Technique used"
   },
   "lbdl": {
     "syllable_repetition": "Syllable Repetition",
@@ -168,7 +171,12 @@
     "pull_out": "Pull-out",
     "cancelling": "Cancelling",
     "secondary_behaviour": "Secondary Behaviour",
-    "avoidance": "Avoidance"
+    "avoidance": "Avoidance",
+    "soft_starts": "Soft Starts",
+    "soft_articulation_contact": "Soft Articulation Contact",
+    "prolonged_speech": "Prolonged Speech",
+    "speech_speed_management": "Speech Speed Management",
+    "pauses": "Strategic Pausing"
   },
   "summary_panel": {
     "disfluencies": "Disfluencies",

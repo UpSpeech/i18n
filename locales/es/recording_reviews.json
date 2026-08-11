@@ -96,7 +96,10 @@
     "severity_scale_min": "Sin tartamudeo",
     "severity_scale_mid": "Moderada",
     "severity_scale_max": "Muy severa",
-    "severity_submit": "Enviar Revisión"
+    "severity_submit": "Enviar Revisión",
+    "category_disfluency": "Disfluencia",
+    "category_technique": "Uso de técnica",
+    "technique_used": "Técnica utilizada"
   },
   "lbdl": {
     "syllable_repetition": "Repetición de Sílaba",
@@ -168,7 +171,12 @@
     "avoidance": "Evitación",
     "syllable_repetition": "Repetición de Sílaba",
     "incomplete_syllable_repetition": "Rep. de Sílaba Incompleta",
-    "multisyllable_unit_repetition": "Rep. de Unidad Multisilábica"
+    "multisyllable_unit_repetition": "Rep. de Unidad Multisilábica",
+    "soft_starts": "Inicios Suaves",
+    "soft_articulation_contact": "Contacto Articulatorio Suave",
+    "prolonged_speech": "Habla Prolongada",
+    "speech_speed_management": "Gestión de la Velocidad del Habla",
+    "pauses": "Pausas Estratégicas"
   },
   "summary_panel": {
     "disfluencies": "Disfluencias",
