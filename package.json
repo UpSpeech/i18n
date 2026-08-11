@@ -1,6 +1,6 @@
 {
   "name": "@upspeech/i18n",
-  "version": "0.51.0",
+  "version": "0.52.0",
   "description": "Shared i18next translation files (en/es/pt) for UpSpeech frontend and mobile. Consumed as a git dependency via subpath imports.",
   "type": "module",
   "exports": {
@@ -11,7 +11,7 @@
     "locales"
   ],
   "scripts": {
-    "check": "node scripts/check-parity.mjs"
+    "check": "node scripts/check-parity.mjs && node scripts/check-option-balance.mjs"
   },
   "repository": {
     "type": "git",

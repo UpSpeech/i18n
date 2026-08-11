@@ -22,9 +22,9 @@
       "q4": {
         "question": "What contributes to the development of stuttering?",
         "options": [
-          "Only stress and nervousness",
-          "Bad speaking habits picked up in childhood",
-          "An interaction of genetic, neurological, and developmental factors",
+          "Stress and nervousness on their own",
+          "Bad speaking habits picked up during early childhood",
+          "Genetic, neurological, and developmental factors",
           "Copying another person who stutters"
         ],
         "explanation": "Stuttering is multifactorial. Genetic, neurological, and developmental factors interact. It is not caught by imitation and is not caused by stress alone."
@@ -46,7 +46,7 @@
       "q7": {
         "question": "Secondary behaviours, such as eye-blinking or facial tension during a block, are best described as:",
         "options": [
-          "The main cause of stuttering",
+          "The main cause of all stuttering",
           "A sign of a nervous personality",
           "Learned reactions to moments of stuttering",
           "Deliberate habits the person could simply stop"
@@ -58,20 +58,20 @@
       "q1": {
         "question": "Which three body systems work together to produce speech?",
         "options": [
-          "Respiration (breathing), phonation (voice), and articulation (mouth movements)",
+          "Respiration, phonation (voice), and articulation",
           "The heart, the lungs, and the stomach",
-          "Hearing, memory, and vocabulary",
-          "The tongue, the teeth, and the lips only"
+          "Hearing, memory, and vocabulary size",
+          "The tongue, the teeth, and the lips working on their own"
         ],
         "explanation": "Speech is built from three coordinated systems: breathing, phonation at the larynx, and articulation with the tongue, palate, and lips, all directed by the brain."
       },
       "q2": {
         "question": "Where does the difference that underlies stuttering mainly lie?",
         "options": [
-          "In malformed vocal cords",
-          "In weak breathing muscles",
-          "In how the brain controls the timing and coordination of speech",
-          "In the shape of the tongue"
+          "In malformed or damaged vocal cords",
+          "In weak or insufficiently trained breathing muscles",
+          "In how the brain times and coordinates speech",
+          "In the shape and size of the tongue"
         ],
         "explanation": "The speech organs are typically normal. Stuttering is a difference in the brain's control of speech timing, not a problem with the muscles themselves."
       },
@@ -86,19 +86,19 @@
       "q5": {
         "question": "Why is a person who stutters often more fluent when singing or reading in unison with others?",
         "options": [
-          "Singing uses different vocal cords",
-          "An external rhythm reduces the load on their own speech-timing control",
+          "Singing uses a completely different set of vocal cords",
+          "An external rhythm eases the demand on their timing",
           "The stutter is cured after singing",
-          "They stop caring about mistakes"
+          "They stop caring about making mistakes"
         ],
         "explanation": "Singing, choral reading, and a steady external rhythm ease the demand on the speaker's own timing control, which is why fluency often improves in those moments."
       },
       "q6": {
         "question": "What have brain-imaging studies (fMRI, PET) found in people who stutter?",
         "options": [
-          "Consistent differences in how the brain processes and coordinates speech",
-          "No measurable brain differences",
-          "Lower overall intelligence",
+          "Differences in how the brain coordinates speech",
+          "No measurable differences at all",
+          "A lower overall level of intelligence and reasoning",
           "Damage caused by childhood trauma"
         ],
         "explanation": "Imaging shows consistent differences in how the brain processes and coordinates speech, which supports the neurological basis of stuttering."
@@ -106,10 +106,10 @@
       "q7": {
         "question": "What can make speech less fluent for a person who stutters?",
         "options": [
-          "Only speaking too loudly",
-          "Only poor posture",
-          "Demands like time pressure, complex language, or strong emotion affecting speech timing",
-          "Only drinking cold water"
+          "Speaking at too high a volume for the room",
+          "Poor posture while standing and speaking to others",
+          "Time pressure, complex language, or emotion",
+          "Drinking very cold water shortly before speaking"
         ],
         "explanation": "Small increases in demand, such as time pressure, complex language, or strong emotion, can tip the timing system. That is part of why fluency fluctuates."
       }
@@ -118,20 +118,20 @@
       "q1": {
         "question": "What is the realistic aim of stuttering therapy for adults?",
         "options": [
-          "A permanent cure",
+          "A permanent cure that removes stuttering",
           "Speaking with zero stuttering forever",
-          "Making communication easier and more effective, and managing stuttering",
-          "Removing the need to ever think about speech"
+          "Easier communication and better stuttering management",
+          "Removing the need to ever think about how you speak again"
         ],
         "explanation": "There is no cure for stuttering. Effective therapy manages it, making speech easier and communication more effective and confident."
       },
       "q2": {
         "question": "The therapy process is best described as:",
         "options": [
-          "Rigid and identical for everyone",
-          "Structured and progressive, adapted to each person",
+          "Rigid and identical for every person",
+          "Structured and progressive, adapted per person",
           "Always starting with speech techniques",
-          "A fixed set of steps with no flexibility"
+          "The same fixed sequence of steps for every patient"
         ],
         "explanation": "Therapy is structured and progressive but tailored to each person's goals, needs, and progress. Its phases can overlap rather than run in a strict line."
       },
@@ -142,10 +142,10 @@
       "q4": {
         "question": "In stuttering modification, what is a 'pull-out'?",
         "options": [
-          "Avoiding the word entirely",
-          "Fixing the moment only after it has passed",
-          "Preparing before a word the person expects to be hard",
-          "Easing out of the tension during a moment of stuttering, as it happens"
+          "Avoiding the difficult word entirely",
+          "Fixing the moment only after it has already passed",
+          "Preparing before an expected hard word",
+          "Easing out of the tension as the stutter happens"
         ],
         "explanation": "A pull-out means easing out of tension during the stuttering moment itself. Preparing beforehand is a preparatory set, and repairing afterward is a cancellation."
       },
@@ -156,8 +156,8 @@
       "q6": {
         "question": "Why does therapy include practice in cafes, on phone calls, and with strangers?",
         "options": [
-          "To prove the stutter is gone",
-          "So skills transfer from the clinic into real-life situations",
+          "To prove the stutter has gone away",
+          "So skills transfer into real-life situations",
           "Because clinic practice does not matter",
           "To make the person anxious on purpose"
         ],
@@ -166,10 +166,10 @@
       "q7": {
         "question": "Besides speech techniques, what else does good therapy address?",
         "options": [
-          "Only breathing",
-          "Only speaking rate",
+          "Only the mechanics of breathing",
+          "Only the rate at which the person speaks to others",
           "Nothing, therapy is purely mechanical",
-          "Thoughts and feelings, such as reducing fear and avoidance and building confidence"
+          "Thoughts and feelings, such as fear and avoidance"
         ],
         "explanation": "Best-practice therapy also targets the internal side: reducing fear through desensitization, cutting avoidance, and self-disclosure, not just speech mechanics."
       }
@@ -178,9 +178,9 @@
       "q1": {
         "question": "Which of these is a realistic therapy objective?",
         "options": [
-          "Completely eliminating stuttering",
-          "Never stuttering in public again",
-          "Reducing tension and struggle during moments of stuttering",
+          "Completely eliminating all stuttering",
+          "Never stuttering in public situations",
+          "Reducing tension and struggle when stuttering",
           "Avoiding all difficult speaking situations"
         ],
         "explanation": "Objectives include reducing tension and secondary behaviours, decreasing avoidance, and improving how a person relates to their own speech, rather than erasing stuttering."
@@ -188,10 +188,10 @@
       "q2": {
         "question": "Which best reflects a modern view of therapy 'success'?",
         "options": [
-          "Easier, more confident communication, even if some stuttering remains",
-          "Zero stuttering",
+          "Easier communication, even if stuttering remains",
+          "Zero stuttering in every situation",
           "Speaking only when you are sure you will be fluent",
-          "Hiding the stutter well"
+          "Hiding the stutter as well as possible"
         ],
         "explanation": "Contemporary practice values effective, confident communication over perfect fluency. Some stuttering can remain while communication becomes far easier."
       },
@@ -202,8 +202,8 @@
       "q4": {
         "question": "What does 'desensitization' mean as a therapy goal?",
         "options": [
-          "Numbing the mouth muscles",
-          "Reducing the fear and shame around stuttering so it triggers less struggle",
+          "Numbing the muscles of the mouth",
+          "Reducing fear and shame so struggle eases",
           "Practising until you never stutter",
           "Ignoring the stutter and hoping it goes away"
         ],
@@ -213,9 +213,9 @@
         "question": "A therapist encourages a patient to speak up in a meeting even though they might stutter. What objective is this?",
         "options": [
           "Testing whether the stutter is cured",
-          "Punishing the patient",
-          "Building willingness to communicate regardless of fluency, and reducing avoidance",
-          "Proving that techniques failed"
+          "Punishing the person for stuttering",
+          "Building willingness to speak and reducing avoidance",
+          "Proving to the person that the techniques have failed"
         ],
         "explanation": "Increasing willingness to speak and take part, whatever the fluency level, is a core objective and a direct counter to avoidance."
       },
@@ -226,9 +226,9 @@
       "q7": {
         "question": "Why does therapy for adults often address shame and social anxiety, not just speech?",
         "options": [
-          "Because adults who stutter often carry years of stigma that affect confidence and participation",
-          "Because shame causes stuttering",
-          "Because anxiety is the root cause of stuttering",
+          "Because years of stigma affect confidence",
+          "Because shame is what causes stuttering",
+          "Because anxiety is the root cause",
           "It does not; therapy ignores feelings"
         ],
         "explanation": "Many adults carry accumulated shame and self-stigma that affect mood and participation, so therapy works on these alongside speech. This is a consequence to work through, not the cause of stuttering."
@@ -238,9 +238,9 @@
       "q1": {
         "question": "Which of these is an avoidance behaviour?",
         "options": [
-          "Swapping a word the person expects to stutter on for an easier one",
-          "Facial tension during a block",
-          "A sound repetition",
+          "Swapping a hard word for an easier one",
+          "Visible facial tension during a block",
+          "A repeated sound at the start of a word",
           "Using an easy, gentle voice onset"
         ],
         "explanation": "Avoidance happens before the moment and aims to hide stuttering: switching words, talking around them, or dodging sounds, situations, or people. Facial tension is struggle, and a repetition is a core behaviour."
@@ -248,10 +248,10 @@
       "q2": {
         "question": "What are struggle (escape) behaviours?",
         "options": [
-          "Avoiding a phone call",
-          "Using extra tension and force to push a word out during a block",
+          "Avoiding a phone call altogether",
+          "Using extra force to push a word out",
           "Techniques the therapist teaches",
-          "Natural pauses in speech"
+          "Natural pauses in everyday speech"
         ],
         "explanation": "Struggle behaviours appear during the stuttering moment: extra tension and force, sometimes with blinking or head movement, as the person tries to escape the block."
       },
@@ -260,8 +260,8 @@
         "options": [
           "Stuttering gets worse in cold weather",
           "Stuttering is mostly a breathing problem",
-          "The visible part of stuttering is small; the hidden feelings and avoidance are the larger part",
-          "The stutter melts away with enough practice"
+          "The visible part is small; the hidden part is larger",
+          "The stutter melts away entirely with enough daily practice"
         ],
         "explanation": "What listeners see or hear is only part of it. The rest, shame, fear, and avoidance, stays hidden and often adds to the tension and effort of stuttering."
       },
@@ -272,19 +272,19 @@
       "q5": {
         "question": "A person hides their stutter well by swapping words. This means they:",
         "options": [
-          "Definitely have a mild stutter",
-          "May still have significant stuttering that avoidance is masking",
-          "Are almost cured",
-          "Do not really stutter"
+          "Definitely have only a mild stutter",
+          "May have significant stuttering that avoidance masks",
+          "Are almost completely cured by now",
+          "Do not really stutter outside a few rare moments a year"
         ],
         "explanation": "Avoidance can mask real severity. Hidden, covert stuttering can be just as significant as stuttering that is openly visible."
       },
       "q6": {
-        "question": "In Sheehan's terms, therapy helps a person move from avoidance toward:",
+        "question": "Therapy helps a person move away from avoidance and toward:",
         "options": [
-          "More concealment",
-          "Approach, meaning stuttering more openly and disclosing it rather than hiding",
-          "Speaking only when fluent",
+          "Even greater concealment of the stutter than before",
+          "Approach, meaning stuttering openly and disclosing",
+          "Speaking only when feeling fluent",
           "Staying silent in hard situations"
         ],
         "explanation": "Moving toward approach, including openly stuttering and telling listeners about it, reduces the push-pull conflict that fuels tension."
