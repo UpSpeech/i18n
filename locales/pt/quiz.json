@@ -22,10 +22,10 @@
       "q4": {
         "question": "O que contribui para o desenvolvimento da gaguez?",
         "options": [
-          "Apenas o stress e o nervosismo",
-          "Maus hábitos de fala adquiridos na infância",
-          "A interação de fatores genéticos, neurológicos e do desenvolvimento",
-          "Imitar outra pessoa que gagueja"
+          "O stress e o nervosismo, só por si",
+          "Maus hábitos de fala adquiridos ainda durante a infância",
+          "Fatores genéticos, neurológicos e do desenvolvimento",
+          "Imitar a fala de outra pessoa que gagueja"
         ],
         "explanation": "A gaguez é multifatorial. Interagem fatores genéticos, neurológicos e do desenvolvimento. Não se apanha por imitação nem é causada apenas pelo stress."
       },
@@ -46,10 +46,10 @@
       "q7": {
         "question": "Os comportamentos secundários, como piscar os olhos ou a tensão facial durante um bloqueio, descrevem-se melhor como:",
         "options": [
-          "A causa principal da gaguez",
+          "A causa principal de toda a gaguez",
           "Um sinal de personalidade nervosa",
           "Reações aprendidas aos momentos de gaguez",
-          "Hábitos deliberados que a pessoa poderia simplesmente deixar"
+          "Hábitos deliberados que a pessoa podia deixar"
         ],
         "explanation": "Os comportamentos secundários são reações físicas aprendidas que se sobrepõem à gaguez central. Não são a sua causa e não são algo que a pessoa possa desligar sem mais."
       }
@@ -58,20 +58,20 @@
       "q1": {
         "question": "Que três sistemas do corpo trabalham em conjunto para produzir a fala?",
         "options": [
-          "Respiração, fonação (voz) e articulação (movimentos da boca)",
-          "O coração, os pulmões e o estômago",
+          "A respiração, a fonação (voz) e a articulação",
+          "O coração, os pulmões e o estômago em conjunto",
           "A audição, a memória e o vocabulário",
-          "Apenas a língua, os dentes e os lábios"
+          "Apenas a língua, os dentes e os lábios a trabalhar sozinhos"
         ],
         "explanation": "A fala constrói-se a partir de três sistemas coordenados: a respiração, a fonação na laringe e a articulação com a língua, o palato e os lábios, tudo dirigido pelo cérebro."
       },
       "q2": {
         "question": "Onde reside sobretudo a diferença que está na base da gaguez?",
         "options": [
-          "Em cordas vocais malformadas",
-          "Em músculos respiratórios fracos",
-          "Na forma como o cérebro controla o timing e a coordenação da fala",
-          "Na forma da língua"
+          "Em cordas vocais malformadas ou danificadas",
+          "Em músculos respiratórios fracos e pouco treinados",
+          "Na forma como o cérebro coordena o timing da fala",
+          "Na forma e no tamanho da língua"
         ],
         "explanation": "Os órgãos da fala são normalmente normais. A gaguez é uma diferença no controlo cerebral do timing da fala, não um problema dos músculos em si."
       },
@@ -86,19 +86,19 @@
       "q5": {
         "question": "Porque é que uma pessoa que gagueja é muitas vezes mais fluente a cantar ou a ler em uníssono com outros?",
         "options": [
-          "Cantar usa cordas vocais diferentes",
-          "Um ritmo externo reduz a carga sobre o seu próprio controlo do timing da fala",
+          "Cantar usa um conjunto de cordas vocais totalmente diferente",
+          "Um ritmo externo alivia a exigência do próprio timing",
           "A gaguez fica curada depois de cantar",
-          "Deixam de se preocupar com os erros"
+          "Deixam de se preocupar em cometer erros"
         ],
         "explanation": "Cantar, ler em coro e um ritmo externo estável aliviam a exigência sobre o próprio controlo do timing de quem fala, por isso a fluência costuma melhorar nesses momentos."
       },
       "q6": {
         "question": "O que é que os estudos de neuroimagem (fMRI, PET) encontraram em pessoas que gaguejam?",
         "options": [
-          "Diferenças consistentes na forma como o cérebro processa e coordena a fala",
+          "Diferenças na forma como o cérebro coordena a fala",
           "Nenhuma diferença cerebral mensurável",
-          "Menor inteligência geral",
+          "Um nível geral de inteligência e de raciocínio mais baixo",
           "Danos causados por um trauma na infância"
         ],
         "explanation": "A neuroimagem mostra diferenças consistentes na forma como o cérebro processa e coordena a fala, o que apoia a base neurológica da gaguez."
@@ -106,10 +106,10 @@
       "q7": {
         "question": "O que pode tornar a fala menos fluente para uma pessoa que gagueja?",
         "options": [
-          "Apenas falar demasiado alto",
-          "Apenas uma má postura",
-          "Exigências como a pressão de tempo, a linguagem complexa ou uma emoção intensa que afetam o timing da fala",
-          "Apenas beber água fria"
+          "Falar com um volume demasiado elevado",
+          "Uma má postura ao falar com um grupo de pessoas",
+          "A pressão de tempo, a linguagem ou a emoção",
+          "Beber água muito fria antes de falar"
         ],
         "explanation": "Pequenos aumentos de exigência, como a pressão de tempo, a linguagem complexa ou uma emoção intensa, podem desestabilizar o sistema de timing. É por isso que a fluência oscila."
       }
@@ -118,20 +118,20 @@
       "q1": {
         "question": "Qual é o objetivo realista da terapia da gaguez para adultos?",
         "options": [
-          "Uma cura permanente",
+          "Uma cura permanente que elimina a gaguez",
           "Falar sem qualquer gaguez para sempre",
-          "Tornar a comunicação mais fácil e eficaz, e gerir a gaguez",
-          "Eliminar a necessidade de alguma vez pensar na fala"
+          "Comunicar com mais facilidade e gerir a gaguez",
+          "Nunca mais ter de pensar na maneira como se fala"
         ],
         "explanation": "Não há cura para a gaguez. Uma terapia eficaz gere-a, tornando a fala mais fácil e a comunicação mais eficaz e confiante."
       },
       "q2": {
         "question": "O processo terapêutico descreve-se melhor como:",
         "options": [
-          "Rígido e igual para todos",
-          "Estruturado e progressivo, adaptado a cada pessoa",
+          "Rígido e igual para todas as pessoas",
+          "Estruturado e progressivo, adaptado à pessoa",
           "A começar sempre por técnicas de fala",
-          "Um conjunto fixo de passos sem flexibilidade"
+          "A mesma sequência fixa de passos para todos os pacientes"
         ],
         "explanation": "A terapia é estruturada e progressiva, mas adapta-se aos objetivos, às necessidades e à evolução de cada pessoa. As suas fases podem sobrepor-se em vez de seguirem uma linha rígida."
       },
@@ -142,10 +142,10 @@
       "q4": {
         "question": "Na modificação da gaguez, o que é uma 'saída suave'?",
         "options": [
-          "Evitar a palavra por completo",
+          "Evitar por completo a palavra difícil",
           "Corrigir o momento apenas depois de ele passar",
-          "Preparar-se antes de uma palavra que se espera difícil",
-          "Aliviar a tensão durante um momento de gaguez, enquanto ele acontece"
+          "Preparar-se antes de uma palavra difícil",
+          "Aliviar a tensão enquanto a gaguez acontece"
         ],
         "explanation": "Uma saída suave consiste em aliviar a tensão durante o próprio momento de gaguez. Preparar-se antes é um ajuste preparatório, e corrigir depois é um cancelamento."
       },
@@ -157,7 +157,7 @@
         "question": "Porque é que a terapia inclui prática em cafés, em chamadas telefónicas e com desconhecidos?",
         "options": [
           "Para provar que a gaguez desapareceu",
-          "Para que as competências se transfiram do consultório para situações da vida real",
+          "Para transferir as competências para a vida real",
           "Porque a prática no consultório não importa",
           "Para deixar a pessoa nervosa de propósito"
         ],
@@ -166,10 +166,10 @@
       "q7": {
         "question": "Além das técnicas de fala, o que mais aborda uma boa terapia?",
         "options": [
-          "Apenas a respiração",
-          "Apenas a velocidade da fala",
+          "Apenas a mecânica da respiração",
+          "Apenas o ritmo a que a pessoa fala com os outros",
           "Nada, a terapia é puramente mecânica",
-          "Os pensamentos e as emoções, como reduzir o medo e o evitamento e ganhar confiança"
+          "Os pensamentos e as emoções, como o medo"
         ],
         "explanation": "A terapia baseada na evidência também trabalha o lado interno: reduzir o medo através da dessensibilização, diminuir o evitamento e a autorrevelação, não apenas a mecânica da fala."
       }
@@ -178,9 +178,9 @@
       "q1": {
         "question": "Qual destes é um objetivo terapêutico realista?",
         "options": [
-          "Eliminar por completo a gaguez",
-          "Nunca mais gaguejar em público",
-          "Reduzir a tensão e a luta durante os momentos de gaguez",
+          "Eliminar por completo toda a gaguez",
+          "Nunca mais gaguejar em situações públicas",
+          "Reduzir a tensão e a luta durante a gaguez",
           "Evitar todas as situações de fala difíceis"
         ],
         "explanation": "Os objetivos incluem reduzir a tensão e os comportamentos secundários, diminuir o evitamento e melhorar a relação da pessoa com a sua própria fala, em vez de apagar a gaguez."
@@ -188,10 +188,10 @@
       "q2": {
         "question": "O que reflete melhor uma visão moderna do 'sucesso' da terapia?",
         "options": [
-          "Uma comunicação mais fácil e confiante, mesmo que reste alguma gaguez",
-          "Zero gaguez",
-          "Falar apenas quando se tem a certeza de que se vai ser fluente",
-          "Esconder bem a gaguez"
+          "Comunicar com mais facilidade e confiança",
+          "Zero gaguez em qualquer situação",
+          "Falar apenas quando se tem a certeza de ser fluente",
+          "Esconder a gaguez o melhor possível"
         ],
         "explanation": "A prática atual valoriza a comunicação eficaz e confiante acima da fluência perfeita. Pode restar alguma gaguez enquanto a comunicação se torna muito mais fácil."
       },
@@ -202,9 +202,9 @@
       "q4": {
         "question": "O que significa a 'dessensibilização' como objetivo terapêutico?",
         "options": [
-          "Adormecer os músculos da boca",
-          "Reduzir o medo e a vergonha em torno da gaguez para que provoque menos luta",
-          "Praticar até nunca mais gaguejar",
+          "Adormecer os músculos da boca e da língua",
+          "Reduzir o medo e a vergonha para haver menos luta",
+          "Praticar até deixar de gaguejar por completo",
           "Ignorar a gaguez e esperar que desapareça"
         ],
         "explanation": "A dessensibilização reduz o medo e a carga emocional em torno da gaguez. Ao diminuir o medo, diminuem também a tensão e a luta que ele provoca."
@@ -212,10 +212,10 @@
       "q5": {
         "question": "Um terapeuta incentiva um paciente a intervir numa reunião mesmo que possa gaguejar. Que objetivo é este?",
         "options": [
-          "Testar se a gaguez está curada",
-          "Castigar o paciente",
-          "Aumentar a disposição para comunicar independentemente da fluência, e reduzir o evitamento",
-          "Provar que as técnicas falharam"
+          "Testar se a gaguez já está curada",
+          "Castigar a pessoa por causa da gaguez",
+          "Aumentar a disposição para comunicar e falar mais",
+          "Demonstrar à pessoa que todas as técnicas falharam"
         ],
         "explanation": "Aumentar a disposição para falar e participar, seja qual for o nível de fluência, é um objetivo central e uma resposta direta ao evitamento."
       },
@@ -226,9 +226,9 @@
       "q7": {
         "question": "Porque é que a terapia para adultos aborda muitas vezes a vergonha e a ansiedade social, e não apenas a fala?",
         "options": [
-          "Porque os adultos que gaguejam carregam muitas vezes anos de estigma que afetam a confiança e a participação",
-          "Porque a vergonha causa a gaguez",
-          "Porque a ansiedade é a causa de raiz da gaguez",
+          "Porque anos de estigma afetam a confiança",
+          "Porque é a vergonha que causa a gaguez",
+          "Porque a ansiedade é a causa de raiz",
           "Não aborda; a terapia ignora as emoções"
         ],
         "explanation": "Muitos adultos carregam vergonha e autoestigma acumulados que afetam o humor e a participação, por isso a terapia trabalha-os a par da fala. É uma consequência a resolver, não a causa da gaguez."
@@ -238,9 +238,9 @@
       "q1": {
         "question": "Qual destes é um comportamento de evitamento?",
         "options": [
-          "Trocar uma palavra em que se espera gaguejar por outra mais fácil",
-          "Tensão facial durante um bloqueio",
-          "Uma repetição de um som",
+          "Trocar uma palavra difícil por outra mais fácil",
+          "Tensão facial visível durante um bloqueio",
+          "A repetição de um som no início da palavra",
           "Usar um início de voz suave e fácil"
         ],
         "explanation": "O evitamento ocorre antes do momento e procura esconder a gaguez: trocar palavras, contorná-las ou fugir de sons, situações ou pessoas. A tensão facial é luta, e uma repetição é um comportamento central."
@@ -248,20 +248,20 @@
       "q2": {
         "question": "O que são comportamentos de luta (fuga)?",
         "options": [
-          "Evitar uma chamada telefónica",
-          "Usar tensão e força adicionais para empurrar uma palavra durante um bloqueio",
-          "Técnicas que o terapeuta ensina",
-          "Pausas naturais na fala"
+          "Evitar por completo uma chamada telefónica",
+          "Usar força adicional para empurrar a palavra",
+          "As técnicas que o terapeuta ensina",
+          "As pausas naturais da fala do dia a dia"
         ],
         "explanation": "Os comportamentos de luta surgem durante o momento de gaguez: tensão e força adicionais, por vezes com piscar de olhos ou movimento da cabeça, enquanto a pessoa tenta escapar do bloqueio."
       },
       "q3": {
         "question": "Na gaguez, o que é visível para os outros e o que costuma ficar escondido?",
         "options": [
-          "A gaguez piora com o frio",
+          "A gaguez piora quando está frio lá fora",
           "A gaguez é sobretudo um problema respiratório",
-          "A parte visível da gaguez é pequena; os sentimentos escondidos e o evitamento são a maior parte",
-          "A gaguez dissolve-se com prática suficiente"
+          "A parte visível é pequena; a escondida é a maior",
+          "A gaguez dissolve-se por completo com prática diária suficiente"
         ],
         "explanation": "O que os outros veem ou ouvem é só uma parte. O resto, a vergonha, o medo e o evitamento, fica escondido e muitas vezes aumenta a tensão e o esforço da gaguez."
       },
@@ -272,19 +272,19 @@
       "q5": {
         "question": "Uma pessoa esconde bem a sua gaguez trocando palavras. Isto significa que:",
         "options": [
-          "Tem certamente uma gaguez ligeira",
-          "Pode ter uma gaguez significativa que o evitamento está a mascarar",
-          "Está quase curada",
-          "Na verdade não gagueja"
+          "Tem de certeza apenas uma gaguez muito ligeira",
+          "Pode ter uma gaguez que o evitamento está a mascarar",
+          "Está praticamente curada nesta altura",
+          "Na verdade só gagueja nuns poucos momentos muito raros"
         ],
         "explanation": "O evitamento pode mascarar a gravidade real. A gaguez encoberta e escondida pode ser tão significativa como a que se vê abertamente."
       },
       "q6": {
         "question": "Nos termos de Sheehan, a terapia ajuda a pessoa a passar do evitamento para:",
         "options": [
-          "Um maior ocultamento",
-          "A aproximação, ou seja, gaguejar de forma mais aberta e revelá-lo em vez de esconder",
-          "Falar apenas quando se é fluente",
+          "Um ocultamento da gaguez ainda maior do que antes",
+          "A aproximação: gaguejar abertamente e revelá-lo",
+          "Falar apenas quando se sente fluente",
           "Ficar em silêncio em situações difíceis"
         ],
         "explanation": "Avançar para a aproximação, incluindo gaguejar abertamente e dizer a quem ouve que se gagueja, reduz o conflito de aproximação e evitamento que alimenta a tensão."
