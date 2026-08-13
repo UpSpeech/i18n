@@ -1347,5 +1347,9 @@
   "review_submissions": "Envios",
   "review_video_reviewed": "Vídeo revisto",
   "recording_too_short": "A gravação foi demasiado curta. Por favor, grava pelo menos {{seconds}} segundos.",
-  "recording_too_small": "A gravação não foi guardada corretamente. Por favor, grava novamente."
+  "recording_too_small": "A gravação não foi guardada corretamente. Por favor, grava novamente.",
+  "update_prompt_title": "Está disponível uma nova versão",
+  "update_prompt_body": "Atualiza a UpSpeech para tudo continuar a funcionar bem. Podes continuar a praticar entretanto.",
+  "update_prompt_action": "Atualizar",
+  "update_prompt_dismiss": "Agora não"
 }
