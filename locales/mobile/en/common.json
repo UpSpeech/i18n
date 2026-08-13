@@ -1347,5 +1347,9 @@
   "review_submissions": "Submissions",
   "review_video_reviewed": "Video reviewed",
   "recording_too_short": "That take was too short. Please record at least {{seconds}} seconds.",
-  "recording_too_small": "That recording did not save properly. Please record again."
+  "recording_too_small": "That recording did not save properly. Please record again.",
+  "update_prompt_title": "A new version is available",
+  "update_prompt_body": "Update UpSpeech to keep everything working smoothly. You can keep practising in the meantime.",
+  "update_prompt_action": "Update",
+  "update_prompt_dismiss": "Not now"
 }
