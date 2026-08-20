@@ -811,7 +811,15 @@
       "this_week": "Activo esta semana",
       "days_ago": "Última práctica hace {{count}} días"
     },
-    "exercise_load_error": "Algo salió mal al cargar este ejercicio. Actualiza la página para volver a intentarlo."
+    "exercise_load_error": "Algo salió mal al cargar este ejercicio. Actualiza la página para volver a intentarlo.",
+    "exercise_source": "Origen",
+    "source_custom": "Escribir el mío",
+    "source_library": "De la biblioteca",
+    "exercise_game": "Juego",
+    "exercise_game_placeholder": "Elige un juego",
+    "exercise_game_hint": "El paciente recibe este juego como parte del paso. Deja los campos siguientes vacíos para usar el título y las instrucciones del propio juego.",
+    "game_required": "Elige primero un juego",
+    "game_library_failed": "No se pudieron cargar los juegos"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
