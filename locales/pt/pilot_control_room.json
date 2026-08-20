@@ -46,7 +46,7 @@
     "action": "Ação",
     "remind": "Lembrar Terapeuta",
     "hours_ago": "há {{count}}h",
-    "empty": "Todas as submissões foram revistas , nenhum feedback pendente.",
+    "empty": "Todas as submissões foram revistas, nenhum feedback pendente.",
     "info": "Gravações de exercícios submetidas por pacientes que aguardam revisão do terapeuta há mais de 48 horas. Apenas gravações relacionadas com exercícios (mini-jogos, exercícios do percurso de aprendizagem) são monitorizadas aqui. O tempo de espera mostra as horas desde a submissão."
   },
   "weekly_activity": {
@@ -411,7 +411,8 @@
       "info": "Info",
       "week1_activation_low": "Ativação da Semana 1 é {{value}}% (abaixo do limiar de 60%)",
       "usage_drop_30pct": "{{count}} paciente(s) com queda >30% de utilização esta semana",
-      "therapist_no_response_48h": "{{count}} gravação(ões) a aguardar feedback >48h",
+      "therapist_no_response_48h_one": "{{count}} gravação à espera de feedback há mais de 48h",
+      "therapist_no_response_48h_other": "{{count}} gravações à espera de feedback há mais de 48h",
       "inactive_7d": "{{count}} paciente(s) inativos há 7+ dias",
       "inactive_3d": "{{count}} paciente(s) inativos há 3+ dias",
       "no_alerts": "Sem alertas , o piloto está no bom caminho."
