@@ -811,7 +811,15 @@
       "this_week": "Active this week",
       "days_ago": "Last practised {{count}} days ago"
     },
-    "exercise_load_error": "Something went wrong loading this exercise. Please refresh the page to try again."
+    "exercise_load_error": "Something went wrong loading this exercise. Please refresh the page to try again.",
+    "exercise_source": "Source",
+    "source_custom": "Write my own",
+    "source_library": "From the library",
+    "exercise_game": "Game",
+    "exercise_game_placeholder": "Choose a game",
+    "exercise_game_hint": "The patient gets this game as part of the step. Leave the fields below empty to use the game's own title and instructions.",
+    "game_required": "Pick a game first",
+    "game_library_failed": "Could not load the games"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",

@@ -811,7 +811,15 @@
       "this_week": "Ativo esta semana",
       "days_ago": "Última prática há {{count}} dias"
     },
-    "exercise_load_error": "Algo correu mal ao carregar este exercício. Atualiza a página para tentar novamente."
+    "exercise_load_error": "Algo correu mal ao carregar este exercício. Atualiza a página para tentar novamente.",
+    "exercise_source": "Origem",
+    "source_custom": "Escrever o meu",
+    "source_library": "Da biblioteca",
+    "exercise_game": "Jogo",
+    "exercise_game_placeholder": "Escolhe um jogo",
+    "exercise_game_hint": "O paciente recebe este jogo como parte do passo. Deixa os campos abaixo vazios para usar o título e as instruções do próprio jogo.",
+    "game_required": "Escolhe primeiro um jogo",
+    "game_library_failed": "Não foi possível carregar os jogos"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
