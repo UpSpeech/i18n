@@ -46,6 +46,7 @@
     "reset_success": "Review reset successfully",
     "no_recordings": "No recordings found",
     "no_recordings_description": "There are no recordings matching your filters.",
+    "no_recordings_empty_description": "No recordings have been submitted for review yet.",
     "audio": "Audio",
     "video": "Video"
   },

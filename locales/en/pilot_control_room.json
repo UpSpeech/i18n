@@ -34,7 +34,7 @@
     "action": "Action",
     "remind": "Remind Therapist",
     "hours_ago": "{{count}}h ago",
-    "empty": "All submissions have been reviewed , no pending feedback.",
+    "empty": "All submissions have been reviewed, no pending feedback.",
     "info": "Exercise recordings submitted by patients that have been waiting for therapist review for more than 48 hours. Only exercise-related recordings (mini-games, learning path exercises) are tracked here. Waiting time shows hours since submission."
   },
   "weekly_activity": {
@@ -411,7 +411,8 @@
       "info": "Info",
       "week1_activation_low": "Week 1 activation is {{value}}% (below 60% threshold)",
       "usage_drop_30pct": "{{count}} patient(s) dropped >30% usage this week",
-      "therapist_no_response_48h": "{{count}} recording(s) awaiting feedback >48h",
+      "therapist_no_response_48h_one": "{{count}} recording awaiting feedback for over 48h",
+      "therapist_no_response_48h_other": "{{count}} recordings awaiting feedback for over 48h",
       "inactive_7d": "{{count}} patient(s) inactive for 7+ days",
       "inactive_3d": "{{count}} patient(s) inactive for 3+ days",
       "no_alerts": "No alerts , pilot is on track."

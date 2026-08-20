@@ -168,7 +168,7 @@
     },
     "finish_error": "Não foi possível enviar o feedback. Tente novamente.",
     "save_error": "Não foi possível guardar o feedback. Tente novamente.",
-    "save_success": "Feedback guardado.",
+    "save_success": "Guardado, mas ainda não enviado. O paciente recebe quando concluir e notificar.",
     "success_toast": "Feedback enviado e paciente notificado.",
     "success_toast_no_notify": "Feedback guardado. A notificação está desativada de momento."
   },

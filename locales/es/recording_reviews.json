@@ -46,6 +46,7 @@
     "reset_success": "Revisión restablecida con éxito",
     "no_recordings": "No se encontraron grabaciones",
     "no_recordings_description": "No hay grabaciones que coincidan con los filtros seleccionados.",
+    "no_recordings_empty_description": "Todavía no se han enviado grabaciones para revisar.",
     "audio": "Audio",
     "video": "Vídeo"
   },

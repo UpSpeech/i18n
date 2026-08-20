@@ -565,7 +565,7 @@
       "add_feedback": "Add feedback",
       "save_feedback": "Save",
       "cancel": "Cancel",
-      "feedback_saved": "Feedback saved",
+      "feedback_saved": "Feedback saved. The patient is notified within a day.",
       "feedback_cleared": "Feedback cleared",
       "review_attempts": "Review Attempts",
       "view_practice": "View your practice",
