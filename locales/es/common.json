@@ -138,7 +138,8 @@
     "invites": "Invitaciones",
     "messages": "Mensajes",
     "messages_unread": "Mensajes, {{count}} sin leer",
-    "gated_tooltip": "Completa la evaluación para continuar"
+    "gated_tooltip": "Completa la evaluación para continuar",
+    "game_catalogue": "Catálogo de ejercicios"
   },
   "messages": {
     "subtitle": "Conversa con tu terapeuta",
@@ -391,7 +392,8 @@
     "submissions": "Entregas",
     "history": "Historial",
     "pilot_accounts": "Cuentas Piloto",
-    "invites": "Invitaciones"
+    "invites": "Invitaciones",
+    "game_catalogue": "Catálogo de ejercicios"
   },
   "learning_path": {
     "dashboard_title": "Rutas de Aprendizaje",
@@ -1004,5 +1006,15 @@
     "no_device": "No se encontró ningún micrófono. Conecta uno e inténtalo de nuevo.",
     "no_media_devices": "Tu navegador no admite la grabación multimedia.",
     "permission_denied": "Se denegó el acceso al micrófono. Comprueba los permisos de tu navegador."
+  },
+  "catalogue_visibility": {
+    "title": "Catálogo de ejercicios",
+    "description": "Estos ejercicios los escribe y mantiene UpSpeech, y todas las clínicas reciben la misma lista. Oculta los que tu clínica no use y dejarán de aparecer cuando tus terapeutas asignen trabajo.",
+    "not_retroactive": "Ocultar un ejercicio no afecta a los pacientes que ya lo están practicando. Su asignación se mantiene y sigue funcionando.",
+    "hidden_count": "{{hidden}} de {{total}} ocultos",
+    "hidden_badge": "Oculto",
+    "hide": "Ocultar",
+    "show": "Mostrar",
+    "empty": "El catálogo está vacío"
   }
 }

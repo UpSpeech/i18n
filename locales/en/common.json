@@ -145,7 +145,8 @@
     "invites": "Invites",
     "messages": "Messages",
     "messages_unread": "Messages, {{count}} unread",
-    "gated_tooltip": "Complete the assessment to continue"
+    "gated_tooltip": "Complete the assessment to continue",
+    "game_catalogue": "Exercise catalogue"
   },
   "messages": {
     "subtitle": "Chat with your therapist",
@@ -391,7 +392,8 @@
     "submissions": "Submissions",
     "history": "History",
     "pilot_accounts": "Pilot Accounts",
-    "invites": "Invites"
+    "invites": "Invites",
+    "game_catalogue": "Exercise catalogue"
   },
   "learning_path": {
     "dashboard_title": "Learning Paths",
@@ -1004,5 +1006,15 @@
     "no_device": "No microphone found. Please connect one and try again.",
     "no_media_devices": "Your browser does not support media recording.",
     "permission_denied": "Microphone access was denied. Please check your browser permissions."
+  },
+  "catalogue_visibility": {
+    "title": "Exercise catalogue",
+    "description": "These exercises are written and maintained by UpSpeech, and every clinic gets the same list. Hide any your clinic does not use and it will stop appearing when your therapists assign work.",
+    "not_retroactive": "Hiding an exercise does not affect patients already practising it. Their assignment stays in place and keeps working.",
+    "hidden_count": "{{hidden}} of {{total}} hidden",
+    "hidden_badge": "Hidden",
+    "hide": "Hide",
+    "show": "Show",
+    "empty": "The catalogue is empty"
   }
 }
