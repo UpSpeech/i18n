@@ -249,5 +249,6 @@
     "body": "With your okay, your recordings can train UpSpeech's speech-therapy AI so it gets better for everyone. Optional, and you can change your mind anytime.",
     "accept": "Use my recordings",
     "success": "Thanks for helping improve UpSpeech."
-  }
+  },
+  "game_catalogue_subtitle": "Choose which UpSpeech exercises your clinic uses"
 }

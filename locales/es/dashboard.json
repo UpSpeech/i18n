@@ -249,5 +249,6 @@
     "body": "Con tu permiso, tus grabaciones pueden entrenar la IA de logopedia de UpSpeech para que mejore para todos. Es opcional y puedes cambiar de opinión cuando quieras.",
     "accept": "Usar mis grabaciones",
     "success": "Gracias por ayudar a mejorar UpSpeech."
-  }
+  },
+  "game_catalogue_subtitle": "Elige qué ejercicios de UpSpeech usa tu clínica"
 }
