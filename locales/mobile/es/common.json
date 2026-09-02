@@ -959,6 +959,7 @@
   "role_admin": "Administrador",
   "role_therapist": "Terapeuta",
   "role_client": "Paciente",
+  "role_caregiver": "Cuidador",
   "role_member": "Miembro",
   "status_active": "Activo",
   "status_inactive": "Inactivo",
