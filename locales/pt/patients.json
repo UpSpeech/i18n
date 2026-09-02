@@ -220,9 +220,7 @@
     "date_of_birth": "Data de nascimento",
     "date_of_birth_invalid": "Introduz uma data no passado.",
     "band_child": "Criança, guiada pelo cuidador",
-    "band_child_body": "Um cuidador conduz a prática em seu nome.",
     "band_adult": "Adulto, autónomo",
-    "band_adult_body": "Pratica sozinho em casa.",
     "age_years_one": "{{count}} ano",
     "age_years_other": "{{count}} anos",
     "caregiver_heading": "O cuidador",
@@ -238,11 +236,10 @@
     "summary": "Resumo",
     "summary_patient": "Paciente",
     "summary_age": "Idade",
-    "summary_delivered_by": "Conduzida por",
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
-    "delivered_by_self": "{{name}} (o próprio)",
     "add_another": "Adicionar outro paciente",
-    "child_saved": "O perfil de {{name}} está guardado. Confirma os dados do cuidador e continua para enviar o convite."
+    "child_saved": "O perfil de {{name}} está guardado. Confirma os dados do cuidador e continua para enviar o convite.",
+    "summary_invite_sent_to": "Convite enviado para"
   },
   "relationship": {
     "parent": "Pai ou mãe",

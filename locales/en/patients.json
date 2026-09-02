@@ -220,9 +220,7 @@
     "date_of_birth": "Date of birth",
     "date_of_birth_invalid": "Enter a date in the past.",
     "band_child": "Child, caregiver-led",
-    "band_child_body": "A caregiver runs practice on their behalf.",
     "band_adult": "Adult, self-directed",
-    "band_adult_body": "Practises on their own at home.",
     "age_years_one": "{{count}} year old",
     "age_years_other": "{{count}} years old",
     "caregiver_heading": "The caregiver",
@@ -238,11 +236,10 @@
     "summary": "Summary",
     "summary_patient": "Patient",
     "summary_age": "Age",
-    "summary_delivered_by": "Delivered by",
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
-    "delivered_by_self": "{{name}} (self)",
     "add_another": "Add another patient",
-    "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite."
+    "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite.",
+    "summary_invite_sent_to": "Invite sent to"
   },
   "relationship": {
     "parent": "Parent",

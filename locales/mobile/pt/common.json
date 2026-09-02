@@ -1356,7 +1356,7 @@
   "update_required_body": "Esta versão da UpSpeech já não funciona com os nossos servidores. Atualiza para continuares a praticar. Tudo o que já gravaste está seguro.",
   "update_required_action": "Atualizar a UpSpeech",
   "caregiver_welcome_title": "Olá, {{name}}",
-  "caregiver_welcome_body": "A prática de {{child}} em casa está preparada. Vais fazê-la em conjunto, uns minutos de cada vez.",
+  "caregiver_welcome_body": "A prática em casa está preparada. Vão fazê-la em conjunto, uns minutos de cada vez.",
   "caregiver_child_card_eyebrow": "A praticar com",
   "caregiver_child_age_one": "{{count}} ano",
   "caregiver_child_age_other": "{{count}} anos",
