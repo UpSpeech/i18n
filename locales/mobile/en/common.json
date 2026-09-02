@@ -1402,7 +1402,7 @@
   "homework_days_save_failed": "The days did not save. Try again.",
   "homework_practised_button": "We practised today",
   "homework_already_today": "Already reported today. See you tomorrow.",
-  "homework_target_reached": "All sessions done. The therapist will send the next one.",
+  "homework_target_reached": "All sessions done. Your therapist decides what comes next.",
   "homework_report_title": "How did it go?",
   "homework_report_hint": "One number for {{child}}'s therapist. A note if something stood out.",
   "homework_rating_low": "Hard going",

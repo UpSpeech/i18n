@@ -1402,7 +1402,7 @@
   "homework_days_save_failed": "Los días no se guardaron. Inténtalo otra vez.",
   "homework_practised_button": "Hoy practicamos",
   "homework_already_today": "Ya registrado hoy. Hasta mañana.",
-  "homework_target_reached": "Todas las sesiones hechas. El terapeuta enviará la siguiente.",
+  "homework_target_reached": "Todas las sesiones hechas. El terapeuta decide qué viene después.",
   "homework_report_title": "¿Cómo fue?",
   "homework_report_hint": "Un número para el terapeuta de {{child}}. Una nota, si algo destacó.",
   "homework_rating_low": "Costó",
