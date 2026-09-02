@@ -212,19 +212,28 @@
   },
   "add_wizard": {
     "title": "Añadir un paciente",
-    "subtitle": "Menos de 18 años, invitas a un cuidador. Si no, invitas al paciente.",
+    "subtitle": "Eliges cómo funciona la práctica de cada paciente. Su edad solo sugiere una opción.",
     "step_basics": "Datos",
     "step_invite": "Invitación",
     "step_of": "Paso {{current}} de {{total}}",
     "basics_heading": "Lo esencial",
     "date_of_birth": "Fecha de nacimiento",
     "date_of_birth_invalid": "Introduce una fecha en el pasado.",
-    "band_child": "Niño, guiado por el cuidador",
-    "band_adult": "Adulto, autónomo",
+    "delivery_label": "¿Cómo va a funcionar la práctica?",
+    "delivery_self": "Practica por su cuenta",
+    "delivery_caregiver": "Un padre o cuidador dirige las sesiones",
+    "delivery_help": "Sugerido a partir de su edad. Cámbialo si no es así como funciona para {{name}}.",
+    "delivery_minor_warning": "{{name}} es menor de 18 años. Una cuenta autónoma significa que inicia sesión por su cuenta.",
+    "band_child": "Práctica guiada por el cuidador",
+    "band_adult": "Práctica autónoma",
     "age_years_one": "{{count}} año",
     "age_years_other": "{{count}} años",
     "caregiver_heading": "El cuidador",
     "relationship_label": "Relación con {{name}}",
+    "relationship_free_label": "¿Cuál es tu relación con {{name}}?",
+    "relationship_placeholder": "Padre, tutor, abuela...",
+    "relationship_help": "Aparece junto a la invitación para que distingas a los cuidadores.",
+    "relationship_required": "Dinos cuál es tu relación con {{name}}.",
     "caregiver_email": "Email del cuidador",
     "patient_email": "Email del paciente",
     "continue": "Continuar",
@@ -247,5 +256,5 @@
     "grandparent": "Abuelo o abuela",
     "other": "Otro"
   },
-  "child_badge": "Niño"
+  "child_badge": "Guiada por el cuidador"
 }

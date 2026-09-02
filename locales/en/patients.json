@@ -212,19 +212,28 @@
   },
   "add_wizard": {
     "title": "Add a patient",
-    "subtitle": "Under 18, you invite a caregiver. Otherwise you invite the patient.",
+    "subtitle": "You choose how practice works for each patient. Their age only suggests a default.",
     "step_basics": "Basics",
     "step_invite": "Invite",
     "step_of": "Step {{current}} of {{total}}",
     "basics_heading": "The basics",
     "date_of_birth": "Date of birth",
     "date_of_birth_invalid": "Enter a date in the past.",
-    "band_child": "Child, caregiver-led",
-    "band_adult": "Adult, self-directed",
+    "delivery_label": "How will practice work?",
+    "delivery_self": "They practise on their own",
+    "delivery_caregiver": "A parent or carer runs the sessions",
+    "delivery_help": "Suggested from their age. Change it if that is not how it works for {{name}}.",
+    "delivery_minor_warning": "{{name}} is under 18. A self-directed account means they sign in themselves.",
+    "band_child": "Caregiver-led practice",
+    "band_adult": "Self-directed practice",
     "age_years_one": "{{count}} year old",
     "age_years_other": "{{count}} years old",
     "caregiver_heading": "The caregiver",
     "relationship_label": "Relationship to {{name}}",
+    "relationship_free_label": "What is your relationship to {{name}}?",
+    "relationship_placeholder": "Parent, guardian, grandparent...",
+    "relationship_help": "It appears beside the invite so you can tell caregivers apart.",
+    "relationship_required": "Tell us how you are related to {{name}}.",
     "caregiver_email": "Caregiver email",
     "patient_email": "Patient email",
     "continue": "Continue",
@@ -247,5 +256,5 @@
     "grandparent": "Grandparent",
     "other": "Other"
   },
-  "child_badge": "Child"
+  "child_badge": "Caregiver-led"
 }
