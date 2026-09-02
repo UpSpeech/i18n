@@ -5,6 +5,10 @@
         "title": "¡Bienvenido a UpSpeech!",
         "description": "Accede a tus ejercicios asignados, rastrea tu progreso y comunícate con tu terapeuta."
       },
+      "caregiver": {
+        "title": "Hola, {{name}}",
+        "description": "La práctica de {{child}} en casa está preparada. La harás con {{child}}, unos minutos cada vez."
+      },
       "therapist": {
         "title": "¡Bienvenido a UpSpeech!",
         "description": "Gestiona tus pacientes, genera informes con IA y asigna ejercicios en un solo lugar."

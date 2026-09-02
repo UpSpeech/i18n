@@ -5,6 +5,10 @@
         "title": "Welcome to UpSpeech!",
         "description": "Your journey to improved speech starts here. Track your progress, complete exercises, and work with your therapist."
       },
+      "caregiver": {
+        "title": "Hello, {{name}}",
+        "description": "{{child}}'s home practice is ready. You'll do it together, a few minutes at a time."
+      },
       "therapist": {
         "title": "Welcome to UpSpeech!",
         "description": "Manage your patients, generate AI-powered reports, and assign exercises all in one place."
