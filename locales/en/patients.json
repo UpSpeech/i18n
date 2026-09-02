@@ -10,7 +10,8 @@
     "no_invites": "No invites sent",
     "no_invites_description": "Invite a patient to get started",
     "no_active_invites": "No active invites",
-    "no_active_invites_description": "All invites have been used or expired"
+    "no_active_invites_description": "All invites have been used or expired",
+    "for_child": "For {{name}}"
   },
   "title": "My Patients",
   "title_all": "Patients",
@@ -208,5 +209,43 @@
     "no_recording": "No recording available",
     "empty_title": "No assessments yet",
     "empty_description": "Speech assessments will appear here once this patient completes one."
-  }
+  },
+  "add_wizard": {
+    "title": "Add a patient",
+    "subtitle": "Under 18, you invite a caregiver. Otherwise you invite the patient.",
+    "step_basics": "Basics",
+    "step_invite": "Invite",
+    "step_of": "Step {{current}} of {{total}}",
+    "basics_heading": "The basics",
+    "date_of_birth": "Date of birth",
+    "date_of_birth_invalid": "Enter a date in the past.",
+    "band_child": "Child, caregiver-led",
+    "band_adult": "Adult, self-directed",
+    "age_years_one": "{{count}} year old",
+    "age_years_other": "{{count}} years old",
+    "caregiver_heading": "The caregiver",
+    "relationship_label": "Relationship to {{name}}",
+    "caregiver_email": "Caregiver email",
+    "patient_email": "Patient email",
+    "continue": "Continue",
+    "invite_heading_child": "Invite {{name}}'s caregiver",
+    "invite_heading_adult": "Invite {{name}}",
+    "invite_body": "We emailed an invite to {{email}}. They install UpSpeech and open the link to connect to you.",
+    "invite_link": "Invite link",
+    "expires": "Expires {{date}}",
+    "summary": "Summary",
+    "summary_patient": "Patient",
+    "summary_age": "Age",
+    "delivered_by_caregiver": "{{email}} ({{relationship}})",
+    "add_another": "Add another patient",
+    "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite.",
+    "summary_invite_sent_to": "Invite sent to"
+  },
+  "relationship": {
+    "parent": "Parent",
+    "guardian": "Guardian",
+    "grandparent": "Grandparent",
+    "other": "Other"
+  },
+  "child_badge": "Child"
 }

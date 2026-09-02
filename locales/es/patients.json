@@ -10,7 +10,8 @@
     "no_invites": "No se han enviado invitaciones",
     "no_invites_description": "Invita a un paciente para empezar",
     "no_active_invites": "Sin invitaciones activas",
-    "no_active_invites_description": "Todas las invitaciones han sido utilizadas o han expirado"
+    "no_active_invites_description": "Todas las invitaciones han sido utilizadas o han expirado",
+    "for_child": "Para {{name}}"
   },
   "title": "Mis Pacientes",
   "title_all": "Pacientes",
@@ -208,5 +209,43 @@
     "no_recording": "No hay grabación disponible",
     "empty_title": "Aún no hay evaluaciones",
     "empty_description": "Las evaluaciones de habla aparecerán aquí cuando este paciente complete una."
-  }
+  },
+  "add_wizard": {
+    "title": "Añadir un paciente",
+    "subtitle": "Menos de 18 años, invitas a un cuidador. Si no, invitas al paciente.",
+    "step_basics": "Datos",
+    "step_invite": "Invitación",
+    "step_of": "Paso {{current}} de {{total}}",
+    "basics_heading": "Lo esencial",
+    "date_of_birth": "Fecha de nacimiento",
+    "date_of_birth_invalid": "Introduce una fecha en el pasado.",
+    "band_child": "Niño, guiado por el cuidador",
+    "band_adult": "Adulto, autónomo",
+    "age_years_one": "{{count}} año",
+    "age_years_other": "{{count}} años",
+    "caregiver_heading": "El cuidador",
+    "relationship_label": "Relación con {{name}}",
+    "caregiver_email": "Email del cuidador",
+    "patient_email": "Email del paciente",
+    "continue": "Continuar",
+    "invite_heading_child": "Invitar al cuidador de {{name}}",
+    "invite_heading_adult": "Invitar a {{name}}",
+    "invite_body": "Hemos enviado una invitación a {{email}}. Solo tiene que instalar UpSpeech y abrir el enlace para conectarse contigo.",
+    "invite_link": "Enlace de invitación",
+    "expires": "Caduca el {{date}}",
+    "summary": "Resumen",
+    "summary_patient": "Paciente",
+    "summary_age": "Edad",
+    "delivered_by_caregiver": "{{email}} ({{relationship}})",
+    "add_another": "Añadir otro paciente",
+    "child_saved": "El perfil de {{name}} está guardado. Revisa los datos del cuidador y continúa para enviar la invitación.",
+    "summary_invite_sent_to": "Invitación enviada a"
+  },
+  "relationship": {
+    "parent": "Padre o madre",
+    "guardian": "Tutor",
+    "grandparent": "Abuelo o abuela",
+    "other": "Otro"
+  },
+  "child_badge": "Niño"
 }
