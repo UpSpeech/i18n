@@ -212,7 +212,7 @@
   },
   "add_wizard": {
     "title": "Añadir un paciente",
-    "subtitle": "Un niño practica con un cuidador, un adulto por su cuenta. La edad decide cuál.",
+    "subtitle": "Menos de 18 años, invitas a un cuidador. Si no, invitas al paciente.",
     "step_basics": "Datos",
     "step_invite": "Invitación",
     "step_of": "Paso {{current}} de {{total}}",
@@ -226,7 +226,6 @@
     "age_years_one": "{{count}} año",
     "age_years_other": "{{count}} años",
     "caregiver_heading": "El cuidador",
-    "caregiver_body": "{{name}} es el paciente. El cuidador instala la app y recibe la invitación y los recordatorios.",
     "relationship_label": "Relación con {{name}}",
     "caregiver_email": "Email del cuidador",
     "patient_email": "Email del paciente",

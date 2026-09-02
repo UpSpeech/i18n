@@ -212,7 +212,7 @@
   },
   "add_wizard": {
     "title": "Add a patient",
-    "subtitle": "A child practises with a caregiver, an adult on their own. Age decides which.",
+    "subtitle": "Under 18, you invite a caregiver. Otherwise you invite the patient.",
     "step_basics": "Basics",
     "step_invite": "Invite",
     "step_of": "Step {{current}} of {{total}}",
@@ -226,7 +226,6 @@
     "age_years_one": "{{count}} year old",
     "age_years_other": "{{count}} years old",
     "caregiver_heading": "The caregiver",
-    "caregiver_body": "{{name}} is the patient. The caregiver installs the app and gets the invite and reminders.",
     "relationship_label": "Relationship to {{name}}",
     "caregiver_email": "Caregiver email",
     "patient_email": "Patient email",
