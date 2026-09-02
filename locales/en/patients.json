@@ -10,7 +10,8 @@
     "no_invites": "No invites sent",
     "no_invites_description": "Invite a patient to get started",
     "no_active_invites": "No active invites",
-    "no_active_invites_description": "All invites have been used or expired"
+    "no_active_invites_description": "All invites have been used or expired",
+    "for_child": "For {{name}}"
   },
   "title": "My Patients",
   "title_all": "Patients",
@@ -208,5 +209,47 @@
     "no_recording": "No recording available",
     "empty_title": "No assessments yet",
     "empty_description": "Speech assessments will appear here once this patient completes one."
-  }
+  },
+  "add_wizard": {
+    "title": "Add a patient",
+    "subtitle": "A child practises with a caregiver, an adult on their own. Age decides which.",
+    "step_basics": "Basics",
+    "step_invite": "Invite",
+    "step_of": "Step {{current}} of {{total}}",
+    "basics_heading": "The basics",
+    "basics_body": "Age decides how practice is delivered. Adults practise on their own, children practise with a caregiver.",
+    "date_of_birth": "Date of birth",
+    "date_of_birth_invalid": "Enter a date in the past.",
+    "band_child": "Child, caregiver-led",
+    "band_child_body": "A caregiver runs practice on their behalf.",
+    "band_adult": "Adult, self-directed",
+    "band_adult_body": "Practises on their own at home.",
+    "age_years_one": "{{count}} year old",
+    "age_years_other": "{{count}} years old",
+    "caregiver_heading": "The caregiver",
+    "caregiver_body": "{{name}} is the patient. A caregiver installs the app, runs each practice, and gets the invite and reminders.",
+    "relationship_label": "Relationship to {{name}}",
+    "caregiver_email": "Caregiver email",
+    "patient_email": "Patient email",
+    "continue": "Continue",
+    "invite_heading_child": "Invite {{name}}'s caregiver",
+    "invite_heading_adult": "Invite {{name}}",
+    "invite_body": "We emailed an invite to {{email}}. They install UpSpeech and open the link to connect to you.",
+    "invite_link": "Invite link",
+    "expires": "Expires {{date}}",
+    "summary": "Summary",
+    "summary_patient": "Patient",
+    "summary_age": "Age",
+    "summary_delivered_by": "Delivered by",
+    "delivered_by_caregiver": "{{email}} ({{relationship}})",
+    "delivered_by_self": "{{name}} (self)",
+    "add_another": "Add another patient"
+  },
+  "relationship": {
+    "parent": "Parent",
+    "guardian": "Guardian",
+    "grandparent": "Grandparent",
+    "other": "Other"
+  },
+  "child_badge": "Child"
 }
