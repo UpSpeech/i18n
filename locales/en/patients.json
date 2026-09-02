@@ -243,7 +243,8 @@
     "summary_delivered_by": "Delivered by",
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
     "delivered_by_self": "{{name}} (self)",
-    "add_another": "Add another patient"
+    "add_another": "Add another patient",
+    "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite."
   },
   "relationship": {
     "parent": "Parent",

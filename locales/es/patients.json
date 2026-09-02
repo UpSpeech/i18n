@@ -243,7 +243,8 @@
     "summary_delivered_by": "Dirigida por",
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
     "delivered_by_self": "{{name}} (por su cuenta)",
-    "add_another": "Añadir otro paciente"
+    "add_another": "Añadir otro paciente",
+    "child_saved": "El perfil de {{name}} está guardado. Revisa los datos del cuidador y continúa para enviar la invitación."
   },
   "relationship": {
     "parent": "Padre o madre",

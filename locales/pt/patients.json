@@ -219,7 +219,7 @@
     "basics_heading": "O essencial",
     "basics_body": "A idade decide como a prática é feita. Os adultos praticam sozinhos, as crianças praticam com um cuidador.",
     "date_of_birth": "Data de nascimento",
-    "date_of_birth_invalid": "Introduza uma data no passado.",
+    "date_of_birth_invalid": "Introduz uma data no passado.",
     "band_child": "Criança, guiada pelo cuidador",
     "band_child_body": "Um cuidador conduz a prática em seu nome.",
     "band_adult": "Adulto, autónomo",
@@ -234,7 +234,7 @@
     "continue": "Continuar",
     "invite_heading_child": "Convidar o cuidador de {{name}}",
     "invite_heading_adult": "Convidar {{name}}",
-    "invite_body": "Enviámos um convite para {{email}}. Basta instalar a UpSpeech e abrir a ligação para ficar ligado a si.",
+    "invite_body": "Enviámos um convite para {{email}}. Basta instalar a UpSpeech e abrir a ligação para ficar ligado a ti.",
     "invite_link": "Ligação do convite",
     "expires": "Expira a {{date}}",
     "summary": "Resumo",
@@ -243,7 +243,8 @@
     "summary_delivered_by": "Conduzida por",
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
     "delivered_by_self": "{{name}} (o próprio)",
-    "add_another": "Adicionar outro paciente"
+    "add_another": "Adicionar outro paciente",
+    "child_saved": "O perfil de {{name}} está guardado. Confirma os dados do cuidador e continua para enviar o convite."
   },
   "relationship": {
     "parent": "Pai ou mãe",
