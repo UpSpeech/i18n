@@ -250,5 +250,9 @@
     "accept": "Usar as minhas gravações",
     "success": "Obrigado por ajudares a melhorar a UpSpeech."
   },
-  "game_catalogue_subtitle": "Escolhe que exercícios da UpSpeech a tua clínica usa"
+  "game_catalogue_subtitle": "Escolhe que exercícios da UpSpeech a tua clínica usa",
+  "caregiver": {
+    "practising_with": "A praticar com",
+    "child_age": "{{name}}, {{count}} anos"
+  }
 }
