@@ -223,6 +223,7 @@
     "admin": "Admin",
     "therapist": "Therapist",
     "client": "Patient",
+    "caregiver": "Caregiver",
     "member": "Member"
   },
   "statuses": {

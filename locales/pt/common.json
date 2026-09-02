@@ -216,6 +216,7 @@
     "admin": "Administrador",
     "therapist": "Terapeuta",
     "client": "Paciente",
+    "caregiver": "Cuidador",
     "member": "Membro"
   },
   "statuses": {
