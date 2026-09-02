@@ -113,6 +113,7 @@
   "you": "You",
   "navigation": {
     "dashboard": "Dashboard",
+    "caregiver_home": "{{name}}'s practice",
     "upload": "Upload Recording",
     "reports": "Reports",
     "generate_report": "Generate Report",
