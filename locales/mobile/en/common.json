@@ -1413,5 +1413,11 @@
   "homework_report_failed": "The report did not go through. Try again.",
   "homework_report_thanks": "Thanks, that's one more",
   "homework_report_thanks_hint": "{{child}}'s therapist sees how it went.",
-  "homework_offapp_note": "Put the phone down for the practice itself. Come back here when you are done."
+  "homework_offapp_note": "Put the phone down for the practice itself. Come back here when you are done.",
+  "homework_week_title": "This week",
+  "homework_week_sessions": "{{count}} sessions reported this week",
+  "homework_week_no_days": "Pick the days inside each exercise and they show up here.",
+  "reminder_card_title": "Daily reminder",
+  "reminder_card_change": "Change",
+  "reminder_card_at_hour": "at {{hour}}:00"
 }

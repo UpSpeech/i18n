@@ -1413,5 +1413,11 @@
   "homework_report_failed": "El registro no llegó. Inténtalo otra vez.",
   "homework_report_thanks": "Gracias, una más",
   "homework_report_thanks_hint": "El terapeuta de {{child}} ve cómo fue.",
-  "homework_offapp_note": "Deja el teléfono durante la práctica. Vuelve aquí cuando terminéis."
+  "homework_offapp_note": "Deja el teléfono durante la práctica. Vuelve aquí cuando terminéis.",
+  "homework_week_title": "Esta semana",
+  "homework_week_sessions": "{{count}} sesiones registradas esta semana",
+  "homework_week_no_days": "Elige los días dentro de cada ejercicio y aparecerán aquí.",
+  "reminder_card_title": "Recordatorio diario",
+  "reminder_card_change": "Cambiar",
+  "reminder_card_at_hour": "a las {{hour}}:00"
 }
