@@ -107,6 +107,7 @@
   "navigation": {
     "dashboard": "Panel de Control",
     "caregiver_home": "La práctica de {{name}}",
+    "ask": "Preguntar",
     "upload": "Subir Grabación",
     "reports": "Informes",
     "generate_report": "Generar informe",
@@ -141,6 +142,17 @@
     "messages_unread": "Mensajes, {{count}} sin leer",
     "gated_tooltip": "Completa la evaluación para continuar",
     "game_catalogue": "Catálogo de ejercicios"
+  },
+  "caregiver_ask": {
+    "subtitle": "Dudas sobre practicar en casa, respondidas con material para padres",
+    "empty_title": "Pregunta lo que quieras sobre practicar con {{child}}.",
+    "empty_title_many": "Pregunta lo que quieras sobre practicar en casa.",
+    "empty_hint": "Las respuestas vienen de material escrito para padres. La última palabra es de tu terapeuta.",
+    "placeholder": "Escribe tu pregunta",
+    "not_ready_title": "Las respuestas aún no están activas aquí",
+    "not_ready_body": "Tu clínica aún no ha activado esta función. Escribe a tu terapeuta en Mensajes.",
+    "send_failed": "No se envió. Tu pregunta sigue aquí, inténtalo de nuevo.",
+    "new": "Nueva conversación"
   },
   "messages": {
     "subtitle": "Conversa con tu terapeuta",

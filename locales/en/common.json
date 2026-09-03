@@ -114,6 +114,7 @@
   "navigation": {
     "dashboard": "Dashboard",
     "caregiver_home": "{{name}}'s practice",
+    "ask": "Ask",
     "upload": "Upload Recording",
     "reports": "Reports",
     "generate_report": "Generate Report",
@@ -148,6 +149,17 @@
     "messages_unread": "Messages, {{count}} unread",
     "gated_tooltip": "Complete the assessment to continue",
     "game_catalogue": "Exercise catalogue"
+  },
+  "caregiver_ask": {
+    "subtitle": "Questions about practising at home, answered from material for parents",
+    "empty_title": "Ask anything about practising with {{child}}.",
+    "empty_title_many": "Ask anything about practising at home.",
+    "empty_hint": "The answers come from material written for parents. Your therapist has the final word.",
+    "placeholder": "Type your question",
+    "not_ready_title": "Answers are not set up here yet",
+    "not_ready_body": "Your clinic has not switched this on. Write to your therapist in Messages instead.",
+    "send_failed": "That did not go through. Your question is still here, try again.",
+    "new": "New conversation"
   },
   "messages": {
     "subtitle": "Chat with your therapist",
