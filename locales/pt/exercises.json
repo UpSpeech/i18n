@@ -914,6 +914,8 @@
     "subtitle": "Tu defines a dose. Quem cuida de {{child}} escolhe os dias.",
     "card_title": "Trabalho de casa",
     "card_subtitle": "O que {{child}} pratica em casa, e como correu.",
+    "card_total_one": "{{done}} de {{total}} sessões até agora, num exercício",
+    "card_total_other": "{{done}} de {{total}} sessões até agora, em {{count}} exercícios",
     "title_label": "Título",
     "title_placeholder": "Inícios suaves ao pequeno-almoço",
     "title_required": "Dá um título ao exercício",

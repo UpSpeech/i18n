@@ -914,6 +914,8 @@
     "subtitle": "You set the dose. {{child}}'s caregiver picks the days.",
     "card_title": "Homework",
     "card_subtitle": "What {{child}} practises at home, and how it went.",
+    "card_total_one": "{{done}} of {{total}} sessions so far, on one exercise",
+    "card_total_other": "{{done}} of {{total}} sessions so far, across {{count}} exercises",
     "title_label": "Title",
     "title_placeholder": "Soft starts at breakfast",
     "title_required": "Give the exercise a title",
