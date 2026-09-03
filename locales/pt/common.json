@@ -154,8 +154,8 @@
     "not_ready_body": "A tua clínica ainda não ligou esta função. Escreve ao teu terapeuta em Mensagens.",
     "send_failed": "Não foi enviada. A tua pergunta continua aqui, tenta de novo.",
     "new": "Nova conversa",
-    "starter_1": "{{child}} fica preso na primeira palavra. O que faço?",
-    "starter_1_many": "Ficar preso na primeira palavra. O que faço?",
+    "starter_1": "{{child}} bloqueia na primeira palavra. O que faço?",
+    "starter_1_many": "Bloquear na primeira palavra. O que faço?",
     "starter_2": "Quanto tempo devemos praticar por dia?",
     "starter_3": "O que digo quando pergunta porque gagueja?"
   },
