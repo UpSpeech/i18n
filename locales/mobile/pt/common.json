@@ -1400,7 +1400,7 @@
   "homework_row_not_started": "Ainda por começar",
   "homework_today": "Hoje",
   "homework_done_today": "Feito hoje",
-  "homework_today_ceiling": "Até {{minutes}} minutos. Pára quando deixar de ter piada.",
+  "homework_today_ceiling": "Até {{minutes}} minutos. Para quando deixar de ter piada.",
   "homework_today_button": "Praticar agora",
   "homework_today_done_title": "Feito por hoje",
   "homework_today_done_body": "Até {{next}}.",

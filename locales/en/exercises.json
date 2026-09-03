@@ -892,33 +892,12 @@
       "soften_only": "Soften only",
       "hint": "Say each one twice: first with tension, then let it go soft. At sentence level, soften only the hard word.",
       "levels": [
-        {
-          "label": "Syllables",
-          "items": [
-            "PRA",
-            "PRE",
-            "PRI",
-            "PRO",
-            "PRU"
-          ]
-        },
-        {
-          "label": "Words",
-          "items": [
-            "prize",
-            "press",
-            "proud",
-            "print",
-            "prompt"
-          ]
-        },
+        { "label": "Syllables", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
+        { "label": "Words", "items": ["prize", "press", "proud", "print", "prompt"] },
         {
           "label": "Sentences",
           "softenOnly": true,
-          "items": [
-            "The proud prince pressed print.",
-            "Press the prize and stay calm."
-          ]
+          "items": ["The proud prince pressed print.", "Press the prize and stay calm."]
         }
       ]
     },
