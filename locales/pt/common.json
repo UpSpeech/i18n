@@ -106,6 +106,7 @@
   "you": "Tu",
   "navigation": {
     "dashboard": "Painel",
+    "caregiver_home": "A prática de {{name}}",
     "upload": "Carregar Gravação",
     "reports": "Relatórios",
     "generate_report": "Gerar Relatório",
@@ -216,6 +217,7 @@
     "admin": "Administrador",
     "therapist": "Terapeuta",
     "client": "Paciente",
+    "caregiver": "Cuidador",
     "member": "Membro"
   },
   "statuses": {

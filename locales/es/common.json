@@ -106,6 +106,7 @@
   "you": "Tú",
   "navigation": {
     "dashboard": "Panel de Control",
+    "caregiver_home": "La práctica de {{name}}",
     "upload": "Subir Grabación",
     "reports": "Informes",
     "generate_report": "Generar informe",
@@ -216,6 +217,7 @@
     "admin": "Administrador",
     "therapist": "Terapeuta",
     "client": "Paciente",
+    "caregiver": "Cuidador",
     "member": "Miembro"
   },
   "statuses": {
