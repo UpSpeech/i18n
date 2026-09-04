@@ -1461,7 +1461,7 @@
   "add_patient_title": "Add a patient",
   "add_patient_date_of_birth": "Date of birth",
   "add_patient_date_of_birth_required": "Date of birth is required",
-  "add_patient_date_of_birth_invalid": "Enter a date in the past.",
+  "add_patient_date_of_birth_invalid": "Enter a valid date as YYYY-MM-DD",
   "add_patient_delivery_label": "How will practice work?",
   "add_patient_delivery_self": "They practise on their own",
   "add_patient_delivery_caregiver": "A parent or carer runs the sessions",
@@ -1500,5 +1500,11 @@
   "therapist_reassign_confirm_title": "Assign this step again?",
   "therapist_reassign_confirm_body": "The earlier attempt stays where it is. {{step}} comes back as a new step.",
   "therapist_reassign_refused_open": "This step is still open.",
-  "therapist_reassign_refused_path": "This path is not ready for that yet."
+  "therapist_reassign_refused_path": "This path is not ready for that yet.",
+  "exercise_holding_target_hold_line": "Target hold: {{count}}s",
+  "exercise_holding_exit_speed_line": "Exit speed: {{speed}}",
+  "add_patient_date_of_birth_placeholder": "YYYY-MM-DD",
+  "add_patient_date_of_birth_hint": "Date of birth (YYYY-MM-DD)",
+  "homework_pill_times_one": "{{count}}× a week",
+  "homework_pill_weeks_one": "{{count}} week"
 }

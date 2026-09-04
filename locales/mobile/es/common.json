@@ -1461,7 +1461,7 @@
   "add_patient_title": "Añadir un paciente",
   "add_patient_date_of_birth": "Fecha de nacimiento",
   "add_patient_date_of_birth_required": "La fecha de nacimiento es obligatoria",
-  "add_patient_date_of_birth_invalid": "Introduce una fecha en el pasado.",
+  "add_patient_date_of_birth_invalid": "Introduce una fecha válida como AAAA-MM-DD",
   "add_patient_delivery_label": "¿Cómo va a funcionar la práctica?",
   "add_patient_delivery_self": "Practica por su cuenta",
   "add_patient_delivery_caregiver": "Un padre o cuidador dirige las sesiones",
@@ -1500,5 +1500,11 @@
   "therapist_reassign_confirm_title": "¿Asignar este paso de nuevo?",
   "therapist_reassign_confirm_body": "El intento anterior se queda donde está. {{step}} vuelve como un paso nuevo.",
   "therapist_reassign_refused_open": "Este paso sigue abierto.",
-  "therapist_reassign_refused_path": "Esta ruta aún no está lista para eso."
+  "therapist_reassign_refused_path": "Esta ruta aún no está lista para eso.",
+  "exercise_holding_target_hold_line": "Retención objetivo: {{count}}s",
+  "exercise_holding_exit_speed_line": "Velocidad de salida: {{speed}}",
+  "add_patient_date_of_birth_placeholder": "AAAA-MM-DD",
+  "add_patient_date_of_birth_hint": "Fecha de nacimiento (AAAA-MM-DD)",
+  "homework_pill_times_one": "{{count}}× a la semana",
+  "homework_pill_weeks_one": "{{count}} semana"
 }
