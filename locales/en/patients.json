@@ -1,6 +1,7 @@
 {
   "tabs": {
     "overview": "Overview",
+    "intake": "Intake",
     "learning_path": "Learning Path",
     "patients": "Patients",
     "invites": "Invites",
@@ -256,5 +257,29 @@
     "grandparent": "Grandparent",
     "other": "Other"
   },
-  "child_badge": "Caregiver-led"
+  "child_badge": "Caregiver-led",
+  "intake": {
+    "empty": {
+      "title": "The intake has not been completed yet",
+      "body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room."
+    },
+    "provenance": {
+      "patient_reported": "Patient-reported, AI-structured, pending your review. These are the patient's own answers, organised into sections. Nothing here is a clinical judgement and no measure has been taken yet."
+    },
+    "badge": {
+      "self_completed": "Self-completed",
+      "caregiver_completed": "Caregiver-completed"
+    },
+    "headline_label": "In their own words",
+    "completed_today": "intake completed today",
+    "completed_on": "intake completed {{date}}",
+    "sections": {
+      "history": "History",
+      "hard_situations": "Hardest situations",
+      "impact": "Impact, self-reported",
+      "goal": "What they want",
+      "child_context": "About the child",
+      "anything_else": "Anything else they raised"
+    }
+  }
 }

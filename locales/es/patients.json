@@ -1,6 +1,7 @@
 {
   "tabs": {
     "overview": "Visión General",
+    "intake": "Entrevista",
     "learning_path": "Ruta de Aprendizaje",
     "patients": "Pacientes",
     "invites": "Invitaciones",
@@ -256,5 +257,29 @@
     "grandparent": "Abuelo o abuela",
     "other": "Otro"
   },
-  "child_badge": "Guiada por el cuidador"
+  "child_badge": "Guiada por el cuidador",
+  "intake": {
+    "empty": {
+      "title": "La entrevista aún no se ha completado",
+      "body": "Cuando se complete, las respuestas llegan aquí como un resumen previo a la consulta. Lo verá antes de entrar en la sala."
+    },
+    "provenance": {
+      "patient_reported": "Informado por el paciente, estructurado por IA, pendiente de su revisión. Estas son las respuestas del propio paciente, organizadas por secciones. Nada de esto es un juicio clínico y todavía no se ha tomado ninguna medida."
+    },
+    "badge": {
+      "self_completed": "Completado por el paciente",
+      "caregiver_completed": "Completado por el cuidador"
+    },
+    "headline_label": "En sus propias palabras",
+    "completed_today": "entrevista completada hoy",
+    "completed_on": "entrevista completada el {{date}}",
+    "sections": {
+      "history": "Historial",
+      "hard_situations": "Situaciones más difíciles",
+      "impact": "Impacto, autoinformado",
+      "goal": "Qué quiere conseguir",
+      "child_context": "Sobre el niño",
+      "anything_else": "Otra información"
+    }
+  }
 }
