@@ -215,7 +215,46 @@
     "delete_account_confirm_title": "¿Eliminar cuenta?",
     "delete_account_confirm_keep_message": "Tu cuenta se eliminará permanentemente. Tus grabaciones se anonimizarán y se conservarán para el entrenamiento del modelo.",
     "delete_account_confirm_delete_message": "Tu cuenta y todos tus datos, incluidas las grabaciones, se eliminarán permanentemente. Esto no se puede deshacer.",
-    "delete_account_failed_title": "No se pudo eliminar"
+    "delete_account_failed_title": "No se pudo eliminar",
+    "companion": {
+      "title": "Tu compañero",
+      "subtitle": "Elige el personaje que encuentras por la aplicación, y su aspecto.",
+      "preview_label": "Tu compañero",
+      "body": "Cuerpo",
+      "crown": "Adorno",
+      "accent": "Mejillas y habla",
+      "belly": "Barriga",
+      "custom": "Personalizado",
+      "custom_color": "Color personalizado",
+      "contrast": "Contraste sobre el compañero: {{ratio}}:1",
+      "too_dark": "Demasiado cerca del cuerpo del compañero para verse. Elige un color más claro.",
+      "match_accent": "Igualar a las mejillas",
+      "axes_unavailable": "Elige uno de los cuerpos dibujados para poder elegir adorno y colores.",
+      "save": "Guardar compañero",
+      "saved": "Compañero guardado",
+      "load_error": "No se pudo cargar tu compañero. Inténtalo de nuevo en un momento.",
+      "styles": {
+        "lumo": "Lumo",
+        "pip": "Pip",
+        "nima": "Nima",
+        "tumbo": "Tumbo",
+        "mark": "Símbolo",
+        "none": "Sin compañero"
+      },
+      "crowns": {
+        "default": "Como se dibujó",
+        "ears": "Orejas",
+        "antenna": "Antena",
+        "sideEars": "Orejas laterales",
+        "none": "Sin adorno"
+      },
+      "colors": {
+        "sand": "Arena",
+        "lavender": "Lavanda",
+        "sky": "Cielo",
+        "mint": "Menta"
+      }
+    }
   },
   "layout": {
     "open_sidebar": "Abrir barra lateral",
