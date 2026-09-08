@@ -432,7 +432,7 @@
   "patient_intake_provenance_patient_reported": "Patient-reported, AI-structured, pending your review. Each answer is the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet.",
   "patient_intake_badge_self": "Self-completed",
   "patient_intake_badge_caregiver": "Caregiver-completed",
-  "patient_intake_headline_label": "In their own words",
+  "patient_intake_headline_label": "Why they came",
   "patient_intake_completed_today": "intake completed today",
   "patient_intake_completed_on": "intake completed {{date}}",
   "patient_intake_section_history": "History",

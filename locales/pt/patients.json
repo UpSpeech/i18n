@@ -270,7 +270,7 @@
       "self_completed": "Preenchido pelo próprio",
       "caregiver_completed": "Preenchido pelo cuidador"
     },
-    "headline_label": "Nas suas próprias palavras",
+    "headline_label": "Porque veio",
     "completed_today": "entrevista concluída hoje",
     "completed_on": "entrevista concluída a {{date}}",
     "sections": {

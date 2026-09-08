@@ -432,7 +432,7 @@
   "patient_intake_provenance_patient_reported": "Informado por el paciente, estructurado por IA, pendiente de su revisión. Cada respuesta es el resumen que el modelo hace de lo que dijo el paciente. Nada de esto es un juicio clínico y todavía no se ha tomado ninguna medida.",
   "patient_intake_badge_self": "Completado por el paciente",
   "patient_intake_badge_caregiver": "Completado por el cuidador",
-  "patient_intake_headline_label": "En sus propias palabras",
+  "patient_intake_headline_label": "Por qué vino",
   "patient_intake_completed_today": "entrevista completada hoy",
   "patient_intake_completed_on": "entrevista completada el {{date}}",
   "patient_intake_section_history": "Historial",

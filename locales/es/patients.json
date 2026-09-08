@@ -270,7 +270,7 @@
       "self_completed": "Completado por el paciente",
       "caregiver_completed": "Completado por el cuidador"
     },
-    "headline_label": "En sus propias palabras",
+    "headline_label": "Por qué vino",
     "completed_today": "entrevista completada hoy",
     "completed_on": "entrevista completada el {{date}}",
     "sections": {

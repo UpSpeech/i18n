@@ -270,7 +270,7 @@
       "self_completed": "Self-completed",
       "caregiver_completed": "Caregiver-completed"
     },
-    "headline_label": "In their own words",
+    "headline_label": "Why they came",
     "completed_today": "intake completed today",
     "completed_on": "intake completed {{date}}",
     "sections": {
