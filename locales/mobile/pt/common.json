@@ -429,7 +429,7 @@
   "patient_intake_view": "Ver Entrevista",
   "patient_intake_empty_title": "A entrevista ainda não foi feita",
   "patient_intake_empty_body": "Quando for, as respostas chegam aqui como um resumo pré-consulta. Vai vê-lo antes de entrar na sala.",
-  "patient_intake_provenance_patient_reported": "Relatado pelo paciente, estruturado por IA, a aguardar a sua revisão. Estas são as respostas do próprio paciente, organizadas por secções. Nada aqui é um juízo clínico e ainda não foi feita nenhuma medição.",
+  "patient_intake_provenance_patient_reported": "Relatado pelo paciente, estruturado por IA, a aguardar a sua revisão. Cada resposta é o resumo que o modelo faz do que o paciente disse. Nada aqui é um juízo clínico e ainda não foi feita nenhuma medição.",
   "patient_intake_badge_self": "Preenchido pelo próprio",
   "patient_intake_badge_caregiver": "Preenchido pelo cuidador",
   "patient_intake_headline_label": "Nas suas próprias palavras",

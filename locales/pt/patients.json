@@ -264,7 +264,7 @@
       "body": "Quando for, as respostas chegam aqui como um resumo pré-consulta. Vai vê-lo antes de entrar na sala."
     },
     "provenance": {
-      "patient_reported": "Relatado pelo paciente, estruturado por IA, a aguardar a sua revisão. Estas são as respostas do próprio paciente, organizadas por secções. Nada aqui é um juízo clínico e ainda não foi feita nenhuma medição."
+      "patient_reported": "Relatado pelo paciente, estruturado por IA, a aguardar a sua revisão. Cada resposta é o resumo que o modelo faz do que o paciente disse. Nada aqui é um juízo clínico e ainda não foi feita nenhuma medição."
     },
     "badge": {
       "self_completed": "Preenchido pelo próprio",
