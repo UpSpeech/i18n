@@ -264,13 +264,13 @@
       "body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room."
     },
     "provenance": {
-      "patient_reported": "Patient-reported, AI-structured, pending your review. These are the patient's own answers, organised into sections. Nothing here is a clinical judgement and no measure has been taken yet."
+      "patient_reported": "Patient-reported, AI-structured, pending your review. Each answer is the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet."
     },
     "badge": {
       "self_completed": "Self-completed",
       "caregiver_completed": "Caregiver-completed"
     },
-    "headline_label": "In their own words",
+    "headline_label": "Why they came",
     "completed_today": "intake completed today",
     "completed_on": "intake completed {{date}}",
     "sections": {

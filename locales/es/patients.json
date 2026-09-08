@@ -264,13 +264,13 @@
       "body": "Cuando se complete, las respuestas llegan aquí como un resumen previo a la consulta. Lo verá antes de entrar en la sala."
     },
     "provenance": {
-      "patient_reported": "Informado por el paciente, estructurado por IA, pendiente de su revisión. Estas son las respuestas del propio paciente, organizadas por secciones. Nada de esto es un juicio clínico y todavía no se ha tomado ninguna medida."
+      "patient_reported": "Informado por el paciente, estructurado por IA, pendiente de su revisión. Cada respuesta es el resumen que el modelo hace de lo que dijo el paciente. Nada de esto es un juicio clínico y todavía no se ha tomado ninguna medida."
     },
     "badge": {
       "self_completed": "Completado por el paciente",
       "caregiver_completed": "Completado por el cuidador"
     },
-    "headline_label": "En sus propias palabras",
+    "headline_label": "Por qué vino",
     "completed_today": "entrevista completada hoy",
     "completed_on": "entrevista completada el {{date}}",
     "sections": {
