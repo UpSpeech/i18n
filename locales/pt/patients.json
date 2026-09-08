@@ -291,6 +291,7 @@
       "filing": "A guardar as tuas respostas",
       "file_failed": "As tuas respostas não chegaram até nós. Fala com o teu terapeuta e não feches este separador: o que disseste continua aqui.",
       "resume_failed": "Não conseguimos retomar a tua entrevista. Tenta novamente daqui a pouco.",
+      "resume_retry": "Tentar novamente",
       "send_failed": "Isso não foi enviado. Tenta novamente daqui a pouco.",
       "expired": "Esta conversa expirou. Começa uma nova.",
       "stranded": "Esta entrevista já não está aberta. Começar de novo demora poucos minutos.",
