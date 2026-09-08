@@ -280,6 +280,22 @@
       "goal": "What they want",
       "child_context": "About the child",
       "anything_else": "Anything else they raised"
+    },
+    "interview": {
+      "progress": "Interview progress",
+      "probe": "Follow-up",
+      "thinking": "Reading your answer",
+      "opening": "Getting your interview ready",
+      "done_title": "That is everything",
+      "done_body": "Thank you. Your therapist reads this before your next session, so you will not have to start from the beginning with them.",
+      "filing": "Saving your answers",
+      "file_failed": "Your answers did not reach us. Please contact your therapist, and do not close this tab: what you said is still here.",
+      "resume_failed": "We could not pick your interview back up. Try again in a moment.",
+      "resume_retry": "Try again",
+      "send_failed": "That did not go through. Try again in a moment.",
+      "expired": "This conversation expired. Start a new one.",
+      "stranded": "This interview is no longer open. Starting again takes a few minutes.",
+      "restart": "Start again"
     }
   }
 }

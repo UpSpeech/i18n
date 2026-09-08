@@ -280,6 +280,22 @@
       "goal": "Qué quiere conseguir",
       "child_context": "Sobre el niño",
       "anything_else": "Otra información"
+    },
+    "interview": {
+      "progress": "Progreso de la entrevista",
+      "probe": "Seguimiento",
+      "thinking": "Leyendo tu respuesta",
+      "opening": "Preparando tu entrevista",
+      "done_title": "Eso es todo",
+      "done_body": "Gracias. Tu terapeuta lee esto antes de la próxima sesión, así no tendrás que empezar de cero con él.",
+      "filing": "Guardando tus respuestas",
+      "file_failed": "Tus respuestas no llegaron. Habla con tu terapeuta y no cierres esta pestaña: lo que dijiste sigue aquí.",
+      "resume_failed": "No pudimos retomar tu entrevista. Inténtalo de nuevo en un momento.",
+      "resume_retry": "Intentar de nuevo",
+      "send_failed": "Eso no se envió. Inténtalo de nuevo en un momento.",
+      "expired": "Esta conversación caducó. Empieza una nueva.",
+      "stranded": "Esta entrevista ya no está abierta. Empezar de nuevo lleva unos minutos.",
+      "restart": "Empezar de nuevo"
     }
   }
 }
