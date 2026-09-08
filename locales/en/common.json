@@ -222,7 +222,46 @@
     "delete_account_confirm_title": "Delete account?",
     "delete_account_confirm_keep_message": "Your account will be permanently deleted. Your recordings will be anonymized and retained for model training.",
     "delete_account_confirm_delete_message": "Your account and all of your data, including recordings, will be permanently deleted. This cannot be undone.",
-    "delete_account_failed_title": "Couldn't delete"
+    "delete_account_failed_title": "Couldn't delete",
+    "companion": {
+      "title": "Your companion",
+      "subtitle": "Pick the character you meet around the app, and how it looks.",
+      "preview_label": "Your companion",
+      "body": "Body",
+      "crown": "Crown",
+      "accent": "Cheeks and speech",
+      "belly": "Belly",
+      "custom": "Custom",
+      "custom_color": "Custom colour",
+      "contrast": "Contrast on the companion: {{ratio}}:1",
+      "too_dark": "Too close to the companion's body to be visible. Pick a lighter colour.",
+      "match_accent": "Match the cheeks",
+      "axes_unavailable": "Pick one of the drawn bodies to choose a crown and colours.",
+      "save": "Save companion",
+      "saved": "Companion saved",
+      "load_error": "Could not load your companion. Try again shortly.",
+      "styles": {
+        "lumo": "Lumo",
+        "pip": "Pip",
+        "nima": "Nima",
+        "tumbo": "Tumbo",
+        "mark": "Logo mark",
+        "none": "No companion"
+      },
+      "crowns": {
+        "default": "As drawn",
+        "ears": "Ears",
+        "antenna": "Antenna",
+        "sideEars": "Side ears",
+        "none": "Bald"
+      },
+      "colors": {
+        "sand": "Sand",
+        "lavender": "Lavender",
+        "sky": "Sky",
+        "mint": "Mint"
+      }
+    }
   },
   "layout": {
     "open_sidebar": "Open sidebar",
