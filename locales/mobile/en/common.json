@@ -429,7 +429,7 @@
   "patient_intake_view": "View Intake",
   "patient_intake_empty_title": "The intake has not been completed yet",
   "patient_intake_empty_body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room.",
-  "patient_intake_provenance_patient_reported": "Patient-reported, AI-structured, pending your review. Each answer is the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet.",
+  "patient_intake_provenance_patient_reported": "Patient-reported, AI-structured, pending your review. Answers are usually the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet.",
   "patient_intake_badge_self": "Self-completed",
   "patient_intake_badge_caregiver": "Caregiver-completed",
   "patient_intake_headline_label": "Why they came",
