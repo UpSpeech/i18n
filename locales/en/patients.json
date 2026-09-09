@@ -264,7 +264,7 @@
       "body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room."
     },
     "provenance": {
-      "patient_reported": "Patient-reported, AI-structured, pending your review. Each answer is the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet."
+      "patient_reported": "Patient-reported, AI-structured, pending your review. Answers are usually the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet."
     },
     "badge": {
       "self_completed": "Self-completed",
