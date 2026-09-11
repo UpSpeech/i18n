@@ -169,6 +169,9 @@
     "empty_admin": "As mensagens são para terapeutas e pacientes",
     "empty_admin_description": "As mensagens diretas ligam os pacientes ao terapeuta que lhes está atribuído.",
     "send_error": "Não foi possível enviar a tua mensagem. Tenta novamente.",
+    "frozen_notice_therapist": "Esta conversa está fechada. {{name}} já não é teu paciente.",
+    "frozen_notice_patient": "Esta conversa está fechada. Podes continuar a lê-la.",
+    "frozen_placeholder": "Não podes enviar mensagens numa conversa fechada",
     "unread_count_one": "{{count}} mensagem por ler",
     "unread_count_other": "{{count}} mensagens por ler"
   },

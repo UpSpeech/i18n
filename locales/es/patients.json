@@ -61,7 +61,7 @@
     "confirm": "Trasladar paciente",
     "done": "{{name}} ya tiene a este paciente. La conversación con {{previous}} está cerrada, y ambos pueden seguir leyéndola.",
     "assigned": "{{name}} ya tiene a este paciente.",
-    "previously": "Antes {{name}}, hasta {{date}}",
+    "previously": "Antes {{name}}, asignado el {{date}}",
     "assign_back": "Volver a asignar"
   },
   "activity_levels": {

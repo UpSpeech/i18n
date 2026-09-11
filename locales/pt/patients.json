@@ -61,7 +61,7 @@
     "confirm": "Transferir paciente",
     "done": "{{name}} passa a ter este paciente. A conversa com {{previous}} está fechada, e ambos continuam a poder lê-la.",
     "assigned": "{{name}} passa a ter este paciente.",
-    "previously": "Antes {{name}}, até {{date}}",
+    "previously": "Antes {{name}}, atribuído em {{date}}",
     "assign_back": "Voltar a atribuir"
   },
   "activity_levels": {
