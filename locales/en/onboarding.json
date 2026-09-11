@@ -129,6 +129,7 @@
       "skip": "Skip tour",
       "patient": {
         "intro": "I'll show you around. Six steps, about a minute, and you can stop any time.",
+        "intro_plain": "Six steps, about a minute, and you can stop any time.",
         "dashboard": {
           "exercise_title": "Today's Exercise",
           "exercise_content": "This is your daily exercise. Start here each day to keep building your skills.",

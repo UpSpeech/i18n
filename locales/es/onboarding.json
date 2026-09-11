@@ -129,6 +129,7 @@
       "skip": "Omitir tour",
       "patient": {
         "intro": "Te enseño la aplicación. Son seis pasos, alrededor de un minuto, y puedes parar cuando quieras.",
+        "intro_plain": "Son seis pasos, alrededor de un minuto, y puedes parar cuando quieras.",
         "dashboard": {
           "exercise_title": "Ejercicio de Hoy",
           "exercise_content": "Este es tu ejercicio diario. Empieza aquí cada día para seguir mejorando.",
