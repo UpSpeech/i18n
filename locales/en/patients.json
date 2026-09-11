@@ -177,8 +177,9 @@
   "recent_feedback": {
     "page_title": "Feedback from your therapist",
     "subtitle": "Feedback your therapist left on your recent practice.",
-    "empty_title": "No feedback yet",
-    "empty_description": "Your therapist hasn't left any feedback on your practice yet.",
+    "empty_title": "Feedback arrives after a practice",
+    "empty_description": "Your therapist leaves notes once they have watched one, so there is nothing to read here yet.",
+    "empty_action": "Go to your journey",
     "error_title": "Could not load feedback",
     "load_error": "Something went wrong. Try refreshing the page.",
     "view_step": "View step",
