@@ -162,7 +162,7 @@
   "messages": {
     "subtitle": "Conversa com o teu terapeuta",
     "empty_patient": "Esta conversa fica sempre aberta",
-    "empty_patient_description": "O que escreveres aqui em baixo chega ao teu terapeuta. Não há nada de errado que possas enviar.",
+    "empty_patient_description": "O que escreveres aqui chega ao teu terapeuta. Não há nada de errado que possas enviar.",
     "empty_therapist_conversation": "Ainda não há mensagens. Envia a primeira mensagem.",
     "empty_therapist_no_selection": "Seleciona um paciente para começar a conversar",
     "no_patients": "Ainda não tens pacientes",
@@ -611,7 +611,7 @@
       "overview": "Resumo do Passo",
       "attempts": "Tentativas",
       "no_attempts": "Ainda sem treino",
-      "no_attempts_description": "Assim que gravares um treino, aparece aqui com as notas do teu terapeuta ao lado.",
+      "no_attempts_description": "Assim que gravares um treino, aparece aqui, e aparece também o que o teu terapeuta escrever sobre ele.",
       "no_attempts_action": "Abrir este passo",
       "attempt_number": "Tentativa #{{number}}",
       "quiz_score": "Pontuação: {{score}}%",

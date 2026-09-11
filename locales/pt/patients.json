@@ -178,7 +178,7 @@
     "page_title": "Feedback do teu terapeuta",
     "subtitle": "Feedback que o teu terapeuta deixou nos teus treinos recentes.",
     "empty_title": "O feedback chega depois de um treino",
-    "empty_description": "O teu terapeuta deixa notas depois de ver um treino, por isso ainda não há nada para ler aqui.",
+    "empty_description": "O teu terapeuta deixa notas depois de ver um treino.",
     "empty_action": "Ir para a tua jornada",
     "error_title": "Não foi possível carregar o feedback",
     "load_error": "Algo correu mal. Tenta atualizar a página.",

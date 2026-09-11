@@ -169,7 +169,7 @@
   "messages": {
     "subtitle": "Chat with your therapist",
     "empty_patient": "This thread stays open",
-    "empty_patient_description": "Whatever you write below reaches your therapist. There is no wrong thing to send.",
+    "empty_patient_description": "Whatever you write here reaches your therapist. There is no wrong thing to send.",
     "empty_therapist_conversation": "No messages yet. Send the first message.",
     "empty_therapist_no_selection": "Select a patient to start messaging",
     "no_patients": "No patients yet",
@@ -611,7 +611,7 @@
       "overview": "Step Overview",
       "attempts": "Attempts",
       "no_attempts": "Not practised yet",
-      "no_attempts_description": "Once you record a practice it appears here, with your therapist's notes beside it.",
+      "no_attempts_description": "Once you record a practice it appears here, and so does anything your therapist writes about it.",
       "no_attempts_action": "Open this step",
       "attempt_number": "Attempt #{{number}}",
       "quiz_score": "Score: {{score}}%",
