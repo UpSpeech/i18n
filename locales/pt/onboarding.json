@@ -128,6 +128,7 @@
       "next": "Seguinte",
       "skip": "Saltar tour",
       "patient": {
+        "intro": "Vou mostrar-te a aplicação. São seis passos, cerca de um minuto, e podes parar quando quiseres.",
         "dashboard": {
           "exercise_title": "Exercício de Hoje",
           "exercise_content": "Este é o teu exercício diário. Começa aqui todos os dias para continuares a melhorar.",
