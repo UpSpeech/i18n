@@ -56,9 +56,9 @@
     "no_data": "Sem dados"
   },
   "transfer": {
-    "title": "Transferir este paciente para outro terapeuta?",
-    "message": "Transferir {{patient}} para {{to}} também transfere o seu percurso de aprendizagem. A conversa com {{from}} fecha: ambos continuam a poder lê-la, nenhum pode acrescentar nada e nada é apagado. Se voltares a transferir {{patient}}, a conversa reabre.",
-    "confirm": "Transferir paciente",
+    "title": "Atribuir este paciente a outro terapeuta?",
+    "message": "Atribuir {{patient}} a {{to}} também transfere o seu percurso de aprendizagem. A conversa com {{from}} fecha: ambos continuam a poder lê-la, nenhum pode acrescentar nada e nada é apagado. Se voltares a atribuir {{patient}}, a conversa reabre.",
+    "confirm": "Atribuir paciente",
     "done": "{{name}} passa a ter este paciente. A conversa com {{previous}} está fechada, e ambos continuam a poder lê-la.",
     "assigned": "{{name}} passa a ter este paciente.",
     "previously": "Antes {{name}}, atribuído em {{date}}",

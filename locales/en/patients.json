@@ -59,9 +59,9 @@
     "no_data": "No data"
   },
   "transfer": {
-    "title": "Move this patient to another therapist?",
-    "message": "Moving {{patient}} to {{to}} also moves their learning path. Their conversation with {{from}} closes: both of them keep reading it, neither can add to it, and nothing is deleted. Moving {{patient}} back reopens it.",
-    "confirm": "Move patient",
+    "title": "Assign this patient to another therapist?",
+    "message": "Assigning {{patient}} to {{to}} also moves their learning path. Their conversation with {{from}} closes: both of them keep reading it, neither can add to it, and nothing is deleted. Assigning {{patient}} back reopens it.",
+    "confirm": "Assign patient",
     "done": "{{name}} now has this patient. The conversation with {{previous}} is closed, and both of them can still read it.",
     "assigned": "{{name}} now has this patient.",
     "previously": "Previously {{name}}, assigned {{date}}",
