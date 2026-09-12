@@ -169,6 +169,9 @@
     "empty_admin": "Los mensajes son para terapeutas y pacientes",
     "empty_admin_description": "Los mensajes directos conectan a los pacientes con su terapeuta asignado.",
     "send_error": "No se pudo enviar tu mensaje. Inténtalo de nuevo.",
+    "frozen_notice_therapist": "Esta conversación está cerrada. Este paciente ya no está asignado a ti.",
+    "frozen_notice_patient": "Esta conversación está cerrada. Puedes seguir leyéndola.",
+    "frozen_placeholder": "No puedes enviar mensajes en una conversación cerrada",
     "unread_count_one": "{{count}} mensaje sin leer",
     "unread_count_other": "{{count}} mensajes sin leer"
   },
