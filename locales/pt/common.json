@@ -520,6 +520,8 @@
       "step_removed": "Passo removido",
       "write_step": "Escrever um passo"
     },
+    "goal_fraction": "{{done}} de {{total}} em {{goal}}",
+    "lifetime_steps": "{{count}} passos concluídos",
     "no_path": "Sem Percurso",
     "no_path_title": "Sem Percurso de Aprendizagem",
     "no_path_description": "Este paciente ainda não tem um percurso de aprendizagem.",

@@ -520,6 +520,8 @@
       "step_removed": "Step removed",
       "write_step": "Write a step"
     },
+    "goal_fraction": "{{done}} of {{total}} in {{goal}}",
+    "lifetime_steps": "{{count}} steps completed",
     "no_path": "No Path",
     "no_path_title": "No Learning Path",
     "no_path_description": "This patient doesn't have a learning path yet.",
