@@ -1612,5 +1612,6 @@
   "judgment_not_yet": "Not yet",
   "judgment_note_label": "Note for the therapist",
   "judgment_note_placeholder": "Anything the therapist should know?",
-  "judgment_submit": "Send"
+  "judgment_submit": "Send",
+  "judgment_save_failed": "That did not send. Try again in a moment."
 }
