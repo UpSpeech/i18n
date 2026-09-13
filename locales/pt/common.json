@@ -991,7 +991,8 @@
       "practise_again": "Praticar outra vez",
       "about_minutes": "cerca de {{count}} min",
       "week_caption": "{{done}} de {{planned}} feitos esta semana",
-      "change_days": "Mudar os meus dias"
+      "change_days": "Mudar os meus dias",
+      "is_today": "hoje"
     }
   },
   "questionnaire": {

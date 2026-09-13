@@ -1614,5 +1614,6 @@
   "judgment_note_placeholder": "¿Algo que el terapeuta deba saber?",
   "judgment_submit": "Enviar",
   "judgment_save_failed": "No se envió. Inténtalo otra vez en un momento.",
-  "today_change_days": "Cambiar mis días"
+  "today_change_days": "Cambiar mis días",
+  "practice_day_today": "hoy"
 }
