@@ -972,7 +972,8 @@
       "scratch": "Construirla sobre la marcha",
       "scratch_help": "Un objetivo vacío, y escribes tú el primer paso.",
       "scratch_action": "Empezar a escribir",
-      "apply_failed": "No se pudo empezar esa ruta"
+      "apply_failed": "No se pudo empezar esa ruta",
+      "apply_partial": "Empezada, pero {{count}} de {{total}} objetivos no se escribieron. El resto está en la ruta."
     },
     "practice_days_title": "¿Qué días te vienen bien?",
     "practice_days_any": "Elige los días que te vengan bien.",

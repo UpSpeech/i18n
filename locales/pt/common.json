@@ -972,7 +972,8 @@
       "scratch": "Construir à medida",
       "scratch_help": "Um objetivo vazio, e escreves tu o primeiro passo.",
       "scratch_action": "Começar a escrever",
-      "apply_failed": "Não foi possível começar esse percurso"
+      "apply_failed": "Não foi possível começar esse percurso",
+      "apply_partial": "Começado, mas {{count}} de {{total}} objetivos não foram escritos. Os restantes estão no percurso."
     },
     "practice_days_title": "Que dias te dão jeito?",
     "practice_days_any": "Escolhe os dias que te dão jeito.",

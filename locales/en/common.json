@@ -972,7 +972,8 @@
       "scratch": "Build it as you go",
       "scratch_help": "One empty goal, and you write the first step.",
       "scratch_action": "Start writing",
-      "apply_failed": "That path could not be started"
+      "apply_failed": "That path could not be started",
+      "apply_partial": "Started, but {{count}} of {{total}} goals could not be written. The rest are on the path."
     },
     "practice_days_title": "Which days suit you?",
     "practice_days_any": "Pick the days that suit you.",
