@@ -1613,5 +1613,6 @@
   "judgment_note_label": "Nota para o terapeuta",
   "judgment_note_placeholder": "Alguma coisa que o terapeuta deva saber?",
   "judgment_submit": "Enviar",
-  "judgment_save_failed": "Não foi enviado. Tenta outra vez daqui a pouco."
+  "judgment_save_failed": "Não foi enviado. Tenta outra vez daqui a pouco.",
+  "today_change_days": "Mudar os meus dias"
 }
