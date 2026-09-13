@@ -494,7 +494,8 @@
       "title_required": "Give the step a title",
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
-      "weeks_value": "{{count}} weeks"
+      "weeks_value": "{{count}} weeks",
+      "browse_library": "Browse the library"
     },
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",
@@ -518,7 +519,8 @@
       "step_actions": "Step actions",
       "step_added": "Step added to the path",
       "step_removed": "Step removed",
-      "write_step": "Write a step"
+      "write_step": "Write a step",
+      "closed_but_not_added": "{{title}} closed, but the new step was not added. Add it again."
     },
     "goal_fraction": "{{done}} of {{total}} in {{goal}}",
     "lifetime_steps": "{{count}} steps completed",
@@ -946,7 +948,49 @@
     "exercise_game_placeholder": "Choose a game",
     "exercise_game_hint": "The patient gets this game as part of the step. Leave the fields below empty to use the game's own title and instructions.",
     "game_required": "Pick a game first",
-    "game_library_failed": "Could not load the games"
+    "game_library_failed": "Could not load the games",
+    "confirm_reassign_title": "Assign this step again?",
+    "confirm_reassign_body": "This adds \"{{step}}\" to the path again as a new attempt. The one the patient already finished stays where it is, with its date and its work.",
+    "reassign_step": "Assign again",
+    "origin": {
+      "title": "Start their path",
+      "subtitle": "However you start, you can rearrange anything they have not reached yet.",
+      "template": "Start from a template",
+      "template_help": "The standard path, or one you saved from another patient.",
+      "template_action": "Choose one",
+      "template_size": "{{goals}} goals, {{steps}} steps",
+      "template_applied": "Path started from {{name}}",
+      "use_template": "Use this",
+      "standard": "Standard",
+      "no_templates": "No templates yet. Save a path you are happy with and it appears here.",
+      "suggest": "Suggest one",
+      "suggest_help": "From paths other patients here have finished.",
+      "suggest_action": "Suggest a path",
+      "suggest_cold": "We do not have enough finished paths to suggest from yet.",
+      "suggest_applied": "Started from a similar patient's path",
+      "suggest_was_default": "Started from the standard path. There were no finished paths to suggest from.",
+      "scratch": "Build it as you go",
+      "scratch_help": "One empty goal, and you write the first step.",
+      "scratch_action": "Start writing",
+      "apply_failed": "That path could not be started"
+    },
+    "practice_days_title": "Which days suit you?",
+    "practice_days_any": "Pick the days that suit you.",
+    "practice_days_target": "{{chosen}} of {{target}} chosen. Your therapist asked for {{target}} a week.",
+    "practice_day_label": "Practise on {{day}}",
+    "today": {
+      "week_label": "This week",
+      "practice_eyebrow": "Today",
+      "done_eyebrow": "Done for today",
+      "rest_eyebrow": "Today",
+      "choose_eyebrow": "Before you start",
+      "rest_title": "No practice planned today",
+      "rest_next": "Next up: {{day}}",
+      "start": "Start today's practice",
+      "practise_again": "Practise again",
+      "about_minutes": "about {{count}} min",
+      "week_caption": "{{done}} of {{planned}} done this week"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
@@ -1141,5 +1185,24 @@
     "hide": "Hide",
     "show": "Show",
     "empty": "The catalogue is empty"
+  },
+  "library": {
+    "title": "Resource library",
+    "search_placeholder": "Search the library",
+    "filter_condition": "Condition",
+    "filter_age": "Age",
+    "filter_level": "Level",
+    "filter_all": "All",
+    "clear_filters": "Clear the filters",
+    "empty_title": "Nothing matches those filters",
+    "empty_description": "Clear a filter, or search for something else.",
+    "source_curriculum": "Curriculum",
+    "source_library": "Library",
+    "assigned_count": "assigned {{count}}",
+    "preview": "Preview",
+    "assign": "Assign",
+    "assign_to_whom": "Who is this for?",
+    "assign_to_whom_help": "You will land in their path, with the composer open. Every step goes into a goal.",
+    "choose_patient": "Choose a patient"
   }
 }

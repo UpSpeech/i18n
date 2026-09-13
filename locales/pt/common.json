@@ -494,7 +494,8 @@
       "title_required": "Dá um título ao passo",
       "unnamed_goal": "Um novo objetivo",
       "waits_for_goal": "{{name}} começa isto quando chegar a {{goal}}.",
-      "weeks_value": "{{count}} semanas"
+      "weeks_value": "{{count}} semanas",
+      "browse_library": "Ver a biblioteca"
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
@@ -518,7 +519,8 @@
       "step_actions": "Ações do passo",
       "step_added": "Passo adicionado ao percurso",
       "step_removed": "Passo removido",
-      "write_step": "Escrever um passo"
+      "write_step": "Escrever um passo",
+      "closed_but_not_added": "{{title}} foi fechado, mas o passo novo não foi acrescentado. Acrescenta-o outra vez."
     },
     "goal_fraction": "{{done}} de {{total}} em {{goal}}",
     "lifetime_steps": "{{count}} passos concluídos",
@@ -946,7 +948,49 @@
     "exercise_game_placeholder": "Escolhe um jogo",
     "exercise_game_hint": "O paciente recebe este jogo como parte do passo. Deixa os campos abaixo vazios para usar o título e as instruções do próprio jogo.",
     "game_required": "Escolhe primeiro um jogo",
-    "game_library_failed": "Não foi possível carregar os jogos"
+    "game_library_failed": "Não foi possível carregar os jogos",
+    "confirm_reassign_title": "Voltar a atribuir este passo?",
+    "confirm_reassign_body": "Isto acrescenta \"{{step}}\" ao percurso outra vez, como uma nova tentativa. O que o paciente já terminou fica onde está, com a data e o trabalho dele.",
+    "reassign_step": "Atribuir outra vez",
+    "origin": {
+      "title": "Começar o percurso",
+      "subtitle": "Comeces como começares, podes reorganizar tudo o que ele ainda não alcançou.",
+      "template": "Começar de um modelo",
+      "template_help": "O percurso padrão, ou um que guardaste de outro paciente.",
+      "template_action": "Escolher um",
+      "template_size": "{{goals}} objetivos, {{steps}} passos",
+      "template_applied": "Percurso começado a partir de {{name}}",
+      "use_template": "Usar este",
+      "standard": "Padrão",
+      "no_templates": "Ainda não há modelos. Guarda um percurso com que estejas satisfeito e aparece aqui.",
+      "suggest": "Sugerir um",
+      "suggest_help": "A partir de percursos que outros pacientes daqui terminaram.",
+      "suggest_action": "Sugerir um percurso",
+      "suggest_cold": "Ainda não há percursos terminados que cheguem para sugerir a partir deles.",
+      "suggest_applied": "Começado a partir do percurso de um paciente parecido",
+      "suggest_was_default": "Começado a partir do percurso padrão. Não havia percursos terminados para sugerir.",
+      "scratch": "Construir à medida",
+      "scratch_help": "Um objetivo vazio, e escreves tu o primeiro passo.",
+      "scratch_action": "Começar a escrever",
+      "apply_failed": "Não foi possível começar esse percurso"
+    },
+    "practice_days_title": "Que dias te dão jeito?",
+    "practice_days_any": "Escolhe os dias que te dão jeito.",
+    "practice_days_target": "{{chosen}} de {{target}} escolhidos. O teu terapeuta pediu {{target}} por semana.",
+    "practice_day_label": "Praticar à {{day}}",
+    "today": {
+      "week_label": "Esta semana",
+      "practice_eyebrow": "Hoje",
+      "done_eyebrow": "Feito por hoje",
+      "rest_eyebrow": "Hoje",
+      "choose_eyebrow": "Antes de começares",
+      "rest_title": "Nada planeado para hoje",
+      "rest_next": "A seguir: {{day}}",
+      "start": "Começar a prática de hoje",
+      "practise_again": "Praticar outra vez",
+      "about_minutes": "cerca de {{count}} min",
+      "week_caption": "{{done}} de {{planned}} feitos esta semana"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -1141,5 +1185,24 @@
     "hide": "Esconder",
     "show": "Mostrar",
     "empty": "O catálogo está vazio"
+  },
+  "library": {
+    "title": "Biblioteca de recursos",
+    "search_placeholder": "Procurar na biblioteca",
+    "filter_condition": "Condição",
+    "filter_age": "Idade",
+    "filter_level": "Nível",
+    "filter_all": "Todos",
+    "clear_filters": "Limpar os filtros",
+    "empty_title": "Nada corresponde a esses filtros",
+    "empty_description": "Limpa um filtro, ou procura outra coisa.",
+    "source_curriculum": "Currículo",
+    "source_library": "Biblioteca",
+    "assigned_count": "atribuído {{count}}",
+    "preview": "Pré-visualizar",
+    "assign": "Atribuir",
+    "assign_to_whom": "Para quem é?",
+    "assign_to_whom_help": "Vais parar ao percurso dele, com o editor aberto. Cada passo entra num objetivo.",
+    "choose_patient": "Escolher um paciente"
   }
 }

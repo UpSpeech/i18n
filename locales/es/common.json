@@ -494,7 +494,8 @@
       "title_required": "Dale un título al paso",
       "unnamed_goal": "Un objetivo nuevo",
       "waits_for_goal": "{{name}} empieza esto cuando llegue a {{goal}}.",
-      "weeks_value": "{{count}} semanas"
+      "weeks_value": "{{count}} semanas",
+      "browse_library": "Ver la biblioteca"
     },
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
@@ -518,7 +519,8 @@
       "step_actions": "Acciones del paso",
       "step_added": "Paso añadido a la ruta",
       "step_removed": "Paso eliminado",
-      "write_step": "Escribir un paso"
+      "write_step": "Escribir un paso",
+      "closed_but_not_added": "{{title}} se cerró, pero el paso nuevo no se añadió. Añádelo otra vez."
     },
     "goal_fraction": "{{done}} de {{total}} en {{goal}}",
     "lifetime_steps": "{{count}} pasos completados",
@@ -946,7 +948,49 @@
     "exercise_game_placeholder": "Elige un juego",
     "exercise_game_hint": "El paciente recibe este juego como parte del paso. Deja los campos siguientes vacíos para usar el título y las instrucciones del propio juego.",
     "game_required": "Elige primero un juego",
-    "game_library_failed": "No se pudieron cargar los juegos"
+    "game_library_failed": "No se pudieron cargar los juegos",
+    "confirm_reassign_title": "¿Volver a asignar este paso?",
+    "confirm_reassign_body": "Esto añade \"{{step}}\" a la ruta otra vez, como un nuevo intento. El que el paciente ya terminó se queda donde está, con su fecha y su trabajo.",
+    "reassign_step": "Asignar otra vez",
+    "origin": {
+      "title": "Empezar su ruta",
+      "subtitle": "Empieces como empieces, puedes reorganizar todo lo que aún no haya alcanzado.",
+      "template": "Empezar desde una plantilla",
+      "template_help": "La ruta estándar, o una que guardaste de otro paciente.",
+      "template_action": "Elegir una",
+      "template_size": "{{goals}} objetivos, {{steps}} pasos",
+      "template_applied": "Ruta empezada a partir de {{name}}",
+      "use_template": "Usar esta",
+      "standard": "Estándar",
+      "no_templates": "Aún no hay plantillas. Guarda una ruta que te convenza y aparecerá aquí.",
+      "suggest": "Sugerir una",
+      "suggest_help": "A partir de rutas que otros pacientes de aquí han terminado.",
+      "suggest_action": "Sugerir una ruta",
+      "suggest_cold": "Aún no hay rutas terminadas suficientes para sugerir a partir de ellas.",
+      "suggest_applied": "Empezada a partir de la ruta de un paciente parecido",
+      "suggest_was_default": "Empezada a partir de la ruta estándar. No había rutas terminadas para sugerir.",
+      "scratch": "Construirla sobre la marcha",
+      "scratch_help": "Un objetivo vacío, y escribes tú el primer paso.",
+      "scratch_action": "Empezar a escribir",
+      "apply_failed": "No se pudo empezar esa ruta"
+    },
+    "practice_days_title": "¿Qué días te vienen bien?",
+    "practice_days_any": "Elige los días que te vengan bien.",
+    "practice_days_target": "{{chosen}} de {{target}} elegidos. Tu terapeuta pidió {{target}} por semana.",
+    "practice_day_label": "Practicar el {{day}}",
+    "today": {
+      "week_label": "Esta semana",
+      "practice_eyebrow": "Hoy",
+      "done_eyebrow": "Hecho por hoy",
+      "rest_eyebrow": "Hoy",
+      "choose_eyebrow": "Antes de empezar",
+      "rest_title": "Nada previsto para hoy",
+      "rest_next": "Lo siguiente: {{day}}",
+      "start": "Empezar la práctica de hoy",
+      "practise_again": "Practicar otra vez",
+      "about_minutes": "unos {{count}} min",
+      "week_caption": "{{done}} de {{planned}} hechos esta semana"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -1141,5 +1185,24 @@
     "hide": "Ocultar",
     "show": "Mostrar",
     "empty": "El catálogo está vacío"
+  },
+  "library": {
+    "title": "Biblioteca de recursos",
+    "search_placeholder": "Buscar en la biblioteca",
+    "filter_condition": "Condición",
+    "filter_age": "Edad",
+    "filter_level": "Nivel",
+    "filter_all": "Todos",
+    "clear_filters": "Limpiar los filtros",
+    "empty_title": "Nada coincide con esos filtros",
+    "empty_description": "Quita un filtro, o busca otra cosa.",
+    "source_curriculum": "Currículo",
+    "source_library": "Biblioteca",
+    "assigned_count": "asignado {{count}}",
+    "preview": "Vista previa",
+    "assign": "Asignar",
+    "assign_to_whom": "¿Para quién es?",
+    "assign_to_whom_help": "Irás a su ruta, con el editor abierto. Cada paso entra en un objetivo.",
+    "choose_patient": "Elegir un paciente"
   }
 }
