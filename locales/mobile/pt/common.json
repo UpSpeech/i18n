@@ -1615,5 +1615,6 @@
   "judgment_submit": "Enviar",
   "judgment_save_failed": "Não foi enviado. Tenta outra vez daqui a pouco.",
   "today_change_days": "Mudar os meus dias",
-  "practice_day_today": "hoje"
+  "practice_day_today": "hoje",
+  "plan_step_in_progress": "A trabalhar nisto agora"
 }

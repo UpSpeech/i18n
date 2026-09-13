@@ -1615,5 +1615,6 @@
   "judgment_submit": "Send",
   "judgment_save_failed": "That did not send. Try again in a moment.",
   "today_change_days": "Change my days",
-  "practice_day_today": "today"
+  "practice_day_today": "today",
+  "plan_step_in_progress": "Working on this now"
 }
