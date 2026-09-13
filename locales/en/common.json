@@ -989,7 +989,8 @@
       "start": "Start today's practice",
       "practise_again": "Practise again",
       "about_minutes": "about {{count}} min",
-      "week_caption": "{{done}} of {{planned}} done this week"
+      "week_caption": "{{done}} of {{planned}} done this week",
+      "change_days": "Change my days"
     }
   },
   "questionnaire": {
