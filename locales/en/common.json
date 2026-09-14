@@ -526,7 +526,8 @@
       "closed_but_not_added": "{{title}} closed, but the new step was not added. Add it again."
     },
     "goal_fraction": "{{done}} of {{total}} in {{goal}}",
-    "lifetime_steps": "{{count}} steps completed",
+    "lifetime_steps_one": "{{count}} step completed",
+    "lifetime_steps_other": "{{count}} steps completed",
     "no_path": "No Path",
     "no_path_title": "No Learning Path",
     "no_path_description": "This patient doesn't have a learning path yet.",

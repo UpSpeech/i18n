@@ -526,7 +526,8 @@
       "closed_but_not_added": "{{title}} se cerró, pero el paso nuevo no se añadió. Añádelo otra vez."
     },
     "goal_fraction": "{{done}} de {{total}} en {{goal}}",
-    "lifetime_steps": "{{count}} pasos completados",
+    "lifetime_steps_one": "{{count}} paso completado",
+    "lifetime_steps_other": "{{count}} pasos completados",
     "no_path": "Sin Ruta",
     "no_path_title": "Sin Ruta de Aprendizaje",
     "no_path_description": "Este paciente aún no tiene una ruta de aprendizaje.",
