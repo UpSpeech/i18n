@@ -121,6 +121,24 @@
         "camera_preview": "Camera preview"
       }
     },
+    "guardian": {
+      "title": "About {{child}}'s data",
+      "progress": "Child {{current}} of {{total}}",
+      "who": "{{child}}, {{age}} years old. {{therapist}} at {{clinic}} set up their practice.",
+      "who_no_therapist": "{{child}}, {{age}} years old, at {{clinic}}.",
+      "who_wrong": "This is not the right child",
+      "who_wrong_title": "Only the clinic can change this",
+      "who_wrong_body": "We cannot edit who you act for from here. Write to the clinic and they will correct the record before you sign anything.",
+      "who_wrong_action": "Write to the clinic",
+      "stored": "We store what {{therapist}} assigns, the days you choose, and the one number you send after each session.",
+      "not_stored": "We do not record {{child}}. There is no microphone in the practice and there never has been on this path.",
+      "who_sees": "{{therapist}} sees it. Nobody outside {{clinic}} does.",
+      "how_long": "It is kept while {{child}} is a patient at {{clinic}}, and deleted when the clinic closes the record.",
+      "your_control": "You can ask {{therapist}} to delete everything about {{child}} at any time, and the clinic has to do it.",
+      "statement": "I hold parental responsibility for {{child}}, or I have the guardian's authority to act for them.",
+      "continue": "Continue",
+      "error": "We could not record that. Try again."
+    },
     "tour": {
       "back": "Back",
       "close": "Close",

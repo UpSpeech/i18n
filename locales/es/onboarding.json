@@ -121,6 +121,24 @@
         "camera_preview": "Vista previa de la cámara"
       }
     },
+    "guardian": {
+      "title": "Los datos de {{child}}",
+      "progress": "Menor {{current}} de {{total}}",
+      "who": "{{child}}, {{age}} años. Quien preparó su práctica es {{therapist}}, en {{clinic}}.",
+      "who_no_therapist": "{{child}}, {{age}} años, en {{clinic}}.",
+      "who_wrong": "Este no es el menor correcto",
+      "who_wrong_title": "Solo la clínica puede cambiarlo",
+      "who_wrong_body": "Desde aquí no podemos cambiar por quién actúas. Escribe a la clínica y corregirán el registro antes de que firmes nada.",
+      "who_wrong_action": "Escribir a la clínica",
+      "stored": "Guardamos lo que asigna {{therapist}}, los días que eliges y el número que envías al final de cada sesión.",
+      "not_stored": "No grabamos a {{child}}. En esta práctica no hay micrófono y nunca lo ha habido.",
+      "who_sees": "Lo ve {{therapist}}. Nadie fuera de {{clinic}}.",
+      "how_long": "Se guarda mientras {{child}} sea paciente de {{clinic}}, y se borra cuando la clínica cierra el expediente.",
+      "your_control": "Puedes pedirle a {{therapist}} que borre todo lo de {{child}} cuando quieras, y la clínica tiene que hacerlo.",
+      "statement": "Tengo la responsabilidad parental sobre {{child}}, o cuento con la autorización de quien la ejerce para actuar en su nombre.",
+      "continue": "Continuar",
+      "error": "No hemos podido registrarlo. Inténtalo de nuevo."
+    },
     "tour": {
       "back": "Atrás",
       "close": "Cerrar",
