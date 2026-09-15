@@ -268,6 +268,9 @@
     "other": "Other"
   },
   "child_badge": "Caregiver-led",
+  "guardian_responsibility": "Guardian responsibility",
+  "guardian_responsibility_accepted": "Accepted by {{name}}, {{date}}",
+  "guardian_responsibility_pending": "Not yet accepted",
   "intake": {
     "gate": {
       "title": "A few questions about {{child}}",
