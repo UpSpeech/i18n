@@ -64,8 +64,13 @@ the PR opens one of these is true:
 Update it in the same session when a feature lands on one client and not the
 other. That is its own instruction, and its "Gaps as of" section is the live list.
 
-The only automated parity gate is `bin/i18n_parity`, and that is translation
-keys. Everything else is this rule.
+**There is no automated web-versus-mobile parity gate at all.** `bin/i18n_parity`
+is not one: it checks the Rails locale files in `app-backend/config/locales/`
+against each other, which is server-side strings, and it never looks at either
+client. The nearest thing is `scripts/check-parity.mjs` in the `i18n` repo, and
+that only checks a key exists in every language. It cannot tell you a key added
+for web reached mobile, because the two clients pin different tags of the
+package. This rule is the whole mechanism.
 
 
 ## CI cannot enforce anything right now
