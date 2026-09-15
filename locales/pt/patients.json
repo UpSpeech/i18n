@@ -269,6 +269,13 @@
   },
   "child_badge": "Guiada pelo cuidador",
   "intake": {
+    "gate": {
+      "title": "Umas perguntas sobre {{child}}",
+      "title_self": "Umas perguntas antes da primeira sessão",
+      "subtitle_child": "{{therapist}} lê as tuas respostas antes da primeira sessão.",
+      "subtitle_self": "O teu terapeuta lê as tuas respostas antes da primeira sessão.",
+      "progress": "Criança {{current}} de {{total}}"
+    },
     "empty": {
       "title": "A entrevista ainda não foi feita",
       "body": "Quando for, as respostas chegam aqui como um resumo pré-consulta. Vai vê-lo antes de entrar na sala."

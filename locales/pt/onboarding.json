@@ -121,6 +121,24 @@
         "camera_preview": "Pré-visualização da câmara"
       }
     },
+    "guardian": {
+      "title": "Os dados de {{child}}",
+      "progress": "Criança {{current}} de {{total}}",
+      "who": "{{child}}, {{age}} anos. Quem preparou a prática foi {{therapist}}, na {{clinic}}.",
+      "who_no_therapist": "{{child}}, {{age}} anos, na {{clinic}}.",
+      "who_wrong": "Esta não é a criança certa",
+      "who_wrong_title": "Só a clínica pode alterar isto",
+      "who_wrong_body": "Não conseguimos mudar daqui por quem atuas. Escreve à clínica e eles corrigem o registo antes de assinares seja o que for.",
+      "who_wrong_action": "Escrever à clínica",
+      "stored": "Guardamos o que {{therapist}} marca, os dias que escolhes e o número que envias no fim de cada sessão.",
+      "not_stored": "Não gravamos {{child}}. Não há microfone nesta prática e nunca houve.",
+      "who_sees": "Quem vê isto é {{therapist}}. Mais ninguém fora da {{clinic}}.",
+      "how_long": "Fica guardado enquanto {{child}} for paciente da {{clinic}}, e é apagado quando a clínica fecha o processo.",
+      "your_control": "Podes pedir a {{therapist}} que apague tudo sobre {{child}} quando quiseres, e a clínica tem de o fazer.",
+      "statement": "Tenho responsabilidade parental sobre {{child}}, ou tenho autorização de quem a exerce para agir em nome desta criança.",
+      "continue": "Continuar",
+      "error": "Não conseguimos registar isso. Tenta outra vez."
+    },
     "tour": {
       "back": "Voltar",
       "close": "Fechar",

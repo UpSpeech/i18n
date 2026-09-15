@@ -269,6 +269,13 @@
   },
   "child_badge": "Caregiver-led",
   "intake": {
+    "gate": {
+      "title": "A few questions about {{child}}",
+      "title_self": "A few questions before your first session",
+      "subtitle_child": "{{therapist}} reads your answers before the first session.",
+      "subtitle_self": "Your therapist reads your answers before the first session.",
+      "progress": "Child {{current}} of {{total}}"
+    },
     "empty": {
       "title": "The intake has not been completed yet",
       "body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room."
