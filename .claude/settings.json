@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "agent-kit": {
+      "source": {
+        "source": "github",
+        "repo": "UpSpeech/agent-kit"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "upspeech@agent-kit": true
+  }
+}
