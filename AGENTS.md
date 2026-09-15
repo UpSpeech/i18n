@@ -23,32 +23,24 @@ node scripts/check-parity.mjs
 
 ## Workspace rules
 
-The full text is `AGENTS.md` in the umbrella repo, `UpSpeech/upspeech`, which is
-the single copy. These are the ones that cause damage if missed, so they are
-repeated here.
+`AGENTS.md` in the umbrella repo, `UpSpeech/upspeech`, is the single copy and
+holds the rest: pull requests, screenshots, plans and the board, testing,
+decisions. Read it before opening a PR from here.
+
+Four rules sit here because they bite before you would think to go and look.
 
 - **Base branch: `main`.** Merging to `main` publishes. Both clients pin a tag, so a change is invisible until the tag is cut and the pin bumped in app-frontend and app-mobile.
-- **Use a per-task worktree.** `git worktree add ../i18n-<slug> -b <branch> origin/main`.
-  Never `git switch` in this checkout: other sessions run against it and a branch
-  change reverts their uncommitted work.
-- **Stage files by name.** Never `git add -A` or `git add .`, and never stage
-  `.env`, credentials or keys.
-- **No tool attribution.** No `Co-Authored-By`, no "Generated with", no assistant
-  or vendor name in a commit, a PR body or a trailer.
-- **No em dashes.** Anywhere. Use a comma or end the sentence.
-- **A PR for a numbered plan opens with the plan and its issue**, on the first
-  line, using the cross-repo form:
+- **Work in a per-task worktree.** `git worktree add ../i18n-<slug> -b <branch> origin/main`.
+  Other sessions run against this checkout, and a `git switch` here reverts their
+  uncommitted work.
+- **Stage files by name**, so `.env`, credentials and keys stay out of a commit.
+- **A commit message carries the change and nothing else.** No trailer naming an
+  assistant or a vendor, and no em dashes anywhere: use a comma, or end the
+  sentence.
 
-  ```
-  **Plan**: [NNN, Title](https://github.com/UpSpeech/upspeech/blob/main/plans/NNN-slug.md), stage N of M. Tracking issue: UpSpeech/upspeech#ISSUE.
-  ```
-
-  A bare `#ISSUE` resolves in this repo and points at something else. Never write
-  `Closes` on it: GitHub does not auto-close across repositories.
-- **Comments are rare and short.** No comment restating the line below it, none
-  longer than the code it describes, no tombstones for deleted code, no plan
-  numbers or dates. Default to none.
-
+**Comments are rare and short.** Write one where the code cannot say it itself: a
+non-obvious constraint, a workaround and what forces it, a unit or an invariant.
+Default to none.
 
 ## Mobile is filed, not remembered
 

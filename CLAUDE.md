@@ -1,7 +1,9 @@
 # UpSpeech translations (i18n), Claude wiring
 
-**Read [`AGENTS.md`](AGENTS.md) first.** It is the entry point for every agent
-runtime and it holds this repo's conventions plus the workspace rules.
+@AGENTS.md
+
+[`AGENTS.md`](AGENTS.md) is imported above, so it is already in context. It is
+the entry point for every agent runtime and it holds this repo's conventions plus the workspace rules.
 
 This file adds only what is specific to Claude Code.
 
