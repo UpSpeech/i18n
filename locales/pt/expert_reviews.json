@@ -47,6 +47,8 @@
     "no_recordings": "Nenhuma gravação encontrada",
     "no_recordings_description": "Não existem gravações que correspondam aos filtros selecionados.",
     "no_recordings_empty_description": "Ainda não foram submetidas gravações para revisão.",
+    "caught_up": "Estás em dia",
+    "see_reviewed": "Ver itens revistos",
     "audio": "Áudio",
     "video": "Vídeo"
   },
@@ -98,6 +100,13 @@
     "severity_scale_mid": "Moderada",
     "severity_scale_max": "Muito severa",
     "severity_submit": "Submeter Revisão",
+    "patient_note_label": "Uma nota para {{name}}, opcional",
+    "finish_modal_title": "Terminar esta revisão",
+    "patient_note_placeholder": "Uma ou duas frases que possa aplicar antes da próxima sessão.",
+    "send_to_patient": "Enviar a {{name}}",
+    "sent_to_patient": "Revisão concluída. {{name}} já foi avisado.",
+    "note_refused": "Revisão concluída, mas a tua nota não foi enviada, porque este paciente não está atribuído a ti.",
+    "note_saved_not_notified": "Revisão concluída e a tua nota foi guardada. Esta clínica tem as notificações desligadas, por isso o paciente não foi avisado.",
     "category_disfluency": "Disfluência",
     "category_technique": "Uso de técnica",
     "technique_used": "Técnica utilizada"

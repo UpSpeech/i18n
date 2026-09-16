@@ -149,6 +149,7 @@
       "high_daily": "High recent daily scores"
     },
     "attention_queue_action_review": "Review now",
+    "attention_queue_action_review_count": "Review ({{count}})",
     "attention_queue_milestone": "Milestone {{position}} / {{total}}",
     "last_active_days_ago_one": "Last active 1 day ago",
     "last_active_days_ago_other": "Last active {{count}} days ago"

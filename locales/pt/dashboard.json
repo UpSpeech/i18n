@@ -149,6 +149,7 @@
       "high_daily": "Pontuações diárias recentes altas"
     },
     "attention_queue_action_review": "Rever agora",
+    "attention_queue_action_review_count": "Rever ({{count}})",
     "attention_queue_milestone": "Marco {{position}} / {{total}}",
     "last_active_days_ago_one": "Última atividade há 1 dia",
     "last_active_days_ago_other": "Última atividade há {{count}} dias"
