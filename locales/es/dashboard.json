@@ -150,6 +150,11 @@
     },
     "attention_queue_action_review": "Revisar ahora",
     "attention_queue_action_review_count": "Revisar ({{count}})",
+    "attention_queue_action_nudge": "Enviar un recordatorio",
+    "attention_queue_action_remind": "Recordar",
+    "attention_queue_empty_title": "Estás al día",
+    "attention_queue_empty_body": "Los pacientes aparecen aquí cuando dejan de practicar, se saltan una revisión o te dejan trabajo pendiente.",
+    "attention_queue_empty_action": "Ver todos los pacientes",
     "attention_queue_milestone": "Hito {{position}} / {{total}}",
     "last_active_days_ago_one": "Última actividad hace 1 día",
     "last_active_days_ago_other": "Última actividad hace {{count}} días"

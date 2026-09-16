@@ -748,6 +748,7 @@
     "reflect": "Reflect on Your Practice"
   },
   "submissions": {
+    "all_patients": "All patients",
     "page_title": "Submissions",
     "page_subtitle": "Review all patient submissions across exercises, scenarios, and assessments",
     "filter_title": "Filter Submissions",

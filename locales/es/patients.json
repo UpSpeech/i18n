@@ -1,4 +1,5 @@
 {
+  "message_patient": "Mensaje",
   "tabs": {
     "overview": "Visión General",
     "intake": "Entrevista",
@@ -222,6 +223,9 @@
     "empty_description": "Las evaluaciones de habla aparecerán aquí cuando este paciente complete una."
   },
   "add_wizard": {
+    "open_patient": "Abrir {{name}}",
+    "see_pending_invites": "Ver invitaciones pendientes",
+    "invite_body_adult": "Enviamos una invitación por correo a {{email}}. {{name}} se une a tu lista de pacientes en cuanto la acepte, así que todavía no hay nada que abrir.",
     "title": "Añadir un paciente",
     "subtitle": "Eliges cómo funciona la práctica de cada paciente. Su edad solo sugiere una opción.",
     "step_basics": "Datos",
@@ -281,6 +285,9 @@
       "progress": "Menor {{current}} de {{total}}"
     },
     "empty": {
+      "body_rule": "Se le pide al paciente que la complete la próxima vez que inicie sesión, mientras tu clínica tenga la entrevista activada. Nada de lo que hagas aquí la inicia. Cuando termine, las respuestas llegan como un resumen previo a la consulta.",
+      "remind": "Enviar un recordatorio",
+      "remind_named": "Recordar a {{name}}",
       "title": "La entrevista aún no se ha completado",
       "body": "Cuando se complete, las respuestas llegan aquí como un resumen previo a la consulta. Lo verá antes de entrar en la sala."
     },

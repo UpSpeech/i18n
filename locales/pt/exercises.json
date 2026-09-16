@@ -748,6 +748,7 @@
     "reflect": "Reflete Sobre a Tua Prática"
   },
   "submissions": {
+    "all_patients": "Todos os pacientes",
     "page_title": "Submissões",
     "page_subtitle": "Revê todas as submissões dos pacientes em exercícios, cenários e avaliações",
     "filter_title": "Filtrar Submissões",

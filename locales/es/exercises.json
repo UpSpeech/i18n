@@ -748,6 +748,7 @@
     "reflect": "Reflexiona Sobre Tu Práctica"
   },
   "submissions": {
+    "all_patients": "Todos los pacientes",
     "page_title": "Envíos",
     "page_subtitle": "Revise todos los envíos de pacientes en ejercicios, escenarios y evaluaciones",
     "filter_title": "Filtrar Envíos",
