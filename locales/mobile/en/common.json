@@ -1641,5 +1641,6 @@
   "invite_revoke_confirm_title": "Revoke this invite?",
   "invite_revoke_confirm_body": "The link sent to {{email}} will stop working.",
   "add_patient_age_years_one": "{{count}} year old",
-  "add_patient_age_years_other": "{{count}} years old"
+  "add_patient_age_years_other": "{{count}} years old",
+  "add_patient_language_label": "Invite and app language"
 }

@@ -227,7 +227,7 @@
     "step_basics": "Dados",
     "step_invite": "Convite",
     "step_of": "Passo {{current}} de {{total}}",
-    "basics_heading": "O essencial",
+    "basics_heading": "Quem é o paciente?",
     "date_of_birth": "Data de nascimento",
     "date_of_birth_invalid": "Introduz uma data no passado.",
     "delivery_label": "Como vai funcionar a prática?",
@@ -259,7 +259,8 @@
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
     "add_another": "Adicionar outro paciente",
     "child_saved": "O perfil de {{name}} está guardado. Confirma os dados do cuidador e continua para enviar o convite.",
-    "summary_invite_sent_to": "Convite enviado para"
+    "summary_invite_sent_to": "Convite enviado para",
+    "language_label": "Idioma do convite e da app"
   },
   "relationship": {
     "parent": "Pai ou mãe",

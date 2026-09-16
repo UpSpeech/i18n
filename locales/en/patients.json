@@ -227,7 +227,7 @@
     "step_basics": "Basics",
     "step_invite": "Invite",
     "step_of": "Step {{current}} of {{total}}",
-    "basics_heading": "The basics",
+    "basics_heading": "Who is the patient?",
     "date_of_birth": "Date of birth",
     "date_of_birth_invalid": "Enter a date in the past.",
     "delivery_label": "How will practice work?",
@@ -259,7 +259,8 @@
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
     "add_another": "Add another patient",
     "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite.",
-    "summary_invite_sent_to": "Invite sent to"
+    "summary_invite_sent_to": "Invite sent to",
+    "language_label": "Invite and app language"
   },
   "relationship": {
     "parent": "Parent",
