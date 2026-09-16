@@ -37,7 +37,12 @@
     "target_range": "Target: {{min}}% - {{max}}%",
     "in_zone": "In zone",
     "smooth_zone": "Smooth zone",
-    "inactive": "Visualizer paused",
+    "state": {
+      "rest": "Ready to record",
+      "recording": "Recording",
+      "loading": "Working on it",
+      "empty": "Nothing recorded yet"
+    },
     "amplitude_sr": "Volume level: {{percent}}%",
     "in_target_zone_sr": "In target zone",
     "outside_target_zone_sr": "Outside target zone",

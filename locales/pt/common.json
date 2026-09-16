@@ -37,7 +37,12 @@
     "target_range": "Alvo: {{min}}% - {{max}}%",
     "in_zone": "Na zona",
     "smooth_zone": "Zona suave",
-    "inactive": "Visualizador pausado",
+    "state": {
+      "rest": "Pronto a gravar",
+      "recording": "A gravar",
+      "loading": "A trabalhar nisso",
+      "empty": "Ainda não há gravações"
+    },
     "amplitude_sr": "Nível de volume: {{percent}}%",
     "in_target_zone_sr": "Na zona alvo",
     "outside_target_zone_sr": "Fora da zona alvo",
