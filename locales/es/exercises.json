@@ -374,7 +374,6 @@
     "patient_note_placeholder": "Opcional. Déjalo vacío para guardar solo tus anotaciones.",
     "send_to_patient": "Enviar al paciente",
     "sent_to_patient": "Enviado al paciente",
-    "send_failed": "Tus anotaciones se guardaron, pero la nota no llegó al paciente.",
     "clip_info": "Información del Clip",
     "current_time": "Tiempo Actual",
     "full_recording": "Grabación Completa",

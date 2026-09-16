@@ -104,7 +104,7 @@
     "patient_note_placeholder": "Optional. One or two sentences they can act on before the next session.",
     "send_to_patient": "Send to {{name}}",
     "sent_to_patient": "Review completed. {{name}} has been told.",
-    "note_refused": "Review completed. Your note was not sent, because this patient is not assigned to you.",
+    "note_refused": "Review completed, but your note was not sent, because this patient is not assigned to you.",
     "note_saved_not_notified": "Review completed and your note was saved. This clinic has notifications off, so the patient was not pinged.",
     "category_disfluency": "Disfluency",
     "category_technique": "Technique use",

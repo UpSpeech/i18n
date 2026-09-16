@@ -383,7 +383,6 @@
     "patient_note_placeholder": "Optional. Leave it empty to just save your annotations.",
     "send_to_patient": "Send to patient",
     "sent_to_patient": "Sent to the patient",
-    "send_failed": "Your annotations were saved, but the note did not reach the patient.",
     "clip_info": "Clip Info",
     "current_time": "Current Time",
     "full_recording": "Full Recording",

@@ -104,7 +104,7 @@
     "patient_note_placeholder": "Opcional. Uma ou duas frases que possa aplicar antes da próxima sessão.",
     "send_to_patient": "Enviar a {{name}}",
     "sent_to_patient": "Revisão concluída. {{name}} já foi avisado.",
-    "note_refused": "Revisão concluída. A tua nota não foi enviada, porque este paciente não está atribuído a ti.",
+    "note_refused": "Revisão concluída, mas a tua nota não foi enviada, porque este paciente não está atribuído a ti.",
     "note_saved_not_notified": "Revisão concluída e a tua nota foi guardada. Esta clínica tem as notificações desligadas, por isso o paciente não foi avisado.",
     "category_disfluency": "Disfluência",
     "category_technique": "Uso de técnica",
