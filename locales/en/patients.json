@@ -285,7 +285,7 @@
       "progress": "Child {{current}} of {{total}}"
     },
     "empty": {
-      "body_rule": "Your patient is asked to complete it the next time they sign in, while your clinic has the intake turned on. Nothing you do from here starts it. Once they finish, the answers arrive as a pre-session brief.",
+      "body_rule": "They are asked to complete it the next time they sign in. You cannot fill it in or skip it, but you can ask them to sign in.",
       "remind": "Send a reminder",
       "remind_named": "Remind {{name}}",
       "title": "The intake has not been completed yet",

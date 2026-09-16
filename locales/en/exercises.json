@@ -748,7 +748,7 @@
     "reflect": "Reflect on Your Practice"
   },
   "submissions": {
-    "truncated": "You have more patients than this view can scan at once, so some of their work is not listed here. Pick a patient to see all of theirs.",
+    "truncated": "Showing {{scanned}} of your patients. {{missing}} are not in this list. Pick a patient to see all of theirs.",
     "all_patients": "All patients",
     "page_title": "Submissions",
     "page_subtitle": "Review all patient submissions across exercises, scenarios, and assessments",

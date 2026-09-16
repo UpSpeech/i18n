@@ -285,7 +285,7 @@
       "progress": "Criança {{current}} de {{total}}"
     },
     "empty": {
-      "body_rule": "É pedido ao paciente que a preencha no próximo início de sessão, enquanto a tua clínica tiver a entrevista ativa. Nada do que faças aqui a inicia. Quando terminar, as respostas chegam como um resumo pré-consulta.",
+      "body_rule": "É-lhe pedido que a preencha no próximo início de sessão. Não a podes preencher nem saltar, mas podes pedir-lhe que entre.",
       "remind": "Enviar um lembrete",
       "remind_named": "Lembrar {{name}}",
       "title": "A entrevista ainda não foi feita",

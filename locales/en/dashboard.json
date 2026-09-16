@@ -150,7 +150,6 @@
     },
     "attention_queue_action_review": "Review now",
     "attention_queue_action_review_count": "Review ({{count}})",
-    "attention_queue_action_nudge": "Send a nudge",
     "attention_queue_action_remind": "Remind",
     "attention_queue_empty_title": "You are caught up",
     "attention_queue_empty_body": "Patients appear here when they have gone quiet, missed a check-in, or left work for you.",

@@ -285,7 +285,7 @@
       "progress": "Menor {{current}} de {{total}}"
     },
     "empty": {
-      "body_rule": "Se le pide al paciente que la complete la próxima vez que inicie sesión, mientras tu clínica tenga la entrevista activada. Nada de lo que hagas aquí la inicia. Cuando termine, las respuestas llegan como un resumen previo a la consulta.",
+      "body_rule": "Se le pide que la complete la próxima vez que inicie sesión. No puedes rellenarla ni saltarla, pero puedes pedirle que entre.",
       "remind": "Enviar un recordatorio",
       "remind_named": "Recordar a {{name}}",
       "title": "La entrevista aún no se ha completado",

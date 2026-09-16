@@ -748,7 +748,7 @@
     "reflect": "Reflexiona Sobre Tu Práctica"
   },
   "submissions": {
-    "truncated": "Tienes más pacientes de los que esta vista puede recorrer de una vez, así que parte de su trabajo no aparece aquí. Elige un paciente para ver todo lo suyo.",
+    "truncated": "Mostrando {{scanned}} de tus pacientes. {{missing}} no están en esta lista. Elige un paciente para ver todo lo suyo.",
     "all_patients": "Todos los pacientes",
     "page_title": "Envíos",
     "page_subtitle": "Revise todos los envíos de pacientes en ejercicios, escenarios y evaluaciones",
