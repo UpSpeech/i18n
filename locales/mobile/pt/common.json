@@ -334,7 +334,7 @@
   "invite_send": "Enviar Convite",
   "invite_sent": "Convite enviado para {{email}}!",
   "invite_send_failed": "Falha ao enviar convite. Tenta novamente.",
-  "invite_pending_title": "Convites Pendentes",
+  "invite_pending_title": "Convites pendentes",
   "invite_pending_empty": "Sem convites pendentes.",
   "invite_expires": "Expira {{date}}",
   "invite_share": "Partilhar",
@@ -1530,7 +1530,7 @@
   "add_patient_delivery_minor_warning": "{{name}} tem menos de 18 anos. Uma conta autónoma significa que inicia sessão sozinho.",
   "add_patient_band_child": "Prática guiada pelo cuidador",
   "add_patient_band_adult": "Prática autónoma",
-  "add_patient_relationship_label": "Qual é a tua relação com {{name}}?",
+  "add_patient_relationship_label": "Relação do cuidador com {{name}}",
   "add_patient_relationship_placeholder": "Pai, tutor, avó...",
   "add_patient_relationship_required": "Diz-nos qual é a tua relação com {{name}}.",
   "add_patient_caregiver_email": "Email do cuidador",
@@ -1636,5 +1636,10 @@
   "judgment_save_failed": "Não foi enviado. Tenta outra vez daqui a pouco.",
   "today_change_days": "Mudar os meus dias",
   "practice_day_today": "hoje",
-  "plan_step_in_progress": "A trabalhar nisto agora"
+  "plan_step_in_progress": "A trabalhar nisto agora",
+  "invite_for_child": "Para {{name}}",
+  "invite_revoke_confirm_title": "Revogar este convite?",
+  "invite_revoke_confirm_body": "O link enviado para {{email}} deixa de funcionar.",
+  "add_patient_age_years_one": "{{count}} ano",
+  "add_patient_age_years_other": "{{count}} anos"
 }

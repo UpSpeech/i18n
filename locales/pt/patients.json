@@ -94,7 +94,7 @@
     "all_patients": "Todos os Pacientes"
   },
   "form": {
-    "first_name": "Nome Próprio",
+    "first_name": "Nome próprio",
     "last_name": "Apelido",
     "password": "Palavra-passe",
     "confirm_password": "Confirmar Palavra-passe",
@@ -104,7 +104,7 @@
     "title": "Convidar Paciente",
     "email_label": "Email do Paciente",
     "email_placeholder": "paciente@exemplo.com",
-    "email_help": "Será enviado um email de convite para este endereço com uma ligação de registo.",
+    "email_help": "Vamos enviar-lhe um link para criar a conta.",
     "pending_invites": "Convites Pendentes",
     "expires": "Expira:",
     "copy_link": "Copiar Ligação",
@@ -241,7 +241,7 @@
     "age_years_other": "{{count}} anos",
     "caregiver_heading": "O cuidador",
     "relationship_label": "Relação com {{name}}",
-    "relationship_free_label": "Qual é a tua relação com {{name}}?",
+    "relationship_free_label": "Relação do cuidador com {{name}}",
     "relationship_placeholder": "Pai, tutor, avó...",
     "relationship_help": "Aparece junto ao convite para distinguires os cuidadores.",
     "relationship_required": "Diz-nos qual é a tua relação com {{name}}.",
