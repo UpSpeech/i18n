@@ -97,8 +97,8 @@
     "all_patients": "All Patients"
   },
   "form": {
-    "first_name": "First Name",
-    "last_name": "Last Name",
+    "first_name": "First name",
+    "last_name": "Last name",
     "password": "Password",
     "confirm_password": "Confirm Password",
     "in_pilot": "Include in pilot program"
@@ -107,7 +107,7 @@
     "title": "Invite Patient",
     "email_label": "Patient Email",
     "email_placeholder": "patient@example.com",
-    "email_help": "An invitation email will be sent to this address with a signup link.",
+    "email_help": "We'll email them a link to sign up.",
     "pending_invites": "Pending Invites",
     "expires": "Expires:",
     "copy_link": "Copy Link",
@@ -227,12 +227,12 @@
     "step_basics": "Basics",
     "step_invite": "Invite",
     "step_of": "Step {{current}} of {{total}}",
-    "basics_heading": "The basics",
+    "basics_heading": "Who is the patient?",
     "date_of_birth": "Date of birth",
     "date_of_birth_invalid": "Enter a date in the past.",
     "delivery_label": "How will practice work?",
     "delivery_self": "They practise on their own",
-    "delivery_caregiver": "A parent or carer runs the sessions",
+    "delivery_caregiver": "A parent or caregiver runs the sessions",
     "delivery_help": "Suggested from their age. Change it if that is not how it works for {{name}}.",
     "delivery_minor_warning": "{{name}} is under 18. A self-directed account means they sign in themselves.",
     "band_child": "Caregiver-led practice",
@@ -241,7 +241,7 @@
     "age_years_other": "{{count}} years old",
     "caregiver_heading": "The caregiver",
     "relationship_label": "Relationship to {{name}}",
-    "relationship_free_label": "What is your relationship to {{name}}?",
+    "relationship_free_label": "Caregiver's relationship to {{name}}",
     "relationship_placeholder": "Parent, guardian, grandparent...",
     "relationship_help": "It appears beside the invite so you can tell caregivers apart.",
     "relationship_required": "Tell us how you are related to {{name}}.",
@@ -259,7 +259,8 @@
     "delivered_by_caregiver": "{{email}} ({{relationship}})",
     "add_another": "Add another patient",
     "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite.",
-    "summary_invite_sent_to": "Invite sent to"
+    "summary_invite_sent_to": "Invite sent to",
+    "language_label": "Invite and app language"
   },
   "relationship": {
     "parent": "Parent",

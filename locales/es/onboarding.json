@@ -203,8 +203,8 @@
           "nav_exercises_content": "Navega por las bibliotecas de ejercicios y asígnalos a tus pacientes."
         },
         "invite": {
-          "button_title": "Invitar Paciente",
-          "button_content": "Haz clic aquí para invitar a tu primer paciente por email.",
+          "button_title": "Añadir un Paciente",
+          "button_content": "Haz clic aquí para añadir a tu primer paciente. Recibirá una invitación por correo para crear su cuenta.",
           "list_title": "Lista de Pacientes",
           "list_content": "Tus pacientes aparecerán aquí cuando acepten la invitación."
         },

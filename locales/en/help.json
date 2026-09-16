@@ -187,7 +187,7 @@
     },
     "therapist_add_patient": {
       "question": "How do I add patients as a therapist?",
-      "answer": "Go to the Patients page and use the invite or create patient options. You can send an email invitation, or directly create a patient account. When you create a patient directly, they are automatically linked to you."
+      "answer": "Go to the Patients page and click Add a patient. Enter their name, date of birth and email. They get an email invite, and once they create their account they are linked to you."
     },
     "therapist_visibility": {
       "question": "What can my therapist see about my progress?",
