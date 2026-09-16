@@ -1,4 +1,5 @@
 {
+  "message_patient": "Message",
   "tabs": {
     "overview": "Overview",
     "intake": "Intake",
@@ -222,6 +223,9 @@
     "empty_description": "Speech assessments will appear here once this patient completes one."
   },
   "add_wizard": {
+    "open_patient": "Open {{name}}",
+    "see_pending_invites": "See pending invites",
+    "invite_body_adult": "We emailed an invite to {{email}}. {{name}} joins your patient list once they accept it, so there is nothing to open yet.",
     "title": "Add a patient",
     "subtitle": "You choose how practice works for each patient. Their age only suggests a default.",
     "step_basics": "Basics",
@@ -281,6 +285,9 @@
       "progress": "Child {{current}} of {{total}}"
     },
     "empty": {
+      "body_rule": "They are asked to complete it the next time they sign in. You cannot fill it in or skip it, but you can ask them to sign in.",
+      "remind": "Send a reminder",
+      "remind_named": "Remind {{name}}",
       "title": "The intake has not been completed yet",
       "body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room."
     },

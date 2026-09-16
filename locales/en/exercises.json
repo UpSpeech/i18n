@@ -174,6 +174,8 @@
     "no_completed_yet": "No completed exercises yet",
     "status": {
       "active": "Active",
+      "assigned": "Assigned",
+      "in_progress": "In progress",
       "completed": "Completed"
     }
   },
@@ -748,6 +750,9 @@
     "reflect": "Reflect on Your Practice"
   },
   "submissions": {
+    "truncated_no_counts": "Some of your patients are not in this list. Pick a patient to see all of theirs.",
+    "truncated": "Showing {{scanned}} of your patients. {{missing}} are not in this list. Pick a patient to see all of theirs.",
+    "all_patients": "All patients",
     "page_title": "Submissions",
     "page_subtitle": "Review all patient submissions across exercises, scenarios, and assessments",
     "filter_title": "Filter Submissions",
