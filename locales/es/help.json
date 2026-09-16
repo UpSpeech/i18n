@@ -187,7 +187,7 @@
     },
     "therapist_add_patient": {
       "question": "¿Cómo añado pacientes como terapeuta?",
-      "answer": "Ve a la página Pacientes y usa las opciones de invitar o crear paciente. Puedes enviar una invitación por correo electrónico o crear directamente una cuenta de paciente. Cuando creas un paciente directamente, se vincula automáticamente a ti."
+      "answer": "Ve a la página Pacientes y haz clic en Añadir un paciente. Indica el nombre, la fecha de nacimiento y el correo electrónico. Recibirá una invitación por correo y, cuando cree su cuenta, quedará vinculada a ti."
     },
     "therapist_visibility": {
       "question": "¿Qué puede ver mi terapeuta sobre mi progreso?",

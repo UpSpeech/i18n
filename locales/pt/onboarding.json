@@ -203,8 +203,8 @@
           "nav_exercises_content": "Navega pelas bibliotecas de exercícios e atribui aos teus pacientes."
         },
         "invite": {
-          "button_title": "Convidar Paciente",
-          "button_content": "Clica aqui para convidares o teu primeiro paciente por email.",
+          "button_title": "Adicionar um Paciente",
+          "button_content": "Clica aqui para adicionares o teu primeiro paciente. A pessoa recebe um convite por email para criar a conta.",
           "list_title": "Lista de Pacientes",
           "list_content": "Os teus pacientes aparecerão aqui quando aceitarem o convite."
         },

@@ -203,8 +203,8 @@
           "nav_exercises_content": "Browse exercise libraries and assign exercises to your patients."
         },
         "invite": {
-          "button_title": "Invite a Patient",
-          "button_content": "Click here to invite your first patient by email.",
+          "button_title": "Add a Patient",
+          "button_content": "Click here to add your first patient. They get an email invite to create their account.",
           "list_title": "Patient List",
           "list_content": "Your patients will appear here once they accept the invitation."
         },
