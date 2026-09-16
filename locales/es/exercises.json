@@ -748,6 +748,7 @@
     "reflect": "Reflexiona Sobre Tu Práctica"
   },
   "submissions": {
+    "truncated_no_counts": "Algunos de tus pacientes no están en esta lista. Elige un paciente para ver todo lo suyo.",
     "truncated": "Mostrando {{scanned}} de tus pacientes. {{missing}} no están en esta lista. Elige un paciente para ver todo lo suyo.",
     "all_patients": "Todos los pacientes",
     "page_title": "Envíos",

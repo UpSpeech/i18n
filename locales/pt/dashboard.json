@@ -63,6 +63,7 @@
     }
   },
   "therapist": {
+    "never_practised": "Ainda não começou",
     "welcome_message": "Gere os teus pacientes e acompanha o seu progresso",
     "greeting_morning": "Bom dia",
     "greeting_afternoon": "Boa tarde",
