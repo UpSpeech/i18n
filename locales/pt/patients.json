@@ -316,7 +316,20 @@
       "send_failed": "Isso não foi enviado. Tenta novamente daqui a pouco.",
       "expired": "Esta conversa expirou. Começa uma nova.",
       "stranded": "Esta entrevista já não está aberta. Começar de novo demora poucos minutos.",
-      "restart": "Começar de novo"
+      "restart": "Começar de novo",
+      "invited_name_self": "O teu nome",
+      "invited_name_child": "Quem vai praticar",
+      "invited_date_of_birth": "Data de nascimento",
+      "invited_age_one": "{{count}} ano",
+      "invited_age_other": "{{count}} anos",
+      "invited_practice": "Como funciona a prática",
+      "invited_practice_child": "Um adulto conduz as sessões de prática",
+      "invited_practice_self": "Conduzes as tuas próprias sessões de prática",
+      "invited_by_therapist": "Definido pelo teu terapeuta",
+      "answer_placeholder": "Responde à pergunta...",
+      "answer_other": "Outra coisa",
+      "answer_confirm": "Continuar",
+      "answer_nothing_else": "Nada mais a acrescentar"
     }
   }
 }

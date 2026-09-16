@@ -316,7 +316,20 @@
       "send_failed": "That did not go through. Try again in a moment.",
       "expired": "This conversation expired. Start a new one.",
       "stranded": "This interview is no longer open. Starting again takes a few minutes.",
-      "restart": "Start again"
+      "restart": "Start again",
+      "invited_name_self": "Your name",
+      "invited_name_child": "Who is practising",
+      "invited_date_of_birth": "Date of birth",
+      "invited_age_one": "{{count}} year old",
+      "invited_age_other": "{{count}} years old",
+      "invited_practice": "How practice works",
+      "invited_practice_child": "A grown-up runs the practice sessions",
+      "invited_practice_self": "You run your own practice sessions",
+      "invited_by_therapist": "Set by your therapist",
+      "answer_placeholder": "Answer the question...",
+      "answer_other": "Something else",
+      "answer_confirm": "Continue",
+      "answer_nothing_else": "Nothing else to add"
     }
   }
 }
