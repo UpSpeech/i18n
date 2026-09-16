@@ -748,6 +748,7 @@
     "reflect": "Reflete Sobre a Tua Prática"
   },
   "submissions": {
+    "truncated": "Tens mais pacientes do que esta vista consegue percorrer de uma vez, por isso parte do trabalho deles não aparece aqui. Escolhe um paciente para veres tudo o que é dele.",
     "all_patients": "Todos os pacientes",
     "page_title": "Submissões",
     "page_subtitle": "Revê todas as submissões dos pacientes em exercícios, cenários e avaliações",
