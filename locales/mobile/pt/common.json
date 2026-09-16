@@ -1316,7 +1316,7 @@
   "add_patient_button": "Adicionar Paciente",
   "create_patient_title": "Criar Conta de Paciente",
   "create_patient_description": "O teu paciente usará estas credenciais para iniciar sessão.",
-  "create_patient_first_name": "Nome Próprio",
+  "create_patient_first_name": "Nome próprio",
   "create_patient_last_name": "Apelido",
   "create_patient_password": "Palavra-passe",
   "create_patient_confirm_password": "Confirmar Palavra-passe",
