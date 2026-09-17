@@ -328,8 +328,7 @@
     "connection_lost": "Connection lost. Check your internet and try again.",
     "invalid_user_role": "Invalid user role",
     "invalid_patient_id": "Invalid patient ID",
-    "access_denied_patient_exercises": "This page is for therapists. Your exercises are under Practice.",
-    "go_to_practice": "Go to my practice"
+    "access_denied_patient_exercises": "This page is for therapists. Your exercises are under {{section}}."
   },
   "footer": {
     "tagline": "Guiding voices with care and tech",
@@ -1233,5 +1232,7 @@
     "assign_to_whom": "Who is this for?",
     "assign_to_whom_help": "You will land in their path, with the composer open. Every step goes into a goal.",
     "choose_patient": "Choose a patient"
-  }
+  },
+  "go_to_practice": "Go to my practice",
+  "no_data": "No data"
 }

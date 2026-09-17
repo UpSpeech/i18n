@@ -321,8 +321,7 @@
     "connection_lost": "Ligação perdida. Verifica a tua ligação à internet e tenta novamente.",
     "invalid_user_role": "Função de utilizador inválida",
     "invalid_patient_id": "ID de paciente inválido",
-    "access_denied_patient_exercises": "Esta página é para terapeutas. Os teus exercícios estão em Prática.",
-    "go_to_practice": "Ir para a minha prática"
+    "access_denied_patient_exercises": "Esta página é para terapeutas. Os teus exercícios estão em {{section}}."
   },
   "footer": {
     "tagline": "Guiar vozes com cuidado e tecnologia",
@@ -1233,5 +1232,7 @@
     "assign_to_whom": "Para quem é?",
     "assign_to_whom_help": "Vais parar ao percurso dele, com o editor aberto. Cada passo entra num objetivo.",
     "choose_patient": "Escolher um paciente"
-  }
+  },
+  "go_to_practice": "Ir para a minha prática",
+  "no_data": "Sem dados"
 }
