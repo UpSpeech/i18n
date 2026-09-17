@@ -323,6 +323,7 @@
       "done_title": "That is everything",
       "done_body": "Thank you. Your therapist reads this before your next session, so you will not have to start from the beginning with them.",
       "filing": "Saving your answers",
+      "finalizing": "Your answers are already being saved, so this one could not be added. There is nothing left to send.",
       "file_failed": "Your answers did not reach us. Please contact your therapist, and do not close this tab: what you said is still here.",
       "resume_failed": "We could not pick your interview back up. Try again in a moment.",
       "resume_retry": "Try again",

@@ -323,6 +323,7 @@
       "done_title": "É tudo",
       "done_body": "Obrigado. O teu terapeuta lê isto antes da próxima sessão, para não teres de começar tudo de novo com ele.",
       "filing": "A guardar as tuas respostas",
+      "finalizing": "As tuas respostas já estão a ser guardadas, por isso esta não pôde ser adicionada. Não há mais nada para enviar.",
       "file_failed": "As tuas respostas não chegaram até nós. Fala com o teu terapeuta e não feches este separador: o que disseste continua aqui.",
       "resume_failed": "Não conseguimos retomar a tua entrevista. Tenta novamente daqui a pouco.",
       "resume_retry": "Tentar novamente",
