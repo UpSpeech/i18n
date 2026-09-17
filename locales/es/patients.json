@@ -303,10 +303,16 @@
     "completed_on": "entrevista completada el {{date}}",
     "sections": {
       "history": "Historial",
+      "disfluencies": "Cómo suena el habla",
       "hard_situations": "Situaciones más difíciles",
       "impact": "Impacto, autoinformado",
+      "family_response": "Cómo lo lleva la familia",
+      "family_history": "Antecedentes familiares",
       "goal": "Qué quiere conseguir",
       "child_context": "Sobre el niño",
+      "temperament": "Temperamento",
+      "health": "Salud y desarrollo",
+      "communication_environment": "Cómo se habla en casa",
       "anything_else": "Otra información"
     },
     "interview": {

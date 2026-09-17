@@ -303,10 +303,16 @@
     "completed_on": "intake completed {{date}}",
     "sections": {
       "history": "History",
+      "disfluencies": "What it sounds like",
       "hard_situations": "Hardest situations",
       "impact": "Impact, self-reported",
+      "family_response": "How the family is coping",
+      "family_history": "Family history",
       "goal": "What they want",
       "child_context": "About the child",
+      "temperament": "Temperament",
+      "health": "Health and development",
+      "communication_environment": "Talking at home",
       "anything_else": "Anything else they raised"
     },
     "interview": {
