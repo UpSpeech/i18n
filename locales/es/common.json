@@ -178,7 +178,8 @@
     "frozen_notice_patient": "Esta conversación está cerrada. Puedes seguir leyéndola.",
     "frozen_placeholder": "No puedes enviar mensajes en una conversación cerrada",
     "unread_count_one": "{{count}} mensaje sin leer",
-    "unread_count_other": "{{count}} mensajes sin leer"
+    "unread_count_other": "{{count}} mensajes sin leer",
+    "born_on": "Fecha de nacimiento: {{date}}"
   },
   "practice": {
     "title": "Practicar Mini Juegos",
@@ -319,7 +320,9 @@
     "request_timeout": "El servidor tardó demasiado en responder. Verifica tu conexión e inténtalo de nuevo.",
     "connection_lost": "Conexión perdida. Verifica tu conexión a internet e inténtalo de nuevo.",
     "invalid_user_role": "Rol de usuario inválido",
-    "invalid_patient_id": "ID de paciente no válido"
+    "invalid_patient_id": "ID de paciente no válido",
+    "access_denied_patient_exercises": "Esta página es para terapeutas. Tus ejercicios están en Práctica.",
+    "go_to_practice": "Ir a mi práctica"
   },
   "footer": {
     "tagline": "Guiando voces con cuidado y tecnología",
@@ -811,7 +814,9 @@
       "technique_at": "{{technique}} @ {{time}}",
       "field_timer_completed": "Temporizador Completado",
       "timeline_summary": "{{count}} elemento(s) en {{duration}}",
-      "timeline_summary_labeled": "{{label}}: {{count}} elemento(s) en {{duration}}"
+      "timeline_summary_labeled": "{{label}}: {{count}} elemento(s) en {{duration}}",
+      "closed_by_therapist": "Marcado como completado por tu terapeuta",
+      "closed_by_therapist_description": "No se registró práctica aquí. Tu terapeuta cerró este paso, normalmente porque lo hicisteis juntos en la sesión."
     },
     "encouragement": {
       "exercise_1": "Buena práctica.",
@@ -1013,7 +1018,8 @@
       "confirm_message": "Planes como este ayudan a sugerir un punto de partida para otros pacientes. Este no se usara, y no se puede deshacer.",
       "confirm_action": "Mantener fuera",
       "plan_actions": "Acciones del plan"
-    }
+    },
+    "step_occurrence": "Intento {{n}} de {{total}}"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

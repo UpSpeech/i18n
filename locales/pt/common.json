@@ -178,7 +178,8 @@
     "frozen_notice_patient": "Esta conversa está fechada. Podes continuar a lê-la.",
     "frozen_placeholder": "Não podes enviar mensagens numa conversa fechada",
     "unread_count_one": "{{count}} mensagem por ler",
-    "unread_count_other": "{{count}} mensagens por ler"
+    "unread_count_other": "{{count}} mensagens por ler",
+    "born_on": "Data de nascimento: {{date}}"
   },
   "practice": {
     "title": "Praticar Mini Jogos",
@@ -319,7 +320,9 @@
     "request_timeout": "O servidor demorou demasiado a responder. Verifica a tua ligação e tenta novamente.",
     "connection_lost": "Ligação perdida. Verifica a tua ligação à internet e tenta novamente.",
     "invalid_user_role": "Função de utilizador inválida",
-    "invalid_patient_id": "ID de paciente inválido"
+    "invalid_patient_id": "ID de paciente inválido",
+    "access_denied_patient_exercises": "Esta página é para terapeutas. Os teus exercícios estão em Prática.",
+    "go_to_practice": "Ir para a minha prática"
   },
   "footer": {
     "tagline": "Guiar vozes com cuidado e tecnologia",
@@ -811,7 +814,9 @@
       "technique_at": "{{technique}} @ {{time}}",
       "field_timer_completed": "Temporizador Concluído",
       "timeline_summary": "{{count}} item(ns) em {{duration}}",
-      "timeline_summary_labeled": "{{label}}: {{count}} item(ns) em {{duration}}"
+      "timeline_summary_labeled": "{{label}}: {{count}} item(ns) em {{duration}}",
+      "closed_by_therapist": "Marcado como concluído pelo teu terapeuta",
+      "closed_by_therapist_description": "Não ficou registado treino aqui. O teu terapeuta fechou este passo, normalmente porque o fizeram juntos na sessão."
     },
     "encouragement": {
       "exercise_1": "Boa prática.",
@@ -1013,7 +1018,8 @@
       "confirm_message": "Planos como este ajudam a sugerir um ponto de partida para outros pacientes. Este nao vai ser usado, e nao e possivel voltar atras.",
       "confirm_action": "Manter fora",
       "plan_actions": "Acoes do plano"
-    }
+    },
+    "step_occurrence": "Tentativa {{n}} de {{total}}"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
