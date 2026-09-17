@@ -1411,7 +1411,6 @@
   "unlock_resent": "Se esse email estiver bloqueado, um novo link de desbloqueio está a caminho.",
   "unlock_resend_subtitle": "Introduz o teu email e enviamos um novo link de desbloqueio.",
   "unlock_resend_button": "Enviar novo link de desbloqueio",
-  "recorder_error_title": "A gravação falhou",
   "recorder_error_message": "Algo interrompeu a gravação. Tenta novamente.",
   "load_earlier_messages": "Carregar mensagens anteriores",
   "journey_intro_video_open": "Abrir a introdução",

@@ -1411,7 +1411,6 @@
   "unlock_resent": "If that email is locked, a new unlock link is on its way.",
   "unlock_resend_subtitle": "Enter your email and we'll send a new unlock link.",
   "unlock_resend_button": "Send new unlock link",
-  "recorder_error_title": "Recording failed",
   "recorder_error_message": "Something interrupted the recording. Please try again.",
   "load_earlier_messages": "Load earlier messages",
   "journey_intro_video_open": "Open the introduction",
