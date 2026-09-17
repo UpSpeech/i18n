@@ -1005,6 +1005,14 @@
       "week_caption": "{{done}} of {{planned}} done this week",
       "change_days": "Change my days",
       "is_today": "today"
+    },
+    "sharing": {
+      "exclude": "Keep out of suggestions",
+      "excluded": "Kept out of suggestions",
+      "confirm_title": "Keep this plan out of suggestions?",
+      "confirm_message": "Plans like this one help suggest a starting point for other patients. This one will not be used, and it cannot be put back.",
+      "confirm_action": "Keep it out",
+      "plan_actions": "Plan actions"
     }
   },
   "questionnaire": {

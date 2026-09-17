@@ -1005,6 +1005,14 @@
       "week_caption": "{{done}} de {{planned}} feitos esta semana",
       "change_days": "Mudar os meus dias",
       "is_today": "hoje"
+    },
+    "sharing": {
+      "exclude": "Manter fora das sugestoes",
+      "excluded": "Fora das sugestoes",
+      "confirm_title": "Manter este plano fora das sugestoes?",
+      "confirm_message": "Planos como este ajudam a sugerir um ponto de partida para outros pacientes. Este nao vai ser usado, e nao e possivel voltar atras.",
+      "confirm_action": "Manter fora",
+      "plan_actions": "Acoes do plano"
     }
   },
   "questionnaire": {
