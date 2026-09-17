@@ -321,7 +321,7 @@
     "connection_lost": "Ligação perdida. Verifica a tua ligação à internet e tenta novamente.",
     "invalid_user_role": "Função de utilizador inválida",
     "invalid_patient_id": "ID de paciente inválido",
-    "access_denied_patient_exercises": "Esta página é para terapeutas. Os teus exercícios estão em {{section}}."
+    "access_denied_patient_exercises": "Esta página é para terapeutas."
   },
   "footer": {
     "tagline": "Guiar vozes com cuidado e tecnologia",

@@ -328,7 +328,7 @@
     "connection_lost": "Connection lost. Check your internet and try again.",
     "invalid_user_role": "Invalid user role",
     "invalid_patient_id": "Invalid patient ID",
-    "access_denied_patient_exercises": "This page is for therapists. Your exercises are under {{section}}."
+    "access_denied_patient_exercises": "This page is for therapists."
   },
   "footer": {
     "tagline": "Guiding voices with care and tech",
