@@ -185,7 +185,8 @@
     "frozen_notice_patient": "This conversation is closed. You can still read it.",
     "frozen_placeholder": "You can't send messages in a closed conversation",
     "unread_count_one": "{{count}} unread message",
-    "unread_count_other": "{{count}} unread messages"
+    "unread_count_other": "{{count}} unread messages",
+    "born_on": "Born {{date}}"
   },
   "practice": {
     "title": "Practice Mini-Games",
@@ -326,7 +327,8 @@
     "request_timeout": "The server took too long to respond. Check your connection and try again.",
     "connection_lost": "Connection lost. Check your internet and try again.",
     "invalid_user_role": "Invalid user role",
-    "invalid_patient_id": "Invalid patient ID"
+    "invalid_patient_id": "Invalid patient ID",
+    "access_denied_patient_exercises": "This page is for therapists."
   },
   "footer": {
     "tagline": "Guiding voices with care and tech",
@@ -811,7 +813,9 @@
       "technique_at": "{{technique}} @ {{time}}",
       "field_timer_completed": "Timer Completed",
       "timeline_summary": "{{count}} item(s) over {{duration}}",
-      "timeline_summary_labeled": "{{label}}: {{count}} item(s) over {{duration}}"
+      "timeline_summary_labeled": "{{label}}: {{count}} item(s) over {{duration}}",
+      "closed_by_therapist": "Marked complete by your therapist",
+      "closed_by_therapist_description": "No practice was recorded here. Your therapist closed this step, usually because you did it together in session."
     },
     "encouragement": {
       "exercise_1": "Nice practice.",
@@ -1013,7 +1017,8 @@
       "confirm_message": "Plans like this one help suggest a starting point for other patients. This one will not be used, and it cannot be put back.",
       "confirm_action": "Keep it out",
       "plan_actions": "Plan actions"
-    }
+    },
+    "step_occurrence": "Attempt {{n}} of {{total}}"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
@@ -1227,5 +1232,7 @@
     "assign_to_whom": "Who is this for?",
     "assign_to_whom_help": "You will land in their path, with the composer open. Every step goes into a goal.",
     "choose_patient": "Choose a patient"
-  }
+  },
+  "go_to_practice": "Go to my practice",
+  "no_data": "No data"
 }
