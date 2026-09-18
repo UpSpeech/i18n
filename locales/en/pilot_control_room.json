@@ -11,7 +11,8 @@
     "avg_sessions": "Avg Sessions",
     "avg_sessions_helper": "Per patient this week",
     "total_patients": "In Pilot",
-    "total_patients_unit": "{{count}} enrolled"
+    "total_patients_unit_one": "{{count}} enrolled",
+    "total_patients_unit_other": "{{count}} enrolled"
   },
   "immediate_risks": {
     "title": "Immediate Risks",

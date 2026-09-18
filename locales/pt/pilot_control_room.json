@@ -23,7 +23,8 @@
     "avg_sessions": "Média de Sessões",
     "avg_sessions_helper": "Por paciente esta semana",
     "total_patients": "No Piloto",
-    "total_patients_unit": "{{count}} inscritos"
+    "total_patients_unit_one": "{{count}} inscrito",
+    "total_patients_unit_other": "{{count}} inscritos"
   },
   "immediate_risks": {
     "title": "Riscos Imediatos",
