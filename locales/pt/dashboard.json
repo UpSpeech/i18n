@@ -84,13 +84,13 @@
       "sessions": "Sessões",
       "exercises": "Exercícios"
     },
-    "recent_activity": "Atividade Recente",
+    "recent_activity": "Atividade recente",
     "last_14_days": "Últimos 14 dias",
     "no_recent_activity": "Sem atividade recente",
     "no_recent_sessions": "Sem sessões de fala nos últimos 14 dias",
     "no_recent_exercises": "Sem atividade de exercícios nos últimos 14 dias",
     "no_activity_yet": "Sem atividade nos últimos 14 dias",
-    "patient_activity_overview": "Visão Geral da Atividade do Paciente",
+    "patient_activity_overview": "Atividade dos pacientes",
     "patient_activity_description": "Uma bolha por paciente. Quanto maior, mais praticou.",
     "time_filter": {
       "today": "Hoje",
@@ -200,7 +200,7 @@
     },
     "recent_users": "Utilizadores Recentes",
     "no_recent_users": "Sem utilizadores recentes",
-    "recent_activity": "Atividade Recente",
+    "recent_activity": "Atividade recente",
     "no_recent_activity": "Sem atividade recente"
   },
   "owner_dashboard": {

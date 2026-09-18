@@ -84,13 +84,13 @@
       "sessions": "Sesiones",
       "exercises": "Ejercicios"
     },
-    "recent_activity": "Actividad Reciente",
+    "recent_activity": "Actividad reciente",
     "last_14_days": "Últimos 14 días",
     "no_recent_activity": "Sin actividad reciente",
     "no_recent_sessions": "Sin sesiones de habla en los últimos 14 días",
     "no_recent_exercises": "Sin actividad de ejercicios en los últimos 14 días",
     "no_activity_yet": "Sin actividad en los últimos 14 días",
-    "patient_activity_overview": "Resumen de Actividad del Paciente",
+    "patient_activity_overview": "Actividad de los pacientes",
     "patient_activity_description": "Una burbuja por paciente. Cuanto mayor, más ha practicado.",
     "time_filter": {
       "today": "Hoy",
@@ -200,7 +200,7 @@
     },
     "recent_users": "Usuarios Recientes",
     "no_recent_users": "No hay usuarios recientes",
-    "recent_activity": "Actividad Reciente",
+    "recent_activity": "Actividad reciente",
     "no_recent_activity": "No hay actividad reciente"
   },
   "owner_dashboard": {

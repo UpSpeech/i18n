@@ -84,13 +84,13 @@
       "sessions": "Sessions",
       "exercises": "Exercises"
     },
-    "recent_activity": "Recent Activity",
+    "recent_activity": "Recent activity",
     "last_14_days": "Last 14 days",
     "no_recent_activity": "No recent activity",
     "no_recent_sessions": "No speech sessions in the last 14 days",
     "no_recent_exercises": "No exercise activity in the last 14 days",
     "no_activity_yet": "No activity in the last 14 days",
-    "patient_activity_overview": "Patient Activity Overview",
+    "patient_activity_overview": "Patient activity",
     "patient_activity_description": "One bubble per patient. The bigger it is, the more they practised.",
     "time_filter": {
       "today": "Today",
@@ -135,7 +135,7 @@
     "processed_recordings": "Processed recordings",
     "needs_attention": "Needs Attention",
     "never_active": "No activity yet",
-    "attention_queue_title": "Attention Queue",
+    "attention_queue_title": "Attention queue",
     "attention_queue_description": "Patients needing your action today, most urgent first.",
     "attention_queue_sublabel": "Need action today",
     "attention_queue_state": {
@@ -200,7 +200,7 @@
     },
     "recent_users": "Recent Users",
     "no_recent_users": "No recent users",
-    "recent_activity": "Recent Activity",
+    "recent_activity": "Recent activity",
     "no_recent_activity": "No recent activity"
   },
   "owner_dashboard": {

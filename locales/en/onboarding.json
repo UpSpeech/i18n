@@ -191,7 +191,7 @@
         "dashboard": {
           "stats_title": "Your caseload",
           "stats_content": "How many patients you have, and how much they have practised.",
-          "activity_title": "Recent Activity",
+          "activity_title": "Recent activity",
           "activity_content": "Recent recordings and activity from your patients appear here.",
           "bubble_chart_title": "Patient engagement",
           "bubble_chart_content": "One bubble per patient. The bigger it is, the more they practised.",

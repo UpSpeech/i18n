@@ -191,7 +191,7 @@
         "dashboard": {
           "stats_title": "Visión General de la Práctica",
           "stats_content": "Cuántos pacientes tienes, y cuánto han practicado.",
-          "activity_title": "Actividad Reciente",
+          "activity_title": "Actividad reciente",
           "activity_content": "Grabaciones recientes y actividad de tus pacientes aparecen aquí.",
           "bubble_chart_title": "Participación de Pacientes",
           "bubble_chart_content": "Una burbuja por paciente. Cuanto mayor, más ha practicado.",
@@ -235,7 +235,7 @@
           "actions_content": "Salta a Usuarios, Analíticas, Ajustes o Informes desde aquí.",
           "users_title": "Registros Recientes",
           "users_content": "Nuevos usuarios que se registraron recientemente en tu organización.",
-          "activity_title": "Actividad de la Plataforma",
+          "activity_title": "Actividad de la plataforma",
           "activity_content": "Actividad reciente de la plataforma, incluyendo grabaciones fallidas que necesitan atención.",
           "workload_title": "Carga de Trabajo de Terapeutas",
           "workload_content": "Ve cómo se distribuyen los pacientes entre tus terapeutas."
