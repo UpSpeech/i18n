@@ -2,7 +2,7 @@
   "video_coming_soon": "Em breve...",
   "play_video": "Reproduzir Vídeo",
   "video_unavailable": "Vídeo indisponível",
-  "subtitle": "Vídeos curtos, e respostas ao que mais nos perguntam.",
+  "subtitle": "Seis vídeos. Depois, as perguntas que as pessoas fazem.",
   "quick_navigation": "Navegação rápida",
   "search_placeholder": "Procurar ajuda...",
   "video_library": "Biblioteca de vídeos",
@@ -19,15 +19,15 @@
   },
   "faq_categories": {
     "getting_started": "Começar",
-    "learning_paths": "Percursos de Aprendizagem",
-    "exercise_system": "Sistema de Exercícios",
-    "ai_scenarios": "Cenários de Prática com IA",
-    "reports": "Relatórios e Documentação",
-    "annotations": "Anotações de Gravações",
-    "patient_linking": "Conexão Paciente-Terapeuta",
-    "progress": "Progresso e Acompanhamento",
-    "settings": "Definições e Conta",
-    "technical": "Técnico e Multimédia",
+    "learning_paths": "Percursos de aprendizagem",
+    "exercise_system": "Exercícios",
+    "ai_scenarios": "Cenários com IA",
+    "reports": "Relatórios",
+    "annotations": "Anotações",
+    "patient_linking": "Ligação paciente-terapeuta",
+    "progress": "Progresso",
+    "settings": "Definições e conta",
+    "technical": "Áudio e vídeo",
     "support": "Suporte"
   },
   "videos": {
@@ -232,7 +232,7 @@
   },
   "documentation": {
     "title": "Documentação",
-    "description": "Os guias escritos, com mais detalhe do que os vídeos",
+    "description": "Os guias escritos, com mais detalhe do que os vídeos.",
     "button": "Ler os guias"
   },
   "support": {

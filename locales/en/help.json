@@ -2,7 +2,7 @@
   "video_coming_soon": "Video coming soon",
   "play_video": "Play Video",
   "video_unavailable": "Video unavailable",
-  "subtitle": "Short videos, and answers to what people ask most.",
+  "subtitle": "Six videos. Then the questions people actually ask.",
   "quick_navigation": "Quick navigation",
   "search_placeholder": "Search for help...",
   "video_library": "Video library",
@@ -18,16 +18,16 @@
     "admin": "For Admins"
   },
   "faq_categories": {
-    "getting_started": "Getting Started",
-    "learning_paths": "Learning Paths",
-    "exercise_system": "Exercise System",
-    "ai_scenarios": "AI Practice Scenarios",
-    "reports": "Reports & Documentation",
-    "annotations": "Recording Annotations",
-    "patient_linking": "Patient-Therapist Connection",
-    "progress": "Progress & Tracking",
-    "settings": "Settings & Account",
-    "technical": "Technical & Media",
+    "getting_started": "Getting started",
+    "learning_paths": "Learning paths",
+    "exercise_system": "Exercises",
+    "ai_scenarios": "AI scenarios",
+    "reports": "Reports",
+    "annotations": "Annotations",
+    "patient_linking": "Patient and therapist",
+    "progress": "Progress",
+    "settings": "Settings and account",
+    "technical": "Audio and video",
     "support": "Support"
   },
   "videos": {
@@ -232,7 +232,7 @@
   },
   "documentation": {
     "title": "Documentation",
-    "description": "The written guides, in more depth than the videos",
+    "description": "The written guides, in more depth than the videos.",
     "button": "Read the guides"
   },
   "support": {

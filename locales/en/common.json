@@ -213,7 +213,7 @@
     "scenarios_title": "Scenarios"
   },
   "settings": {
-    "manage_account_info": "Your details, and the character you meet around the app.",
+    "manage_account_info": "Everything here is yours to change except your role.",
     "account_information": "Account Information",
     "change_password": "Change Password",
     "update_password": "Update Password",
@@ -339,7 +339,7 @@
     "cookie_policy": "Cookie Policy",
     "linkedin": "LinkedIn",
     "contact": "Contact us",
-    "copyright": "© 2025 UpSpeech. All rights reserved.",
+    "copyright": "© {{year}} UpSpeech. All rights reserved.",
     "supported_by": "Supported by"
   },
   "chatbot": {

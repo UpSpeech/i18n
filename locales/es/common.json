@@ -206,7 +206,7 @@
     "scenarios_title": "Escenarios"
   },
   "settings": {
-    "manage_account_info": "Tus datos, y el personaje que encuentras por la aplicación.",
+    "manage_account_info": "Puedes cambiar todo lo que está aquí, menos tu rol.",
     "account_information": "Información de Cuenta",
     "change_password": "Cambiar Contraseña",
     "update_password": "Actualizar Contraseña",
@@ -332,7 +332,7 @@
     "cookie_policy": "Política de Cookies",
     "linkedin": "LinkedIn",
     "contact": "Contáctanos",
-    "copyright": "© 2025 UpSpeech. Todos los derechos reservados.",
+    "copyright": "© {{year}} UpSpeech. Todos los derechos reservados.",
     "supported_by": "Apoyado por"
   },
   "chatbot": {

@@ -189,7 +189,7 @@
       },
       "therapist": {
         "dashboard": {
-          "stats_title": "Your caseload",
+          "stats_title": "Patients and practice",
           "stats_content": "How many patients you have, and how much they have practised.",
           "activity_title": "Recent activity",
           "activity_content": "Recent recordings and activity from your patients appear here.",
