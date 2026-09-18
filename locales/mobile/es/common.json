@@ -1652,6 +1652,7 @@
   "judgment_note_label": "Nota para el terapeuta",
   "judgment_note_placeholder": "¿Algo que el terapeuta deba saber?",
   "judgment_submit": "Enviar",
+  "judgment_pick_first": "Elige una respuesta para enviar.",
   "judgment_save_failed": "No se envió. Inténtalo otra vez en un momento.",
   "today_change_days": "Cambiar mis días",
   "practice_day_today": "hoy",
