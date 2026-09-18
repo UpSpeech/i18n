@@ -1035,7 +1035,7 @@
       "exclude": "Mantener fuera de las sugerencias",
       "excluded": "Fuera de las sugerencias",
       "confirm_title": "¿Mantener este plan fuera de las sugerencias?",
-      "confirm_message": "Planes como este ayudan a sugerir un punto de partida para otros pacientes. Este no se usara, y no se puede deshacer.",
+      "confirm_message": "Planes como este ayudan a sugerir un punto de partida para otros pacientes. Este no se usará, y no se puede deshacer.",
       "confirm_action": "Mantener fuera",
       "plan_actions": "Acciones del plan"
     },
