@@ -88,7 +88,7 @@
     "tenant_created": "Organização criada com sucesso",
     "tenant_updated": "Organização atualizada com sucesso",
     "no_tenants": "Nenhuma organização encontrada",
-    "no_tenants_description": "Começa por criar a tua primeira organização para começar a gerir inquilinos.",
+    "no_tenants_description": "Cria a tua primeira organização para começares a gerir o sistema.",
     "entity_tenant": "Organização"
   }
 }

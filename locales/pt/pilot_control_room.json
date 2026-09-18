@@ -1,5 +1,5 @@
 {
-  "title": "Sala de Controlo Piloto",
+  "title": "Programa-piloto",
   "subtitle": "Painel operacional para monitorizar o envolvimento do piloto",
   "select_tenant": "Seleciona uma clínica para ver os dados do piloto",
   "no_pilot_patients": "Nenhum paciente está marcado como 'no piloto' para esta clínica. Usa a secção de inscrição abaixo para adicionar participantes.",
@@ -444,7 +444,7 @@
     "col_responders": "Melhora / igual / piora",
     "duration_one": "{{count}} sem",
     "duration_other": "{{count}} sem",
-    "empty_subtitle": "Quando terminar um piloto, os seus resultados congelados são arquivados aqui.",
+    "empty_subtitle": "Quando terminares um piloto, os resultados congelados ficam arquivados aqui.",
     "empty_title": "Ainda não há pilotos anteriores",
     "headline_adherence": "{{pct}}% adesão",
     "headline_cbsa": "CBSA {{change}}",

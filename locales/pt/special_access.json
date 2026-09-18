@@ -1,6 +1,6 @@
 {
   "page_title": "Acessos Especiais",
-  "page_subtitle": "Conceder permissões adicionais a terapeutas individuais para além do seu perfil padrão.",
+  "page_subtitle": "Conceder permissões adicionais a terapeutas individuais para além do perfil padrão.",
   "permissions": {
     "control_room_access": {
       "title": "Acesso à Revisão de Gravações",

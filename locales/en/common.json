@@ -1236,5 +1236,9 @@
     "choose_patient": "Choose a patient"
   },
   "go_to_practice": "Go to my practice",
-  "no_data": "No data"
+  "no_data": "No data",
+  "theme": {
+    "switch_to_dark": "Switch to dark mode",
+    "switch_to_light": "Switch to light mode"
+  }
 }

@@ -8,8 +8,8 @@
   "reports_subtitle": "Os mais recentes primeiro.",
   "users_subtitle": "Gerir utilizadores do sistema e permissões",
   "analytics_subtitle": "Ver análise e informações de todo o sistema",
-  "patients_subtitle_therapist": "Gere os teus pacientes atribuídos e acompanha o seu progresso",
-  "patients_subtitle_admin": "Gere todos os pacientes da tua organização e acompanha o seu progresso",
+  "patients_subtitle_therapist": "Gere os teus pacientes atribuídos e acompanha o progresso deles",
+  "patients_subtitle_admin": "Gere todos os pacientes da tua organização e acompanha o progresso deles",
   "tenant_subtitle": "Configura as definições da tua organização",
   "tenants_subtitle": "Gere todas as organizações do sistema",
   "client": {
@@ -205,7 +205,7 @@
   },
   "owner_dashboard": {
     "title": "Painel do Proprietário - Sistema Global",
-    "subtitle": "Monitorizar todos os inquilinos, utilizadores e atividade do sistema UpSpeech.",
+    "subtitle": "Monitoriza todas as organizações, os utilizadores e a atividade do sistema.",
     "status": {
       "healthy": "Saudável",
       "warning": "Aviso",
@@ -223,7 +223,7 @@
       "manage_tenants_description": "Todas as organizações",
       "all_users": "Todos os Utilizadores",
       "all_users_description": "Multi-organização",
-      "global_analytics": "Analytics Globais",
+      "global_analytics": "Análise global",
       "global_analytics_description": "Métricas completas",
       "all_reports": "Todos os relatórios",
       "all_reports_description": "Sistema completo"
@@ -232,7 +232,7 @@
     "tenant_activity_description": "Métricas detalhadas por organização aparecerão aqui.",
     "system_monitoring": "Monitorização do Sistema",
     "system_monitoring_description": "Estado dos serviços e métricas de performance.",
-    "view_detailed_analytics": "Ver Analytics Detalhadas",
+    "view_detailed_analytics": "Ver análise detalhada",
     "processing_queue": "Fila de Processamento",
     "storage_usage": "Uso de Armazenamento",
     "no_tenant_activity": "Sem atividade de organizações",
