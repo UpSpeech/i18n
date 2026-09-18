@@ -10,7 +10,9 @@
     "at_risk_helper": "Zero sessions this week",
     "avg_sessions": "Avg Sessions",
     "avg_sessions_helper": "Per patient this week",
-    "total_patients": "In Pilot"
+    "total_patients": "In Pilot",
+    "total_patients_unit_one": "{{count}} enrolled",
+    "total_patients_unit_other": "{{count}} enrolled"
   },
   "immediate_risks": {
     "title": "Immediate Risks",
@@ -91,7 +93,10 @@
     "control": "Control",
     "control_group_confirm_title": "Move to control group?",
     "control_group_confirm_message": "{{name}} will lose access to all app features. They will only see a study enrolment screen after completing their speech assessment.",
-    "control_group_confirm_button": "Move to control group"
+    "control_group_confirm_button": "Move to control group",
+    "group_aria": "Pilot group for {{name}}",
+    "control_toggle_aria": "Toggle control group for {{name}}",
+    "pilot_toggle_aria": "Toggle pilot status for {{name}}"
   },
   "feature_flags": {
     "title": "Feature Flags",

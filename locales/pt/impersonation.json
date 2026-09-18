@@ -13,7 +13,7 @@
     "read_only_label": "Modo apenas leitura",
     "read_only_description": "Pode navegar mas não pode fazer alterações",
     "read_write_description": "As alterações serão guardadas permanentemente",
-    "read_write_warning": "As alterações feitas no modo leitura e escrita serão permanentes e não podem ser revertidas. Use com cuidado.",
+    "read_write_warning": "As alterações feitas no modo leitura e escrita serão permanentes e não podem ser revertidas. Usa com cuidado.",
     "confirm": "Iniciar Personificação",
     "starting": "A iniciar...",
     "cancel": "Cancelar"

@@ -152,7 +152,7 @@
     "clear": "Limpar",
     "drawing_hint": "Desenhe no fotograma de vídeo em pausa",
     "set_hint": "Região definida",
-    "idle_hint": "Escolha uma ferramenta para marcar um ponto no vídeo",
+    "idle_hint": "Escolhe uma ferramenta para marcar um ponto no vídeo",
     "has_region": "Tem uma região no vídeo",
     "auto_detect": "Deteção automática",
     "detecting": "A detetar...",

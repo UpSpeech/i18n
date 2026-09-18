@@ -73,7 +73,7 @@
     },
     "learning_paths": {
       "title": "Gerir percursos de aprendizagem",
-      "description": "Ver percursos, ver pacientes atribuídos e o seu progresso"
+      "description": "Ver percursos, ver pacientes atribuídos e o progresso deles"
     },
     "user_management": {
       "title": "Gerir utilizadores",

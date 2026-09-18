@@ -129,7 +129,7 @@
     "feature_flags": "Funcionalidades",
     "feedback": "Gestão de Feedback",
     "pilot_accounts": "Contas Piloto",
-    "pilot_control_room": "Sala de Controlo Piloto",
+    "pilot_control_room": "Programa-piloto",
     "account_settings": "Definições da Conta",
     "help": "Ajuda",
     "practice": "Prática",
@@ -1111,7 +1111,7 @@
   },
   "not_found": {
     "title": "Página não encontrada",
-    "description": "A página que procura não existe ou pode ter sido movida.",
+    "description": "A página que procuras não existe ou pode ter sido movida.",
     "back_to_dashboard": "Voltar ao painel"
   },
   "update_banner": {
@@ -1236,5 +1236,9 @@
     "choose_patient": "Escolher um paciente"
   },
   "go_to_practice": "Ir para a minha prática",
-  "no_data": "Sem dados"
+  "no_data": "Sem dados",
+  "theme": {
+    "switch_to_dark": "Mudar para o modo escuro",
+    "switch_to_light": "Mudar para o modo claro"
+  }
 }
