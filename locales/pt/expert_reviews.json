@@ -14,13 +14,13 @@
     "completed_all": "revistas por alguém"
   },
   "filters": {
-    "all_statuses": "Todos os Estados",
+    "all_statuses": "Todos os estados",
     "unreviewed": "Por rever",
     "in_progress": "Em curso",
     "completed": "Concluída",
     "skipped": "Ignorada",
     "pending": "Pendente",
-    "all_types": "Todos os Tipos",
+    "all_types": "Todos os tipos",
     "audio_only": "Apenas Áudio",
     "video_and_audio": "Vídeo e Áudio",
     "search_placeholder": "Pesquisar paciente ou gravação...",

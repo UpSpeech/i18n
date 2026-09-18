@@ -14,13 +14,13 @@
     "completed_all": "reviewed by anyone"
   },
   "filters": {
-    "all_statuses": "All Statuses",
+    "all_statuses": "All statuses",
     "unreviewed": "Unreviewed",
     "in_progress": "In Progress",
     "completed": "Completed",
     "skipped": "Skipped",
     "pending": "Pending",
-    "all_types": "All Types",
+    "all_types": "All types",
     "audio_only": "Audio Only",
     "video_and_audio": "Video & Audio",
     "search_placeholder": "Search patient or recording...",

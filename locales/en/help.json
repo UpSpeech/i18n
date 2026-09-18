@@ -2,17 +2,17 @@
   "video_coming_soon": "Video coming soon",
   "play_video": "Play Video",
   "video_unavailable": "Video unavailable",
-  "subtitle": "Six videos. Then the questions people actually ask.",
+  "subtitle": "The questions people ask most, and six videos under them.",
   "quick_navigation": "Quick navigation",
   "search_placeholder": "Search for help...",
   "video_library": "Video library",
-  "faq_title": "Frequently Asked Questions",
+  "faq_title": "Questions",
   "no_results": "No results found. Try a different search term.",
   "show_more_videos": "Show More Videos",
   "show_less": "Show Less",
   "more": "more",
   "categories": {
-    "all": "All Videos",
+    "all": "All videos",
     "patient": "For Patients",
     "therapist": "For Therapists",
     "admin": "For Admins"
@@ -32,63 +32,63 @@
   },
   "videos": {
     "account_settings": {
-      "title": "Account Settings & Preferences",
+      "title": "Account settings and preferences",
       "description": "What you can change about your account, and where"
     },
     "my_journey": {
-      "title": "Your Therapy Journey",
+      "title": "Your therapy journey",
       "description": "How your path is laid out, and how to open a step"
     },
     "complete_exercise": {
-      "title": "How to Complete an Exercise",
+      "title": "Completing an exercise",
       "description": "What a daily exercise looks like before you press record"
     },
     "practice_scenarios": {
-      "title": "Practising with AI Scenarios",
+      "title": "Practising with AI scenarios",
       "description": "What a scenario session feels like from the first line"
     },
     "review_history": {
-      "title": "Reviewing Your Practice History",
+      "title": "Reviewing your practice history",
       "description": "Where your past practice lives, and what your therapist wrote on it"
     },
     "manage_patients": {
-      "title": "Managing Your Patients",
+      "title": "Managing your patients",
       "description": "Getting from the caseload to one patient's progress"
     },
     "generate_report": {
-      "title": "Generating an AI Report",
+      "title": "Generating an AI report",
       "description": "Upload a recording and generate an AI-powered therapy report"
     },
     "edit_report": {
-      "title": "Editing a Report",
+      "title": "Editing a report",
       "description": "Changing a report's wording before you sign it"
     },
     "assign_exercise": {
-      "title": "Assigning an Exercise",
+      "title": "Assigning an exercise",
       "description": "Browse the exercise library and assign a game to a patient"
     },
     "review_submission": {
-      "title": "Reviewing a Patient Submission",
+      "title": "Reviewing a patient submission",
       "description": "Watching a recording and reading its annotations"
     },
     "learning_paths": {
-      "title": "Managing Learning Paths",
+      "title": "Managing learning paths",
       "description": "View learning paths, see assigned patients and their progress"
     },
     "user_management": {
-      "title": "Managing Users",
+      "title": "Managing users",
       "description": "Inviting someone, and setting what they can do"
     },
     "tenant_settings": {
-      "title": "Organisation Settings",
+      "title": "Organisation settings",
       "description": "The branding and the language your clinic uses"
     },
     "analytics": {
-      "title": "Understanding Analytics",
+      "title": "Understanding analytics",
       "description": "Reading the charts, and changing the window they cover"
     },
     "control_room": {
-      "title": "Recording Review Control Room",
+      "title": "The recording review control room",
       "description": "Review recordings and view the annotation workstation"
     },
     "welcome_patient": {
@@ -238,6 +238,6 @@
   "support": {
     "title": "Contact support",
     "description": "Email us and a person will reply.",
-    "button": "Email Support"
+    "button": "Email support"
   }
 }

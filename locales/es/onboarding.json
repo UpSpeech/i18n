@@ -211,7 +211,7 @@
         "report": {
           "recording_title": "Grabación de Sesión",
           "recording_content": "Sube o selecciona una grabación de una sesión terapéutica.",
-          "generate_title": "Generar Informe",
+          "generate_title": "Generar un informe",
           "generate_content": "La IA redactará el informe clínico para que lo revises y edites."
         },
         "assign": {

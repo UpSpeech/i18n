@@ -20,7 +20,7 @@
   },
   "filters": {
     "difficulty": "Dificuldade",
-    "all_techniques": "Todas as Técnicas",
+    "all_techniques": "Todas as técnicas",
     "technique": "Técnica"
   },
   "categories": {
@@ -258,7 +258,7 @@
       "very_hard": "Muito Difícil",
       "search": "Pesquisar",
       "search_placeholder": "Pesquisar mini jogos...",
-      "all_techniques": "Todas as Técnicas",
+      "all_techniques": "Todas as técnicas",
       "technique": "Técnica"
     },
     "difficulty": {

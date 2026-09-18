@@ -2,17 +2,17 @@
   "video_coming_soon": "Próximamente",
   "play_video": "Reproducir Vídeo",
   "video_unavailable": "Vídeo no disponible",
-  "subtitle": "Seis vídeos. Después, las preguntas que la gente hace.",
+  "subtitle": "Las preguntas que más nos hacen, y seis vídeos debajo de ellas.",
   "quick_navigation": "Navegación rápida",
   "search_placeholder": "Buscar ayuda...",
   "video_library": "Biblioteca de vídeos",
-  "faq_title": "Preguntas Frecuentes",
+  "faq_title": "Preguntas",
   "no_results": "No se encontraron resultados. Intenta con otro término de búsqueda.",
   "show_more_videos": "Mostrar Más Vídeos",
   "show_less": "Mostrar Menos",
   "more": "más",
   "categories": {
-    "all": "Todos los Vídeos",
+    "all": "Todos los vídeos",
     "patient": "Para Pacientes",
     "therapist": "Para Terapeutas",
     "admin": "Para Administradores"
@@ -32,63 +32,63 @@
   },
   "videos": {
     "account_settings": {
-      "title": "Configuración de Cuenta y Preferencias",
+      "title": "Configuración de cuenta y preferencias",
       "description": "Lo que puedes cambiar en tu cuenta, y dónde"
     },
     "my_journey": {
-      "title": "Tu Jornada Terapéutica",
+      "title": "Tu jornada terapéutica",
       "description": "Cómo está montada tu ruta, y cómo abrir un paso"
     },
     "complete_exercise": {
-      "title": "Cómo Completar un Ejercicio",
+      "title": "Cómo completar un ejercicio",
       "description": "Lo que ves en un ejercicio diario antes de grabar"
     },
     "practice_scenarios": {
-      "title": "Practicar con Escenarios IA",
+      "title": "Practicar con escenarios IA",
       "description": "Cómo es una sesión de escenario desde la primera frase"
     },
     "review_history": {
-      "title": "Revisar tu Historial de Práctica",
+      "title": "Revisar tu historial de práctica",
       "description": "Dónde vive tu práctica pasada, y lo que tu terapeuta escribió en ella"
     },
     "manage_patients": {
-      "title": "Gestión de tus Pacientes",
+      "title": "Gestión de tus pacientes",
       "description": "De la lista de pacientes al progreso de uno de ellos"
     },
     "generate_report": {
-      "title": "Generar un Informe con IA",
+      "title": "Generar un informe con IA",
       "description": "Subir grabación y generar informe terapéutico con IA"
     },
     "edit_report": {
-      "title": "Editar un Informe",
+      "title": "Editar un informe",
       "description": "Cambiar las palabras de un informe antes de firmarlo"
     },
     "assign_exercise": {
-      "title": "Asignar un Ejercicio",
+      "title": "Asignar un ejercicio",
       "description": "Explorar biblioteca de ejercicios y asignar un juego a un paciente"
     },
     "review_submission": {
-      "title": "Revisar un Envío de Paciente",
+      "title": "Revisar un envío de paciente",
       "description": "Ver una grabación y leer sus anotaciones"
     },
     "learning_paths": {
-      "title": "Gestionar Rutas de Aprendizaje",
+      "title": "Gestionar rutas de aprendizaje",
       "description": "Ver rutas, ver pacientes asignados y su progreso"
     },
     "user_management": {
-      "title": "Gestionar Usuarios",
+      "title": "Gestionar usuarios",
       "description": "Invitar a alguien, y definir lo que puede hacer"
     },
     "tenant_settings": {
-      "title": "Configuración de la Organización",
+      "title": "Configuración de la organización",
       "description": "La marca y el idioma que usa tu clínica"
     },
     "analytics": {
-      "title": "Comprender Análisis",
+      "title": "Comprender análisis",
       "description": "Leer los gráficos, y cambiar el período que cubren"
     },
     "control_room": {
-      "title": "Sala de Revisión de Grabaciones",
+      "title": "Sala de revisión de grabaciones",
       "description": "Revisar grabaciones y ver la estación de anotaciones"
     },
     "welcome_patient": {
@@ -238,6 +238,6 @@
   "support": {
     "title": "Contactar soporte",
     "description": "Escríbenos y una persona responde.",
-    "button": "Enviar Correo a Soporte"
+    "button": "Enviar correo a soporte"
   }
 }

@@ -20,7 +20,7 @@
   },
   "filters": {
     "difficulty": "Difficulty",
-    "all_techniques": "All Techniques",
+    "all_techniques": "All techniques",
     "technique": "Technique"
   },
   "categories": {
@@ -231,7 +231,7 @@
       "very_hard": "Very Hard",
       "search": "Search",
       "search_placeholder": "Search mini games...",
-      "all_techniques": "All Techniques",
+      "all_techniques": "All techniques",
       "technique": "Technique"
     },
     "difficulty": {
@@ -247,7 +247,7 @@
       "edit": "Edit",
       "delete": "Delete",
       "cancel": "Cancel",
-      "practice": "Practice"
+      "practice": "Practise"
     },
     "form": {
       "difficulty_1": "1 - Very Easy",

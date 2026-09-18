@@ -5,7 +5,7 @@
   "overview_admin": "Your organisation's users, patients and activity.",
   "overview_owner": "Every organisation, and the activity across the platform.",
   "upload_subtitle": "Record a new audio file for analysis",
-  "reports_subtitle": "View and manage speech analysis reports",
+  "reports_subtitle": "Newest first.",
   "users_subtitle": "Manage system users and permissions",
   "analytics_subtitle": "View system-wide analytics and insights",
   "patients_subtitle_therapist": "Manage your assigned patients and track their progress",
@@ -225,7 +225,7 @@
       "all_users_description": "Cross-tenant",
       "global_analytics": "Global Analytics",
       "global_analytics_description": "Complete metrics",
-      "all_reports": "All Reports",
+      "all_reports": "All reports",
       "all_reports_description": "Complete system"
     },
     "tenant_activity": "Activity by Tenant",

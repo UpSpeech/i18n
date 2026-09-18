@@ -211,7 +211,7 @@
         "report": {
           "recording_title": "Session Recording",
           "recording_content": "Upload or select a recording from a therapy session.",
-          "generate_title": "Generate Report",
+          "generate_title": "Generate a report",
           "generate_content": "AI will draft the clinical report for you to review and edit."
         },
         "assign": {

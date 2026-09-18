@@ -2,17 +2,17 @@
   "video_coming_soon": "Em breve...",
   "play_video": "Reproduzir Vídeo",
   "video_unavailable": "Vídeo indisponível",
-  "subtitle": "Seis vídeos. Depois, as perguntas que as pessoas fazem.",
+  "subtitle": "As perguntas que mais nos fazem, e seis vídeos por baixo delas.",
   "quick_navigation": "Navegação rápida",
   "search_placeholder": "Procurar ajuda...",
   "video_library": "Biblioteca de vídeos",
-  "faq_title": "Perguntas Frequentes",
+  "faq_title": "Perguntas",
   "no_results": "Nenhum resultado encontrado. Tenta um termo de pesquisa diferente.",
   "show_more_videos": "Mostrar Mais Vídeos",
   "show_less": "Mostrar Menos",
   "more": "mais",
   "categories": {
-    "all": "Todos os Vídeos",
+    "all": "Todos os vídeos",
     "patient": "Para Pacientes",
     "therapist": "Para Terapeutas",
     "admin": "Para Administradores"
@@ -32,63 +32,63 @@
   },
   "videos": {
     "account_settings": {
-      "title": "Definições de Conta e Preferências",
+      "title": "Definições de conta e preferências",
       "description": "O que podes mudar na tua conta, e onde"
     },
     "my_journey": {
-      "title": "A Tua Jornada Terapêutica",
+      "title": "A tua jornada terapêutica",
       "description": "Como o teu percurso está montado, e como abrir um passo"
     },
     "complete_exercise": {
-      "title": "Como Completar um Exercício",
+      "title": "Como completar um exercício",
       "description": "O que vês num exercício diário antes de gravares"
     },
     "practice_scenarios": {
-      "title": "Praticar com Cenários IA",
+      "title": "Praticar com cenários IA",
       "description": "Como é uma sessão de cenário desde a primeira frase"
     },
     "review_history": {
-      "title": "Rever o Teu Histórico de Prática",
+      "title": "Rever o teu histórico de prática",
       "description": "Onde fica a tua prática passada, e o que o teu terapeuta escreveu nela"
     },
     "manage_patients": {
-      "title": "Gerir os Teus Pacientes",
+      "title": "Gerir os teus pacientes",
       "description": "Da lista de pacientes ao progresso de um deles"
     },
     "generate_report": {
-      "title": "Gerar um Relatório com IA",
+      "title": "Gerar um relatório com IA",
       "description": "Carregar gravação e gerar relatório terapêutico com IA"
     },
     "edit_report": {
-      "title": "Editar um Relatório",
+      "title": "Editar um relatório",
       "description": "Mudar as palavras de um relatório antes de o assinares"
     },
     "assign_exercise": {
-      "title": "Atribuir um Exercício",
+      "title": "Atribuir um exercício",
       "description": "Explorar biblioteca de exercícios e atribuir um jogo a um paciente"
     },
     "review_submission": {
-      "title": "Rever uma Submissão de Paciente",
+      "title": "Rever uma submissão de paciente",
       "description": "Ver uma gravação e ler as suas anotações"
     },
     "learning_paths": {
-      "title": "Gerir Percursos de Aprendizagem",
+      "title": "Gerir percursos de aprendizagem",
       "description": "Ver percursos, ver pacientes atribuídos e o seu progresso"
     },
     "user_management": {
-      "title": "Gerir Utilizadores",
+      "title": "Gerir utilizadores",
       "description": "Convidar alguém, e definir o que pode fazer"
     },
     "tenant_settings": {
-      "title": "Definições da Organização",
+      "title": "Definições da organização",
       "description": "A marca e o idioma que a tua clínica usa"
     },
     "analytics": {
-      "title": "Compreender Análises",
+      "title": "Compreender análises",
       "description": "Ler os gráficos, e mudar o período que cobrem"
     },
     "control_room": {
-      "title": "Sala de Revisão de Gravações",
+      "title": "Sala de revisão de gravações",
       "description": "Rever gravações e ver a estação de anotações"
     },
     "welcome_patient": {
@@ -238,6 +238,6 @@
   "support": {
     "title": "Contactar suporte",
     "description": "Escreve-nos e uma pessoa responde.",
-    "button": "Enviar Email para Suporte"
+    "button": "Enviar email ao suporte"
   }
 }

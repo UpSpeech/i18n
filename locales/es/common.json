@@ -75,8 +75,8 @@
   "hide_filters": "Ocultar Filtros",
   "show_filters": "Mostrar Filtros",
   "all_roles": "Todos los Roles",
-  "all_statuses": "Todos los Estados",
-  "all_types": "Todos los Tipos",
+  "all_statuses": "Todos los estados",
+  "all_types": "Todos los tipos",
   "all_patients": "Todos los Pacientes",
   "date_from": "Fecha de Inicio",
   "date_to": "Fecha de Fin",
@@ -171,7 +171,7 @@
     "empty_patient": "Esta conversación siempre está abierta",
     "empty_patient_description": "Lo que escribas aquí llega a tu terapeuta. No hay nada incorrecto que puedas enviar.",
     "empty_therapist_conversation": "Aún no hay mensajes. Envía el primer mensaje.",
-    "empty_therapist_no_selection": "Selecciona un paciente para empezar a conversar",
+    "empty_therapist_no_selection": "Aún no hay nada abierto.",
     "no_patients": "Aún no tienes pacientes",
     "empty_admin": "Los mensajes son para terapeutas y pacientes",
     "empty_admin_description": "Los mensajes directos conectan a los pacientes con su terapeuta asignado.",
@@ -184,7 +184,7 @@
     "born_on": "Fecha de nacimiento: {{date}}"
   },
   "practice": {
-    "title": "Practicar Mini Juegos",
+    "title": "Practicar mini juegos",
     "subtitle": "Navega y practica mini juegos de forma independiente.",
     "search_placeholder": "Buscar mini juegos...",
     "no_history": "Aún no has completado sesiones de práctica.",
@@ -206,8 +206,8 @@
     "scenarios_title": "Escenarios"
   },
   "settings": {
-    "manage_account_info": "Puedes cambiar todo lo que está aquí, menos tu rol.",
-    "account_information": "Información de Cuenta",
+    "manage_account_info": "Tu correo, tu nombre y tu compañero.",
+    "account_information": "Información de cuenta",
     "change_password": "Cambiar Contraseña",
     "update_password": "Actualizar Contraseña",
     "role": "Rol",

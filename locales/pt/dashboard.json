@@ -5,7 +5,7 @@
   "overview_admin": "Os utilizadores, pacientes e a atividade da tua organização.",
   "overview_owner": "Todas as organizações, e a atividade em toda a plataforma.",
   "upload_subtitle": "Grava um novo ficheiro de áudio para análise",
-  "reports_subtitle": "Ver e gerir todos os relatórios",
+  "reports_subtitle": "Os mais recentes primeiro.",
   "users_subtitle": "Gerir utilizadores do sistema e permissões",
   "analytics_subtitle": "Ver análise e informações de todo o sistema",
   "patients_subtitle_therapist": "Gere os teus pacientes atribuídos e acompanha o seu progresso",
@@ -225,7 +225,7 @@
       "all_users_description": "Multi-organização",
       "global_analytics": "Analytics Globais",
       "global_analytics_description": "Métricas completas",
-      "all_reports": "Todos os Relatórios",
+      "all_reports": "Todos os relatórios",
       "all_reports_description": "Sistema completo"
     },
     "tenant_activity": "Atividade por Organização",

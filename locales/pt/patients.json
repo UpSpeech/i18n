@@ -78,9 +78,9 @@
   "filters": {
     "search_placeholder": "Pesquisar por nome ou email...",
     "patient_type": "Tipo de Paciente",
-    "all_types": "Todos os Tipos",
+    "all_types": "Todos os tipos",
     "status": "Estado",
-    "all_statuses": "Todos os Estados",
+    "all_statuses": "Todos os estados",
     "active": "Ativo",
     "inactive": "Inativo",
     "pending": "Pendente",

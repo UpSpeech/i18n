@@ -82,8 +82,8 @@
   "hide_filters": "Hide Filters",
   "show_filters": "Show Filters",
   "all_roles": "All Roles",
-  "all_statuses": "All Statuses",
-  "all_types": "All Types",
+  "all_statuses": "All statuses",
+  "all_types": "All types",
   "all_patients": "All Patients",
   "date_from": "From Date",
   "date_to": "To Date",
@@ -178,7 +178,7 @@
     "empty_patient": "This thread stays open",
     "empty_patient_description": "Whatever you write here reaches your therapist. There is no wrong thing to send.",
     "empty_therapist_conversation": "No messages yet. Send the first message.",
-    "empty_therapist_no_selection": "Select a patient to start messaging",
+    "empty_therapist_no_selection": "Nothing is open yet.",
     "no_patients": "No patients yet",
     "empty_admin": "Messaging is for therapists and patients",
     "empty_admin_description": "Direct messages connect patients with their assigned therapist.",
@@ -191,7 +191,7 @@
     "born_on": "Born {{date}}"
   },
   "practice": {
-    "title": "Practice Mini-Games",
+    "title": "Practice mini-games",
     "subtitle": "Practise on your own, whenever you like. None of this is assigned.",
     "search_placeholder": "Search mini-games...",
     "no_history": "You haven't completed any practice sessions yet.",
@@ -213,8 +213,8 @@
     "scenarios_title": "Scenarios"
   },
   "settings": {
-    "manage_account_info": "Everything here is yours to change except your role.",
-    "account_information": "Account Information",
+    "manage_account_info": "Your email, your name and your companion.",
+    "account_information": "Account information",
     "change_password": "Change Password",
     "update_password": "Update Password",
     "role": "Role",

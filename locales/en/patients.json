@@ -81,9 +81,9 @@
   "filters": {
     "search_placeholder": "Search by name or email...",
     "patient_type": "Patient Type",
-    "all_types": "All Types",
+    "all_types": "All types",
     "status": "Status",
-    "all_statuses": "All Statuses",
+    "all_statuses": "All statuses",
     "active": "Active",
     "inactive": "Inactive",
     "pending": "Pending",
