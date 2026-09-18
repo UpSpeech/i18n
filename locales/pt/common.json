@@ -1032,12 +1032,12 @@
       "is_today": "hoje"
     },
     "sharing": {
-      "exclude": "Manter fora das sugestoes",
-      "excluded": "Fora das sugestoes",
-      "confirm_title": "Manter este plano fora das sugestoes?",
-      "confirm_message": "Planos como este ajudam a sugerir um ponto de partida para outros pacientes. Este nao vai ser usado, e nao e possivel voltar atras.",
+      "exclude": "Manter fora das sugestões",
+      "excluded": "Fora das sugestões",
+      "confirm_title": "Manter este plano fora das sugestões?",
+      "confirm_message": "Planos como este ajudam a sugerir um ponto de partida para outros pacientes. Este não vai ser usado, e não é possível voltar atrás.",
       "confirm_action": "Manter fora",
-      "plan_actions": "Acoes do plano"
+      "plan_actions": "Ações do plano"
     },
     "step_occurrence": "Tentativa {{n}} de {{total}}",
     "gate": {
