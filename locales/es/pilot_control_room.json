@@ -333,7 +333,8 @@
       "speech_assessments": "Evaluaciones del habla",
       "recording_reviews": "Revisiones de grabación",
       "none": "Ninguna todavía",
-      "unscored": "{{count}} grabación(es) de evaluación subida(s) pero aún sin evaluar. Evalúelas en la sala de anotación para rellenar la vista de resultado pre/post."
+      "unscored": "{{count}} grabación(es) de evaluación subida(s) pero aún sin evaluar. Evalúelas en la sala de anotación para rellenar la vista de resultado pre/post.",
+      "expert_reviews": "Revisiones de grabación"
     },
     "statuses": {
       "pending": "Pendiente",

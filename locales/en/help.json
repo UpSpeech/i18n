@@ -228,6 +228,10 @@
     "support": {
       "question": "How do I contact support?",
       "answer": "Email us at support@upspeech.com or use the Email Support button below. We typically respond within 24 hours."
+    },
+    "expert_reviews": {
+      "question": "What is the Recording Reviews feature?",
+      "answer": "Recording Reviews (available to admins and users with special access) is a dedicated tool for evaluating patient recordings across the organization. Reviewers can annotate disfluencies and techniques, add clinical notes, and work through a review queue."
     }
   },
   "documentation": {

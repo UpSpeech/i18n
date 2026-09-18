@@ -109,7 +109,11 @@
     "note_saved_not_notified": "Review completed and your note was saved. This clinic has notifications off, so the patient was not pinged.",
     "category_disfluency": "Disfluency",
     "category_technique": "Technique use",
-    "technique_used": "Technique used"
+    "technique_used": "Technique used",
+    "play_before": "Play the moments before the segment",
+    "play_before_label": "Before",
+    "play_after": "Play the moments after the segment",
+    "play_after_label": "After"
   },
   "lbdl": {
     "syllable_repetition": "Syllable Repetition",
@@ -205,6 +209,7 @@
     "speech_rate_tooltip": "Syllables per minute across the full recording. Includes pauses (overall speech rate, not articulation rate).",
     "avg_disfluency_duration_tooltip": "Mean duration of disfluencies marked with both start and end timestamps. n is the number of disfluencies that contributed.",
     "no_transcript_hint": "Add a transcript to calculate syllable count, stuttering rate, and speech rate.",
-    "by_type": "By Type"
+    "by_type": "By Type",
+    "avg_disfluency_duration_unit_seconds": "s"
   }
 }

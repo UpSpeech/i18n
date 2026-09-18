@@ -1658,5 +1658,14 @@
   "invite_revoke_confirm_body": "El enlace enviado a {{email}} dejará de funcionar.",
   "add_patient_age_years_one": "{{count}} año",
   "add_patient_age_years_other": "{{count}} años",
-  "add_patient_language_label": "Idioma de la invitación y la app"
+  "add_patient_language_label": "Idioma de la invitación y la app",
+  "scenario_realtime_notice_connection_lost": "La conexión con la llamada se cortó. Termina la llamada y empiézala de nuevo.",
+  "scenario_realtime_notice_bot_stalled": "No llegó ninguna respuesta. Puedes repetirlo cuando estés listo.",
+  "journey_no_steps": "Tu primer paso está en camino",
+  "journey_no_steps_description": "Tu terapeuta está preparando tu plan. Verás aquí tu primer paso.",
+  "recorder_error_title": "La grabación falló",
+  "learning_path_condition_fluency": "Fluidez",
+  "learning_path_condition_articulation": "Articulación",
+  "learning_path_condition_language": "Lenguaje",
+  "learning_path_condition_voice": "Voz"
 }

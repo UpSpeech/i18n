@@ -342,7 +342,8 @@
       "answer_placeholder": "Answer the question...",
       "answer_other": "Something else",
       "answer_confirm": "Continue",
-      "answer_nothing_else": "Nothing else to add"
+      "answer_nothing_else": "Nothing else to add",
+      "finalizing": "Your answers are already being saved, so this one could not be added. There is nothing left to send."
     }
   }
 }

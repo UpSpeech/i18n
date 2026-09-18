@@ -160,7 +160,8 @@
     "attention_queue_empty_action": "See all patients",
     "attention_queue_milestone": "Milestone {{position}} / {{total}}",
     "last_active_days_ago_one": "Last active 1 day ago",
-    "last_active_days_ago_other": "Last active {{count}} days ago"
+    "last_active_days_ago_other": "Last active {{count}} days ago",
+    "attention_queue_action_dismiss": "Dismiss"
   },
   "owner": {
     "greeting_morning": "Good morning",

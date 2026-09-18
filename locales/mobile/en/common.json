@@ -1658,5 +1658,14 @@
   "invite_revoke_confirm_body": "The link sent to {{email}} will stop working.",
   "add_patient_age_years_one": "{{count}} year old",
   "add_patient_age_years_other": "{{count}} years old",
-  "add_patient_language_label": "Invite and app language"
+  "add_patient_language_label": "Invite and app language",
+  "scenario_realtime_notice_connection_lost": "The connection to the call dropped. End the call and start it again.",
+  "scenario_realtime_notice_bot_stalled": "No reply came back. You can say that again when you're ready.",
+  "journey_no_steps": "Your first step is coming",
+  "journey_no_steps_description": "Your therapist is building your plan. You will see your first step here.",
+  "recorder_error_title": "Recording failed",
+  "learning_path_condition_fluency": "Fluency",
+  "learning_path_condition_articulation": "Articulation",
+  "learning_path_condition_language": "Language",
+  "learning_path_condition_voice": "Voice"
 }

@@ -228,6 +228,10 @@
     "support": {
       "question": "¿Cómo contacto con soporte?",
       "answer": "Envíanos un correo a support@upspeech.com o usa el botón Enviar Correo a Soporte a continuación. Normalmente respondemos en 24 horas."
+    },
+    "expert_reviews": {
+      "question": "¿Qué son las Revisiones de grabaciones?",
+      "answer": "Las Revisiones de grabaciones (disponibles para administradores y usuarios con acceso especial) son una herramienta propia para evaluar grabaciones de pacientes en toda la organización. Quien revisa puede anotar disfluencias y técnicas, añadir notas clínicas y trabajar una cola de revisión."
     }
   },
   "documentation": {

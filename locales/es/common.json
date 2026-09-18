@@ -6,7 +6,14 @@
     "type_selection": "Tipo de grabación",
     "stop": "Parar grabación",
     "start": "Iniciar grabación",
-    "in_progress": "Grabando"
+    "in_progress": "Grabando",
+    "framing": {
+      "idle": "Mira a la cámara y mantén toda la cara en el encuadre",
+      "no_face": "Ponte de frente a la cámara",
+      "too_small": "Acércate",
+      "off_center": "Centra la cara en el encuadre",
+      "good": "El encuadre está bien"
+    }
   },
   "hold_button": {
     "press_hold": "Pulsa y Mantén",
@@ -47,7 +54,8 @@
     "in_target_zone_sr": "En zona objetivo",
     "outside_target_zone_sr": "Fuera de zona objetivo",
     "recording_paused": "En pausa",
-    "recording_active": "Grabando..."
+    "recording_active": "Grabando...",
+    "inactive": "Visualizador en pausa"
   },
   "loading": "Cargando...",
   "error": "Error",
@@ -539,7 +547,8 @@
       "step_added": "Paso añadido a la ruta",
       "step_removed": "Paso eliminado",
       "write_step": "Escribir un paso",
-      "closed_but_not_added": "{{title}} se cerró, pero el paso nuevo no se añadió. Añádelo otra vez."
+      "closed_but_not_added": "{{title}} se cerró, pero el paso nuevo no se añadió. Añádelo otra vez.",
+      "goal_settled": "ya empezó, así que no se puede renombrar ni mover"
     },
     "goal_fraction": "{{done}} de {{total}} en {{goal}}",
     "lifetime_steps_one": "{{count}} paso completado",
@@ -995,7 +1004,13 @@
       "scratch_help": "Un objetivo vacío, y escribes tú el primer paso.",
       "scratch_action": "Empezar a escribir",
       "apply_failed": "No se pudo empezar esa ruta",
-      "apply_partial": "Empezada, pero {{count}} de {{total}} objetivos no se escribieron. El resto está en la ruta."
+      "apply_partial": "Empezada, pero {{count}} de {{total}} objetivos no se escribieron. El resto está en la ruta.",
+      "templates_failed": "No pudimos cargar las plantillas.",
+      "template_steps_one": "{{count}} paso",
+      "template_steps_other": "{{count}} pasos",
+      "back": "Volver a las tres formas de empezar",
+      "template_default": "Donde empieza la mayoría de los pacientes",
+      "scratch_applied": "Ruta iniciada"
     },
     "practice_days_title": "¿Qué días te vienen bien?",
     "practice_days_any": "Elige los días que te vengan bien.",
@@ -1024,7 +1039,41 @@
       "confirm_action": "Mantener fuera",
       "plan_actions": "Acciones del plan"
     },
-    "step_occurrence": "Intento {{n}} de {{total}}"
+    "step_occurrence": "Intento {{n}} de {{total}}",
+    "gate": {
+      "dose_week": "{{count}} veces por semana",
+      "dose_minutes": "hasta {{count}} min",
+      "title": "Asignar a {{name}}",
+      "subtitle": "{{name}} no ve nada hasta que confirmes.",
+      "omitted_one": "{{count}} paso no se pudo traer y no está abajo.",
+      "omitted_other": "{{count}} pasos no se pudieron traer y no están abajo.",
+      "goal_title": "Nombre del objetivo {{position}}",
+      "move_goal_up": "Subir",
+      "move_goal_down": "Bajar",
+      "remove_goal": "Quitar {{title}}",
+      "starts_first": "empieza primero",
+      "edit_step": "Editar {{title}}",
+      "remove_step": "Quitar {{title}}",
+      "add_step": "Añadir un paso",
+      "confirm_empty": "Añade un paso para continuar",
+      "add_goal": "Añadir un objetivo",
+      "confirming": "Asignando",
+      "confirm": "Asignar",
+      "unresolved_one": "{{count}} paso no coincidió con ningún ejercicio de esta clínica y quedó escrito con tus palabras.",
+      "unresolved_other": "{{count}} pasos no coincidieron con ningún ejercicio de esta clínica y quedaron escritos con tus palabras."
+    },
+    "reassign_authored_unsupported": "Escribe este paso de nuevo. No está en el currículo, así que no hay nada que volver a asignar.",
+    "technique_rating_save_failed": "No se pudo guardar tu valoración, pero tu progreso continúa.",
+    "empty_path_title": "Tu primer paso está en camino",
+    "empty_path_description": "Tu terapeuta está preparando tu plan. Verás aquí tu primer paso.",
+    "condition": {
+      "question": "¿Para qué es esta ruta?",
+      "label": "Condición",
+      "required": "Elige una condición para empezar",
+      "none": "Sin condición definida"
+    },
+    "intro_video_open": "Abrir la introducción",
+    "intro_video_title": "Introducción"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -1237,7 +1286,24 @@
     "assign": "Asignar",
     "assign_to_whom": "¿Para quién es?",
     "assign_to_whom_help": "Irás a su ruta, con el editor abierto. Cada paso entra en un objetivo.",
-    "choose_patient": "Elegir un paciente"
+    "choose_patient": "Elegir un paciente",
+    "result_count_one": "{{count}} ejercicio",
+    "result_count_other": "{{count}} ejercicios",
+    "untagged_shown_one": "uno de ellos aún no tiene etiquetas, así que coincide con todos los filtros",
+    "untagged_shown_other": "{{count}} de ellos aún no tienen etiquetas, así que coinciden con todos los filtros",
+    "assigned_to_patients": "{{count}} pacientes",
+    "value": {
+      "fluency": "Fluidez",
+      "articulation": "Articulación",
+      "language": "Lenguaje",
+      "voice": "Voz",
+      "child": "Niño",
+      "adult": "Adulto",
+      "word": "Palabra",
+      "phrase": "Frase corta",
+      "sentence": "Oración",
+      "conversation": "Conversación"
+    }
   },
   "go_to_practice": "Ir a mi práctica",
   "no_data": "Sin datos",

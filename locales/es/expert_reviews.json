@@ -109,7 +109,11 @@
     "note_saved_not_notified": "Revisión completada y tu nota se guardó. Esta clínica tiene las notificaciones desactivadas, así que no se avisó al paciente.",
     "category_disfluency": "Disfluencia",
     "category_technique": "Uso de técnica",
-    "technique_used": "Técnica utilizada"
+    "technique_used": "Técnica utilizada",
+    "play_before": "Escuchar los momentos antes del segmento",
+    "play_before_label": "Antes",
+    "play_after": "Escuchar los momentos después del segmento",
+    "play_after_label": "Después"
   },
   "lbdl": {
     "syllable_repetition": "Repetición de Sílaba",
@@ -205,6 +209,7 @@
     "speech_rate_tooltip": "Sílabas por minuto en la grabación completa. Incluye pausas (velocidad global, no de articulación).",
     "avg_disfluency_duration_tooltip": "Duración media de las disfluencias marcadas con inicio y fin. n indica cuántas contribuyeron.",
     "no_transcript_hint": "Añada una transcripción para calcular el recuento de sílabas, la tasa de tartamudeo y la velocidad del habla.",
-    "by_type": "Por Tipo"
+    "by_type": "Por Tipo",
+    "avg_disfluency_duration_unit_seconds": "s"
   }
 }

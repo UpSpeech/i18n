@@ -316,7 +316,8 @@
       "select_patient": "Por favor seleciona pelo menos um paciente",
       "start_date_required": "A data de início é obrigatória"
     },
-    "subtitle": "Exercícios de prática diária para os teus pacientes"
+    "subtitle": "Exercícios de prática diária para os teus pacientes",
+    "assignment_partial_failure": "Não foi possível criar algumas atribuições: {{names}}. As restantes foram atribuídas. Tenta de novo para enviar só estas."
   },
   "completion": {
     "recording_interrupted": "A gravação foi interrompida. Por favor, tente novamente.",
@@ -463,13 +464,15 @@
         "description": "Reproduz o vídeo e toca num botão sempre que notares uma disfluência primária.",
         "tip": "Não faz mal falhar algumas. Isto é sobre construir consciência, não perfeição.",
         "empty": "Reproduz o vídeo e marca o que notares. Leva o teu tempo.",
-        "continue": "Continuar para Classificação"
+        "continue": "Continuar para Classificação",
+        "submit": "Concluir identificação"
       },
       "classify": {
         "description": "Revê cada momento que marcaste. Para cada um, indica se a disfluência foi curta ou longa, e se notaste envolvimento muscular suave ou tenso.",
         "progress": "{{completed}} de {{total}} momentos classificados",
         "all_done": "Todos os momentos classificados. Bom trabalho.",
-        "continue": "Continuar para Comportamentos Secundários"
+        "continue": "Continuar para Comportamentos Secundários",
+        "nothing_to_classify": "Não há disfluências principais para classificar. Continua quando estiveres pronto."
       },
       "identify_secondary": {
         "description": "Assiste ao vídeo mais uma vez e procura comportamentos secundários: movimentos ou estratégias que acompanham a gaguez.",
@@ -1003,5 +1006,17 @@
     "week_title": "Esta semana",
     "week_sessions": "{{count}} sessões registadas esta semana",
     "week_no_days": "Escolhe os dias dentro de cada exercício e eles aparecem aqui."
+  },
+  "parameter": {
+    "hold_target": "Manter · {{count}}s",
+    "exit": "Saída: {{speed}}",
+    "exit_timed": "Saída: {{speed}} · {{count}}s",
+    "pause_target": "Pausa alvo · {{count}}s",
+    "autonomous_pauses": "As tuas próprias pausas",
+    "speed": {
+      "very_slow": "muito lenta",
+      "medium": "média",
+      "natural": "natural"
+    }
   }
 }
