@@ -67,16 +67,16 @@
     }
   },
   "therapist": {
-    "welcome_message": "Manage your patients and track their progress",
+    "welcome_message": "",
     "greeting_morning": "Good morning",
     "greeting_afternoon": "Good afternoon",
     "greeting_evening": "Good evening",
     "greeting_title_prefix": "Welcome back",
     "total_patients": "Total Patients",
-    "patients_under_care": "Patients Under Care",
-    "view_all_patients": "View All Patients",
-    "view_all_reports": "View All Reports",
-    "assign_exercises": "Assign Exercises",
+    "patients_under_care": "Patients under care",
+    "view_all_patients": "All patients",
+    "view_all_reports": "All reports",
+    "assign_exercises": "Assign an exercise",
     "create_report_description": "Create new report",
     "unknown_patient": "Unknown Patient",
     "filter": {
@@ -130,7 +130,7 @@
       "patient_aria_label": "{{name}}: {{count}} exercises completed"
     },
     "patient_activity_error": "Failed to load patient activity",
-    "quick_actions": "Quick Actions",
+    "quick_actions": "Quick actions",
     "to_review": "To Review",
     "processed_recordings": "Processed recordings",
     "needs_attention": "Needs Attention",

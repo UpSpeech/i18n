@@ -67,16 +67,16 @@
     }
   },
   "therapist": {
-    "welcome_message": "Gestiona tus pacientes y rastrea su progreso",
+    "welcome_message": "",
     "greeting_morning": "Buenos días",
     "greeting_afternoon": "Buenas tardes",
     "greeting_evening": "Buenas noches",
     "greeting_title_prefix": "Bienvenido de nuevo",
     "total_patients": "Total de Pacientes",
-    "patients_under_care": "Pacientes Bajo Cuidado",
-    "view_all_patients": "Ver Todos los Pacientes",
-    "view_all_reports": "Ver Todos los Informes",
-    "assign_exercises": "Asignar ejercicios",
+    "patients_under_care": "Pacientes bajo cuidado",
+    "view_all_patients": "Todos los pacientes",
+    "view_all_reports": "Todos los informes",
+    "assign_exercises": "Asignar un ejercicio",
     "create_report_description": "Crear nuevo informe",
     "unknown_patient": "Paciente Desconocido",
     "filter": {
@@ -130,7 +130,7 @@
       "patient_aria_label": "{{name}}: {{count}} ejercicios completados"
     },
     "patient_activity_error": "Error al cargar la actividad del paciente",
-    "quick_actions": "Acciones Rápidas",
+    "quick_actions": "Acciones rápidas",
     "to_review": "Por Revisar",
     "processed_recordings": "Grabaciones procesadas",
     "needs_attention": "Requiere Atención",

@@ -151,7 +151,7 @@
         "dashboard": {
           "exercise_title": "Today's Exercise",
           "exercise_content": "This is your daily exercise. Start here each day to keep building your skills.",
-          "stats_title": "Your Progress",
+          "stats_title": "Your progress",
           "stats_content": "Your completion rate and your streak, updated after each practice.",
           "weekly_title": "Weekly Comparison",
           "weekly_content": "See how you're doing compared to last week. Consistency is key!",
@@ -189,11 +189,11 @@
       },
       "therapist": {
         "dashboard": {
-          "stats_title": "Practice Overview",
+          "stats_title": "Your caseload",
           "stats_content": "How many patients you have, and how much they have practised.",
           "activity_title": "Recent Activity",
           "activity_content": "Recent recordings and activity from your patients appear here.",
-          "bubble_chart_title": "Patient Engagement",
+          "bubble_chart_title": "Patient engagement",
           "bubble_chart_content": "One bubble per patient. The bigger it is, the more they practised.",
           "nav_patients_title": "My Patients",
           "nav_patients_content": "Manage your patients, send invitations, and view their progress.",
@@ -229,7 +229,7 @@
       },
       "admin": {
         "dashboard": {
-          "stats_title": "Key Metrics",
+          "stats_title": "Key metrics",
           "stats_content": "Active clients, total users, failed recordings and pending invites.",
           "actions_title": "Quick Actions",
           "actions_content": "Jump to Users, Analytics, Settings, or Reports from here.",
@@ -243,7 +243,7 @@
         "users": {
           "list_title": "User Directory",
           "list_content": "All users across your organisation are listed here.",
-          "roles_title": "Roles & Status",
+          "roles_title": "Roles and status",
           "roles_content": "Each user's role and account status.",
           "actions_title": "User Actions",
           "actions_content": "Edit roles, deactivate users, or send new invitations."

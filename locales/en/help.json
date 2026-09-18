@@ -2,10 +2,10 @@
   "video_coming_soon": "Video coming soon",
   "play_video": "Play Video",
   "video_unavailable": "Video unavailable",
-  "subtitle": "Learn how to use UpSpeech with video tutorials and FAQs",
-  "quick_navigation": "Quick Navigation",
+  "subtitle": "Short videos, and answers to what people ask most.",
+  "quick_navigation": "Quick navigation",
   "search_placeholder": "Search for help...",
-  "video_library": "Video Library",
+  "video_library": "Video library",
   "faq_title": "Frequently Asked Questions",
   "no_results": "No results found. Try a different search term.",
   "show_more_videos": "Show More Videos",
@@ -33,27 +33,27 @@
   "videos": {
     "account_settings": {
       "title": "Account Settings & Preferences",
-      "description": "Change language, toggle dark mode, update password"
+      "description": "What you can change about your account, and where"
     },
     "my_journey": {
       "title": "Your Therapy Journey",
-      "description": "View your learning path, expand milestones, see step details"
+      "description": "How your path is laid out, and how to open a step"
     },
     "complete_exercise": {
       "title": "How to Complete an Exercise",
-      "description": "Open an assignment, view instructions, and start an exercise"
+      "description": "What a daily exercise looks like before you press record"
     },
     "practice_scenarios": {
       "title": "Practising with AI Scenarios",
-      "description": "Browse practice library, pick a scenario, and start a session"
+      "description": "What a scenario session feels like from the first line"
     },
     "review_history": {
       "title": "Reviewing Your Practice History",
-      "description": "Open history, view past sessions, and see your annotations"
+      "description": "Where your past practice lives, and what your therapist wrote on it"
     },
     "manage_patients": {
       "title": "Managing Your Patients",
-      "description": "View patient list, open detail page, browse progress tabs"
+      "description": "Getting from the caseload to one patient's progress"
     },
     "generate_report": {
       "title": "Generating an AI Report",
@@ -61,7 +61,7 @@
     },
     "edit_report": {
       "title": "Editing a Report",
-      "description": "Open a report, enter edit mode, and modify sections"
+      "description": "Changing a report's wording before you sign it"
     },
     "assign_exercise": {
       "title": "Assigning an Exercise",
@@ -69,7 +69,7 @@
     },
     "review_submission": {
       "title": "Reviewing a Patient Submission",
-      "description": "Open a submission, view recording, and see annotations"
+      "description": "Watching a recording and reading its annotations"
     },
     "learning_paths": {
       "title": "Managing Learning Paths",
@@ -77,15 +77,15 @@
     },
     "user_management": {
       "title": "Managing Users",
-      "description": "View user list, invite new users, and manage roles"
+      "description": "Inviting someone, and setting what they can do"
     },
     "tenant_settings": {
       "title": "Organisation Settings",
-      "description": "View branding, colours, language, and team members"
+      "description": "The branding and the language your clinic uses"
     },
     "analytics": {
       "title": "Understanding Analytics",
-      "description": "View metrics, change time range, and explore charts"
+      "description": "Reading the charts, and changing the window they cover"
     },
     "control_room": {
       "title": "Recording Review Control Room",
@@ -232,12 +232,12 @@
   },
   "documentation": {
     "title": "Documentation",
-    "description": "Read our comprehensive guides and technical documentation",
-    "button": "View Documentation"
+    "description": "The written guides, in more depth than the videos",
+    "button": "Read the guides"
   },
   "support": {
-    "title": "Contact Support",
-    "description": "Need help? Our support team is here for you.",
+    "title": "Contact support",
+    "description": "Email us and a person will reply.",
     "button": "Email Support"
   }
 }

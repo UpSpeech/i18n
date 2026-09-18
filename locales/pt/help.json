@@ -2,10 +2,10 @@
   "video_coming_soon": "Em breve...",
   "play_video": "Reproduzir Vídeo",
   "video_unavailable": "Vídeo indisponível",
-  "subtitle": "Aprende a usar a UpSpeech com tutoriais em vídeo e perguntas frequentes",
-  "quick_navigation": "Navegação Rápida",
+  "subtitle": "Vídeos curtos, e respostas ao que mais nos perguntam.",
+  "quick_navigation": "Navegação rápida",
   "search_placeholder": "Procurar ajuda...",
-  "video_library": "Biblioteca de Vídeos",
+  "video_library": "Biblioteca de vídeos",
   "faq_title": "Perguntas Frequentes",
   "no_results": "Nenhum resultado encontrado. Tenta um termo de pesquisa diferente.",
   "show_more_videos": "Mostrar Mais Vídeos",
@@ -33,27 +33,27 @@
   "videos": {
     "account_settings": {
       "title": "Definições de Conta e Preferências",
-      "description": "Alterar idioma, ativar modo escuro, atualizar palavra-passe"
+      "description": "O que podes mudar na tua conta, e onde"
     },
     "my_journey": {
       "title": "A Tua Jornada Terapêutica",
-      "description": "Ver o percurso de aprendizagem, expandir marcos, ver detalhes dos passos"
+      "description": "Como o teu percurso está montado, e como abrir um passo"
     },
     "complete_exercise": {
       "title": "Como Completar um Exercício",
-      "description": "Abrir uma atribuição, ver instruções e iniciar um exercício"
+      "description": "O que vês num exercício diário antes de gravares"
     },
     "practice_scenarios": {
       "title": "Praticar com Cenários IA",
-      "description": "Explorar biblioteca de prática, escolher cenário e iniciar sessão"
+      "description": "Como é uma sessão de cenário desde a primeira frase"
     },
     "review_history": {
       "title": "Rever o Teu Histórico de Prática",
-      "description": "Abrir histórico, ver sessões anteriores e as tuas anotações"
+      "description": "Onde fica a tua prática passada, e o que o teu terapeuta escreveu nela"
     },
     "manage_patients": {
       "title": "Gerir os Teus Pacientes",
-      "description": "Ver lista de pacientes, abrir página de detalhe, explorar separadores de progresso"
+      "description": "Da lista de pacientes ao progresso de um deles"
     },
     "generate_report": {
       "title": "Gerar um Relatório com IA",
@@ -61,7 +61,7 @@
     },
     "edit_report": {
       "title": "Editar um Relatório",
-      "description": "Abrir relatório, entrar em modo de edição e modificar secções"
+      "description": "Mudar as palavras de um relatório antes de o assinares"
     },
     "assign_exercise": {
       "title": "Atribuir um Exercício",
@@ -69,7 +69,7 @@
     },
     "review_submission": {
       "title": "Rever uma Submissão de Paciente",
-      "description": "Abrir submissão, ver gravação e ver anotações"
+      "description": "Ver uma gravação e ler as suas anotações"
     },
     "learning_paths": {
       "title": "Gerir Percursos de Aprendizagem",
@@ -77,15 +77,15 @@
     },
     "user_management": {
       "title": "Gerir Utilizadores",
-      "description": "Ver lista de utilizadores, convidar novos e gerir funções"
+      "description": "Convidar alguém, e definir o que pode fazer"
     },
     "tenant_settings": {
       "title": "Definições da Organização",
-      "description": "Ver marca, cores, idioma e membros da equipa"
+      "description": "A marca e o idioma que a tua clínica usa"
     },
     "analytics": {
       "title": "Compreender Análises",
-      "description": "Ver métricas, alterar período e explorar gráficos"
+      "description": "Ler os gráficos, e mudar o período que cobrem"
     },
     "control_room": {
       "title": "Sala de Revisão de Gravações",
@@ -232,12 +232,12 @@
   },
   "documentation": {
     "title": "Documentação",
-    "description": "Lê os nossos guias completos e documentação técnica",
-    "button": "Ver Documentação"
+    "description": "Os guias escritos, com mais detalhe do que os vídeos",
+    "button": "Ler os guias"
   },
   "support": {
-    "title": "Contactar Suporte",
-    "description": "Precisas de ajuda? A nossa equipa de suporte está aqui para ti.",
+    "title": "Contactar suporte",
+    "description": "Escreve-nos e uma pessoa responde.",
     "button": "Enviar Email para Suporte"
   }
 }

@@ -122,7 +122,7 @@
     "ask": "Ask",
     "upload": "Upload Recording",
     "reports": "Reports",
-    "generate_report": "Generate Report",
+    "generate_report": "Generate a report",
     "users": "User Management",
     "analytics": "Analytics",
     "patients": "My Patients",
@@ -192,7 +192,7 @@
   },
   "practice": {
     "title": "Practice Mini-Games",
-    "subtitle": "Browse and practice mini-games independently.",
+    "subtitle": "Practise on your own, whenever you like. None of this is assigned.",
     "search_placeholder": "Search mini-games...",
     "no_history": "You haven't completed any practice sessions yet.",
     "no_history_title": "No Practice History",
@@ -213,7 +213,7 @@
     "scenarios_title": "Scenarios"
   },
   "settings": {
-    "manage_account_info": "Manage your account information and security settings",
+    "manage_account_info": "Your details, and the character you meet around the app.",
     "account_information": "Account Information",
     "change_password": "Change Password",
     "update_password": "Update Password",
@@ -455,7 +455,7 @@
     "tenant_settings": "Tenant Settings",
     "analytics": "Analytics",
     "account_settings": "Account Settings",
-    "help": "Help Centre",
+    "help": "Help",
     "practice": "Practice",
     "upload": "Upload Audio",
     "feature_flags": "Feature Flags",

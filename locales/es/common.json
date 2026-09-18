@@ -115,7 +115,7 @@
     "ask": "Preguntar",
     "upload": "Subir Grabación",
     "reports": "Informes",
-    "generate_report": "Generar informe",
+    "generate_report": "Generar un informe",
     "users": "Gestión de Usuarios",
     "analytics": "Análisis",
     "patients": "Mis pacientes",
@@ -206,7 +206,7 @@
     "scenarios_title": "Escenarios"
   },
   "settings": {
-    "manage_account_info": "Gestiona la información y configuración de seguridad de tu cuenta",
+    "manage_account_info": "Tus datos, y el personaje que encuentras por la aplicación.",
     "account_information": "Información de Cuenta",
     "change_password": "Cambiar Contraseña",
     "update_password": "Actualizar Contraseña",
@@ -455,7 +455,7 @@
     "tenant_settings": "Configuración de la Organización",
     "analytics": "Análisis",
     "account_settings": "Configuración de Cuenta",
-    "help": "Centro de Ayuda",
+    "help": "Ayuda",
     "practice": "Práctica",
     "upload": "Subir Audio",
     "feature_flags": "Funcionalidades",

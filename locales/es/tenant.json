@@ -23,7 +23,7 @@
     "view_all_members": "Ver los {{count}} miembros restantes",
     "quick_actions": "Acciones rápidas",
     "manage_users": "Gestionar usuarios",
-    "manage_users_description": "Agregar, editar y eliminar miembros del equipo",
+    "manage_users_description": "Quién está en el equipo, y lo que cada uno puede hacer",
     "view_reports": "Ver informes",
     "view_reports_description": "Acceder a los informes de la organización",
     "not_found": "Organización no encontrada",
