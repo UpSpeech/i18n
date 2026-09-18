@@ -1,7 +1,11 @@
 {
   "overview": "Visão geral do teu progresso na análise da fala",
+  "overview_patient": "O que o teu terapeuta marcou para ti esta semana.",
+  "overview_therapist": "Os teus pacientes, e o que está à tua espera.",
+  "overview_admin": "Os utilizadores, pacientes e a atividade da tua organização.",
+  "overview_owner": "Todas as organizações, e a atividade em toda a plataforma.",
   "upload_subtitle": "Grava um novo ficheiro de áudio para análise",
-  "reports_subtitle": "Ver e gerir todos os relatórios",
+  "reports_subtitle": "Os mais recentes primeiro.",
   "users_subtitle": "Gerir utilizadores do sistema e permissões",
   "analytics_subtitle": "Ver análise e informações de todo o sistema",
   "patients_subtitle_therapist": "Gere os teus pacientes atribuídos e acompanha o seu progresso",
@@ -63,16 +67,16 @@
     }
   },
   "therapist": {
-    "welcome_message": "Gere os teus pacientes e acompanha o seu progresso",
+    "welcome_message": "",
     "greeting_morning": "Bom dia",
     "greeting_afternoon": "Boa tarde",
     "greeting_evening": "Boa noite",
     "greeting_title_prefix": "Bem-vindo de volta",
     "total_patients": "Total de Pacientes",
-    "patients_under_care": "Pacientes Sob Cuidados",
-    "view_all_patients": "Ver Todos os Pacientes",
-    "view_all_reports": "Ver Todos os Relatórios",
-    "assign_exercises": "Atribuir Exercícios",
+    "patients_under_care": "Pacientes sob cuidados",
+    "view_all_patients": "Todos os pacientes",
+    "view_all_reports": "Todos os relatórios",
+    "assign_exercises": "Atribuir um exercício",
     "create_report_description": "Criar novo relatório",
     "unknown_patient": "Paciente Desconhecido",
     "filter": {
@@ -80,14 +84,14 @@
       "sessions": "Sessões",
       "exercises": "Exercícios"
     },
-    "recent_activity": "Atividade Recente",
+    "recent_activity": "Atividade recente",
     "last_14_days": "Últimos 14 dias",
     "no_recent_activity": "Sem atividade recente",
     "no_recent_sessions": "Sem sessões de fala nos últimos 14 dias",
     "no_recent_exercises": "Sem atividade de exercícios nos últimos 14 dias",
     "no_activity_yet": "Sem atividade nos últimos 14 dias",
-    "patient_activity_overview": "Visão Geral da Atividade do Paciente",
-    "patient_activity_description": "Visão geral visual da conclusão de exercícios dos pacientes. O tamanho da bolha indica o nível de atividade.",
+    "patient_activity_overview": "Atividade dos pacientes",
+    "patient_activity_description": "Uma bolha por paciente. Quanto maior, mais praticou.",
     "time_filter": {
       "today": "Hoje",
       "week": "Semana",
@@ -126,7 +130,7 @@
       "patient_aria_label": "{{name}}: {{count}} exercícios concluídos"
     },
     "patient_activity_error": "Falha ao carregar atividade do paciente",
-    "quick_actions": "Ações Rápidas",
+    "quick_actions": "Ações rápidas",
     "to_review": "Para Revisão",
     "processed_recordings": "Gravações processadas",
     "needs_attention": "Requer Atenção",
@@ -196,7 +200,7 @@
     },
     "recent_users": "Utilizadores Recentes",
     "no_recent_users": "Sem utilizadores recentes",
-    "recent_activity": "Atividade Recente",
+    "recent_activity": "Atividade recente",
     "no_recent_activity": "Sem atividade recente"
   },
   "owner_dashboard": {
@@ -221,7 +225,7 @@
       "all_users_description": "Multi-organização",
       "global_analytics": "Analytics Globais",
       "global_analytics_description": "Métricas completas",
-      "all_reports": "Todos os Relatórios",
+      "all_reports": "Todos os relatórios",
       "all_reports_description": "Sistema completo"
     },
     "tenant_activity": "Atividade por Organização",

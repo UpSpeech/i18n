@@ -78,9 +78,9 @@
   "filters": {
     "search_placeholder": "Buscar por nombre o correo...",
     "patient_type": "Tipo de Paciente",
-    "all_types": "Todos los Tipos",
+    "all_types": "Todos los tipos",
     "status": "Estado",
-    "all_statuses": "Todos los Estados",
+    "all_statuses": "Todos los estados",
     "active": "Activo",
     "inactive": "Inactivo",
     "pending": "Pendiente",
@@ -202,10 +202,10 @@
     "vadHelp": "Ventanas más largas permiten que pacientes con bloqueos o prolongaciones terminen el turno antes de que la IA responda.",
     "vadPresets": {
       "default": "Predeterminado de la clínica (recomendado)",
-      "typical": "0,8s , habla típica",
-      "moderate": "1,5s , pausas leves",
-      "stutter_safe": "2,5s , seguro para tartamudez",
-      "long_blocks": "4,0s , bloqueos largos"
+      "typical": "0,8s, habla típica",
+      "moderate": "1,5s, pausas leves",
+      "stutter_safe": "2,5s, seguro para tartamudez",
+      "long_blocks": "4,0s, bloqueos largos"
     },
     "loadError": "No se pudieron cargar los ajustes.",
     "saveError": "No se pudo guardar. Inténtalo de nuevo."

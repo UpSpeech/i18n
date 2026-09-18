@@ -131,7 +131,7 @@
     "modeGuided": {
       "label": "Guided",
       "description": "Start and stop whenever you want. You control the pace.",
-      "tooltip": "The microphone waits for you. Start speaking when you're ready and stop when you're done , nothing interrupts."
+      "tooltip": "The microphone waits for you. Start speaking when you're ready and stop when you're done. Nothing interrupts."
     },
     "modeRealistic": {
       "label": "Realistic",
@@ -140,7 +140,7 @@
     },
     "begin": "Begin scenario",
     "goBack": "Go back",
-    "modeInfoLabel": "{{label}} , more info"
+    "modeInfoLabel": "{{label}}, more info"
   },
   "ready": {
     "title": "Ready when you are",
@@ -181,12 +181,12 @@
     },
     "fallback": {
       "title": "Switched to guided mode",
-      "description": "We hit a snag with the live call , you can keep going in guided mode."
+      "description": "We hit a snag with the live call. You can keep going in guided mode."
     },
     "status": {
       "preparing": "Preparing…",
       "connecting": "Connecting…",
-      "live": "Live , start speaking",
+      "live": "Live. Start speaking",
       "listening": "Listening…",
       "ended": "Call ended",
       "completed": "Conversation complete",
@@ -327,7 +327,7 @@
     "audioAvailable": "Audio available",
     "browserTtsOnly": "Browser TTS only",
     "computerVoice": "Computer voice",
-    "computerVoiceHint": "Real audio still uploading , refresh in a moment to hear it",
+    "computerVoiceHint": "Real audio still uploading. Refresh in a moment to hear it.",
     "playAll": "Play All",
     "playRecording": "Play",
     "replay": "Replay",
@@ -374,7 +374,7 @@
       ],
       "social_interaction": [
         "Introduce yourself at a networking event and make small talk",
-        "Start a conversation with a neighbor you've just met",
+        "Start a conversation with a neighbour you've just met",
         "Join a group conversation at a party"
       ],
       "ordering_food": [

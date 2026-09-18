@@ -20,7 +20,7 @@
   "pilot_header": "Pilot",
   "therapist_header": "Sent By",
   "search_placeholder": "Search by email...",
-  "all_statuses": "All Statuses",
+  "all_statuses": "All statuses",
   "all_locales": "All Languages",
   "all_invites": "All Invites",
   "all_tenants": "All Tenants",
@@ -28,7 +28,7 @@
   "entity_invite_link": "Invite link",
   "entity_invitation": "Invitation",
   "edit_title": "Edit Invitation",
-  "include_in_pilot": "Include in pilot program",
+  "include_in_pilot": "Include in pilot programme",
   "filter_active": "Active only",
   "filter_all": "All invites",
   "filter_show": "Show:"

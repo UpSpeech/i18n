@@ -67,7 +67,7 @@
       },
       "admin": {
         "dashboard_tour": "Explore your dashboard",
-        "dashboard_tour_description": "See what's available at a glance",
+        "dashboard_tour_description": "What is on your dashboard",
         "manage_users": "Manage users",
         "manage_users_description": "See who's on your platform",
         "configure_settings": "Configure settings",
@@ -95,9 +95,9 @@
       "consent": {
         "heading": "Before We Begin",
         "title": "Consent & Privacy",
-        "intro": "Your privacy and safety are our priority. Please take a moment to review the information below , it explains how we protect your data during the pilot.",
+        "intro": "Your privacy and safety are our priority. Please take a moment to review the information below. It explains how we protect your data during the pilot.",
         "terms_title": "Terms & Conditions",
-        "terms_text": "By participating in this pilot program, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymized form to improve the platform. You may withdraw from the pilot at any time by contacting your administrator.",
+        "terms_text": "By participating in this pilot programme, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymized form to improve the platform. You may withdraw from the pilot at any time by contacting your administrator.",
         "privacy_title": "Privacy Policy",
         "privacy_text": "UpSpeech collects audio recordings, exercise data, and usage analytics to provide speech therapy services. Your data is stored securely, encrypted at rest and in transit. Your recordings are processed for speech analysis and clinical report generation, which involves trusted third-party AI providers (ElevenLabs for transcription and Google's Gemini for report generation) acting only on our instructions. We never sell your data, and we don't share it for any other purpose without your explicit consent. Your recordings are only used to train AI models if you separately opt in.",
         "privacy_link": "Read our full Privacy Policy",
@@ -151,8 +151,8 @@
         "dashboard": {
           "exercise_title": "Today's Exercise",
           "exercise_content": "This is your daily exercise. Start here each day to keep building your skills.",
-          "stats_title": "Your Progress",
-          "stats_content": "Track your completion rate, streaks, and more. Watch these numbers grow as you practice.",
+          "stats_title": "Your progress",
+          "stats_content": "Your completion rate and your streak, updated after each practice.",
           "weekly_title": "Weekly Comparison",
           "weekly_content": "See how you're doing compared to last week. Consistency is key!",
           "upcoming_title": "Upcoming Exercises",
@@ -189,12 +189,12 @@
       },
       "therapist": {
         "dashboard": {
-          "stats_title": "Practice Overview",
-          "stats_content": "Your practice at a glance: patients, reports, and exercise activity.",
-          "activity_title": "Recent Activity",
+          "stats_title": "Patients and practice",
+          "stats_content": "How many patients you have, and how much they have practised.",
+          "activity_title": "Recent activity",
           "activity_content": "Recent recordings and activity from your patients appear here.",
-          "bubble_chart_title": "Patient Engagement",
-          "bubble_chart_content": "Spot engagement patterns across your patients at a glance.",
+          "bubble_chart_title": "Patient engagement",
+          "bubble_chart_content": "One bubble per patient. The bigger it is, the more they practised.",
           "nav_patients_title": "My Patients",
           "nav_patients_content": "Manage your patients, send invitations, and view their progress.",
           "nav_reports_title": "Reports",
@@ -211,7 +211,7 @@
         "report": {
           "recording_title": "Session Recording",
           "recording_content": "Upload or select a recording from a therapy session.",
-          "generate_title": "Generate Report",
+          "generate_title": "Generate a report",
           "generate_content": "AI will draft the clinical report for you to review and edit."
         },
         "assign": {
@@ -229,8 +229,8 @@
       },
       "admin": {
         "dashboard": {
-          "stats_title": "Key Metrics",
-          "stats_content": "Active clients, total users, failed recordings, and pending invites at a glance.",
+          "stats_title": "Key metrics",
+          "stats_content": "Active clients, total users, failed recordings and pending invites.",
           "actions_title": "Quick Actions",
           "actions_content": "Jump to Users, Analytics, Settings, or Reports from here.",
           "users_title": "Recent Registrations",
@@ -243,8 +243,8 @@
         "users": {
           "list_title": "User Directory",
           "list_content": "All users across your organisation are listed here.",
-          "roles_title": "Roles & Status",
-          "roles_content": "See each user's role and account status at a glance.",
+          "roles_title": "Roles and status",
+          "roles_content": "Each user's role and account status.",
           "actions_title": "User Actions",
           "actions_content": "Edit roles, deactivate users, or send new invitations."
         },

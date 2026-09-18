@@ -1,7 +1,11 @@
 {
   "overview": "Resumen de tu progreso en análisis del habla",
+  "overview_patient": "Lo que tu terapeuta te ha marcado esta semana.",
+  "overview_therapist": "Tus pacientes, y lo que te está esperando.",
+  "overview_admin": "Los usuarios, pacientes y la actividad de tu organización.",
+  "overview_owner": "Todas las organizaciones, y la actividad en toda la plataforma.",
   "upload_subtitle": "Graba un nuevo archivo de audio para análisis",
-  "reports_subtitle": "Ver y gestionar todos los informes",
+  "reports_subtitle": "Los más recientes primero.",
   "users_subtitle": "Gestiona usuarios del sistema y permisos",
   "analytics_subtitle": "Ver análisis e información del sistema",
   "patients_subtitle_therapist": "Gestionar tus pacientes asignados y rastrear su progreso",
@@ -63,16 +67,16 @@
     }
   },
   "therapist": {
-    "welcome_message": "Gestiona tus pacientes y rastrea su progreso",
+    "welcome_message": "",
     "greeting_morning": "Buenos días",
     "greeting_afternoon": "Buenas tardes",
     "greeting_evening": "Buenas noches",
     "greeting_title_prefix": "Bienvenido de nuevo",
     "total_patients": "Total de Pacientes",
-    "patients_under_care": "Pacientes Bajo Cuidado",
-    "view_all_patients": "Ver Todos los Pacientes",
-    "view_all_reports": "Ver Todos los Informes",
-    "assign_exercises": "Asignar ejercicios",
+    "patients_under_care": "Pacientes bajo cuidado",
+    "view_all_patients": "Todos los pacientes",
+    "view_all_reports": "Todos los informes",
+    "assign_exercises": "Asignar un ejercicio",
     "create_report_description": "Crear nuevo informe",
     "unknown_patient": "Paciente Desconocido",
     "filter": {
@@ -80,14 +84,14 @@
       "sessions": "Sesiones",
       "exercises": "Ejercicios"
     },
-    "recent_activity": "Actividad Reciente",
+    "recent_activity": "Actividad reciente",
     "last_14_days": "Últimos 14 días",
     "no_recent_activity": "Sin actividad reciente",
     "no_recent_sessions": "Sin sesiones de habla en los últimos 14 días",
     "no_recent_exercises": "Sin actividad de ejercicios en los últimos 14 días",
     "no_activity_yet": "Sin actividad en los últimos 14 días",
-    "patient_activity_overview": "Resumen de Actividad del Paciente",
-    "patient_activity_description": "Resumen visual de la finalización de ejercicios del paciente. El tamaño de la burbuja indica el nivel de actividad.",
+    "patient_activity_overview": "Actividad de los pacientes",
+    "patient_activity_description": "Una burbuja por paciente. Cuanto mayor, más ha practicado.",
     "time_filter": {
       "today": "Hoy",
       "week": "Semana",
@@ -126,7 +130,7 @@
       "patient_aria_label": "{{name}}: {{count}} ejercicios completados"
     },
     "patient_activity_error": "Error al cargar la actividad del paciente",
-    "quick_actions": "Acciones Rápidas",
+    "quick_actions": "Acciones rápidas",
     "to_review": "Por Revisar",
     "processed_recordings": "Grabaciones procesadas",
     "needs_attention": "Requiere Atención",
@@ -196,7 +200,7 @@
     },
     "recent_users": "Usuarios Recientes",
     "no_recent_users": "No hay usuarios recientes",
-    "recent_activity": "Actividad Reciente",
+    "recent_activity": "Actividad reciente",
     "no_recent_activity": "No hay actividad reciente"
   },
   "owner_dashboard": {

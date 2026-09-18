@@ -14,13 +14,13 @@
     "completed_all": "revisadas por alguien"
   },
   "filters": {
-    "all_statuses": "Todos los Estados",
+    "all_statuses": "Todos los estados",
     "unreviewed": "Sin revisar",
     "in_progress": "En curso",
     "completed": "Completada",
     "skipped": "Omitida",
     "pending": "Pendiente",
-    "all_types": "Todos los Tipos",
+    "all_types": "Todos los tipos",
     "audio_only": "Solo Audio",
     "video_and_audio": "Vídeo y Audio",
     "search_placeholder": "Buscar paciente o grabación...",

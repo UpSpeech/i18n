@@ -20,7 +20,7 @@
   },
   "filters": {
     "difficulty": "Dificuldade",
-    "all_techniques": "Todas as Técnicas",
+    "all_techniques": "Todas as técnicas",
     "technique": "Técnica"
   },
   "categories": {
@@ -258,7 +258,7 @@
       "very_hard": "Muito Difícil",
       "search": "Pesquisar",
       "search_placeholder": "Pesquisar mini jogos...",
-      "all_techniques": "Todas as Técnicas",
+      "all_techniques": "Todas as técnicas",
       "technique": "Técnica"
     },
     "difficulty": {
@@ -455,7 +455,7 @@
     },
     "phases": {
       "watch": {
-        "description": "Assiste a este vídeo do início ao fim. Repara como a fala flui naturalmente e como surgem momentos de gaguez. Não há nada para fazer ainda , apenas observa com curiosidade.",
+        "description": "Assiste a este vídeo do início ao fim. Repara como a fala flui naturalmente e como surgem momentos de gaguez. Não há nada para fazer ainda, apenas observa com curiosidade.",
         "continue": "Estou Pronto para Continuar",
         "revisit_hint": "Podes voltar a rever a qualquer momento."
       },
@@ -472,7 +472,7 @@
         "continue": "Continuar para Comportamentos Secundários"
       },
       "identify_secondary": {
-        "description": "Assiste ao vídeo mais uma vez e procura comportamentos secundários , movimentos ou estratégias que acompanham a gaguez.",
+        "description": "Assiste ao vídeo mais uma vez e procura comportamentos secundários: movimentos ou estratégias que acompanham a gaguez.",
         "tip": "Comportamentos secundários são subtis. É perfeitamente normal não marcar nenhum.",
         "submit": "Concluir Identificação"
       },
@@ -566,7 +566,7 @@
     "no_moments_hint": "Nenhum momento foi marcado. Tenta manter o botão pressionado durante cada momento de gaguez.",
     "review_moments": "Rever momentos ({{count}})",
     "play_moment": "Reproduzir momento {{number}}",
-    "hold_interval": "{{number}} , {{start}} → {{end}} ({{duration}}s)",
+    "hold_interval": "{{number}}: {{start}} → {{end}} ({{duration}}s)",
     "default_instructions": "Pratica a gaguez voluntária para desenvolver o controlo motor."
   },
   "holding": {
@@ -588,7 +588,7 @@
     "all_cycles_complete": "Todos os {{count}} ciclos completos!",
     "exercise_complete_title": "Exercício Concluído!",
     "exercise_complete_message": "Completaste todos os {{count}} ciclos guiados de holding.",
-    "hold_interval": "Holding {{number}} , {{start}} → {{end}} ({{duration}}s)",
+    "hold_interval": "Holding {{number}}: {{start}} → {{end}} ({{duration}}s)",
     "end_early": "Terminar mais cedo",
     "review_holds": "Rever momentos de holding ({{count}})",
     "play_hold": "Reproduzir holding {{number}}",
@@ -669,7 +669,7 @@
     "scenario_ai_description": "{{aiDescription}} {{levelDesc}}",
     "prompts": {
       "1": "Eu às vezes gaguejo, então posso demorar um momento.",
-      "2": "Só para que saiba, sou uma pessoa que gagueja , é simplesmente como eu falo.",
+      "2": "Só para que saiba, sou uma pessoa que gagueja. É simplesmente como eu falo.",
       "3": "Antes de começarmos, quero que saiba que eu gaguejo. Agradeço a sua paciência."
     },
     "choose_prompt": "Escolhe uma frase de divulgação para praticar:",
@@ -852,7 +852,7 @@
   "entity_mini_game": "Mini Jogo",
   "not_found": "Exercício não encontrado",
   "retry_reason": {
-    "title": "Sem problema , vamos tentar de novo",
+    "title": "Sem problema, vamos tentar de novo",
     "description": "Se quiseres, diz-nos o que aconteceu. Ajuda a acompanhar o teu progresso.",
     "reasons": {
       "background_noise": "Demasiado ruído de fundo",

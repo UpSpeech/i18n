@@ -18,7 +18,7 @@
     "interest_placeholder": "ex.: culinária, viagens, desporto...",
     "suggest": "Sugerir Temas",
     "or_pick": "ou escolhe um:",
-    "pick_topic": "Aqui estão algumas ideias , escolhe uma ou fala livremente:",
+    "pick_topic": "Aqui estão algumas ideias. Escolhe uma ou fala livremente:",
     "loading_topics": "A procurar sugestões de temas...",
     "topics_error": "Não foi possível carregar os temas. Tenta novamente.",
     "quick_cooking": "Culinária",
@@ -44,19 +44,19 @@
     "confirm_short_body": "A tua gravação tem menos do que os 2 minutos recomendados. Desejas enviá-la mesmo assim, ou continuar a gravar?",
     "confirm_short_submit": "Enviar mesmo assim",
     "confirm_short_cancel": "Continuar a gravar",
-    "min_reached": "Passaste a marca dos 2 minutos , podes parar quando quiseres.",
-    "min_remaining": "Continua , faltam {{time}} para os 2 minutos"
+    "min_reached": "Passaste a marca dos 2 minutos. Podes parar quando quiseres.",
+    "min_remaining": "Continua. Faltam {{time}} para os 2 minutos"
   },
   "thank_you": {
     "title": "Obrigado, {{name}}!",
     "message": "Recebemos as tuas duas gravações. O teu terapeuta vai analisá-las e entrar em contacto contigo em breve.",
-    "stay_message": "Podes fechar esta página , avisamos quando o teu acesso à plataforma estiver pronto.",
+    "stay_message": "Podes fechar esta página. Avisamos quando o teu acesso à plataforma estiver pronto.",
     "logout": "Terminar sessão",
     "go_to_app": "Ir para a aplicação"
   },
   "control_group": {
     "title": "Estás inscrito, {{name}}",
-    "message": "Recebemos as tuas gravações , obrigado por participares neste estudo! O teu terapeuta vai entrar em contacto contigo sobre o teu plano de prática.",
+    "message": "Recebemos as tuas gravações. Obrigado por participares neste estudo! O teu terapeuta vai entrar em contacto contigo sobre o teu plano de prática.",
     "practice_hint": "Não precisas de fazer mais nada aqui por agora. Entraremos em contacto quando o período do estudo estiver concluído.",
     "contact_hint": "Dúvidas? Fala diretamente com o teu terapeuta."
   },

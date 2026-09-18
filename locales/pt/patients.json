@@ -78,9 +78,9 @@
   "filters": {
     "search_placeholder": "Pesquisar por nome ou email...",
     "patient_type": "Tipo de Paciente",
-    "all_types": "Todos os Tipos",
+    "all_types": "Todos os tipos",
     "status": "Estado",
-    "all_statuses": "Todos os Estados",
+    "all_statuses": "Todos os estados",
     "active": "Ativo",
     "inactive": "Inativo",
     "pending": "Pendente",
@@ -202,10 +202,10 @@
     "vadHelp": "Janelas mais longas permitem que pacientes com bloqueios ou prolongamentos terminem o turno antes da IA responder.",
     "vadPresets": {
       "default": "Padrão da clínica (recomendado)",
-      "typical": "0,8s , fala típica",
-      "moderate": "1,5s , pausas ligeiras",
-      "stutter_safe": "2,5s , seguro para gaguez",
-      "long_blocks": "4,0s , bloqueios longos"
+      "typical": "0,8s, fala típica",
+      "moderate": "1,5s, pausas ligeiras",
+      "stutter_safe": "2,5s, seguro para gaguez",
+      "long_blocks": "4,0s, bloqueios longos"
     },
     "loadError": "Não foi possível carregar as definições.",
     "saveError": "Não foi possível guardar. Tenta novamente."

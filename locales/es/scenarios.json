@@ -131,7 +131,7 @@
     "modeGuided": {
       "label": "Guiado",
       "description": "Empiezas y paras cuando quieras. Tú controlas el ritmo.",
-      "tooltip": "El micrófono espera por ti. Empieza cuando estés listo y termina cuando quieras , nada te interrumpe."
+      "tooltip": "El micrófono espera por ti. Empieza cuando estés listo y termina cuando quieras. Nada te interrumpe."
     },
     "modeRealistic": {
       "label": "Realista",
@@ -140,7 +140,7 @@
     },
     "begin": "Empezar escenario",
     "goBack": "Volver",
-    "modeInfoLabel": "{{label}} , más información"
+    "modeInfoLabel": "{{label}}, más información"
   },
   "ready": {
     "title": "Cuando estés listo/a",
@@ -181,12 +181,12 @@
     },
     "fallback": {
       "title": "Cambiaste al modo guiado",
-      "description": "Hubo un problema con la llamada en directo , puedes continuar en modo guiado."
+      "description": "Hubo un problema con la llamada en directo. Puedes continuar en modo guiado."
     },
     "status": {
       "preparing": "Preparando…",
       "connecting": "Conectando…",
-      "live": "En directo , empieza a hablar",
+      "live": "En directo. Empieza a hablar",
       "listening": "Escuchando…",
       "ended": "Llamada terminada",
       "completed": "Conversación completada",
@@ -327,7 +327,7 @@
     "audioAvailable": "Audio disponible",
     "browserTtsOnly": "Solo TTS del navegador",
     "computerVoice": "Voz del ordenador",
-    "computerVoiceHint": "Audio real aún cargándose , recarga en un momento para oírlo",
+    "computerVoiceHint": "Audio real aún cargándose. Recarga en un momento para oírlo",
     "playAll": "Reproducir Todo",
     "playRecording": "Reproducir",
     "replay": "Repetir",

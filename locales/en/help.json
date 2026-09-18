@@ -2,93 +2,93 @@
   "video_coming_soon": "Video coming soon",
   "play_video": "Play Video",
   "video_unavailable": "Video unavailable",
-  "subtitle": "Learn how to use UpSpeech with video tutorials and FAQs",
-  "quick_navigation": "Quick Navigation",
+  "subtitle": "The questions people ask most, and six videos under them.",
+  "quick_navigation": "Quick navigation",
   "search_placeholder": "Search for help...",
-  "video_library": "Video Library",
-  "faq_title": "Frequently Asked Questions",
+  "video_library": "Video library",
+  "faq_title": "Questions",
   "no_results": "No results found. Try a different search term.",
   "show_more_videos": "Show More Videos",
   "show_less": "Show Less",
   "more": "more",
   "categories": {
-    "all": "All Videos",
+    "all": "All videos",
     "patient": "For Patients",
     "therapist": "For Therapists",
     "admin": "For Admins"
   },
   "faq_categories": {
-    "getting_started": "Getting Started",
-    "learning_paths": "Learning Paths",
-    "exercise_system": "Exercise System",
-    "ai_scenarios": "AI Practice Scenarios",
-    "reports": "Reports & Documentation",
-    "annotations": "Recording Annotations",
-    "patient_linking": "Patient-Therapist Connection",
-    "progress": "Progress & Tracking",
-    "settings": "Settings & Account",
-    "technical": "Technical & Media",
+    "getting_started": "Getting started",
+    "learning_paths": "Learning paths",
+    "exercise_system": "Exercises",
+    "ai_scenarios": "AI scenarios",
+    "reports": "Reports",
+    "annotations": "Annotations",
+    "patient_linking": "Patient and therapist",
+    "progress": "Progress",
+    "settings": "Settings and account",
+    "technical": "Audio and video",
     "support": "Support"
   },
   "videos": {
     "account_settings": {
-      "title": "Account Settings & Preferences",
-      "description": "Change language, toggle dark mode, update password"
+      "title": "Account settings and preferences",
+      "description": "What you can change about your account, and where"
     },
     "my_journey": {
-      "title": "Your Therapy Journey",
-      "description": "View your learning path, expand milestones, see step details"
+      "title": "Your therapy journey",
+      "description": "How your path is laid out, and how to open a step"
     },
     "complete_exercise": {
-      "title": "How to Complete an Exercise",
-      "description": "Open an assignment, view instructions, and start an exercise"
+      "title": "Completing an exercise",
+      "description": "What a daily exercise looks like before you press record"
     },
     "practice_scenarios": {
-      "title": "Practising with AI Scenarios",
-      "description": "Browse practice library, pick a scenario, and start a session"
+      "title": "Practising with AI scenarios",
+      "description": "What a scenario session feels like from the first line"
     },
     "review_history": {
-      "title": "Reviewing Your Practice History",
-      "description": "Open history, view past sessions, and see your annotations"
+      "title": "Reviewing your practice history",
+      "description": "Where your past practice lives, and what your therapist wrote on it"
     },
     "manage_patients": {
-      "title": "Managing Your Patients",
-      "description": "View patient list, open detail page, browse progress tabs"
+      "title": "Managing your patients",
+      "description": "Getting from the caseload to one patient's progress"
     },
     "generate_report": {
-      "title": "Generating an AI Report",
+      "title": "Generating an AI report",
       "description": "Upload a recording and generate an AI-powered therapy report"
     },
     "edit_report": {
-      "title": "Editing a Report",
-      "description": "Open a report, enter edit mode, and modify sections"
+      "title": "Editing a report",
+      "description": "Changing a report's wording before you sign it"
     },
     "assign_exercise": {
-      "title": "Assigning an Exercise",
+      "title": "Assigning an exercise",
       "description": "Browse the exercise library and assign a game to a patient"
     },
     "review_submission": {
-      "title": "Reviewing a Patient Submission",
-      "description": "Open a submission, view recording, and see annotations"
+      "title": "Reviewing a patient submission",
+      "description": "Watching a recording and reading its annotations"
     },
     "learning_paths": {
-      "title": "Managing Learning Paths",
+      "title": "Managing learning paths",
       "description": "View learning paths, see assigned patients and their progress"
     },
     "user_management": {
-      "title": "Managing Users",
-      "description": "View user list, invite new users, and manage roles"
+      "title": "Managing users",
+      "description": "Inviting someone, and setting what they can do"
     },
     "tenant_settings": {
-      "title": "Organisation Settings",
-      "description": "View branding, colours, language, and team members"
+      "title": "Organisation settings",
+      "description": "The branding and the language your clinic uses"
     },
     "analytics": {
-      "title": "Understanding Analytics",
-      "description": "View metrics, change time range, and explore charts"
+      "title": "Understanding analytics",
+      "description": "Reading the charts, and changing the window they cover"
     },
     "control_room": {
-      "title": "Recording Review Control Room",
+      "title": "The recording review control room",
       "description": "Review recordings and view the annotation workstation"
     },
     "welcome_patient": {
@@ -111,7 +111,7 @@
     },
     "what_are_learning_paths": {
       "question": "What are learning paths?",
-      "answer": "Learning paths are structured therapy programs with milestones. Each milestone contains multiple steps with different exercise types (standard practice, scenarios, quizzes, reflections, and modeling). Patients follow the path sequentially, and therapists control when steps are completed or skipped."
+      "answer": "Learning paths are structured therapy programmes with milestones. Each milestone contains multiple steps with different exercise types (standard practice, scenarios, quizzes, reflections, and modelling). Patients follow the path sequentially, and therapists control when steps are completed or skipped."
     },
     "learning_path_progression": {
       "question": "How does progression through a learning path work?",
@@ -215,7 +215,7 @@
     },
     "user_roles": {
       "question": "What are the different user roles?",
-      "answer": "There are five roles: Owner manages the entire platform. Admin manages an organisation's users and settings. Therapist manages patients, exercises, reports, and learning paths. Patient and Member are both patient roles with the same permissions , they complete exercises and follow therapy programs."
+      "answer": "There are five roles: Owner manages the entire platform. Admin manages an organisation's users and settings. Therapist manages patients, exercises, reports, and learning paths. Patient and Member are both patient roles with the same permissions: they complete exercises and follow therapy programmes."
     },
     "audio_formats": {
       "question": "What audio and video formats are supported?",
@@ -232,12 +232,12 @@
   },
   "documentation": {
     "title": "Documentation",
-    "description": "Read our comprehensive guides and technical documentation",
-    "button": "View Documentation"
+    "description": "The written guides, in more depth than the videos.",
+    "button": "Read the guides"
   },
   "support": {
-    "title": "Contact Support",
-    "description": "Need help? Our support team is here for you.",
-    "button": "Email Support"
+    "title": "Contact support",
+    "description": "Email us and a person will reply.",
+    "button": "Email support"
   }
 }

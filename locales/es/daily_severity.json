@@ -22,7 +22,7 @@
     "no_data": "Aún no hay datos de severidad diaria.",
     "no_data_description": "Las puntuaciones de severidad aparecerán aquí cuando el paciente comience a completar los check-ins diarios.",
     "note_modal_title": "Nota del Día",
-    "note_modal_description": "{{date}} , Severidad: {{score}}/10",
+    "note_modal_description": "{{date}}. Severidad: {{score}}/10",
     "note_placeholder": "Escribe una nota sobre esta entrada...",
     "note_save": "Guardar Nota",
     "note_saving": "Guardando...",

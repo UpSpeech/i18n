@@ -22,7 +22,7 @@
     "no_data": "No daily severity data available yet.",
     "no_data_description": "Severity scores will appear here once the patient starts completing daily check-ins.",
     "note_modal_title": "Day Note",
-    "note_modal_description": "{{date}} , Severity: {{score}}/10",
+    "note_modal_description": "{{date}}. Severity: {{score}}/10",
     "note_placeholder": "Write a note about this day's entry...",
     "note_save": "Save Note",
     "note_saving": "Saving...",

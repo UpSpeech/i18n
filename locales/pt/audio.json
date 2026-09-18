@@ -60,12 +60,12 @@
     "resume": "Retomar",
     "pause": "Pausar",
     "unsaved_data_warning": "Tens dados de gravação não guardados. Tens a certeza de que queres sair?",
-    "recording_in_progress_warning": "A gravação está em curso , não mudes de página nem atualizes!",
+    "recording_in_progress_warning": "A gravação está em curso. Não mudes de página nem atualizes!",
     "unsaved_recording_warning": "Tens uma gravação não guardada. Certifica-te de que a carregas antes de saíres desta página.",
     "errors": {
       "processing_failed": "O processamento falhou. Tenta novamente.",
       "ai_processing_failed": "O processamento de IA falhou",
-      "processing_timeout": "Tempo limite de processamento , verifica a tua página de relatórios mais tarde",
+      "processing_timeout": "Tempo limite de processamento. Verifica a tua página de relatórios mais tarde",
       "duplicate_file": "Este ficheiro de áudio já foi enviado. Verifica as gravações existentes ou seleciona um ficheiro diferente.",
       "file_processing": "Este ficheiro de áudio está a ser processado. Aguarda que termine ou verifica a tua página de relatórios."
     },

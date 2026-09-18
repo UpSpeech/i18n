@@ -2,93 +2,93 @@
   "video_coming_soon": "Próximamente",
   "play_video": "Reproducir Vídeo",
   "video_unavailable": "Vídeo no disponible",
-  "subtitle": "Aprende a usar UpSpeech con tutoriales en vídeo y preguntas frecuentes",
-  "quick_navigation": "Navegación Rápida",
+  "subtitle": "Las preguntas que más nos hacen, y seis vídeos debajo de ellas.",
+  "quick_navigation": "Navegación rápida",
   "search_placeholder": "Buscar ayuda...",
-  "video_library": "Biblioteca de Vídeos",
-  "faq_title": "Preguntas Frecuentes",
+  "video_library": "Biblioteca de vídeos",
+  "faq_title": "Preguntas",
   "no_results": "No se encontraron resultados. Intenta con otro término de búsqueda.",
   "show_more_videos": "Mostrar Más Vídeos",
   "show_less": "Mostrar Menos",
   "more": "más",
   "categories": {
-    "all": "Todos los Vídeos",
+    "all": "Todos los vídeos",
     "patient": "Para Pacientes",
     "therapist": "Para Terapeutas",
     "admin": "Para Administradores"
   },
   "faq_categories": {
     "getting_started": "Comenzar",
-    "learning_paths": "Rutas de Aprendizaje",
-    "exercise_system": "Sistema de Ejercicios",
-    "ai_scenarios": "Escenarios de Práctica con IA",
-    "reports": "Informes y Documentación",
-    "annotations": "Anotaciones de Grabaciones",
-    "patient_linking": "Conexión Paciente-Terapeuta",
-    "progress": "Progreso y Seguimiento",
-    "settings": "Configuración y Cuenta",
-    "technical": "Técnico y Multimedia",
+    "learning_paths": "Rutas de aprendizaje",
+    "exercise_system": "Ejercicios",
+    "ai_scenarios": "Escenarios con IA",
+    "reports": "Informes",
+    "annotations": "Anotaciones",
+    "patient_linking": "Conexión paciente-terapeuta",
+    "progress": "Progreso",
+    "settings": "Configuración y cuenta",
+    "technical": "Audio y vídeo",
     "support": "Soporte"
   },
   "videos": {
     "account_settings": {
-      "title": "Configuración de Cuenta y Preferencias",
-      "description": "Cambiar idioma, activar modo oscuro, actualizar contraseña"
+      "title": "Configuración de cuenta y preferencias",
+      "description": "Lo que puedes cambiar en tu cuenta, y dónde"
     },
     "my_journey": {
-      "title": "Tu Jornada Terapéutica",
-      "description": "Ver ruta de aprendizaje, expandir hitos, ver detalles de pasos"
+      "title": "Tu jornada terapéutica",
+      "description": "Cómo está montada tu ruta, y cómo abrir un paso"
     },
     "complete_exercise": {
-      "title": "Cómo Completar un Ejercicio",
-      "description": "Abrir asignación, ver instrucciones e iniciar un ejercicio"
+      "title": "Cómo completar un ejercicio",
+      "description": "Lo que ves en un ejercicio diario antes de grabar"
     },
     "practice_scenarios": {
-      "title": "Practicar con Escenarios IA",
-      "description": "Explorar biblioteca de práctica, elegir escenario e iniciar sesión"
+      "title": "Practicar con escenarios IA",
+      "description": "Cómo es una sesión de escenario desde la primera frase"
     },
     "review_history": {
-      "title": "Revisar tu Historial de Práctica",
-      "description": "Abrir historial, ver sesiones anteriores y tus anotaciones"
+      "title": "Revisar tu historial de práctica",
+      "description": "Dónde vive tu práctica pasada, y lo que tu terapeuta escribió en ella"
     },
     "manage_patients": {
-      "title": "Gestión de tus Pacientes",
-      "description": "Ver lista de pacientes, abrir página de detalle, explorar pestañas de progreso"
+      "title": "Gestión de tus pacientes",
+      "description": "De la lista de pacientes al progreso de uno de ellos"
     },
     "generate_report": {
-      "title": "Generar un Informe con IA",
+      "title": "Generar un informe con IA",
       "description": "Subir grabación y generar informe terapéutico con IA"
     },
     "edit_report": {
-      "title": "Editar un Informe",
-      "description": "Abrir informe, entrar en modo de edición y modificar secciones"
+      "title": "Editar un informe",
+      "description": "Cambiar las palabras de un informe antes de firmarlo"
     },
     "assign_exercise": {
-      "title": "Asignar un Ejercicio",
+      "title": "Asignar un ejercicio",
       "description": "Explorar biblioteca de ejercicios y asignar un juego a un paciente"
     },
     "review_submission": {
-      "title": "Revisar un Envío de Paciente",
-      "description": "Abrir envío, ver grabación y ver anotaciones"
+      "title": "Revisar un envío de paciente",
+      "description": "Ver una grabación y leer sus anotaciones"
     },
     "learning_paths": {
-      "title": "Gestionar Rutas de Aprendizaje",
+      "title": "Gestionar rutas de aprendizaje",
       "description": "Ver rutas, ver pacientes asignados y su progreso"
     },
     "user_management": {
-      "title": "Gestionar Usuarios",
-      "description": "Ver lista de usuarios, invitar nuevos y gestionar roles"
+      "title": "Gestionar usuarios",
+      "description": "Invitar a alguien, y definir lo que puede hacer"
     },
     "tenant_settings": {
-      "title": "Configuración de la Organización",
-      "description": "Ver marca, colores, idioma y miembros del equipo"
+      "title": "Configuración de la organización",
+      "description": "La marca y el idioma que usa tu clínica"
     },
     "analytics": {
-      "title": "Comprender Análisis",
-      "description": "Ver métricas, cambiar período y explorar gráficos"
+      "title": "Comprender análisis",
+      "description": "Leer los gráficos, y cambiar el período que cubren"
     },
     "control_room": {
-      "title": "Sala de Revisión de Grabaciones",
+      "title": "Sala de revisión de grabaciones",
       "description": "Revisar grabaciones y ver la estación de anotaciones"
     },
     "welcome_patient": {
@@ -215,7 +215,7 @@
     },
     "user_roles": {
       "question": "¿Cuáles son los diferentes roles de usuario?",
-      "answer": "Hay cinco roles: Propietario gestiona toda la plataforma. Administrador gestiona usuarios y configuración de la organización. Terapeuta gestiona pacientes, ejercicios, informes y rutas de aprendizaje. Paciente y Miembro son ambos roles de paciente con los mismos permisos , completan ejercicios y siguen programas de terapia."
+      "answer": "Hay cinco roles: Propietario gestiona toda la plataforma. Administrador gestiona usuarios y configuración de la organización. Terapeuta gestiona pacientes, ejercicios, informes y rutas de aprendizaje. Paciente y Miembro son ambos roles de paciente con los mismos permisos: completan ejercicios y siguen programas de terapia."
     },
     "audio_formats": {
       "question": "¿Qué formatos de audio y vídeo son soportados?",
@@ -232,12 +232,12 @@
   },
   "documentation": {
     "title": "Documentación",
-    "description": "Lee nuestras guías completas y documentación técnica",
-    "button": "Ver Documentación"
+    "description": "Las guías escritas, con más detalle que los vídeos.",
+    "button": "Leer las guías"
   },
   "support": {
-    "title": "Contactar Soporte",
-    "description": "¿Necesitas ayuda? Nuestro equipo de soporte está aquí para ti.",
-    "button": "Enviar Correo a Soporte"
+    "title": "Contactar soporte",
+    "description": "Escríbenos y una persona responde.",
+    "button": "Enviar correo a soporte"
   }
 }

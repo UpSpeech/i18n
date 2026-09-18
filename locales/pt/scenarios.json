@@ -131,7 +131,7 @@
     "modeGuided": {
       "label": "Guiado",
       "description": "Começas e páras quando quiseres. Tu controlas o ritmo.",
-      "tooltip": "O microfone espera por ti. Começa a falar quando estiveres pronto e termina quando quiseres , nada te interrompe."
+      "tooltip": "O microfone espera por ti. Começa a falar quando estiveres pronto e termina quando quiseres. Nada te interrompe."
     },
     "modeRealistic": {
       "label": "Realista",
@@ -140,7 +140,7 @@
     },
     "begin": "Começar cenário",
     "goBack": "Voltar",
-    "modeInfoLabel": "{{label}} , mais informação"
+    "modeInfoLabel": "{{label}}, mais informação"
   },
   "ready": {
     "title": "Quando estiveres pronto(a)",
@@ -181,12 +181,12 @@
     },
     "fallback": {
       "title": "Mudaste para o modo guiado",
-      "description": "Houve um problema com a chamada em direto , podes continuar no modo guiado."
+      "description": "Houve um problema com a chamada em direto. Podes continuar no modo guiado."
     },
     "status": {
       "preparing": "A preparar…",
       "connecting": "A ligar…",
-      "live": "Em direto , começa a falar",
+      "live": "Em direto. Começa a falar",
       "listening": "A ouvir…",
       "ended": "Chamada terminada",
       "completed": "Conversa concluída",
@@ -213,13 +213,13 @@
     "scenario": "Cenário",
     "objectives": "Objetivos",
     "startConversation": "Começa a conversa escrevendo ou gravando a tua primeira mensagem.",
-    "speakNaturally": "Fala naturalmente , toma o teu tempo e expressa-te com clareza.",
+    "speakNaturally": "Fala naturalmente. Toma o teu tempo e expressa-te com clareza.",
     "text": "Texto",
     "voice": "Voz",
     "textPlaceholder": "Escreve a tua mensagem... (Enter para enviar, Shift+Enter para nova linha)",
     "send": "Enviar",
     "recording": "A gravar: {{duration}}",
-    "recordingReady": "Gravação pronta , Clica em \"Enviar\" para continuar",
+    "recordingReady": "Gravação pronta. Clica em \"Enviar\" para continuar",
     "clickToRecord": "Clica no microfone para começar a gravar",
     "voiceNote": "Nota: Transcrição de voz disponível em breve. Usa a entrada de texto por agora.",
     "stop": "Parar",
@@ -306,7 +306,7 @@
     "analysisNotAvailable": "Análise não disponível para esta sessão.",
     "noMessages": "Sem mensagens nesta conversa.",
     "personalReflections": "Reflexões Pessoais",
-    "notesHelperText": "Regista as tuas notas sobre esta sessão , o que correu bem, o que farias diferente ou quaisquer insights.",
+    "notesHelperText": "Regista as tuas notas sobre esta sessão: o que correu bem, o que farias diferente ou quaisquer insights.",
     "notesPlaceholder": "O que aprendeste com este cenário? O que farias de diferente na próxima vez?",
     "clinicalNotes": "Notas Clínicas",
     "notesHelperTextTherapist": "Adiciona observações, feedback ou notas de acompanhamento para a sessão deste paciente.",
@@ -327,7 +327,7 @@
     "audioAvailable": "Áudio disponível",
     "browserTtsOnly": "Apenas TTS do navegador",
     "computerVoice": "Voz do computador",
-    "computerVoiceHint": "Áudio real ainda a carregar , recarrega daqui a um instante para o ouvires",
+    "computerVoiceHint": "Áudio real ainda a carregar. Recarrega daqui a um instante para o ouvires",
     "playAll": "Reproduzir Tudo",
     "playRecording": "Reproduzir",
     "replay": "Repetir",

@@ -26,7 +26,7 @@
   },
   "immediate_risks": {
     "title": "Riesgos Inmediatos",
-    "subtitle": "Pacientes inactivos durante 3+ días , requiere atención",
+    "subtitle": "Pacientes inactivos durante 3+ días, requiere atención",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "days_inactive": "Días de Inactividad",
@@ -34,7 +34,7 @@
     "action": "Acción",
     "notify": "Notificar Terapeuta",
     "never_active": "Nunca activo",
-    "empty": "Ningún paciente en riesgo , todos los participantes del piloto están activos.",
+    "empty": "Ningún paciente en riesgo. Todos los participantes del piloto están activos.",
     "info": "Pacientes sin actividad en la plataforma (grabaciones, ejercicios o escenarios completados) durante 3 o más días, o que nunca han estado activos. Días de Inactividad muestra cuánto tiempo ha pasado desde su última actividad. Use Notificar Terapeuta para alertar al terapeuta asignado sobre pacientes desvinculados."
   },
   "missing_feedback": {
@@ -51,7 +51,7 @@
   },
   "weekly_activity": {
     "title": "Actividad Semanal",
-    "subtitle": "Todos los pacientes del piloto , participación de esta semana",
+    "subtitle": "Todos los pacientes del piloto, participación de esta semana",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "sessions": "Sesiones",
@@ -69,7 +69,7 @@
     "therapist": "Terapeuta",
     "sessions": "Sesiones",
     "trend": "vs Semana Anterior",
-    "info": "Pacientes con 3 o más sesiones de práctica esta semana. La tendencia compara el número de sesiones de esta semana con la semana anterior , valores positivos indican mejora, 'new' significa que es su primera semana cualificada."
+    "info": "Pacientes con 3 o más sesiones de práctica esta semana. La tendencia compara el número de sesiones de esta semana con la semana anterior. Valores positivos indican mejora y 'new' significa que es su primera semana cualificada."
   },
   "activity_overview": {
     "title": "Resumen de Actividad",
@@ -168,7 +168,7 @@
     "runs_failed": "Error al cargar los pilotos anteriores"
   },
   "actions": {
-    "notification_sent": "Notificación registrada (placeholder , no se envió email)",
+    "notification_sent": "Notificación registrada (placeholder, no se envió email)",
     "refresh": "Actualizar",
     "export": "Exportar",
     "download_csv": "Descargar CSV",
@@ -353,7 +353,7 @@
       "subtitle": "Promedio y mediana de minutos practicados por usuario por semana",
       "avg_label": "Promedio",
       "median_label": "Mediana",
-      "info": "Promedio y mediana del tiempo de práctica de grabación por paciente por semana, en minutos. La mediana ayuda a identificar si algunos usuarios intensivos distorsionan el promedio , si el promedio es mucho mayor que la mediana, un grupo pequeño está haciendo la mayor parte de la práctica. Solo las grabaciones relacionadas con ejercicios (mini-juegos, ejercicios del itinerario de aprendizaje) cuentan para el tiempo de práctica."
+      "info": "Promedio y mediana del tiempo de práctica de grabación por paciente por semana, en minutos. La mediana ayuda a identificar si algunos usuarios intensivos distorsionan el promedio. Si el promedio es mucho mayor que la mediana, un grupo pequeño está haciendo la mayor parte de la práctica. Solo las grabaciones relacionadas con ejercicios (mini-juegos, ejercicios del itinerario de aprendizaje) cuentan para el tiempo de práctica."
     },
     "dropoff": {
       "title": "Curva de Abandono",
@@ -393,7 +393,7 @@
       "subtitle": "Puntuación final menos baseline (CBSA-SR, menor = mejoría)",
       "change": "Cambio",
       "empty": "Sin datos de severidad disponibles.",
-      "info": "Cambio en la severidad de la tartamudez auto-reportada usando la escala CBSA-SR (Communication-Based Self-Assessment of Stuttering , Self-Report). Compara la puntuación baseline de onboarding de cada paciente con su evaluación semanal más reciente. Valores negativos (barras verdes) indican mejoría; valores positivos (barras rojas) indican empeoramiento. Los pacientes necesitan un baseline y al menos una evaluación de seguimiento para aparecer aquí."
+      "info": "Cambio en la severidad de la tartamudez auto-reportada usando la escala CBSA-SR (Communication-Based Self-Assessment of Stuttering, Self-Report). Compara la puntuación baseline de onboarding de cada paciente con su evaluación semanal más reciente. Valores negativos (barras verdes) indican mejoría; valores positivos (barras rojas) indican empeoramiento. Los pacientes necesitan un baseline y al menos una evaluación de seguimiento para aparecer aquí."
     },
     "kpi": {
       "retention_week_8": "Retención en Semana 8",
@@ -401,7 +401,7 @@
       "retention_info": "Porcentaje de pacientes del piloto que siguen utilizando activamente la plataforma en la semana 8. Un paciente se considera activo si completó al menos 1 sesión de práctica esa semana. Este KPI solo está disponible tras 8+ semanas de piloto. Los pacientes del grupo de control están excluidos.",
       "week1_activation": "Activación Semana 1",
       "week1_helper": "% con ≥2 sesiones en primera semana",
-      "week1_info": "Porcentaje de pacientes del piloto que completaron al menos 2 sesiones de práctica durante su primera semana en el programa. Una sesión cuenta cuando las grabaciones de ejercicios totalizan ≥3 minutos o un ejercicio de cuestionario se completa. Objetivo: ≥60%. Este es un indicador adelantado , baja activación predice mayor abandono.",
+      "week1_info": "Porcentaje de pacientes del piloto que completaron al menos 2 sesiones de práctica durante su primera semana en el programa. Una sesión cuenta cuando las grabaciones de ejercicios totalizan ≥3 minutos o un ejercicio de cuestionario se completa. Objetivo: ≥60%. Este es un indicador adelantado: baja activación predice mayor abandono.",
       "not_available": "N/D"
     },
     "alerts": {
@@ -415,7 +415,7 @@
       "therapist_no_response_48h_other": "{{count}} grabaciones esperando feedback desde hace más de 48h",
       "inactive_7d": "{{count}} paciente(s) inactivos por 7+ días",
       "inactive_3d": "{{count}} paciente(s) inactivos por 3+ días",
-      "no_alerts": "Sin alertas , el piloto va por buen camino."
+      "no_alerts": "Sin alertas. El piloto va por buen camino."
     },
     "snapshots": {
       "compare_label": "Comparar con",

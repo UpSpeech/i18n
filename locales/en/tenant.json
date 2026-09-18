@@ -23,7 +23,7 @@
     "view_all_members": "View all {{count}} more members",
     "quick_actions": "Quick Actions",
     "manage_users": "Manage Users",
-    "manage_users_description": "Add, edit, and remove team members",
+    "manage_users_description": "Who is on the team, and what each of them can do",
     "view_reports": "View Reports",
     "view_reports_description": "Access organisation reports",
     "not_found": "Organisation Not Found",

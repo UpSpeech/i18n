@@ -12,7 +12,9 @@
   "types": {
     "inactive_patient": "{{patient_name}} has been inactive for {{days_inactive}} days",
     "missing_feedback": "{{patient_name}} has recordings waiting for review ({{hours_since_submission}}h)",
-    "practice_reminder": "Time to practice! Your {{exercise_name}} exercise is waiting.",
+    "practice_reminder": "Time to practise. Your next step is waiting.",
+    "practice_reminder_days_one": "It has been a day since you last practised.",
+    "practice_reminder_days_other": "It has been {{count}} days since you last practised.",
     "therapist_feedback": "{{therapist_name}} left feedback on your {{exercise_name}} submission",
     "therapist_feedback_batch": "{{therapist_name}} left feedback on your recent practice",
     "milestone_unlocked": "You reached Milestone {{milestone_position}}. Your next step is ready.",
