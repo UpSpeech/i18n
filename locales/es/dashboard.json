@@ -30,7 +30,7 @@
     "of_steps": "de {{total}} pasos",
     "practice_time": "Tiempo de Práctica",
     "minutes": "minutos",
-    "exercises_done": "Ejercicios Hechos",
+    "exercises_done": "Ejercicios completados",
     "activities_this_week": "{{count}} actividades esta semana",
     "no_activities_last_week": "Sin actividades la semana pasada",
     "step_label": "Paso {{number}}",
