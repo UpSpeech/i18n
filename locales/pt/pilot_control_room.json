@@ -22,7 +22,8 @@
     "at_risk_helper": "Zero sessões esta semana",
     "avg_sessions": "Média de Sessões",
     "avg_sessions_helper": "Por paciente esta semana",
-    "total_patients": "No Piloto"
+    "total_patients": "No Piloto",
+    "total_patients_unit": "{{count}} inscritos"
   },
   "immediate_risks": {
     "title": "Riscos Imediatos",
@@ -103,7 +104,10 @@
     "control": "Controlo",
     "control_group_confirm_title": "Mover para o grupo de controlo?",
     "control_group_confirm_message": "{{name}} perderá acesso a todas as funcionalidades da aplicação. Apenas verá um ecrã de inscrição no estudo após concluir a avaliação de fala.",
-    "control_group_confirm_button": "Mover para grupo de controlo"
+    "control_group_confirm_button": "Mover para grupo de controlo",
+    "group_aria": "Grupo do piloto de {{name}}",
+    "control_toggle_aria": "Alternar o grupo de controlo de {{name}}",
+    "pilot_toggle_aria": "Alternar o estado no piloto de {{name}}"
   },
   "feature_flags": {
     "title": "Funcionalidades",
