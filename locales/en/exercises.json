@@ -316,7 +316,8 @@
       "select_patient": "Please select at least one patient",
       "start_date_required": "Start date is required"
     },
-    "subtitle": "Daily practice exercises for your patients"
+    "subtitle": "Daily practice exercises for your patients",
+    "assignment_partial_failure": "Some assignments could not be created: {{names}}. The rest were assigned - retry to send just these."
   },
   "completion": {
     "recording_interrupted": "Recording was interrupted. Please try again.",
@@ -463,13 +464,15 @@
         "description": "Play the video and tap a button whenever you notice a primary disfluency.",
         "tip": "It's okay to miss some. This is about building awareness, not perfection.",
         "empty": "Play the video and mark what you notice. Take your time.",
-        "continue": "Continue to Classification"
+        "continue": "Continue to Classification",
+        "submit": "Complete Identification"
       },
       "classify": {
         "description": "Review each moment you marked. For each one, note whether the disfluency was short or long, and whether you noticed soft or tense muscle involvement.",
         "progress": "{{completed}} of {{total}} moments classified",
         "all_done": "All moments classified. Nice work.",
-        "continue": "Continue to Secondary Behaviours"
+        "continue": "Continue to Secondary Behaviours",
+        "nothing_to_classify": "No primary disfluencies to classify. Continue when you're ready."
       },
       "identify_secondary": {
         "description": "Watch the video once more and look for secondary behaviours: movements or strategies that accompany stuttering.",
@@ -1003,5 +1006,17 @@
     "week_title": "This week",
     "week_sessions": "{{count}} sessions reported this week",
     "week_no_days": "Pick the days inside each exercise and they show up here."
+  },
+  "parameter": {
+    "hold_target": "Hold target · {{count}}s",
+    "exit": "Exit: {{speed}}",
+    "exit_timed": "Exit: {{speed}} · {{count}}s",
+    "pause_target": "Target pause · {{count}}s",
+    "autonomous_pauses": "Your own pauses",
+    "speed": {
+      "very_slow": "very slow",
+      "medium": "medium",
+      "natural": "natural"
+    }
   }
 }

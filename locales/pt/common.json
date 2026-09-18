@@ -6,7 +6,14 @@
     "type_selection": "Tipo de gravação",
     "stop": "Parar gravação",
     "start": "Iniciar gravação",
-    "in_progress": "A gravar"
+    "in_progress": "A gravar",
+    "framing": {
+      "idle": "Olha para a câmara e mantém a cara toda no enquadramento",
+      "no_face": "Vira-te para a câmara",
+      "too_small": "Aproxima-te",
+      "off_center": "Centra a cara no enquadramento",
+      "good": "O enquadramento está bom"
+    }
   },
   "hold_button": {
     "press_hold": "Prime e Mantém",
@@ -47,7 +54,8 @@
     "in_target_zone_sr": "Na zona alvo",
     "outside_target_zone_sr": "Fora da zona alvo",
     "recording_paused": "Em pausa",
-    "recording_active": "A gravar..."
+    "recording_active": "A gravar...",
+    "inactive": "Visualizador em pausa"
   },
   "loading": "A carregar...",
   "error": "Erro",
@@ -539,7 +547,8 @@
       "step_added": "Passo adicionado ao percurso",
       "step_removed": "Passo removido",
       "write_step": "Escrever um passo",
-      "closed_but_not_added": "{{title}} foi fechado, mas o passo novo não foi acrescentado. Acrescenta-o outra vez."
+      "closed_but_not_added": "{{title}} foi fechado, mas o passo novo não foi acrescentado. Acrescenta-o outra vez.",
+      "goal_settled": "já começou, por isso não pode mudar de nome nem de lugar"
     },
     "goal_fraction": "{{done}} de {{total}} em {{goal}}",
     "lifetime_steps_one": "{{count}} passo concluído",
@@ -995,7 +1004,13 @@
       "scratch_help": "Um objetivo vazio, e escreves tu o primeiro passo.",
       "scratch_action": "Começar a escrever",
       "apply_failed": "Não foi possível começar esse percurso",
-      "apply_partial": "Começado, mas {{count}} de {{total}} objetivos não foram escritos. Os restantes estão no percurso."
+      "apply_partial": "Começado, mas {{count}} de {{total}} objetivos não foram escritos. Os restantes estão no percurso.",
+      "templates_failed": "Não conseguimos carregar os modelos.",
+      "template_steps_one": "{{count}} passo",
+      "template_steps_other": "{{count}} passos",
+      "back": "Voltar às três formas de começar",
+      "template_default": "Onde a maioria dos pacientes começa",
+      "scratch_applied": "Percurso começado"
     },
     "practice_days_title": "Que dias te dão jeito?",
     "practice_days_any": "Escolhe os dias que te dão jeito.",
@@ -1024,7 +1039,41 @@
       "confirm_action": "Manter fora",
       "plan_actions": "Acoes do plano"
     },
-    "step_occurrence": "Tentativa {{n}} de {{total}}"
+    "step_occurrence": "Tentativa {{n}} de {{total}}",
+    "gate": {
+      "dose_week": "{{count}}x por semana",
+      "dose_minutes": "até {{count}} min",
+      "title": "Atribuir a {{name}}",
+      "subtitle": "{{name}} não vê nada até confirmares.",
+      "omitted_one": "{{count}} passo não pôde ser trazido e não está abaixo.",
+      "omitted_other": "{{count}} passos não puderam ser trazidos e não estão abaixo.",
+      "goal_title": "Nome do objetivo {{position}}",
+      "move_goal_up": "Mover para cima",
+      "move_goal_down": "Mover para baixo",
+      "remove_goal": "Remover {{title}}",
+      "starts_first": "começa primeiro",
+      "edit_step": "Editar {{title}}",
+      "remove_step": "Remover {{title}}",
+      "add_step": "Adicionar um passo",
+      "confirm_empty": "Adiciona um passo para continuar",
+      "add_goal": "Adicionar um objetivo",
+      "confirming": "A atribuir",
+      "confirm": "Atribuir",
+      "unresolved_one": "{{count}} passo não correspondeu a nenhum exercício desta clínica e ficou escrito com as tuas palavras.",
+      "unresolved_other": "{{count}} passos não corresponderam a nenhum exercício desta clínica e ficaram escritos com as tuas palavras."
+    },
+    "reassign_authored_unsupported": "Escreve este passo de novo. Não está no currículo, por isso não há nada para voltar a atribuir.",
+    "technique_rating_save_failed": "Não foi possível guardar a tua avaliação, mas o teu progresso continua.",
+    "empty_path_title": "O teu primeiro passo está a caminho",
+    "empty_path_description": "O teu terapeuta está a preparar o teu plano. Vais ver aqui o teu primeiro passo.",
+    "condition": {
+      "question": "Para que é este percurso?",
+      "label": "Condição",
+      "required": "Escolhe uma condição para começar",
+      "none": "Sem condição definida"
+    },
+    "intro_video_open": "Abrir a introdução",
+    "intro_video_title": "Introdução"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -1237,7 +1286,24 @@
     "assign": "Atribuir",
     "assign_to_whom": "Para quem é?",
     "assign_to_whom_help": "Vais parar ao percurso dele, com o editor aberto. Cada passo entra num objetivo.",
-    "choose_patient": "Escolher um paciente"
+    "choose_patient": "Escolher um paciente",
+    "result_count_one": "{{count}} exercício",
+    "result_count_other": "{{count}} exercícios",
+    "untagged_shown_one": "um deles ainda não tem etiquetas, por isso corresponde a todos os filtros",
+    "untagged_shown_other": "{{count}} deles ainda não têm etiquetas, por isso correspondem a todos os filtros",
+    "assigned_to_patients": "{{count}} pacientes",
+    "value": {
+      "fluency": "Fluência",
+      "articulation": "Articulação",
+      "language": "Linguagem",
+      "voice": "Voz",
+      "child": "Criança",
+      "adult": "Adulto",
+      "word": "Palavra",
+      "phrase": "Frase curta",
+      "sentence": "Frase",
+      "conversation": "Conversa"
+    }
   },
   "go_to_practice": "Ir para a minha prática",
   "no_data": "Sem dados",

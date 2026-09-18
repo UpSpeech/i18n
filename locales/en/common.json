@@ -6,7 +6,14 @@
     "type_selection": "Recording type",
     "stop": "Stop recording",
     "start": "Start recording",
-    "in_progress": "Recording"
+    "in_progress": "Recording",
+    "framing": {
+      "idle": "Look at the camera and keep your whole face in the frame",
+      "no_face": "Face the camera",
+      "too_small": "Move closer",
+      "off_center": "Center your face in the frame",
+      "good": "Framing looks good"
+    }
   },
   "hold_button": {
     "press_hold": "Press & Hold",
@@ -47,7 +54,8 @@
     "in_target_zone_sr": "In target zone",
     "outside_target_zone_sr": "Outside target zone",
     "recording_paused": "Paused",
-    "recording_active": "Recording..."
+    "recording_active": "Recording...",
+    "inactive": "Visualizer paused"
   },
   "loading": "Loading...",
   "error": "Error",
@@ -539,7 +547,8 @@
       "step_added": "Step added to the path",
       "step_removed": "Step removed",
       "write_step": "Write a step",
-      "closed_but_not_added": "{{title}} closed, but the new step was not added. Add it again."
+      "closed_but_not_added": "{{title}} closed, but the new step was not added. Add it again.",
+      "goal_settled": "started, so it cannot be renamed or moved"
     },
     "goal_fraction": "{{done}} of {{total}} in {{goal}}",
     "lifetime_steps_one": "{{count}} step completed",
@@ -995,7 +1004,13 @@
       "scratch_help": "One empty goal, and you write the first step.",
       "scratch_action": "Start writing",
       "apply_failed": "That path could not be started",
-      "apply_partial": "Started, but {{count}} of {{total}} goals could not be written. The rest are on the path."
+      "apply_partial": "Started, but {{count}} of {{total}} goals could not be written. The rest are on the path.",
+      "templates_failed": "We could not load the templates.",
+      "template_steps_one": "{{count}} step",
+      "template_steps_other": "{{count}} steps",
+      "back": "Back to the three ways in",
+      "template_default": "Where most patients start",
+      "scratch_applied": "Path started"
     },
     "practice_days_title": "Which days suit you?",
     "practice_days_any": "Pick the days that suit you.",
@@ -1024,7 +1039,41 @@
       "confirm_action": "Keep it out",
       "plan_actions": "Plan actions"
     },
-    "step_occurrence": "Attempt {{n}} of {{total}}"
+    "step_occurrence": "Attempt {{n}} of {{total}}",
+    "gate": {
+      "dose_week": "{{count}}x a week",
+      "dose_minutes": "up to {{count}} min",
+      "title": "Assign to {{name}}",
+      "subtitle": "{{name}} sees nothing until you confirm.",
+      "omitted_one": "{{count}} step could not be carried over and is not below.",
+      "omitted_other": "{{count}} steps could not be carried over and are not below.",
+      "goal_title": "Name for goal {{position}}",
+      "move_goal_up": "Move up",
+      "move_goal_down": "Move down",
+      "remove_goal": "Remove {{title}}",
+      "starts_first": "starts first",
+      "edit_step": "Edit {{title}}",
+      "remove_step": "Remove {{title}}",
+      "add_step": "Add a step",
+      "confirm_empty": "Add a step to continue",
+      "add_goal": "Add a goal",
+      "confirming": "Assigning",
+      "confirm": "Assign",
+      "unresolved_one": "{{count}} step could not be matched to this clinic's exercises and was written as your own words.",
+      "unresolved_other": "{{count}} steps could not be matched to this clinic's exercises and were written as your own words."
+    },
+    "reassign_authored_unsupported": "Write this step again instead. It is not in the curriculum, so there is nothing to assign back.",
+    "technique_rating_save_failed": "Your rating could not be saved, but your progress continues.",
+    "empty_path_title": "Your first step is coming",
+    "empty_path_description": "Your therapist is building your plan. You will see your first step here.",
+    "condition": {
+      "question": "What is this path for?",
+      "label": "Condition",
+      "required": "Choose a condition to start",
+      "none": "No condition set"
+    },
+    "intro_video_open": "Open the introduction",
+    "intro_video_title": "Introduction"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
@@ -1237,7 +1286,24 @@
     "assign": "Assign",
     "assign_to_whom": "Who is this for?",
     "assign_to_whom_help": "You will land in their path, with the composer open. Every step goes into a goal.",
-    "choose_patient": "Choose a patient"
+    "choose_patient": "Choose a patient",
+    "result_count_one": "{{count}} exercise",
+    "result_count_other": "{{count}} exercises",
+    "untagged_shown_one": "one of them is not tagged yet, so it matches every filter",
+    "untagged_shown_other": "{{count}} of them are not tagged yet, so they match every filter",
+    "assigned_to_patients": "{{count}} patients",
+    "value": {
+      "fluency": "Fluency",
+      "articulation": "Articulation",
+      "language": "Language",
+      "voice": "Voice",
+      "child": "Child",
+      "adult": "Adult",
+      "word": "Word",
+      "phrase": "Phrase",
+      "sentence": "Sentence",
+      "conversation": "Conversation"
+    }
   },
   "go_to_practice": "Go to my practice",
   "no_data": "No data",

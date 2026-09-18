@@ -342,7 +342,8 @@
       "answer_placeholder": "Responde a la pregunta...",
       "answer_other": "Otra cosa",
       "answer_confirm": "Continuar",
-      "answer_nothing_else": "Nada más que añadir"
+      "answer_nothing_else": "Nada más que añadir",
+      "finalizing": "Tus respuestas ya se están guardando, así que esta no se pudo añadir. No queda nada por enviar."
     }
   }
 }

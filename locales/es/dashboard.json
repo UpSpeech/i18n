@@ -160,7 +160,8 @@
     "attention_queue_empty_action": "Ver todos los pacientes",
     "attention_queue_milestone": "Hito {{position}} / {{total}}",
     "last_active_days_ago_one": "Última actividad hace 1 día",
-    "last_active_days_ago_other": "Última actividad hace {{count}} días"
+    "last_active_days_ago_other": "Última actividad hace {{count}} días",
+    "attention_queue_action_dismiss": "Descartar"
   },
   "owner": {
     "greeting_morning": "Buenos días",

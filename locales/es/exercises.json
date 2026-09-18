@@ -316,7 +316,8 @@
       "select_patient": "Por favor selecciona al menos un paciente",
       "start_date_required": "La fecha de inicio es obligatoria"
     },
-    "subtitle": "Ejercicios de práctica diaria para tus pacientes"
+    "subtitle": "Ejercicios de práctica diaria para tus pacientes",
+    "assignment_partial_failure": "No se pudieron crear algunas asignaciones: {{names}}. El resto se asignaron. Vuelve a intentarlo para enviar solo estas."
   },
   "completion": {
     "recording_interrupted": "La grabación fue interrumpida. Por favor, inténtalo de nuevo.",
@@ -463,13 +464,15 @@
         "description": "Reproduce el video y toca un botón cada vez que notes una disfluencia primaria.",
         "tip": "No pasa nada si no identificas algunas. Esto es sobre construir consciencia, no perfección.",
         "empty": "Reproduce el video y marca lo que notes. Tómate tu tiempo.",
-        "continue": "Continuar a Clasificación"
+        "continue": "Continuar a Clasificación",
+        "submit": "Completar identificación"
       },
       "classify": {
         "description": "Revisa cada momento que marcaste. Para cada uno, indica si la disfluencia fue corta o larga, y si notaste participación muscular suave o tensa.",
         "progress": "{{completed}} de {{total}} momentos clasificados",
         "all_done": "Todos los momentos clasificados. Buen trabajo.",
-        "continue": "Continuar a Comportamientos Secundarios"
+        "continue": "Continuar a Comportamientos Secundarios",
+        "nothing_to_classify": "No hay disfluencias principales que clasificar. Continúa cuando estés listo."
       },
       "identify_secondary": {
         "description": "Mira el video una vez más y busca comportamientos secundarios: movimientos o estrategias que acompañan el tartamudeo.",
@@ -1003,5 +1006,17 @@
     "week_title": "Esta semana",
     "week_sessions": "{{count}} sesiones registradas esta semana",
     "week_no_days": "Elige los días dentro de cada ejercicio y aparecerán aquí."
+  },
+  "parameter": {
+    "hold_target": "Mantener · {{count}}s",
+    "exit": "Salida: {{speed}}",
+    "exit_timed": "Salida: {{speed}} · {{count}}s",
+    "pause_target": "Pausa objetivo · {{count}}s",
+    "autonomous_pauses": "Tus propias pausas",
+    "speed": {
+      "very_slow": "muy lenta",
+      "medium": "media",
+      "natural": "natural"
+    }
   }
 }

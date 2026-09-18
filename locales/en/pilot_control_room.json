@@ -333,7 +333,8 @@
       "speech_assessments": "Speech assessments",
       "recording_reviews": "Recording reviews",
       "none": "None yet",
-      "unscored": "{{count}} assessment recording(s) uploaded but not yet scored. Score them in the annotation room to populate the pre/post outcome view."
+      "unscored": "{{count}} assessment recording(s) uploaded but not yet scored. Score them in the annotation room to populate the pre/post outcome view.",
+      "expert_reviews": "Recording reviews"
     },
     "statuses": {
       "pending": "Pending",
