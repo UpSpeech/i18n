@@ -55,8 +55,8 @@
     "last_updated": "Última Atualização",
     "source_recording": "Gravação de Origem",
     "duration": "Duração",
-    "generated_by": "Gerado por:",
-    "using_platform": "através da Plataforma UpSpeech com Assistência de IA",
+    "generated_by": "Preparado por:",
+    "using_platform": "",
     "created_label": "Criado em:",
     "organization": "Organização:",
     "disclaimer": "Este relatório foi gerado com assistência de IA e deve ser revisto por um terapeuta da fala qualificado antes da utilização clínica. A informação contida neste relatório é confidencial e destina-se apenas ao uso do indivíduo ou entidade acima mencionada."

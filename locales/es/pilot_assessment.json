@@ -18,7 +18,7 @@
     "interest_placeholder": "ej.: cocina, viajes, deportes...",
     "suggest": "Sugerir Temas",
     "or_pick": "o elige uno:",
-    "pick_topic": "Aquí tienes algunas ideas , elige una o habla libremente:",
+    "pick_topic": "Aquí tienes algunas ideas. Elige una o habla libremente:",
     "loading_topics": "Buscando sugerencias de temas...",
     "topics_error": "No se pudieron cargar los temas. Inténtalo de nuevo.",
     "quick_cooking": "Cocina",
@@ -44,19 +44,19 @@
     "confirm_short_body": "Su grabación tiene menos de los 2 minutos recomendados. ¿Desea enviarla de todos modos, o seguir grabando?",
     "confirm_short_submit": "Enviar de todos modos",
     "confirm_short_cancel": "Seguir grabando",
-    "min_reached": "Ha pasado la marca de los 2 minutos , puede detenerse cuando quiera.",
-    "min_remaining": "Continúe , faltan {{time}} para los 2 minutos"
+    "min_reached": "Ha pasado la marca de los 2 minutos. Puede detenerse cuando quiera.",
+    "min_remaining": "Continúe. Faltan {{time}} para los 2 minutos"
   },
   "thank_you": {
     "title": "¡Gracias, {{name}}!",
     "message": "Hemos recibido ambas grabaciones. Su terapeuta las revisará y se pondrá en contacto pronto.",
-    "stay_message": "Puede cerrar esta página , le avisaremos cuando su acceso a la plataforma esté listo.",
+    "stay_message": "Puede cerrar esta página. Le avisaremos cuando su acceso a la plataforma esté listo.",
     "logout": "Cerrar sesión",
     "go_to_app": "Ir a la aplicación"
   },
   "control_group": {
     "title": "Estás inscrito, {{name}}",
-    "message": "Hemos recibido sus grabaciones , ¡gracias por participar en este estudio! Su terapeuta se pondrá en contacto sobre su plan de práctica.",
+    "message": "Hemos recibido sus grabaciones. ¡Gracias por participar en este estudio! Su terapeuta se pondrá en contacto sobre su plan de práctica.",
     "practice_hint": "No necesita hacer nada más aquí por ahora. Nos pondremos en contacto cuando el período del estudio haya concluido.",
     "contact_hint": "¿Preguntas? Contacte directamente con su terapeuta."
   },

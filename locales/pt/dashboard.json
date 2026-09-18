@@ -1,5 +1,9 @@
 {
   "overview": "Visão geral do teu progresso na análise da fala",
+  "overview_patient": "O que o teu terapeuta marcou para ti esta semana.",
+  "overview_therapist": "Os teus pacientes, e o que está à tua espera.",
+  "overview_admin": "Os utilizadores, pacientes e a atividade da tua organização.",
+  "overview_owner": "Todas as organizações, e a atividade em toda a plataforma.",
   "upload_subtitle": "Grava um novo ficheiro de áudio para análise",
   "reports_subtitle": "Ver e gerir todos os relatórios",
   "users_subtitle": "Gerir utilizadores do sistema e permissões",
@@ -87,7 +91,7 @@
     "no_recent_exercises": "Sem atividade de exercícios nos últimos 14 dias",
     "no_activity_yet": "Sem atividade nos últimos 14 dias",
     "patient_activity_overview": "Visão Geral da Atividade do Paciente",
-    "patient_activity_description": "Visão geral visual da conclusão de exercícios dos pacientes. O tamanho da bolha indica o nível de atividade.",
+    "patient_activity_description": "Uma bolha por paciente. Quanto maior, mais praticou.",
     "time_filter": {
       "today": "Hoje",
       "week": "Semana",

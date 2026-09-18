@@ -26,7 +26,7 @@
   },
   "immediate_risks": {
     "title": "Riscos Imediatos",
-    "subtitle": "Pacientes inativos há 3+ dias , requer atenção",
+    "subtitle": "Pacientes inativos há 3+ dias, requer atenção",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "days_inactive": "Dias de Inatividade",
@@ -34,7 +34,7 @@
     "action": "Ação",
     "notify": "Notificar Terapeuta",
     "never_active": "Nunca ativo",
-    "empty": "Nenhum paciente em risco , todos os participantes do piloto estão ativos.",
+    "empty": "Nenhum paciente em risco. Todos os participantes do piloto estão ativos.",
     "info": "Pacientes sem qualquer atividade na plataforma (gravações, exercícios ou cenários concluídos) há 3 ou mais dias, ou que nunca estiveram ativos. Dias de Inatividade mostra há quanto tempo foi a última atividade. Use Notificar Terapeuta para alertar o terapeuta atribuído sobre pacientes desligados."
   },
   "missing_feedback": {
@@ -51,7 +51,7 @@
   },
   "weekly_activity": {
     "title": "Atividade Semanal",
-    "subtitle": "Todos os pacientes do piloto , envolvimento desta semana",
+    "subtitle": "Todos os pacientes do piloto, envolvimento desta semana",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "sessions": "Sessões",
@@ -69,7 +69,7 @@
     "therapist": "Terapeuta",
     "sessions": "Sessões",
     "trend": "vs Semana Anterior",
-    "info": "Pacientes com 3 ou mais sessões de prática esta semana. A tendência compara o número de sessões desta semana com a semana anterior , valores positivos indicam melhoria, 'new' significa que é a primeira semana qualificada."
+    "info": "Pacientes com 3 ou mais sessões de prática esta semana. A tendência compara o número de sessões desta semana com a semana anterior. Valores positivos indicam melhoria e 'new' significa que é a primeira semana qualificada."
   },
   "activity_overview": {
     "title": "Visão Geral de Atividade",
@@ -168,7 +168,7 @@
     "runs_failed": "Falha ao carregar os pilotos anteriores"
   },
   "actions": {
-    "notification_sent": "Notificação registada (placeholder , nenhum email enviado)",
+    "notification_sent": "Notificação registada (placeholder, nenhum email enviado)",
     "refresh": "Atualizar",
     "export": "Exportar",
     "download_csv": "Transferir CSV",
@@ -353,7 +353,7 @@
       "subtitle": "Média e mediana de minutos praticados por utilizador por semana",
       "avg_label": "Média",
       "median_label": "Mediana",
-      "info": "Média e mediana do tempo de prática de gravação por paciente por semana, em minutos. A mediana ajuda a identificar se alguns utilizadores intensivos estão a distorcer a média , se a média for muito superior à mediana, um pequeno grupo está a fazer a maior parte da prática. Apenas gravações relacionadas com exercícios (mini-jogos, exercícios do percurso de aprendizagem) contam para o tempo de prática."
+      "info": "Média e mediana do tempo de prática de gravação por paciente por semana, em minutos. A mediana ajuda a identificar se alguns utilizadores intensivos estão a distorcer a média. Se a média for muito superior à mediana, um pequeno grupo está a fazer a maior parte da prática. Apenas gravações relacionadas com exercícios (mini-jogos, exercícios do percurso de aprendizagem) contam para o tempo de prática."
     },
     "dropoff": {
       "title": "Curva de Abandono",
@@ -393,7 +393,7 @@
       "subtitle": "Pontuação final menos baseline (CBSA-SR, menor = melhoria)",
       "change": "Mudança",
       "empty": "Sem dados de severidade disponíveis.",
-      "info": "Mudança na severidade da gaguez auto-reportada usando a escala CBSA-SR (Communication-Based Self-Assessment of Stuttering , Self-Report). Compara a pontuação baseline de onboarding de cada paciente com a avaliação semanal mais recente. Valores negativos (barras verdes) indicam melhoria; valores positivos (barras vermelhas) indicam agravamento. Os pacientes precisam de um baseline e pelo menos uma avaliação de seguimento para aparecerem aqui."
+      "info": "Mudança na severidade da gaguez auto-reportada usando a escala CBSA-SR (Communication-Based Self-Assessment of Stuttering, Self-Report). Compara a pontuação baseline de onboarding de cada paciente com a avaliação semanal mais recente. Valores negativos (barras verdes) indicam melhoria; valores positivos (barras vermelhas) indicam agravamento. Os pacientes precisam de um baseline e pelo menos uma avaliação de seguimento para aparecerem aqui."
     },
     "kpi": {
       "retention_week_8": "Retenção na Semana 8",
@@ -401,7 +401,7 @@
       "retention_info": "Percentagem de pacientes do piloto que ainda utilizam ativamente a plataforma na semana 8. Um paciente é considerado ativo se completou pelo menos 1 sessão de prática nessa semana. Este KPI só está disponível após 8+ semanas de piloto. Pacientes do grupo de controlo são excluídos.",
       "week1_activation": "Ativação Semana 1",
       "week1_helper": "% com ≥2 sessões na primeira semana",
-      "week1_info": "Percentagem de pacientes do piloto que completaram pelo menos 2 sessões de prática durante a primeira semana no programa. Uma sessão conta quando gravações de exercícios totalizam ≥3 minutos ou um exercício de questionário é concluído. Objetivo: ≥60%. Este é um indicador avançado , baixa ativação prevê maior abandono.",
+      "week1_info": "Percentagem de pacientes do piloto que completaram pelo menos 2 sessões de prática durante a primeira semana no programa. Uma sessão conta quando gravações de exercícios totalizam ≥3 minutos ou um exercício de questionário é concluído. Objetivo: ≥60%. Este é um indicador avançado: baixa ativação prevê maior abandono.",
       "not_available": "N/D"
     },
     "alerts": {
@@ -415,7 +415,7 @@
       "therapist_no_response_48h_other": "{{count}} gravações à espera de feedback há mais de 48h",
       "inactive_7d": "{{count}} paciente(s) inativos há 7+ dias",
       "inactive_3d": "{{count}} paciente(s) inativos há 3+ dias",
-      "no_alerts": "Sem alertas , o piloto está no bom caminho."
+      "no_alerts": "Sem alertas. O piloto está no bom caminho."
     },
     "snapshots": {
       "compare_label": "Comparar com",

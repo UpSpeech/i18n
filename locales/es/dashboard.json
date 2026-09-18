@@ -1,5 +1,9 @@
 {
   "overview": "Resumen de tu progreso en análisis del habla",
+  "overview_patient": "Lo que tu terapeuta te ha marcado esta semana.",
+  "overview_therapist": "Tus pacientes, y lo que te está esperando.",
+  "overview_admin": "Los usuarios, pacientes y la actividad de tu organización.",
+  "overview_owner": "Todas las organizaciones, y la actividad en toda la plataforma.",
   "upload_subtitle": "Graba un nuevo archivo de audio para análisis",
   "reports_subtitle": "Ver y gestionar todos los informes",
   "users_subtitle": "Gestiona usuarios del sistema y permisos",
@@ -87,7 +91,7 @@
     "no_recent_exercises": "Sin actividad de ejercicios en los últimos 14 días",
     "no_activity_yet": "Sin actividad en los últimos 14 días",
     "patient_activity_overview": "Resumen de Actividad del Paciente",
-    "patient_activity_description": "Resumen visual de la finalización de ejercicios del paciente. El tamaño de la burbuja indica el nivel de actividad.",
+    "patient_activity_description": "Una burbuja por paciente. Cuanto mayor, más ha practicado.",
     "time_filter": {
       "today": "Hoy",
       "week": "Semana",

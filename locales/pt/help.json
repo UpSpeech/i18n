@@ -215,7 +215,7 @@
     },
     "user_roles": {
       "question": "Quais são as diferentes funções de utilizador?",
-      "answer": "Existem cinco funções: Proprietário gere toda a plataforma. Administrador gere utilizadores e definições da organização. Terapeuta gere pacientes, exercícios, relatórios e percursos de aprendizagem. Paciente e Membro são ambas funções de paciente com as mesmas permissões , completam exercícios e seguem programas de terapia."
+      "answer": "Existem cinco funções: Proprietário gere toda a plataforma. Administrador gere utilizadores e definições da organização. Terapeuta gere pacientes, exercícios, relatórios e percursos de aprendizagem. Paciente e Membro são ambas funções de paciente com as mesmas permissões: completam exercícios e seguem programas de terapia."
     },
     "audio_formats": {
       "question": "Que formatos de áudio e vídeo são suportados?",

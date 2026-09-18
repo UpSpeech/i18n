@@ -215,7 +215,7 @@
     },
     "user_roles": {
       "question": "¿Cuáles son los diferentes roles de usuario?",
-      "answer": "Hay cinco roles: Propietario gestiona toda la plataforma. Administrador gestiona usuarios y configuración de la organización. Terapeuta gestiona pacientes, ejercicios, informes y rutas de aprendizaje. Paciente y Miembro son ambos roles de paciente con los mismos permisos , completan ejercicios y siguen programas de terapia."
+      "answer": "Hay cinco roles: Propietario gestiona toda la plataforma. Administrador gestiona usuarios y configuración de la organización. Terapeuta gestiona pacientes, ejercicios, informes y rutas de aprendizaje. Paciente y Miembro son ambos roles de paciente con los mismos permisos: completan ejercicios y siguen programas de terapia."
     },
     "audio_formats": {
       "question": "¿Qué formatos de audio y vídeo son soportados?",

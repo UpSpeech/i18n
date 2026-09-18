@@ -102,7 +102,7 @@
     "last_name": "Last name",
     "password": "Password",
     "confirm_password": "Confirm Password",
-    "in_pilot": "Include in pilot program"
+    "in_pilot": "Include in pilot programme"
   },
   "invite_modal": {
     "title": "Invite Patient",
@@ -165,7 +165,7 @@
     "scenario_window_label": "Audio window: {{start}} to {{end}}",
     "exercise_type": {
       "pause": "Pause",
-      "self_modeling": "Self-Modeling",
+      "self_modeling": "Self-Modelling",
       "identification": "Identification",
       "holding": "Holding",
       "motor_control": "Motor Control",
@@ -202,10 +202,10 @@
     "vadHelp": "Longer windows let patients with blocks or prolongations finish their turn before the AI responds.",
     "vadPresets": {
       "default": "Clinic default (recommended)",
-      "typical": "0.8s , typical speech",
-      "moderate": "1.5s , slight pauses",
-      "stutter_safe": "2.5s , stutter-safe",
-      "long_blocks": "4.0s , long blocks"
+      "typical": "0.8s, typical speech",
+      "moderate": "1.5s, slight pauses",
+      "stutter_safe": "2.5s, stutter-safe",
+      "long_blocks": "4.0s, long blocks"
     },
     "loadError": "Couldn't load scenario settings.",
     "saveError": "Couldn't save. Try again."

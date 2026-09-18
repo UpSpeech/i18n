@@ -14,7 +14,7 @@
   },
   "immediate_risks": {
     "title": "Immediate Risks",
-    "subtitle": "Patients inactive for 3+ days , requires attention",
+    "subtitle": "Patients inactive for 3+ days, requires attention",
     "patient": "Patient",
     "therapist": "Therapist",
     "days_inactive": "Days Inactive",
@@ -22,7 +22,7 @@
     "action": "Action",
     "notify": "Notify Therapist",
     "never_active": "Never active",
-    "empty": "No patients at risk , all pilot participants are active.",
+    "empty": "No patients at risk. All pilot participants are active.",
     "info": "Patients who have not had any platform activity (recordings, exercises, or completed scenarios) in 3 or more days, or who have never been active. Days Inactive shows how long since their last activity. Use Notify Therapist to alert the assigned therapist about disengaged patients."
   },
   "missing_feedback": {
@@ -39,7 +39,7 @@
   },
   "weekly_activity": {
     "title": "Weekly Activity",
-    "subtitle": "All pilot patients , this week's engagement",
+    "subtitle": "All pilot patients, this week's engagement",
     "patient": "Patient",
     "therapist": "Therapist",
     "sessions": "Sessions",
@@ -57,7 +57,7 @@
     "therapist": "Therapist",
     "sessions": "Sessions",
     "trend": "vs Last Week",
-    "info": "Patients with 3 or more practice sessions this week. Trend compares this week's session count against last week , positive values indicate improvement, 'new' means this is their first qualifying week."
+    "info": "Patients with 3 or more practice sessions this week. Trend compares this week's session count against last week. Positive values indicate improvement, and 'new' means this is their first qualifying week."
   },
   "activity_overview": {
     "title": "Activity Overview",
@@ -156,7 +156,7 @@
     "runs_failed": "Failed to load past pilots"
   },
   "actions": {
-    "notification_sent": "Notification logged (placeholder , no email sent yet)",
+    "notification_sent": "Notification logged (placeholder, no email sent yet)",
     "refresh": "Refresh",
     "export": "Export",
     "download_csv": "Download CSV",
@@ -353,7 +353,7 @@
       "subtitle": "Average and median minutes practised per user per week",
       "avg_label": "Average",
       "median_label": "Median",
-      "info": "Average and median recording practice time per patient per week, in minutes. The median helps identify whether a few heavy users are skewing the average , if the average is much higher than the median, a small group is doing most of the practice. Only exercise-related recordings (mini-games, learning path exercises) count toward practice time."
+      "info": "Average and median recording practice time per patient per week, in minutes. The median helps identify whether a few heavy users are skewing the average. If the average is much higher than the median, a small group is doing most of the practice. Only exercise-related recordings (mini-games, learning path exercises) count toward practice time."
     },
     "dropoff": {
       "title": "Drop-off Curve",
@@ -393,7 +393,7 @@
       "subtitle": "Final minus baseline severity score (CBSA-SR, lower = improvement)",
       "change": "Change",
       "empty": "No severity data available yet.",
-      "info": "Change in self-reported stuttering severity using the CBSA-SR (Communication-Based Self-Assessment of Stuttering , Self-Report) scale. Compares each patient's onboarding baseline score against their most recent weekly assessment. Negative values (green bars) indicate improvement; positive values (red bars) indicate worsening. Patients need both a baseline and at least one follow-up assessment to appear here."
+      "info": "Change in self-reported stuttering severity using the CBSA-SR (Communication-Based Self-Assessment of Stuttering, Self-Report) scale. Compares each patient's onboarding baseline score against their most recent weekly assessment. Negative values (green bars) indicate improvement; positive values (red bars) indicate worsening. Patients need both a baseline and at least one follow-up assessment to appear here."
     },
     "kpi": {
       "retention_week_8": "Retention at Week 8",
@@ -401,7 +401,7 @@
       "retention_info": "Percentage of pilot patients who are still actively using the platform in week 8. A patient is considered active if they completed at least 1 practice session that week. This KPI is only available once the pilot has been running for 8+ weeks. Control group patients are excluded.",
       "week1_activation": "Week 1 Activation",
       "week1_helper": "% completing ≥2 sessions in first week",
-      "week1_info": "Percentage of pilot patients who completed at least 2 practice sessions during their first week in the program. A session counts when exercise recordings total ≥3 minutes or a quiz exercise is completed. Target: ≥60%. This is a leading indicator , low activation predicts higher dropout.",
+      "week1_info": "Percentage of pilot patients who completed at least 2 practice sessions during their first week in the programme. A session counts when exercise recordings total ≥3 minutes or a quiz exercise is completed. Target: ≥60%. This is a leading indicator: low activation predicts higher dropout.",
       "not_available": "N/A"
     },
     "alerts": {
@@ -415,7 +415,7 @@
       "therapist_no_response_48h_other": "{{count}} recordings awaiting feedback for over 48h",
       "inactive_7d": "{{count}} patient(s) inactive for 7+ days",
       "inactive_3d": "{{count}} patient(s) inactive for 3+ days",
-      "no_alerts": "No alerts , pilot is on track."
+      "no_alerts": "No alerts. The pilot is on track."
     },
     "snapshots": {
       "compare_label": "Compare with",

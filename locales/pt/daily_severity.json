@@ -22,7 +22,7 @@
     "no_data": "Ainda não há dados de gravidade diária.",
     "no_data_description": "As pontuações de gravidade aparecerão aqui quando o paciente começar a completar os check-ins diários.",
     "note_modal_title": "Nota do Dia",
-    "note_modal_description": "{{date}} , Gravidade: {{score}}/10",
+    "note_modal_description": "{{date}}. Gravidade: {{score}}/10",
     "note_placeholder": "Escreve uma nota sobre esta entrada...",
     "note_save": "Guardar Nota",
     "note_saving": "A guardar...",

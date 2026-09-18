@@ -455,7 +455,7 @@
     },
     "phases": {
       "watch": {
-        "description": "Watch this video from beginning to end. Notice how speech flows naturally, and how moments of stuttering appear. There is nothing to do yet , just observe with curiosity.",
+        "description": "Watch this video from beginning to end. Notice how speech flows naturally, and how moments of stuttering appear. There is nothing to do yet, just observe with curiosity.",
         "continue": "I'm Ready to Continue",
         "revisit_hint": "You can return to re-watch at any point."
       },
@@ -472,7 +472,7 @@
         "continue": "Continue to Secondary Behaviours"
       },
       "identify_secondary": {
-        "description": "Watch the video once more and look for secondary behaviours , movements or strategies that accompany stuttering.",
+        "description": "Watch the video once more and look for secondary behaviours: movements or strategies that accompany stuttering.",
         "tip": "Secondary behaviours are subtle. It is perfectly fine to mark none.",
         "submit": "Complete Identification"
       },
@@ -557,7 +557,7 @@
     "all_cycles_complete": "All {{count}} cycles complete!",
     "exercise_complete_title": "Exercise Complete!",
     "exercise_complete_message": "You completed all {{count}} guided holding cycles.",
-    "hold_interval": "Hold {{number}} , {{start}} → {{end}} ({{duration}}s)",
+    "hold_interval": "Hold {{number}}: {{start}} → {{end}} ({{duration}}s)",
     "end_early": "End early",
     "review_holds": "Review hold moments ({{count}})",
     "play_hold": "Play hold {{number}}",
@@ -602,7 +602,7 @@
     "no_moments_hint": "No moments were marked. Try holding the button during each stuttering moment.",
     "review_moments": "Review moments ({{count}})",
     "play_moment": "Play moment {{number}}",
-    "hold_interval": "{{number}} , {{start}} → {{end}} ({{duration}}s)",
+    "hold_interval": "{{number}}: {{start}} → {{end}} ({{duration}}s)",
     "default_instructions": "Practice voluntary stuttering to build motor control."
   },
   "journal": {
@@ -669,7 +669,7 @@
     "scenario_ai_description": "{{aiDescription}} {{levelDesc}}",
     "prompts": {
       "1": "I sometimes stutter, so I may take a moment.",
-      "2": "Just so you know, I'm a person who stutters , it's just how I talk.",
+      "2": "Just so you know, I'm a person who stutters. It's just how I talk.",
       "3": "Before we begin, I want you to know that I stutter. I'd appreciate your patience."
     },
     "choose_prompt": "Choose a disclosure prompt to practice:",
@@ -780,7 +780,7 @@
     "exercise_type_label": "Exercise Type",
     "type_exercise_submission": "Exercise",
     "type_quiz_attempt": "Quiz",
-    "type_self_modeling": "Self-Modeling",
+    "type_self_modeling": "Self-Modelling",
     "type_pause_submission": "Pause",
     "type_mini_game_completion": "Mini Game",
     "type_scenario_session": "Scenario",
@@ -852,7 +852,7 @@
   "entity_mini_game": "Mini Game",
   "not_found": "Exercise not found",
   "retry_reason": {
-    "title": "No problem , let's try again",
+    "title": "No problem, let's try again",
     "description": "If you'd like, let us know what happened. It helps track your progress.",
     "reasons": {
       "background_noise": "Too much background noise",

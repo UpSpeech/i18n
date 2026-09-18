@@ -455,7 +455,7 @@
     },
     "phases": {
       "watch": {
-        "description": "Mira este video de principio a fin. Observa cómo fluye el habla naturalmente y cómo aparecen momentos de tartamudeo. No hay nada que hacer todavía , solo observa con curiosidad.",
+        "description": "Mira este video de principio a fin. Observa cómo fluye el habla naturalmente y cómo aparecen momentos de tartamudeo. No hay nada que hacer todavía, solo observa con curiosidad.",
         "continue": "Estoy Listo para Continuar",
         "revisit_hint": "Puedes volver a ver en cualquier momento."
       },
@@ -472,7 +472,7 @@
         "continue": "Continuar a Comportamientos Secundarios"
       },
       "identify_secondary": {
-        "description": "Mira el video una vez más y busca comportamientos secundarios , movimientos o estrategias que acompañan el tartamudeo.",
+        "description": "Mira el video una vez más y busca comportamientos secundarios: movimientos o estrategias que acompañan el tartamudeo.",
         "tip": "Los comportamientos secundarios son sutiles. Es perfectamente normal no marcar ninguno.",
         "submit": "Completar Identificación"
       },
@@ -566,7 +566,7 @@
     "no_moments_hint": "No se marcaron momentos. Intenta mantener el botón durante cada momento de tartamudeo.",
     "review_moments": "Revisar momentos ({{count}})",
     "play_moment": "Reproducir momento {{number}}",
-    "hold_interval": "{{number}} , {{start}} → {{end}} ({{duration}}s)",
+    "hold_interval": "{{number}}: {{start}} → {{end}} ({{duration}}s)",
     "default_instructions": "Practique el tartamudeo voluntario para desarrollar el control motor."
   },
   "holding": {
@@ -588,7 +588,7 @@
     "all_cycles_complete": "¡Los {{count}} ciclos completados!",
     "exercise_complete_title": "¡Ejercicio Completado!",
     "exercise_complete_message": "Completaste los {{count}} ciclos guiados de mantenimiento.",
-    "hold_interval": "Mantenimiento {{number}} , {{start}} → {{end}} ({{duration}}s)",
+    "hold_interval": "Mantenimiento {{number}}: {{start}} → {{end}} ({{duration}}s)",
     "end_early": "Terminar antes",
     "review_holds": "Revisar momentos de mantenimiento ({{count}})",
     "play_hold": "Reproducir mantenimiento {{number}}",
@@ -669,7 +669,7 @@
     "scenario_ai_description": "{{aiDescription}} {{levelDesc}}",
     "prompts": {
       "1": "A veces tartamudeo, así que puedo tardar un momento.",
-      "2": "Para que lo sepas, soy una persona que tartamudea , es simplemente como hablo.",
+      "2": "Para que lo sepas, soy una persona que tartamudea. Es simplemente como hablo.",
       "3": "Antes de empezar, quiero que sepas que tartamudeo. Agradezco tu paciencia."
     },
     "choose_prompt": "Elige una frase de divulgación para practicar:",
@@ -852,7 +852,7 @@
   "entity_mini_game": "Mini Juego",
   "not_found": "Ejercicio no encontrado",
   "retry_reason": {
-    "title": "Sin problema , intentemos de nuevo",
+    "title": "Sin problema, intentemos de nuevo",
     "description": "Si quieres, cuéntanos qué pasó. Ayuda a seguir tu progreso.",
     "reasons": {
       "background_noise": "Demasiado ruido de fondo",

@@ -55,8 +55,8 @@
     "last_updated": "Última Actualización",
     "source_recording": "Grabación Fuente",
     "duration": "Duración",
-    "generated_by": "Generado por:",
-    "using_platform": "usando la Plataforma UpSpeech Asistida por IA",
+    "generated_by": "Preparado por:",
+    "using_platform": "",
     "created_label": "Creado:",
     "organization": "Organización:",
     "disclaimer": "Este informe es asistido por IA y debe ser revisado por un patólogo del habla y lenguaje calificado antes de su uso clínico. La información contenida en este informe es confidencial y está destinada solo para el uso de la persona o entidad nombrada anteriormente."

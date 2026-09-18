@@ -18,7 +18,7 @@
     "interest_placeholder": "e.g., cooking, travel, sports...",
     "suggest": "Suggest Topics",
     "or_pick": "or pick one:",
-    "pick_topic": "Here are some ideas , pick one or just speak freely:",
+    "pick_topic": "Here are some ideas. Pick one, or just speak freely:",
     "loading_topics": "Finding topic suggestions...",
     "topics_error": "Couldn't load topics. Try again.",
     "quick_cooking": "Cooking",
@@ -44,19 +44,19 @@
     "confirm_short_body": "Your recording is shorter than the recommended 2 minutes. Would you like to submit it anyway, or keep recording?",
     "confirm_short_submit": "Submit anyway",
     "confirm_short_cancel": "Keep recording",
-    "min_reached": "You've passed the 2-minute mark , you can stop whenever you're ready.",
-    "min_remaining": "Keep going , {{time}} until the 2-minute mark"
+    "min_reached": "You've passed the 2-minute mark. You can stop whenever you're ready.",
+    "min_remaining": "Keep going. {{time}} until the 2-minute mark"
   },
   "thank_you": {
     "title": "Thank you, {{name}}!",
     "message": "We've received both of your recordings. Your therapist will review them and get back to you soon.",
-    "stay_message": "You can close this page now , we'll let you know when your full platform access is ready.",
+    "stay_message": "You can close this page now. We'll let you know when your full platform access is ready.",
     "logout": "Log out",
     "go_to_app": "Go to the app"
   },
   "control_group": {
     "title": "You're enrolled, {{name}}",
-    "message": "We've received your recordings , thank you for participating in this study! Your therapist will be in touch about your practice plan.",
+    "message": "We've received your recordings. Thank you for participating in this study! Your therapist will be in touch about your practice plan.",
     "practice_hint": "There's nothing else you need to do here for now. We'll reach out when the study period is complete.",
     "contact_hint": "Questions? Reach out to your therapist directly."
   },

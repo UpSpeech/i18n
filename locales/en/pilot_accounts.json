@@ -16,7 +16,7 @@
   "patient": "Patient",
   "therapist": "Therapist",
   "results_title": "Generated Accounts",
-  "security_warning": "These credentials are shown only once. Copy or download them now , passwords cannot be retrieved later.",
+  "security_warning": "These credentials are shown only once. Copy or download them now. Passwords cannot be retrieved later.",
   "download_csv": "Download CSV",
   "copy_all": "Copy All",
   "copied": "Copied!",

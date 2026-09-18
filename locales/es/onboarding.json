@@ -67,7 +67,7 @@
       },
       "admin": {
         "dashboard_tour": "Explora tu panel",
-        "dashboard_tour_description": "Ve lo que está disponible de un vistazo",
+        "dashboard_tour_description": "Lo que tienes en tu panel",
         "manage_users": "Gestionar usuarios",
         "manage_users_description": "Ve quién está en tu plataforma",
         "configure_settings": "Configurar ajustes",
@@ -95,7 +95,7 @@
       "consent": {
         "heading": "Antes de Comenzar",
         "title": "Consentimiento y Privacidad",
-        "intro": "Tu privacidad y seguridad son nuestra prioridad. Por favor, tómate un momento para revisar la información a continuación , explica cómo protegemos tus datos durante el piloto.",
+        "intro": "Tu privacidad y seguridad son nuestra prioridad. Por favor, tómate un momento para revisar la información a continuación. Explica cómo protegemos tus datos durante el piloto.",
         "terms_title": "Términos y Condiciones",
         "terms_text": "Al participar en este programa piloto, aceptas utilizar UpSpeech de acuerdo con su propósito como herramienta de apoyo a la logopedia. Tus datos de uso pueden ser recopilados de forma anonimizada para mejorar la plataforma. Puedes retirarte del piloto en cualquier momento contactando a tu administrador.",
         "privacy_title": "Política de Privacidad",
@@ -152,7 +152,7 @@
           "exercise_title": "Ejercicio de Hoy",
           "exercise_content": "Este es tu ejercicio diario. Empieza aquí cada día para seguir mejorando.",
           "stats_title": "Tu Progreso",
-          "stats_content": "Rastrea tu tasa de completación, rachas y más. Observa cómo crecen estos números.",
+          "stats_content": "Tu tasa de finalización y tu racha, actualizadas después de cada práctica.",
           "weekly_title": "Comparación Semanal",
           "weekly_content": "¡Ve cómo vas en comparación con la semana pasada. La consistencia es clave!",
           "upcoming_title": "Próximos Ejercicios",
@@ -190,11 +190,11 @@
       "therapist": {
         "dashboard": {
           "stats_title": "Visión General de la Práctica",
-          "stats_content": "Tu práctica de un vistazo: pacientes, informes y actividad de ejercicios.",
+          "stats_content": "Cuántos pacientes tienes, y cuánto han practicado.",
           "activity_title": "Actividad Reciente",
           "activity_content": "Grabaciones recientes y actividad de tus pacientes aparecen aquí.",
           "bubble_chart_title": "Participación de Pacientes",
-          "bubble_chart_content": "Identifica patrones de participación de tus pacientes rápidamente.",
+          "bubble_chart_content": "Una burbuja por paciente. Cuanto mayor, más ha practicado.",
           "nav_patients_title": "Mis Pacientes",
           "nav_patients_content": "Gestiona tus pacientes, envía invitaciones y ve su progreso.",
           "nav_reports_title": "Informes",
@@ -230,7 +230,7 @@
       "admin": {
         "dashboard": {
           "stats_title": "Métricas Clave",
-          "stats_content": "Clientes activos, total de usuarios, grabaciones fallidas e invitaciones pendientes de un vistazo.",
+          "stats_content": "Clientes activos, total de usuarios, grabaciones fallidas e invitaciones pendientes.",
           "actions_title": "Acciones Rápidas",
           "actions_content": "Salta a Usuarios, Analíticas, Ajustes o Informes desde aquí.",
           "users_title": "Registros Recientes",
@@ -244,7 +244,7 @@
           "list_title": "Directorio de Usuarios",
           "list_content": "Todos los usuarios de tu organización están listados aquí.",
           "roles_title": "Roles y Estado",
-          "roles_content": "Ve el rol y estado de cada usuario de un vistazo.",
+          "roles_content": "El rol y el estado de cada usuario.",
           "actions_title": "Acciones de Usuario",
           "actions_content": "Edita roles, desactiva usuarios o envía nuevas invitaciones."
         },

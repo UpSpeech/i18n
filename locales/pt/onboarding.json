@@ -67,7 +67,7 @@
       },
       "admin": {
         "dashboard_tour": "Explora o teu painel",
-        "dashboard_tour_description": "Vê o que está disponível num relance",
+        "dashboard_tour_description": "O que tens no teu painel",
         "manage_users": "Gerir utilizadores",
         "manage_users_description": "Vê quem está na tua plataforma",
         "configure_settings": "Configurar definições",
@@ -95,7 +95,7 @@
       "consent": {
         "heading": "Antes de Começar",
         "title": "Consentimento e Privacidade",
-        "intro": "A tua privacidade e segurança são a nossa prioridade. Por favor, reserva um momento para reveres as informações abaixo , explicam como protegemos os teus dados durante o piloto.",
+        "intro": "A tua privacidade e segurança são a nossa prioridade. Por favor, reserva um momento para reveres as informações abaixo. Explicam como protegemos os teus dados durante o piloto.",
         "terms_title": "Termos e Condições",
         "terms_text": "Ao participares neste programa piloto, concordas em utilizar a UpSpeech de acordo com o seu propósito como ferramenta de apoio à terapia da fala. Os teus dados de utilização podem ser recolhidos de forma anonimizada para melhorar a plataforma. Podes retirar-te do piloto a qualquer momento contactando o teu administrador.",
         "privacy_title": "Política de Privacidade",
@@ -152,7 +152,7 @@
           "exercise_title": "Exercício de Hoje",
           "exercise_content": "Este é o teu exercício diário. Começa aqui todos os dias para continuares a melhorar.",
           "stats_title": "O Teu Progresso",
-          "stats_content": "Acompanha a tua taxa de conclusão, sequências e mais. Vê estes números a crescer.",
+          "stats_content": "A tua taxa de conclusão e a tua sequência, atualizadas depois de cada prática.",
           "weekly_title": "Comparação Semanal",
           "weekly_content": "Vê como estás em comparação com a semana passada. A consistência é fundamental!",
           "upcoming_title": "Próximos Exercícios",
@@ -190,11 +190,11 @@
       "therapist": {
         "dashboard": {
           "stats_title": "Visão Geral da Prática",
-          "stats_content": "A tua prática num relance: pacientes, relatórios e atividade de exercícios.",
+          "stats_content": "Quantos pacientes tens, e quanto praticaram.",
           "activity_title": "Atividade Recente",
           "activity_content": "Gravações recentes e atividade dos teus pacientes aparecem aqui.",
           "bubble_chart_title": "Envolvimento dos Pacientes",
-          "bubble_chart_content": "Identifica padrões de envolvimento dos teus pacientes rapidamente.",
+          "bubble_chart_content": "Uma bolha por paciente. Quanto maior, mais praticou.",
           "nav_patients_title": "Os Meus Pacientes",
           "nav_patients_content": "Gere os teus pacientes, envia convites e vê o progresso deles.",
           "nav_reports_title": "Relatórios",
@@ -230,7 +230,7 @@
       "admin": {
         "dashboard": {
           "stats_title": "Métricas Chave",
-          "stats_content": "Clientes ativos, total de utilizadores, gravações falhadas e convites pendentes num relance.",
+          "stats_content": "Clientes ativos, total de utilizadores, gravações falhadas e convites pendentes.",
           "actions_title": "Ações Rápidas",
           "actions_content": "Salta para Utilizadores, Análises, Definições ou Relatórios a partir daqui.",
           "users_title": "Registos Recentes",
@@ -244,7 +244,7 @@
           "list_title": "Diretório de Utilizadores",
           "list_content": "Todos os utilizadores da tua organização estão listados aqui.",
           "roles_title": "Funções e Estado",
-          "roles_content": "Vê a função e o estado de cada utilizador rapidamente.",
+          "roles_content": "A função e o estado de cada utilizador.",
           "actions_title": "Ações de Utilizador",
           "actions_content": "Edita funções, desativa utilizadores ou envia novos convites."
         },

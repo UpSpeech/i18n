@@ -1,5 +1,9 @@
 {
   "overview": "Overview of your speech analysis progress",
+  "overview_patient": "What your therapist has set for you this week.",
+  "overview_therapist": "Your caseload, and what is waiting for you.",
+  "overview_admin": "Your organisation's users, patients and activity.",
+  "overview_owner": "Every organisation, and the activity across the platform.",
   "upload_subtitle": "Record a new audio file for analysis",
   "reports_subtitle": "View and manage speech analysis reports",
   "users_subtitle": "Manage system users and permissions",
@@ -87,7 +91,7 @@
     "no_recent_exercises": "No exercise activity in the last 14 days",
     "no_activity_yet": "No activity in the last 14 days",
     "patient_activity_overview": "Patient Activity Overview",
-    "patient_activity_description": "Visual overview of patient exercise completion. Bubble size indicates activity level.",
+    "patient_activity_description": "One bubble per patient. The bigger it is, the more they practised.",
     "time_filter": {
       "today": "Today",
       "week": "Week",

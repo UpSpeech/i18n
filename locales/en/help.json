@@ -111,7 +111,7 @@
     },
     "what_are_learning_paths": {
       "question": "What are learning paths?",
-      "answer": "Learning paths are structured therapy programs with milestones. Each milestone contains multiple steps with different exercise types (standard practice, scenarios, quizzes, reflections, and modeling). Patients follow the path sequentially, and therapists control when steps are completed or skipped."
+      "answer": "Learning paths are structured therapy programmes with milestones. Each milestone contains multiple steps with different exercise types (standard practice, scenarios, quizzes, reflections, and modelling). Patients follow the path sequentially, and therapists control when steps are completed or skipped."
     },
     "learning_path_progression": {
       "question": "How does progression through a learning path work?",
@@ -215,7 +215,7 @@
     },
     "user_roles": {
       "question": "What are the different user roles?",
-      "answer": "There are five roles: Owner manages the entire platform. Admin manages an organisation's users and settings. Therapist manages patients, exercises, reports, and learning paths. Patient and Member are both patient roles with the same permissions , they complete exercises and follow therapy programs."
+      "answer": "There are five roles: Owner manages the entire platform. Admin manages an organisation's users and settings. Therapist manages patients, exercises, reports, and learning paths. Patient and Member are both patient roles with the same permissions: they complete exercises and follow therapy programmes."
     },
     "audio_formats": {
       "question": "What audio and video formats are supported?",
