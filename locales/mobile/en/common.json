@@ -240,7 +240,7 @@
   "theme_dark": "Dark",
   "history_title": "History",
   "history_empty": "No completed exercises yet",
-  "history_empty_description": "Complete your first exercise and it'll show up here. You've got this!",
+  "history_empty_description": "Complete your first exercise and it will show up here.",
   "history_completions": "{{count}} completions",
   "history_completed": "Completed",
   "history_in_progress": "In progress",

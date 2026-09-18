@@ -240,7 +240,7 @@
   "theme_dark": "Escuro",
   "history_title": "Histórico",
   "history_empty": "Ainda sem exercícios concluídos",
-  "history_empty_description": "Completa o teu primeiro exercício e ele aparecerá aqui. Tu consegues!",
+  "history_empty_description": "Completa o teu primeiro exercício e ele aparecerá aqui.",
   "history_completions": "{{count}} conclusões",
   "history_completed": "Concluído",
   "history_in_progress": "Em curso",
