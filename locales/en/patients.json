@@ -176,7 +176,10 @@
       "observation": "Observation",
       "technique_rating": "Technique Rating",
       "quiz": "Quiz",
-      "scenario": "Scenario"
+      "scenario": "Scenario",
+      "standard": "Practice",
+      "modeling": "Modelling",
+      "mini_game": "Mini game"
     },
     "finish_error": "Could not send feedback. Please try again.",
     "save_error": "Could not save feedback. Please try again.",
