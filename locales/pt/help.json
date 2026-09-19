@@ -151,7 +151,7 @@
     },
     "report_generation": {
       "question": "Como funciona a geração de relatórios por IA?",
-      "answer": "Carrega uma gravação de áudio da tua sessão de terapia e a plataforma irá automaticamente transcrevê-la usando reconhecimento de fala com IA. A transcrição é então analisada para gerar um relatório estruturado. Podes rever, editar e personalizar o relatório antes de o exportar como PDF."
+      "answer": "Escolhe Gerar um relatório e grava a tua sessão de terapia. A IA transcreve-a e redige um relatório estruturado, que revês e editas antes de o exportar como PDF. Para arquivar o relatório na ficha de um paciente, usa Atribuir Relatório ao Paciente na página do relatório."
     },
     "report_types": {
       "question": "Que tipos de relatório estão disponíveis?",

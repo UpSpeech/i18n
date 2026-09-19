@@ -151,7 +151,7 @@
     },
     "report_generation": {
       "question": "How does AI report generation work?",
-      "answer": "Upload an audio recording of your therapy session, and the platform will automatically transcribe it using AI speech recognition. The transcription is then analysed to generate a structured report. You can review, edit, and customise the report before exporting it as a PDF."
+      "answer": "Choose Generate a report and record your therapy session. The AI transcribes it and drafts a structured report, which you review and edit before exporting it as a PDF. To file the report under a patient, use Assign Report to Patient on the report page."
     },
     "report_types": {
       "question": "What report types are available?",

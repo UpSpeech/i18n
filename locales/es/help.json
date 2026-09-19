@@ -151,7 +151,7 @@
     },
     "report_generation": {
       "question": "¿Cómo funciona la generación de informes por IA?",
-      "answer": "Carga una grabación de audio de tu sesión de terapia y la plataforma la transcribirá automáticamente usando reconocimiento de voz con IA. La transcripción se analiza para generar un informe estructurado. Puedes revisar, editar y personalizar el informe antes de exportarlo como PDF."
+      "answer": "Elige Generar un informe y graba tu sesión de terapia. La IA la transcribe y redacta un informe estructurado, que revisas y editas antes de exportarlo como PDF. Para archivar el informe en la ficha de un paciente, usa Asignar Informe al Paciente en la página del informe."
     },
     "report_types": {
       "question": "¿Qué tipos de informe están disponibles?",
