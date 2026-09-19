@@ -3,7 +3,7 @@
   "no_reports_found": "Nenhum relatório encontrado",
   "no_reports_filters_description": "Tenta ajustar os teus filtros ou critérios de pesquisa",
   "no_reports_yet": "Ainda sem relatórios",
-  "no_reports_description_admin": "Ainda não há relatórios de análise disponíveis na tua organização.",
+  "no_reports_description_admin": "Ainda não há relatórios na tua organização.",
   "no_reports_description_client": "O teu terapeuta ainda não criou nenhum relatório. Volta mais tarde.",
   "upload_recording": "Gerar um relatório",
   "type_assessment": "Relatório de Avaliação",
@@ -43,7 +43,7 @@
   "delete_confirmation": "Tens a certeza de que desejas eliminar {{title}}? Esta ação não pode ser desfeita.",
   "template": {
     "subtitle": "Relatório de Terapia da Fala",
-    "clinical_analysis": "Análise clínica",
+    "clinical_analysis": "Relatório",
     "report_date": "Data do Relatório",
     "patient_information": "Informação do Paciente",
     "name": "Nome",
@@ -145,9 +145,9 @@
     "exit_annotation_mode": "Sair do Modo de Anotação",
     "processing_timeout": "O processamento do relatório está a demorar mais do que o esperado. Por favor, atualiza a página.",
     "processing_report": "A processar o teu relatório...",
-    "processing_message": "O teu áudio está a ser analisado. O relatório aparecerá aqui automaticamente quando estiver pronto.",
+    "processing_message": "O relatório está a ser redigido. Aparece aqui quando estiver pronto.",
     "generating_report": "A gerar o teu relatório...",
-    "analysis_in_progress": "A IA está a analisar o teu áudio e a gerar informações."
+    "analysis_in_progress": "A transcrever a sessão e a redigir o relatório."
   },
   "errors": {
     "failed_export_pdf": "Falha ao exportar PDF. Tenta novamente.",
