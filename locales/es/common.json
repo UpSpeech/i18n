@@ -498,7 +498,7 @@
       "placement_label": "Cuándo empieza esto",
       "plan_window": "Ventana del plan",
       "preview_days": "¿Qué días te vienen bien?",
-      "preview_days_note": "Los días sugeridos ya vienen marcados. {{name}} puede cambiarlos.",
+      "preview_days_note": "{{name}} elige los días que le vienen bien.",
       "preview_eyebrow": "Cómo lo verá {{name}}",
       "preview_label": "Cómo lo verá {{name}}",
       "preview_no_description": "Aquí va qué hacer.",

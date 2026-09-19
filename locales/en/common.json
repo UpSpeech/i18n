@@ -498,7 +498,7 @@
       "placement_label": "When does this start",
       "plan_window": "Plan window",
       "preview_days": "Which days suit you?",
-      "preview_days_note": "Suggested days are pre-selected. {{name}} can change them.",
+      "preview_days_note": "{{name}} picks the days that suit them.",
       "preview_eyebrow": "How {{name}} will see it",
       "preview_label": "How {{name}} will see it",
       "preview_no_description": "What to do goes here.",
