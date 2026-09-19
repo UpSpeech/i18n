@@ -43,7 +43,7 @@
   "delete_confirmation": "Are you sure you want to delete {{title}}? This action cannot be undone.",
   "template": {
     "subtitle": "Speech Therapy Report",
-    "clinical_analysis": "Clinical analysis",
+    "clinical_analysis": "Report",
     "report_date": "Report Date",
     "patient_information": "Patient Information",
     "name": "Name",

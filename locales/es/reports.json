@@ -43,7 +43,7 @@
   "delete_confirmation": "¿Estás seguro de que quieres eliminar {{title}}? Esta acción no se puede deshacer.",
   "template": {
     "subtitle": "Informe de Logopedia",
-    "clinical_analysis": "Análisis clínico",
+    "clinical_analysis": "Informe",
     "report_date": "Fecha del Informe",
     "patient_information": "Información del Paciente",
     "name": "Nombre",

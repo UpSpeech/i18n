@@ -43,7 +43,7 @@
   "delete_confirmation": "Tens a certeza de que desejas eliminar {{title}}? Esta ação não pode ser desfeita.",
   "template": {
     "subtitle": "Relatório de Terapia da Fala",
-    "clinical_analysis": "Análise clínica",
+    "clinical_analysis": "Relatório",
     "report_date": "Data do Relatório",
     "patient_information": "Informação do Paciente",
     "name": "Nome",
