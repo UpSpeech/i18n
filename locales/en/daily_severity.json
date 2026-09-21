@@ -8,7 +8,7 @@
     "label_start": "No stuttering",
     "label_end": "Extremely severe",
     "choose_value": "Choose a value to continue",
-    "tap_hint": "Tap a number",
+    "tap_hint": "Pick a number",
     "submit": "Continue",
     "success": "Thank you! Have a great session.",
     "submit_error": "Something went wrong. Please try again."

@@ -1078,7 +1078,7 @@
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
     "text_placeholder": "Comparte tus pensamientos...",
-    "tap_hint": "Toca un número",
+    "tap_hint": "Elige un número",
     "encouragement": "Tómate tu tiempo. No hay respuestas correctas o incorrectas.",
     "submit": "Enviar",
     "milestone_title": "¡Hito Completado!",
