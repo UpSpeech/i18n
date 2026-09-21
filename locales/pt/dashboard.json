@@ -168,7 +168,13 @@
     "attention_queue_milestone": "Marco {{position}} / {{total}}",
     "last_active_days_ago_one": "Última atividade há 1 dia",
     "last_active_days_ago_other": "Última atividade há {{count}} dias",
-    "attention_queue_action_dismiss": "Dispensar"
+    "attention_queue_action_dismiss": "Dispensar",
+    "review_queue_action": "Fila de revisão ({{count}})",
+    "header_facts": "{{patients}} pacientes",
+    "patient_activity_list_description": "Quanto cada paciente praticou, e há quanto tempo o fez pela última vez.",
+    "activity_axis_recency": "Dias desde a última prática",
+    "activity_axis_volume": "Práticas neste período",
+    "activity_quadrant_hint": "No canto superior esquerdo está quem praticava e parou."
   },
   "owner": {
     "greeting_morning": "Bom dia",

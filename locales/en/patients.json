@@ -357,5 +357,6 @@
       "answer_nothing_else": "Nothing else to add",
       "finalizing": "Your answers are already being saved, so this one could not be added. There is nothing left to send."
     }
-  }
+  },
+  "header_facts": "{{total}} patients, {{recent}} new this month"
 }

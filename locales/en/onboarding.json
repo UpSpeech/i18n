@@ -202,7 +202,11 @@
           "nav_reports_title": "Reports",
           "nav_reports_content": "Generate AI-assisted clinical reports from session recordings.",
           "nav_exercises_title": "Exercises",
-          "nav_exercises_content": "Browse exercise libraries and assign exercises to your patients."
+          "nav_exercises_content": "Browse exercise libraries and assign exercises to your patients.",
+          "attention_title": "Who needs you today",
+          "attention_content": "The patients who have gone quiet, missed a check-in, or left work for you, most urgent first.",
+          "patient_activity_title": "Patient engagement",
+          "patient_activity_content": "Every patient, least engaged first, with how much they practised in the window you pick."
         },
         "invite": {
           "button_title": "Add a Patient",

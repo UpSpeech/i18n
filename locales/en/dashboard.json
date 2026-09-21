@@ -168,7 +168,13 @@
     "attention_queue_milestone": "Milestone {{position}} / {{total}}",
     "last_active_days_ago_one": "Last active 1 day ago",
     "last_active_days_ago_other": "Last active {{count}} days ago",
-    "attention_queue_action_dismiss": "Dismiss"
+    "attention_queue_action_dismiss": "Dismiss",
+    "review_queue_action": "Review queue ({{count}})",
+    "header_facts": "{{patients}} patients",
+    "patient_activity_list_description": "How much each patient practised, and how long since they last did.",
+    "activity_axis_recency": "Days since last practice",
+    "activity_axis_volume": "Practices in this window",
+    "activity_quadrant_hint": "Top left is a patient who was practising and has stopped."
   },
   "owner": {
     "greeting_morning": "Good morning",
