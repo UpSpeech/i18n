@@ -185,7 +185,16 @@
     "save_error": "Não foi possível guardar o feedback. Tenta novamente.",
     "save_success": "Guardado, mas ainda não enviado. O paciente recebe quando concluir e notificar.",
     "success_toast": "Feedback enviado e paciente notificado.",
-    "success_toast_no_notify": "Feedback guardado. A notificação está desativada de momento."
+    "success_toast_no_notify": "Feedback guardado. A notificação está desativada de momento.",
+    "save_and_continue": "Guardar e continuar",
+    "save_and_send": "Guardar e enviar",
+    "save_and_back_to_summary": "Guardar e voltar ao resumo",
+    "reviewed_count": "{{reviewed}} de {{total}} revistos",
+    "recap_all_title": "Tudo nesta revisão",
+    "recap_row_reviewed": "Revisto",
+    "recap_row_unreviewed": "Por rever",
+    "recap_row_hint": "Clique numa prática para voltar a ela.",
+    "recap_no_note": "Sem nota escrita"
   },
   "recent_feedback": {
     "page_title": "Feedback do teu terapeuta",

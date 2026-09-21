@@ -185,7 +185,16 @@
     "save_error": "Could not save feedback. Please try again.",
     "save_success": "Saved, but not sent yet. The patient gets it when you finish and notify.",
     "success_toast": "Feedback sent and patient notified.",
-    "success_toast_no_notify": "Feedback saved. Notification is currently disabled."
+    "success_toast_no_notify": "Feedback saved. Notification is currently disabled.",
+    "save_and_continue": "Save and continue",
+    "save_and_send": "Save and send",
+    "save_and_back_to_summary": "Save and back to summary",
+    "reviewed_count": "{{reviewed}} of {{total}} reviewed",
+    "recap_all_title": "Everything in this review",
+    "recap_row_reviewed": "Reviewed",
+    "recap_row_unreviewed": "Not reviewed",
+    "recap_row_hint": "Click a practice to go back to it.",
+    "recap_no_note": "No note written"
   },
   "recent_feedback": {
     "page_title": "Feedback from your therapist",

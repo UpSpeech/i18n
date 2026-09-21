@@ -185,7 +185,16 @@
     "save_error": "No se pudo guardar el comentario. Inténtalo de nuevo.",
     "save_success": "Guardado, pero todavía sin enviar. El paciente lo recibe cuando termines y notifiques.",
     "success_toast": "Comentario enviado y paciente notificado.",
-    "success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento."
+    "success_toast_no_notify": "Comentario guardado. La notificación está desactivada por el momento.",
+    "save_and_continue": "Guardar y continuar",
+    "save_and_send": "Guardar y enviar",
+    "save_and_back_to_summary": "Guardar y volver al resumen",
+    "reviewed_count": "{{reviewed}} de {{total}} revisados",
+    "recap_all_title": "Todo en esta revisión",
+    "recap_row_reviewed": "Revisado",
+    "recap_row_unreviewed": "Sin revisar",
+    "recap_row_hint": "Haz clic en una práctica para volver a ella.",
+    "recap_no_note": "Sin nota escrita"
   },
   "recent_feedback": {
     "page_title": "Feedback de tu terapeuta",
