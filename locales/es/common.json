@@ -598,7 +598,8 @@
       "scenario": "Escenario",
       "reflection": "Reflexión",
       "modeling": "Modelado",
-      "observation": "Observación"
+      "observation": "Observación",
+      "mini_game": "Minijuego"
     },
     "milestone_number": "Hito {{number}}",
     "step_number": "Paso {{number}}",
