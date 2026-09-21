@@ -598,7 +598,8 @@
       "scenario": "Scenario",
       "reflection": "Reflection",
       "modeling": "Modelling",
-      "observation": "Observation"
+      "observation": "Observation",
+      "mini_game": "Mini-game"
     },
     "milestone_number": "Milestone {{number}}",
     "step_number": "Step {{number}}",
