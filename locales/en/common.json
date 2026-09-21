@@ -535,7 +535,9 @@
       "replace_game_title": "Swap the mini-game?",
       "replace_game_body": "This step would open “{{title}}” instead.",
       "replace_game_confirm": "Swap it",
-      "replace_game_keep": "Keep this one"
+      "replace_game_keep": "Keep this one",
+      "attached_game_note_plain": "{{name}} plays it here instead of writing a reply.",
+      "pill_game_plain": "Mini-game"
     },
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",

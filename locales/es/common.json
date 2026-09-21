@@ -535,7 +535,9 @@
       "replace_game_title": "¿Cambiar el minijuego?",
       "replace_game_body": "Este paso abriría «{{title}}» en su lugar.",
       "replace_game_confirm": "Cambiarlo",
-      "replace_game_keep": "Mantener este"
+      "replace_game_keep": "Mantener este",
+      "attached_game_note_plain": "{{name}} juega aquí en vez de escribir una respuesta.",
+      "pill_game_plain": "Minijuego"
     },
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
