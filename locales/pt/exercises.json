@@ -191,7 +191,7 @@
   "mini_games": {
     "assign_moved_lead": "Atribuir mudou de sítio.",
     "assign_moved": "Abre um paciente e acrescenta prática ao plano dele.",
-    "assign_moved_action": "Abrir um paciente",
+    "assign_moved_action": "Ir para Os Meus Pacientes",
     "mini_game": "Mini Jogo",
     "mini_game_placeholder": "Seleciona um mini jogo",
     "videos_step_description": "Podes carregar um vídeo de demonstração personalizado para cada paciente, ou ignorar este passo.",

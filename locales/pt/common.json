@@ -480,7 +480,8 @@
   "learning_path": {
     "composer": {
       "lands_as_step": "Torna-se um passo de jogo em {{goal}}.",
-      "lands_in": "Acrescenta um passo a",
+      "creates_goal": "Cria {{goal}} com este primeiro passo.",
+      "lands_in": "Acrescenta um passo a {{goal}}.",
       "after_current": "Depois do passo atual",
       "description_helper": "Diz o que fazer, e como soa uma boa tentativa.",
       "description_label": "O que {{name}} lê",
