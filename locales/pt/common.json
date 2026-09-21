@@ -535,7 +535,9 @@
       "replace_game_title": "Trocar o mini-jogo?",
       "replace_game_body": "Este passo passaria a abrir “{{title}}”.",
       "replace_game_confirm": "Trocar",
-      "replace_game_keep": "Manter este"
+      "replace_game_keep": "Manter este",
+      "attached_game_note_plain": "{{name}} joga aqui em vez de escrever uma resposta.",
+      "pill_game_plain": "Mini-jogo"
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
