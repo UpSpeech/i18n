@@ -8,6 +8,7 @@
     "label_start": "Sem gaguez",
     "label_end": "Extremamente grave",
     "choose_value": "Escolhe um valor para continuar",
+    "tap_hint": "Toca num número",
     "submit": "Continuar",
     "success": "Obrigado! Tem uma ótima sessão.",
     "submit_error": "Algo correu mal. Por favor tenta novamente."

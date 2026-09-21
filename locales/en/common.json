@@ -1078,6 +1078,7 @@
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
     "text_placeholder": "Share your thoughts...",
+    "tap_hint": "Tap a number",
     "encouragement": "Take your time. There are no right or wrong answers.",
     "submit": "Submit",
     "milestone_title": "Milestone Complete!",
