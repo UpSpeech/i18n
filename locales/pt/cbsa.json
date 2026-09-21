@@ -2,10 +2,10 @@
   "title_onboarding": "Avaliação Inicial da Fala",
   "title_weekly": "Check-in Semanal",
   "description_onboarding": "Responde com base na tua experiência da última semana. Não há respostas certas ou erradas.",
-  "description_weekly": "Como esteve a tua fala esta semana? As tuas respostas ajudam a acompanhar o teu progresso.",
+  "description_weekly": "Como esteve a tua fala esta semana? Tu e o teu terapeuta podem comparar as tuas respostas semana a semana.",
   "onboarding_gate": {
     "title": "Um passo rápido antes de começares",
-    "description": "Estas 10 perguntas ajudam-nos a personalizar os teus exercícios e acompanhar o teu progresso desde o primeiro dia. Demora cerca de 3 minutos.",
+    "description": "Estas 10 perguntas são o teu ponto de partida, para comparares com os próximos check-ins. Demora cerca de 3 minutos.",
     "cta": "Vamos começar"
   },
   "dashboard_card": {

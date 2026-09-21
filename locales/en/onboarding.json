@@ -3,7 +3,7 @@
     "welcome": {
       "patient": {
         "title": "Welcome to UpSpeech!",
-        "description": "Your journey to improved speech starts here. Track your progress, complete exercises, and work with your therapist."
+        "description": "This is for the practice between your sessions. Your therapist sets the exercises, you record them, and they hear how it went."
       },
       "caregiver": {
         "title": "Hello, {{name}}",
@@ -31,7 +31,7 @@
           "title": "Getting Started with UpSpeech"
         },
         "patient": {
-          "description": "Learn how to use UpSpeech to track your progress and complete exercises",
+          "description": "How to complete the exercises your therapist sets, and record your practice",
           "title": "Getting Started as a Patient"
         },
         "therapist": {
@@ -63,7 +63,7 @@
         "complete_exercise": "Try your first exercise",
         "complete_exercise_description": "See what your therapist has prepared for you",
         "record_session": "Practice and record",
-        "record_session_description": "Capture a practice session to track your progress"
+        "record_session_description": "Record a practice session for your therapist to hear"
       },
       "admin": {
         "dashboard_tour": "Explore your dashboard",

@@ -4,7 +4,7 @@
     "greeting_afternoon": "Buenas tardes, {{name}}",
     "greeting_evening": "Buenas noches, {{name}}",
     "question": "¿Qué tan severa fue tu tartamudez hoy?",
-    "helper": "Solo toma un momento y ayuda a seguir tu progreso.",
+    "helper": "Toma un momento. Tú y tu terapeuta pueden revisar tus respuestas por fecha.",
     "label_start": "Sin tartamudez",
     "label_end": "Extremadamente severa",
     "choose_value": "Elige un valor para continuar",

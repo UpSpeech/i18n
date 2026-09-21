@@ -856,7 +856,7 @@
   "not_found": "Exercise not found",
   "retry_reason": {
     "title": "No problem, let's try again",
-    "description": "If you'd like, let us know what happened. It helps track your progress.",
+    "description": "If you'd like, let us know what happened. Your therapist reads it next to this attempt.",
     "reasons": {
       "background_noise": "Too much background noise",
       "wanted_practice": "Wanted to practice more first",

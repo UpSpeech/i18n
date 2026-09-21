@@ -856,7 +856,7 @@
   "not_found": "Ejercicio no encontrado",
   "retry_reason": {
     "title": "Sin problema, intentemos de nuevo",
-    "description": "Si quieres, cuéntanos qué pasó. Ayuda a seguir tu progreso.",
+    "description": "Si quieres, cuéntanos qué pasó. Tu terapeuta lo lee en este intento.",
     "reasons": {
       "background_noise": "Demasiado ruido de fondo",
       "wanted_practice": "Quería practicar más primero",
