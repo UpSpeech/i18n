@@ -601,7 +601,7 @@
     "manage_status": "Gestionar Estado de la Ruta",
     "status_explanation": "Cambia el estado de la ruta para controlar el acceso del paciente.",
     "page_title": "Mi Recorrido Terapéutico",
-    "page_subtitle": "Sigue tu progreso a través de tu programa de terapia personalizado",
+    "page_subtitle": "Los pasos que definió tu terapeuta, y lo que ya terminaste",
     "welcome_back": "¡Bienvenido de Nuevo!",
     "therapist_advances_note": "Practica este paso tantas veces como quieras. Tu terapeuta abre el siguiente después de tu sesión.",
     "therapist_unlocks_note": "Este paso se abre cuando tu terapeuta avance tu recorrido.",

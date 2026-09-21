@@ -3,7 +3,7 @@
     "welcome": {
       "patient": {
         "title": "Bem-vindo à UpSpeech!",
-        "description": "Acede aos teus exercícios atribuídos, acompanha o teu progresso e comunica com o teu terapeuta."
+        "description": "Isto é para a prática entre as tuas sessões. O teu terapeuta atribui os exercícios, tu gravas a tua prática, e o teu terapeuta ouve como correu."
       },
       "caregiver": {
         "title": "Olá, {{name}}",
@@ -31,7 +31,7 @@
           "title": "Primeiros Passos com a UpSpeech"
         },
         "patient": {
-          "description": "Aprende a utilizar a UpSpeech para acompanhares o teu progresso e completares exercícios",
+          "description": "Como completar os exercícios que o teu terapeuta te atribui e gravar a tua prática",
           "title": "Primeiros Passos como Paciente"
         },
         "therapist": {
@@ -63,7 +63,7 @@
         "complete_exercise": "Experimenta o teu primeiro exercício",
         "complete_exercise_description": "Vê o que o teu terapeuta preparou para ti",
         "record_session": "Pratica e grava",
-        "record_session_description": "Captura uma sessão de prática para acompanhares o teu progresso"
+        "record_session_description": "Grava uma sessão de prática para o teu terapeuta ouvir"
       },
       "admin": {
         "dashboard_tour": "Explora o teu painel",
