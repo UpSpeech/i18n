@@ -140,6 +140,8 @@
       "error": "No hemos podido registrarlo. Inténtalo de nuevo."
     },
     "tour": {
+      "companion_alt": "Tu compañero",
+      "progress": "{{index}} de {{size}}",
       "back": "Atrás",
       "close": "Cerrar",
       "finish": "Finalizar",

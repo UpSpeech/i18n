@@ -1041,6 +1041,10 @@
     },
     "step_occurrence": "Attempt {{n}} of {{total}}",
     "gate": {
+      "no_goals_title": "No goals yet",
+      "no_goals_description": "A goal is what a run of steps is working towards. Name the first one and add steps under it.",
+      "goal_title_placeholder": "Name this goal",
+      "name_every_goal": "Name every goal to continue",
       "dose_week": "{{count}}x a week",
       "dose_minutes": "up to {{count}} min",
       "title": "Assign to {{name}}",

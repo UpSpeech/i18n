@@ -140,6 +140,8 @@
       "error": "Não conseguimos registar isso. Tenta outra vez."
     },
     "tour": {
+      "companion_alt": "O teu companheiro",
+      "progress": "{{index}} de {{size}}",
       "back": "Voltar",
       "close": "Fechar",
       "finish": "Concluir",
