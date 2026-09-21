@@ -189,6 +189,7 @@
     }
   },
   "mini_games": {
+    "assign_moved": "Practice is assigned from a patient's plan. Open the patient, then add a step from the library.",
     "mini_game": "Mini Game",
     "mini_game_placeholder": "Select a mini game",
     "assign_daily_exercise": "Assign Daily Exercise",

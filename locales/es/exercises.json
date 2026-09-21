@@ -189,6 +189,7 @@
     }
   },
   "mini_games": {
+    "assign_moved": "La práctica se asigna desde el plan del paciente. Abre el paciente y añade un paso desde la biblioteca.",
     "mini_game": "Mini Juego",
     "mini_game_placeholder": "Selecciona un mini juego",
     "videos_step_description": "Puedes subir un video de demostración personalizado para cada paciente, o saltar este paso.",
