@@ -525,7 +525,17 @@
       "unnamed_goal": "Un objetivo nuevo",
       "waits_for_goal": "{{name}} empieza esto cuando llegue a {{goal}}.",
       "weeks_value": "{{count}} semanas",
-      "browse_library": "Ver la biblioteca"
+      "browse_library": "Ver la biblioteca",
+      "attached_game": "Se abre como minijuego",
+      "attached_card": "Viene de la biblioteca",
+      "attached_game_note": "{{name}} juega {{kind}} aquí en vez de escribir una respuesta.",
+      "attached_card_note": "Las palabras de abajo son de la tarjeta. Si quieres, reescríbelas con las palabras de {{name}}.",
+      "detach": "Quitar",
+      "pill_game": "minijuego de {{kind}}",
+      "replace_game_title": "¿Cambiar el minijuego?",
+      "replace_game_body": "Este paso abriría «{{title}}» en su lugar.",
+      "replace_game_confirm": "Cambiarlo",
+      "replace_game_keep": "Mantener este"
     },
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
