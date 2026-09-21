@@ -170,7 +170,7 @@
     "last_active_days_ago_other": "Last active {{count}} days ago",
     "attention_queue_action_dismiss": "Dismiss",
     "review_queue_action": "Review queue ({{count}})",
-    "header_facts": "{{patients}} patients, {{attention}} need attention today",
+    "header_facts": "{{patients}} patients",
     "patient_activity_list_description": "Every patient, least engaged first, with what they practised."
   },
   "owner": {

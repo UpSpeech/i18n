@@ -170,7 +170,7 @@
     "last_active_days_ago_other": "Última actividad hace {{count}} días",
     "attention_queue_action_dismiss": "Descartar",
     "review_queue_action": "Cola de revisión ({{count}})",
-    "header_facts": "{{patients}} pacientes, {{attention}} necesitan atención hoy",
+    "header_facts": "{{patients}} pacientes",
     "patient_activity_list_description": "Todos los pacientes, del menos participativo al más, y lo que han practicado."
   },
   "owner": {
