@@ -1018,5 +1018,10 @@
       "medium": "média",
       "natural": "natural"
     }
+  },
+  "practice": {
+    "unavailable_title": "A prática ainda não está configurada na tua clínica",
+    "unavailable_description": "O teu terapeuta ainda não ativou a biblioteca de prática. A tua jornada tem o que fazer a seguir.",
+    "unavailable_action": "Ir para a minha jornada"
   }
 }

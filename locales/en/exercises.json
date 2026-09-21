@@ -1018,5 +1018,10 @@
       "medium": "medium",
       "natural": "natural"
     }
+  },
+  "practice": {
+    "unavailable_title": "Practice is not set up for your clinic yet",
+    "unavailable_description": "Your therapist has not switched on the practice library. Your journey has what to work on next.",
+    "unavailable_action": "Go to my journey"
   }
 }

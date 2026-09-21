@@ -1018,5 +1018,10 @@
       "medium": "media",
       "natural": "natural"
     }
+  },
+  "practice": {
+    "unavailable_title": "La práctica aún no está configurada en tu clínica",
+    "unavailable_description": "Tu terapeuta aún no ha activado la biblioteca de práctica. Tu recorrido tiene qué hacer a continuación.",
+    "unavailable_action": "Ir a mi recorrido"
   }
 }

@@ -140,6 +140,8 @@
       "error": "We could not record that. Try again."
     },
     "tour": {
+      "companion_alt": "Your companion",
+      "progress": "{{index}} of {{size}}",
       "back": "Back",
       "close": "Close",
       "finish": "Finish",

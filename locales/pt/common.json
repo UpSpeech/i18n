@@ -1041,6 +1041,10 @@
     },
     "step_occurrence": "Tentativa {{n}} de {{total}}",
     "gate": {
+      "no_goals_title": "Ainda sem objetivos",
+      "no_goals_description": "Um objetivo é aquilo para que uma série de passos trabalha. Dá nome ao primeiro e acrescenta passos por baixo.",
+      "goal_title_placeholder": "Dá nome a este objetivo",
+      "name_every_goal": "Dá nome a todos os objetivos para continuar",
       "dose_week": "{{count}}x por semana",
       "dose_minutes": "até {{count}} min",
       "title": "Atribuir a {{name}}",
