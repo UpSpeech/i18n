@@ -189,8 +189,9 @@
     }
   },
   "mini_games": {
-    "assign_moved": "You assign practice from a patient's plan now.",
-    "assign_moved_action": "Go to My Patients",
+    "assign_moved_lead": "Assign moved.",
+    "assign_moved": "Open a patient and add practice to their plan.",
+    "assign_moved_action": "Open a patient",
     "mini_game": "Mini Game",
     "mini_game_placeholder": "Select a mini game",
     "assign_daily_exercise": "Assign Daily Exercise",
