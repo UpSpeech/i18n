@@ -171,7 +171,10 @@
     "attention_queue_action_dismiss": "Descartar",
     "review_queue_action": "Cola de revisión ({{count}})",
     "header_facts": "{{patients}} pacientes",
-    "patient_activity_list_description": "Todos los pacientes, del menos participativo al más, y lo que han practicado."
+    "patient_activity_list_description": "Cuánto ha practicado cada paciente, y cuánto hace que no lo hace.",
+    "activity_axis_recency": "Días desde la última práctica",
+    "activity_axis_volume": "Prácticas en este periodo",
+    "activity_quadrant_hint": "Arriba a la izquierda está quien practicaba y ha parado."
   },
   "owner": {
     "greeting_morning": "Buenos días",
