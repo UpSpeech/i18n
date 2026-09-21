@@ -168,7 +168,10 @@
     "attention_queue_milestone": "Hito {{position}} / {{total}}",
     "last_active_days_ago_one": "Última actividad hace 1 día",
     "last_active_days_ago_other": "Última actividad hace {{count}} días",
-    "attention_queue_action_dismiss": "Descartar"
+    "attention_queue_action_dismiss": "Descartar",
+    "review_queue_action": "Cola de revisión ({{count}})",
+    "header_facts": "{{patients}} pacientes, {{attention}} necesitan atención hoy",
+    "patient_activity_list_description": "Todos los pacientes, del menos participativo al más, y lo que han practicado."
   },
   "owner": {
     "greeting_morning": "Buenos días",

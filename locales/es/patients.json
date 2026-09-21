@@ -357,5 +357,6 @@
       "answer_nothing_else": "Nada más que añadir",
       "finalizing": "Tus respuestas ya se están guardando, así que esta no se pudo añadir. No queda nada por enviar."
     }
-  }
+  },
+  "header_facts": "{{total}} pacientes, {{recent}} nuevos este mes"
 }

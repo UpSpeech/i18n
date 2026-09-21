@@ -202,7 +202,11 @@
           "nav_reports_title": "Informes",
           "nav_reports_content": "Genera informes clínicos asistidos por IA desde grabaciones.",
           "nav_exercises_title": "Ejercicios",
-          "nav_exercises_content": "Navega por las bibliotecas de ejercicios y asígnalos a tus pacientes."
+          "nav_exercises_content": "Navega por las bibliotecas de ejercicios y asígnalos a tus pacientes.",
+          "attention_title": "Quién te necesita hoy",
+          "attention_content": "Los pacientes que se han quedado callados, han faltado a un check-in o te han dejado trabajo, los más urgentes primero.",
+          "patient_activity_title": "Participación de pacientes",
+          "patient_activity_content": "Todos los pacientes, del menos participativo al más, y cuánto han practicado en el periodo que elijas."
         },
         "invite": {
           "button_title": "Añadir un Paciente",

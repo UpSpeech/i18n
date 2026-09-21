@@ -168,7 +168,10 @@
     "attention_queue_milestone": "Milestone {{position}} / {{total}}",
     "last_active_days_ago_one": "Last active 1 day ago",
     "last_active_days_ago_other": "Last active {{count}} days ago",
-    "attention_queue_action_dismiss": "Dismiss"
+    "attention_queue_action_dismiss": "Dismiss",
+    "review_queue_action": "Review queue ({{count}})",
+    "header_facts": "{{patients}} patients, {{attention}} need attention today",
+    "patient_activity_list_description": "Every patient, least engaged first, with what they practised."
   },
   "owner": {
     "greeting_morning": "Good morning",
