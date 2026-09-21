@@ -479,6 +479,8 @@
   },
   "learning_path": {
     "composer": {
+      "lands_as_step": "Becomes a step in {{goal}}, playable as the game.",
+      "lands_in": "Lands in {{goal}}.",
       "after_current": "After the current step",
       "description_helper": "Say what to do, and what a good try sounds like.",
       "description_label": "What {{name}} reads",
