@@ -479,7 +479,7 @@
   },
   "learning_path": {
     "composer": {
-      "lands_as_step": "Torna-se um passo em {{goal}}, jogável como o jogo.",
+      "lands_as_step": "Torna-se um passo de jogo em {{goal}}.",
       "lands_in": "Fica em {{goal}}.",
       "after_current": "Depois do passo atual",
       "description_helper": "Diz o que fazer, e como soa uma boa tentativa.",
