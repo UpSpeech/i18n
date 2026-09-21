@@ -22,6 +22,8 @@
     "streak_zero_hint": "Practica hoy para empezar tu racha",
     "overdue_title": "{{count}} atrasadas",
     "overdue_open": "Practicar ahora",
+    "no_path_title": "Tu plan aún no está listo",
+    "no_path_description": "Tu terapeuta está preparando tus pasos. Esta pantalla se completa en cuanto lo haga.",
     "start_exercise": "Iniciar Ejercicio",
     "current_streak": "Racha actual, hoy",
     "consecutive_days": "días",

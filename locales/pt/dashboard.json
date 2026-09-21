@@ -22,6 +22,8 @@
     "streak_zero_hint": "Pratica hoje para começares a tua sequência",
     "overdue_title": "{{count}} em atraso",
     "overdue_open": "Praticar agora",
+    "no_path_title": "O teu plano ainda não está pronto",
+    "no_path_description": "O teu terapeuta está a montar os teus passos. Este ecrã preenche-se assim que estiver.",
     "start_exercise": "Iniciar Exercício",
     "current_streak": "Sequência atual, hoje",
     "consecutive_days": "dias",
