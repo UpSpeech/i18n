@@ -525,7 +525,17 @@
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
       "weeks_value": "{{count}} weeks",
-      "browse_library": "Browse the library"
+      "browse_library": "Browse the library",
+      "attached_game": "Opens as a mini-game",
+      "attached_card": "Comes from the library",
+      "attached_game_note": "{{name}} plays {{kind}} here instead of writing a reply.",
+      "attached_card_note": "The words below are the card's. Rewrite them in {{name}}'s words if you want.",
+      "detach": "Remove",
+      "pill_game": "{{kind}} mini-game",
+      "replace_game_title": "Swap the mini-game?",
+      "replace_game_body": "This step would open “{{title}}” instead.",
+      "replace_game_confirm": "Swap it",
+      "replace_game_keep": "Keep this one"
     },
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",

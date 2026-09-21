@@ -525,7 +525,17 @@
       "unnamed_goal": "Um novo objetivo",
       "waits_for_goal": "{{name}} começa isto quando chegar a {{goal}}.",
       "weeks_value": "{{count}} semanas",
-      "browse_library": "Ver a biblioteca"
+      "browse_library": "Ver a biblioteca",
+      "attached_game": "Abre como mini-jogo",
+      "attached_card": "Vem da biblioteca",
+      "attached_game_note": "{{name}} joga {{kind}} aqui em vez de escrever uma resposta.",
+      "attached_card_note": "As palavras abaixo são do cartão. Se quiseres, reescreve-as nas palavras que {{name}} usa.",
+      "detach": "Remover",
+      "pill_game": "mini-jogo de {{kind}}",
+      "replace_game_title": "Trocar o mini-jogo?",
+      "replace_game_body": "Este passo passaria a abrir “{{title}}”.",
+      "replace_game_confirm": "Trocar",
+      "replace_game_keep": "Manter este"
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
