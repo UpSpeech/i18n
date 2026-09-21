@@ -9,6 +9,8 @@
     "label_end": "Extremely severe",
     "choose_value": "Choose a value to continue",
     "tap_hint": "Pick a number",
+    "logging": "Logging {{score}} of 10",
+    "undo": "Undo",
     "submit": "Continue",
     "success": "Thank you! Have a great session.",
     "submit_error": "Something went wrong. Please try again."

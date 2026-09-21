@@ -9,6 +9,8 @@
     "label_end": "Extremamente grave",
     "choose_value": "Escolhe um valor para continuar",
     "tap_hint": "Escolhe um número",
+    "logging": "A registar {{score}} de 10",
+    "undo": "Anular",
     "submit": "Continuar",
     "success": "Obrigado! Tem uma ótima sessão.",
     "submit_error": "Algo correu mal. Por favor tenta novamente."
