@@ -252,7 +252,7 @@
       "preview_label": "Your companion",
       "body": "Body",
       "crown": "Crown",
-      "accent": "Cheeks and speech",
+      "accent": "Cheeks and details",
       "belly": "Belly",
       "custom": "Custom",
       "custom_color": "Custom colour",
@@ -270,6 +270,36 @@
         "tumbo": "Tumbo",
         "mark": "Logo mark",
         "none": "No companion"
+      },
+      "eyes": "Eyes",
+      "brows": "Brows",
+      "belly_shape": "Belly shape",
+      "belly_size": "Belly size",
+      "without_companion": "Practise without one",
+      "face_group": "Face",
+      "colours_group": "Colours",
+      "eyes_options": {
+        "default": "As drawn",
+        "wide": "Wide",
+        "narrow": "Narrow",
+        "dot": "Dots"
+      },
+      "brows_options": {
+        "none": "None",
+        "flat": "Flat",
+        "raised": "Raised",
+        "soft": "Soft"
+      },
+      "belly_shapes": {
+        "lobe": "As drawn",
+        "none": "None",
+        "round": "Round",
+        "shield": "Shield"
+      },
+      "belly_sizes": {
+        "s": "Small",
+        "m": "Medium",
+        "l": "Large"
       },
       "crowns": {
         "default": "As drawn",

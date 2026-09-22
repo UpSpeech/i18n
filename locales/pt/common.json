@@ -245,7 +245,7 @@
       "preview_label": "O teu companheiro",
       "body": "Corpo",
       "crown": "Adorno",
-      "accent": "Bochechas e fala",
+      "accent": "Bochechas e detalhes",
       "belly": "Barriga",
       "custom": "Personalizada",
       "custom_color": "Cor personalizada",
@@ -263,6 +263,36 @@
         "tumbo": "Tumbo",
         "mark": "Símbolo",
         "none": "Sem companheiro"
+      },
+      "eyes": "Olhos",
+      "brows": "Sobrancelhas",
+      "belly_shape": "Forma da barriga",
+      "belly_size": "Tamanho da barriga",
+      "without_companion": "Praticar sem companheiro",
+      "face_group": "Rosto",
+      "colours_group": "Cores",
+      "eyes_options": {
+        "default": "Como foi desenhado",
+        "wide": "Grandes",
+        "narrow": "Estreitos",
+        "dot": "Pontos"
+      },
+      "brows_options": {
+        "none": "Sem sobrancelhas",
+        "flat": "Retas",
+        "raised": "Levantadas",
+        "soft": "Suaves"
+      },
+      "belly_shapes": {
+        "lobe": "Como foi desenhada",
+        "none": "Sem barriga",
+        "round": "Redonda",
+        "shield": "Escudo"
+      },
+      "belly_sizes": {
+        "s": "Pequena",
+        "m": "Média",
+        "l": "Grande"
       },
       "crowns": {
         "default": "Como foi desenhado",
