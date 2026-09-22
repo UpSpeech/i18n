@@ -545,28 +545,30 @@
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
     "editor": {
-      "add_goal": "Adicionar um objetivo",
       "add_step": "Adicionar um passo",
+      "closed_but_not_added": "{{title}} foi fechado, mas o passo novo não foi acrescentado. Acrescenta-o outra vez.",
       "freeze_line": "Ainda por fazer",
       "goal_actions": "Ações do objetivo",
       "goal_name": "Nome do objetivo",
+      "goal_settled": "já começou, por isso não pode ser movido",
       "move_failed": "Esse passo não pode mudar de posição",
+      "move_goal": "Mover objetivo",
       "move_goal_down": "Mover objetivo para baixo",
       "move_goal_up": "Mover objetivo para cima",
       "move_step_down": "Mover para baixo",
       "move_step_up": "Mover para cima",
       "move_to_goal": "Mover para {{goal}}",
       "new_goal_name": "Novo objetivo",
+      "no_steps_description": "Adicione o primeiro passo e {{name}} pode começar a praticar.",
+      "no_steps_title": "Este percurso ainda não tem passos",
       "remove_failed": "Esse passo não pode ser removido",
       "remove_step": "Remover do percurso",
       "rename_failed": "Esse objetivo não pode mudar de nome",
       "rename_goal": "Mudar o nome do objetivo",
+      "rename_goal_hint": "Use o botão de renomear para mudar o nome deste objetivo.",
       "step_actions": "Ações do passo",
       "step_added": "Passo adicionado ao percurso",
-      "step_removed": "Passo removido",
-      "write_step": "Escrever um passo",
-      "closed_but_not_added": "{{title}} foi fechado, mas o passo novo não foi acrescentado. Acrescenta-o outra vez.",
-      "goal_settled": "já começou, por isso não pode mudar de nome nem de lugar"
+      "step_removed": "Passo removido"
     },
     "goal_fraction": "{{done}} de {{total}} em {{goal}}",
     "lifetime_steps_one": "{{count}} passo concluído",
@@ -916,7 +918,6 @@
     "confirm_allow_completion_locked_body": "O paciente poderá concluir \"{{step}}\" sozinho quando o alcançar. Concluir o passo fá-lo-á avançar para o seguinte.",
     "confirm_allow_completion_button": "Permitir Conclusão",
     "lock_for_patient": "Requer aprovação",
-    "milestone_actions": "Ações do marco",
     "milestone_option": "Marco {{number}}: {{title}}",
     "next_achievement": "Próxima Conquista",
     "not_started": "Não iniciado",
@@ -1096,7 +1097,8 @@
       "none": "Sem condição definida"
     },
     "intro_video_open": "Abrir a introdução",
-    "intro_video_title": "Introdução"
+    "intro_video_title": "Introdução",
+    "goal_actions_batch": "Ações para todos os passos deste objetivo"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
