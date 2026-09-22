@@ -371,9 +371,9 @@
     "send_message": "Enviar mensagem"
   },
   "patient_chatbot": {
-    "button_label": "Perguntar sobre Gaguez",
+    "button_label": "Perguntar ao Assistente IA",
     "input_bar_placeholder": "Pergunta-me qualquer coisa sobre a tua prática de fala...",
-    "title": "Assistente de Apoio à Gaguez",
+    "title": "Assistente IA",
     "no_messages": "Ainda sem mensagens.",
     "ask_anything": "Pergunta-me sobre gaguez, estratégias de coping ou questões gerais.",
     "thinking": "A IA está a pensar...",
