@@ -1614,6 +1614,8 @@
   "companion_style_pip": "Pip",
   "companion_style_nima": "Nima",
   "companion_style_tumbo": "Tumbo",
+  "welcome_companion_title": "Who is coming with you?",
+  "welcome_companion_hint": "Pick one, or keep Lumo. You can change this any time in Settings.",
   "companion_style_mark": "Logo mark",
   "companion_style_none": "No companion",
   "companion_crown_default": "As drawn",
