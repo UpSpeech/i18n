@@ -371,9 +371,9 @@
     "send_message": "Enviar mensaje"
   },
   "patient_chatbot": {
-    "button_label": "Preguntar sobre Tartamudez",
+    "button_label": "Preguntar al Asistente IA",
     "input_bar_placeholder": "Pregúntame lo que quieras sobre tu práctica del habla...",
-    "title": "Asistente de Apoyo a la Tartamudez",
+    "title": "Asistente IA",
     "no_messages": "Aún no hay mensajes.",
     "ask_anything": "Pregúntame sobre la tartamudez, estrategias de afrontamiento o preguntas generales.",
     "thinking": "La IA está pensando...",

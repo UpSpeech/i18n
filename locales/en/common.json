@@ -378,9 +378,9 @@
     "send_message": "Send message"
   },
   "patient_chatbot": {
-    "button_label": "Ask About Stuttering",
+    "button_label": "Ask the AI Assistant",
     "input_bar_placeholder": "Ask me anything about your speech practice...",
-    "title": "Stuttering Support Assistant",
+    "title": "AI Assistant",
     "no_messages": "No messages yet.",
     "ask_anything": "Ask me anything about stuttering, coping strategies, or general questions.",
     "thinking": "AI is thinking...",
