@@ -9,6 +9,12 @@
   "empty_unread": "No unread notifications",
   "empty_filtered": "No {{type}} notifications",
   "all_caught_up": "You're all caught up!",
+  "actions": {
+    "practice_now": "Practise now",
+    "read_feedback": "Read the feedback",
+    "collapsed_one": "1 more like this",
+    "collapsed_other": "{{count}} more like this"
+  },
   "types": {
     "inactive_patient": "{{patient_name}} has been inactive for {{days_inactive}} days",
     "missing_feedback": "{{patient_name}} has recordings waiting for review ({{hours_since_submission}}h)",

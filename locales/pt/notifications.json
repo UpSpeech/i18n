@@ -9,6 +9,12 @@
   "empty_unread": "Sem notificações por ler",
   "empty_filtered": "Sem notificações de {{type}}",
   "all_caught_up": "Está tudo em dia!",
+  "actions": {
+    "practice_now": "Praticar agora",
+    "read_feedback": "Ler o comentário",
+    "collapsed_one": "mais 1 como este",
+    "collapsed_other": "mais {{count}} como este"
+  },
   "types": {
     "inactive_patient": "{{patient_name}} está inativo(a) há {{days_inactive}} dias",
     "missing_feedback": "{{patient_name}} tem gravações à espera de revisão ({{hours_since_submission}}h)",
