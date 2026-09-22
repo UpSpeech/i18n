@@ -1614,6 +1614,8 @@
   "companion_style_pip": "Pip",
   "companion_style_nima": "Nima",
   "companion_style_tumbo": "Tumbo",
+  "welcome_companion_title": "Quem vai contigo?",
+  "welcome_companion_hint": "Escolhe uma, ou fica com o Lumo. Podes mudar quando quiseres nas Definições.",
   "companion_style_mark": "Símbolo",
   "companion_style_none": "Sem companheiro",
   "companion_crown_default": "Como foi desenhado",
