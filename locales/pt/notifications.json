@@ -19,6 +19,7 @@
     "therapist_feedback_batch": "{{therapist_name}} deixou feedback sobre o teu treino recente",
     "milestone_unlocked": "Chegaste ao Marco {{milestone_position}}. O teu próximo passo já está disponível.",
     "goal_completed": "Terminaste {{goal_title}}. O teu próximo passo está pronto.",
+    "path_work_assigned": "{{therapist_name}} acrescentou nova prática a {{goal_title}}.",
     "direct_message": "Tens uma nova mensagem"
   },
   "filters": {
@@ -32,6 +33,7 @@
     "therapist_feedback": "Feedback",
     "milestone_unlocked": "Marco",
     "goal_completed": "Objetivo",
+    "path_work_assigned": "Nova prática",
     "direct_message": "Mensagens"
   },
   "date_groups": {
@@ -78,6 +80,8 @@
       "milestone_unlocked_desc": "Quando completas um marco e um novo é desbloqueado",
       "goal_completed": "Objetivo concluído",
       "goal_completed_desc": "Quando terminas todos os passos de um objetivo",
+      "path_work_assigned": "Nova prática",
+      "path_work_assigned_desc": "Quando o teu terapeuta acrescenta um passo ao teu plano",
       "direct_message": "Mensagens Diretas",
       "direct_message_desc": "Quando alguém te envia uma nova mensagem"
     }
