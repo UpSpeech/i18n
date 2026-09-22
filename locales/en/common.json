@@ -568,6 +568,7 @@
       "rename_goal": "Rename goal",
       "rename_goal_hint": "Use the rename button to change this goal's name.",
       "reordered": "Path reordered",
+      "reordered_named": "Moved \"{{name}}\"",
       "step_actions": "Step actions",
       "step_added": "Step added to the path",
       "step_removed": "Step removed"
