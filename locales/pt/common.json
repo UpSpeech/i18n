@@ -559,7 +559,7 @@
       "move_step_up": "Mover para cima",
       "move_to_goal": "Mover para {{goal}}",
       "new_goal_name": "Novo objetivo",
-      "no_steps_description": "Escreva o primeiro e passa a ser o que {{name}} pratica a seguir.",
+      "no_steps_description": "Adicione o primeiro passo e {{name}} pode começar a praticar.",
       "no_steps_title": "Este percurso ainda não tem passos",
       "remove_failed": "Esse passo não pode ser removido",
       "remove_step": "Remover do percurso",

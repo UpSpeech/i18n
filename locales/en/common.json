@@ -559,7 +559,7 @@
       "move_step_up": "Move up",
       "move_to_goal": "Move to {{goal}}",
       "new_goal_name": "New goal",
-      "no_steps_description": "Write the first one and it becomes what {{name}} practises next.",
+      "no_steps_description": "Add the first step and {{name}} can start practising.",
       "no_steps_title": "This path has no steps yet",
       "remove_failed": "That step cannot be removed",
       "remove_step": "Remove from path",
