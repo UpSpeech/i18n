@@ -787,6 +787,7 @@
   "notification_type_practice_reminder": "Lembrete de prática",
   "notification_type_therapist_feedback": "Feedback do terapeuta",
   "notification_type_milestone_unlocked": "Marco desbloqueado",
+  "notification_type_goal_completed": "Objetivo concluído",
   "notification_type_direct_message": "Mensagens",
   "messages_title": "Mensagens",
   "assigned_to_me_title": "Atribuído a mim",
