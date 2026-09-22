@@ -264,6 +264,36 @@
         "mark": "Símbolo",
         "none": "Sin compañero"
       },
+      "eyes": "Ojos",
+      "brows": "Cejas",
+      "belly_shape": "Forma de la barriga",
+      "belly_size": "Tamaño de la barriga",
+      "without_companion": "Practicar sin compañero",
+      "face_group": "Cara",
+      "colours_group": "Colores",
+      "eyes_options": {
+        "default": "Como se dibujó",
+        "wide": "Grandes",
+        "narrow": "Estrechos",
+        "dot": "Puntos"
+      },
+      "brows_options": {
+        "none": "Sin cejas",
+        "flat": "Rectas",
+        "raised": "Levantadas",
+        "soft": "Suaves"
+      },
+      "belly_shapes": {
+        "lobe": "Como se dibujó",
+        "none": "Sin barriga",
+        "round": "Redonda",
+        "shield": "Escudo"
+      },
+      "belly_sizes": {
+        "s": "Pequeña",
+        "m": "Mediana",
+        "l": "Grande"
+      },
       "crowns": {
         "default": "Como se dibujó",
         "ears": "Orejas",
