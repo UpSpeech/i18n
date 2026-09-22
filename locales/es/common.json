@@ -558,6 +558,7 @@
       "move_step_down": "Mover abajo",
       "move_step_up": "Mover arriba",
       "move_to_goal": "Mover a {{goal}}",
+      "new_goal_name": "Nuevo objetivo",
       "no_steps_description": "Escribe el primero y pasa a ser lo que {{name}} practica a continuación.",
       "no_steps_title": "Esta ruta todavía no tiene pasos",
       "remove_failed": "Ese paso no puede eliminarse",
