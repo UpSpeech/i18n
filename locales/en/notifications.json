@@ -19,6 +19,7 @@
     "therapist_feedback_batch": "{{therapist_name}} left feedback on your recent practice",
     "milestone_unlocked": "You reached Milestone {{milestone_position}}. Your next step is ready.",
     "goal_completed": "You finished {{goal_title}}. Your next step is ready.",
+    "path_work_assigned": "{{therapist_name}} added new practice to {{goal_title}}.",
     "direct_message": "You have a new message"
   },
   "filters": {
@@ -32,6 +33,7 @@
     "therapist_feedback": "Feedback",
     "milestone_unlocked": "Milestone",
     "goal_completed": "Goal",
+    "path_work_assigned": "New practice",
     "direct_message": "Messages"
   },
   "date_groups": {
@@ -78,6 +80,8 @@
       "milestone_unlocked_desc": "When you complete a milestone and a new one opens up",
       "goal_completed": "Goal Completed",
       "goal_completed_desc": "When you finish every step in a goal",
+      "path_work_assigned": "New Practice",
+      "path_work_assigned_desc": "When your therapist adds a step to your plan",
       "direct_message": "Direct Messages",
       "direct_message_desc": "When someone sends you a new message"
     }

@@ -788,6 +788,7 @@
   "notification_type_therapist_feedback": "Feedback del terapeuta",
   "notification_type_milestone_unlocked": "Hito desbloqueado",
   "notification_type_goal_completed": "Objetivo completado",
+  "notification_type_path_work_assigned": "Nueva práctica",
   "notification_type_direct_message": "Mensajes",
   "messages_title": "Mensajes",
   "assigned_to_me_title": "Asignado a mí",
