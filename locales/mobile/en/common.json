@@ -232,6 +232,7 @@
   "journey_therapist_advances": "Practise this step as often as you like. Your therapist opens the next one after your session.",
   "journey_your_journey": "Your Journey",
   "journey_milestone_progress": "{{completed}} of {{total}} steps",
+  "journey_other_steps": "Other steps",
   "journey_intro_importance": "Why it matters",
   "journey_intro_actions": "What you'll do",
   "step_exercises_label": "Exercises",

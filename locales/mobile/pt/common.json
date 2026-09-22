@@ -232,6 +232,7 @@
   "journey_therapist_advances": "Pratica este passo tantas vezes quantas quiseres. O teu terapeuta abre o próximo depois da tua sessão.",
   "journey_your_journey": "A Tua Jornada",
   "journey_milestone_progress": "{{completed}} de {{total}} passos",
+  "journey_other_steps": "Outros passos",
   "journey_intro_importance": "Porque é importante",
   "journey_intro_actions": "O que vais fazer",
   "step_exercises_label": "Exercícios",

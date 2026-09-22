@@ -610,6 +610,7 @@
     "step_number": "Passo {{number}}",
     "steps_progress": "{{completed}} de {{total}} passos",
     "steps_completed": "{{count}} passos concluídos",
+    "other_steps": "Outros passos",
     "intro_importance_label": "Porque é importante",
     "intro_actions_label": "O que vais fazer",
     "intro_listen": "Ouvir",
