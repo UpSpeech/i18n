@@ -567,6 +567,7 @@
       "rename_failed": "That goal cannot be renamed",
       "rename_goal": "Rename goal",
       "rename_goal_hint": "Use the rename button to change this goal's name.",
+      "reordered": "Path reordered",
       "step_actions": "Step actions",
       "step_added": "Step added to the path",
       "step_removed": "Step removed"
@@ -1337,5 +1338,6 @@
   "theme": {
     "switch_to_dark": "Switch to dark mode",
     "switch_to_light": "Switch to light mode"
-  }
+  },
+  "undo": "Undo"
 }
