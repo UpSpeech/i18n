@@ -1656,6 +1656,7 @@
   "plan_subtitle": "What {{child}}'s therapist has set out.",
   "plan_steps_progress": "{{done}} of {{total}} done",
   "plan_freeze_line": "Still to come",
+  "plan_more_to_come": "{{count}} more when they get there",
   "plan_empty_title": "Nothing set out yet",
   "plan_empty_hint": "Their therapist builds this. It appears here as soon as they do.",
   "plan_load_failed": "The plan did not load. Pull to try again.",

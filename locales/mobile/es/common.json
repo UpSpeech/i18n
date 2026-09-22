@@ -1656,6 +1656,7 @@
   "plan_subtitle": "Lo que ha definido el terapeuta de {{child}}.",
   "plan_steps_progress": "{{done}} de {{total}} hechos",
   "plan_freeze_line": "Aún por llegar",
+  "plan_more_to_come": "{{count}} más cuando llegue",
   "plan_empty_title": "Aún no hay nada definido",
   "plan_empty_hint": "Lo construye su terapeuta. Aparece aquí en cuanto lo haga.",
   "plan_load_failed": "El plan no cargó. Desliza para intentarlo otra vez.",
