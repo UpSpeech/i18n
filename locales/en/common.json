@@ -561,6 +561,7 @@
       "new_goal_name": "New goal",
       "no_steps_description": "Add the first step and {{name}} can start practising.",
       "no_steps_title": "This path has no steps yet",
+      "remove_confirm": "\"{{step}}\" comes off the path. Nothing the patient has already done is affected.",
       "remove_failed": "That step cannot be removed",
       "remove_step": "Remove from path",
       "rename_failed": "That goal cannot be renamed",
