@@ -568,6 +568,7 @@
       "rename_goal": "Mudar o nome do objetivo",
       "rename_goal_hint": "Use o botão de renomear para mudar o nome deste objetivo.",
       "reordered": "Percurso reordenado",
+      "reordered_named": "\"{{name}}\" movido",
       "step_actions": "Ações do passo",
       "step_added": "Passo adicionado ao percurso",
       "step_removed": "Passo removido"
