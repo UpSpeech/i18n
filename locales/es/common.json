@@ -545,28 +545,29 @@
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
     "editor": {
-      "add_goal": "Añadir un objetivo",
       "add_step": "Añadir un paso",
+      "closed_but_not_added": "{{title}} se cerró, pero el paso nuevo no se añadió. Añádelo otra vez.",
       "freeze_line": "Aún por hacer",
       "goal_actions": "Acciones del objetivo",
       "goal_name": "Nombre del objetivo",
+      "goal_settled": "ya empezó, así que no se puede mover",
       "move_failed": "Ese paso no puede moverse",
+      "move_goal": "Mover objetivo",
       "move_goal_down": "Mover objetivo abajo",
       "move_goal_up": "Mover objetivo arriba",
       "move_step_down": "Mover abajo",
       "move_step_up": "Mover arriba",
       "move_to_goal": "Mover a {{goal}}",
-      "new_goal_name": "Nuevo objetivo",
+      "no_steps_description": "Escribe el primero y pasa a ser lo que {{name}} practica a continuación.",
+      "no_steps_title": "Esta ruta todavía no tiene pasos",
       "remove_failed": "Ese paso no puede eliminarse",
       "remove_step": "Quitar de la ruta",
       "rename_failed": "Ese objetivo no puede cambiar de nombre",
       "rename_goal": "Cambiar el nombre del objetivo",
+      "rename_goal_hint": "Usa el botón de renombrar para cambiar el nombre de este objetivo.",
       "step_actions": "Acciones del paso",
       "step_added": "Paso añadido a la ruta",
-      "step_removed": "Paso eliminado",
-      "write_step": "Escribir un paso",
-      "closed_but_not_added": "{{title}} se cerró, pero el paso nuevo no se añadió. Añádelo otra vez.",
-      "goal_settled": "ya empezó, así que no se puede renombrar ni mover"
+      "step_removed": "Paso eliminado"
     },
     "goal_fraction": "{{done}} de {{total}} en {{goal}}",
     "lifetime_steps_one": "{{count}} paso completado",
@@ -916,7 +917,6 @@
     "confirm_allow_completion_locked_body": "El paciente podrá completar \"{{step}}\" por su cuenta cuando lo alcance. Completar el paso lo hará avanzar al siguiente.",
     "confirm_allow_completion_button": "Permitir Conclusión",
     "lock_for_patient": "Requerir aprobación",
-    "milestone_actions": "Acciones del hito",
     "milestone_option": "Hito {{number}}: {{title}}",
     "next_achievement": "Próximo Logro",
     "not_started": "No iniciado",
@@ -1096,7 +1096,8 @@
       "none": "Sin condición definida"
     },
     "intro_video_open": "Abrir la introducción",
-    "intro_video_title": "Introducción"
+    "intro_video_title": "Introducción",
+    "goal_actions_batch": "Acciones para todos los pasos de este objetivo"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

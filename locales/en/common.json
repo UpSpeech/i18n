@@ -545,28 +545,29 @@
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",
     "editor": {
-      "add_goal": "Add a goal",
       "add_step": "Add a step",
+      "closed_but_not_added": "{{title}} closed, but the new step was not added. Add it again.",
       "freeze_line": "Still to come",
       "goal_actions": "Goal actions",
       "goal_name": "Goal name",
+      "goal_settled": "started, so it cannot be moved",
       "move_failed": "That step cannot move",
+      "move_goal": "Move goal",
       "move_goal_down": "Move goal down",
       "move_goal_up": "Move goal up",
       "move_step_down": "Move down",
       "move_step_up": "Move up",
       "move_to_goal": "Move to {{goal}}",
-      "new_goal_name": "New goal",
+      "no_steps_description": "Write the first one and it becomes what {{name}} practises next.",
+      "no_steps_title": "This path has no steps yet",
       "remove_failed": "That step cannot be removed",
       "remove_step": "Remove from path",
       "rename_failed": "That goal cannot be renamed",
       "rename_goal": "Rename goal",
+      "rename_goal_hint": "Use the rename button to change this goal's name.",
       "step_actions": "Step actions",
       "step_added": "Step added to the path",
-      "step_removed": "Step removed",
-      "write_step": "Write a step",
-      "closed_but_not_added": "{{title}} closed, but the new step was not added. Add it again.",
-      "goal_settled": "started, so it cannot be renamed or moved"
+      "step_removed": "Step removed"
     },
     "goal_fraction": "{{done}} of {{total}} in {{goal}}",
     "lifetime_steps_one": "{{count}} step completed",
@@ -916,7 +917,6 @@
     "confirm_allow_completion_locked_body": "The patient will be able to complete \"{{step}}\" on their own when they reach it. Completing the step will advance them to the next one.",
     "confirm_allow_completion_button": "Allow Completion",
     "lock_for_patient": "Require approval",
-    "milestone_actions": "Milestone actions",
     "milestone_option": "Milestone {{number}}: {{title}}",
     "next_achievement": "Next Achievement",
     "not_started": "Not started",
@@ -1096,7 +1096,8 @@
       "none": "No condition set"
     },
     "intro_video_open": "Open the introduction",
-    "intro_video_title": "Introduction"
+    "intro_video_title": "Introduction",
+    "goal_actions_batch": "Actions for every step in this goal"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
