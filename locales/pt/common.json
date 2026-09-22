@@ -567,6 +567,7 @@
       "rename_failed": "Esse objetivo não pode mudar de nome",
       "rename_goal": "Mudar o nome do objetivo",
       "rename_goal_hint": "Use o botão de renomear para mudar o nome deste objetivo.",
+      "reordered": "Percurso reordenado",
       "step_actions": "Ações do passo",
       "step_added": "Passo adicionado ao percurso",
       "step_removed": "Passo removido"
@@ -1337,5 +1338,6 @@
   "theme": {
     "switch_to_dark": "Mudar para o modo escuro",
     "switch_to_light": "Mudar para o modo claro"
-  }
+  },
+  "undo": "Anular"
 }
