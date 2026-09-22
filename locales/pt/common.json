@@ -561,6 +561,7 @@
       "new_goal_name": "Novo objetivo",
       "no_steps_description": "Adicione o primeiro passo e {{name}} pode começar a praticar.",
       "no_steps_title": "Este percurso ainda não tem passos",
+      "remove_confirm": "\"{{step}}\" sai do percurso. Nada do que o paciente já fez é afetado.",
       "remove_failed": "Esse passo não pode ser removido",
       "remove_step": "Remover do percurso",
       "rename_failed": "Esse objetivo não pode mudar de nome",
