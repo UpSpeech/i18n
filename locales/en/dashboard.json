@@ -166,6 +166,7 @@
     "attention_queue_empty_body": "Patients appear here when they have gone quiet, missed a check-in, or left work for you.",
     "attention_queue_empty_action": "See all patients",
     "attention_queue_milestone": "Milestone {{position}} / {{total}}",
+    "attention_queue_path_progress": "Path {{percentage}}%",
     "last_active_days_ago_one": "Last active 1 day ago",
     "last_active_days_ago_other": "Last active {{count}} days ago",
     "attention_queue_action_dismiss": "Dismiss",
