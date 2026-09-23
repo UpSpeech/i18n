@@ -30,7 +30,7 @@
       },
       "coffeeShop": {
         "title": "Order at a Coffee Shop",
-        "description": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customizations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order."
+        "description": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customisations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order."
       },
       "newColleague": {
         "title": "Meet a New Colleague",
@@ -378,7 +378,7 @@
         "Join a group conversation at a party"
       ],
       "ordering_food": [
-        "Order a coffee with specific customizations at a busy café",
+        "Order a coffee with specific customisations at a busy café",
         "Order dinner at a restaurant and ask about menu items",
         "Order food for pickup over the phone"
       ],
