@@ -77,6 +77,8 @@
     "consent_helper": "Este reconocimiento es necesario para cumplir con las regulaciones de protección de datos y garantizar prácticas clínicas éticas.",
     "duplicate_file_no_report": "Este archivo ya ha sido subido.",
     "configuration": "Configuración",
-    "entity_audio_file": "Archivo de audio"
+    "entity_audio_file": "Archivo de audio",
+    "select_patient_description": "Elige el paciente al que pertenece esta grabación.",
+    "select_patient_placeholder": "Selecciona un paciente..."
   }
 }

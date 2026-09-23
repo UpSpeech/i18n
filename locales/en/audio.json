@@ -77,6 +77,8 @@
     "consent_helper": "This acknowledgment is required to comply with data protection regulations and ensure ethical clinical practice.",
     "duplicate_file_no_report": "This file has already been uploaded.",
     "configuration": "Configuration",
-    "entity_audio_file": "Audio file"
+    "entity_audio_file": "Audio file",
+    "select_patient_description": "Choose the patient this recording belongs to.",
+    "select_patient_placeholder": "Select a patient..."
   }
 }

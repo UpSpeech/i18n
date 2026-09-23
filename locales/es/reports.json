@@ -147,7 +147,18 @@
     "processing_report": "Procesando tu informe...",
     "processing_message": "El informe se está redactando. Aparecerá aquí cuando esté listo.",
     "generating_report": "Generando tu informe...",
-    "analysis_in_progress": "Transcribiendo la sesión y redactando el informe."
+    "analysis_in_progress": "Transcribiendo la sesión y redactando el informe.",
+    "reassign": "Reasignar",
+    "failed_title": "No se pudo redactar este informe",
+    "failed_reasons": {
+      "timeout": "El servicio de análisis tardó demasiado en responder.",
+      "service_unavailable": "No se pudo contactar con el servicio de análisis.",
+      "invalid_response": "El servicio de análisis devolvió algo que la aplicación no pudo leer.",
+      "unknown": "Algo salió mal al redactar el informe."
+    },
+    "retry": "Reintentar",
+    "retry_started": "Redactando el informe de nuevo. Esta página se actualiza cuando esté listo.",
+    "retry_failed": "No se pudo iniciar otro intento. Inténtalo de nuevo."
   },
   "errors": {
     "failed_export_pdf": "Error al exportar PDF. Por favor inténtalo de nuevo.",
@@ -162,5 +173,6 @@
   "recording_number": "Grabación #{{id}}",
   "recording_restarted": "Procesamiento de la grabación reiniciado",
   "regenerated_success": "Informe regenerado con éxito",
-  "report_number": "Informe #{{id}}"
+  "report_number": "Informe #{{id}}",
+  "status_failed": "Fallido"
 }

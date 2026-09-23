@@ -147,7 +147,18 @@
     "processing_report": "A processar o teu relatório...",
     "processing_message": "O relatório está a ser redigido. Aparece aqui quando estiver pronto.",
     "generating_report": "A gerar o teu relatório...",
-    "analysis_in_progress": "A transcrever a sessão e a redigir o relatório."
+    "analysis_in_progress": "A transcrever a sessão e a redigir o relatório.",
+    "reassign": "Reatribuir",
+    "failed_title": "Não foi possível redigir este relatório",
+    "failed_reasons": {
+      "timeout": "O serviço de análise demorou demasiado a responder.",
+      "service_unavailable": "Não foi possível contactar o serviço de análise.",
+      "invalid_response": "O serviço de análise devolveu algo que a aplicação não conseguiu ler.",
+      "unknown": "Algo correu mal ao redigir o relatório."
+    },
+    "retry": "Tentar novamente",
+    "retry_started": "A redigir o relatório novamente. Esta página atualiza quando estiver pronto.",
+    "retry_failed": "Não foi possível iniciar outra tentativa. Tenta novamente."
   },
   "errors": {
     "failed_export_pdf": "Falha ao exportar PDF. Tenta novamente.",
@@ -162,5 +173,6 @@
   "recording_number": "Gravação #{{id}}",
   "recording_restarted": "Processamento da gravação reiniciado",
   "regenerated_success": "Relatório regenerado com sucesso",
-  "report_number": "Relatório #{{id}}"
+  "report_number": "Relatório #{{id}}",
+  "status_failed": "Falhou"
 }

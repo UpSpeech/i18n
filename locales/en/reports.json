@@ -147,7 +147,18 @@
     "processing_report": "Processing your report...",
     "processing_message": "The report is being drafted. It will appear here when it is ready.",
     "generating_report": "Generating your report...",
-    "analysis_in_progress": "Transcribing the session and drafting the report."
+    "analysis_in_progress": "Transcribing the session and drafting the report.",
+    "reassign": "Reassign",
+    "failed_title": "This report could not be drafted",
+    "failed_reasons": {
+      "timeout": "The analysis service took too long to answer.",
+      "service_unavailable": "The analysis service could not be reached.",
+      "invalid_response": "The analysis service sent back something the app could not read.",
+      "unknown": "Something went wrong while drafting the report."
+    },
+    "retry": "Retry",
+    "retry_started": "Drafting the report again. This page updates when it is ready.",
+    "retry_failed": "Could not start another attempt. Please try again."
   },
   "errors": {
     "failed_export_pdf": "Failed to export PDF. Please try again.",
@@ -162,5 +173,6 @@
   "recording_number": "Recording #{{id}}",
   "recording_restarted": "Recording processing restarted",
   "regenerated_success": "Report regenerated successfully",
-  "report_number": "Report #{{id}}"
+  "report_number": "Report #{{id}}",
+  "status_failed": "Failed"
 }
