@@ -373,13 +373,13 @@
     "recording_start_error": "Failed to start recording. Please try again."
   },
   "upload_title": {
-    "self_recording": "Self-Recording - {{title}}",
-    "reflection": "Reflection - {{title}}",
-    "self_disclosure": "Self-Disclosure - {{title}}",
-    "holding": "Holding - {{title}}",
-    "pause": "Pause Practice - {{title}}",
-    "motor_control": "Motor Control - {{title}}",
-    "generalisation": "Generalisation - {{title}}"
+    "self_recording": "Self-Recording: {{title}}",
+    "reflection": "Reflection: {{title}}",
+    "self_disclosure": "Self-Disclosure: {{title}}",
+    "holding": "Holding: {{title}}",
+    "pause": "Pause Practice: {{title}}",
+    "motor_control": "Motor Control: {{title}}",
+    "generalisation": "Generalisation: {{title}}"
   },
   "recording": {
     "add_notes": "Add notes (optional)...",

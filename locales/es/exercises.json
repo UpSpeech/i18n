@@ -430,13 +430,13 @@
     "days": "Días"
   },
   "upload_title": {
-    "self_recording": "Autograbación - {{title}}",
-    "reflection": "Reflexión - {{title}}",
-    "self_disclosure": "Autodivulgación - {{title}}",
-    "holding": "Holding - {{title}}",
-    "pause": "Práctica de Pausa - {{title}}",
-    "motor_control": "Control Motor - {{title}}",
-    "generalisation": "Generalización - {{title}}"
+    "self_recording": "Autograbación: {{title}}",
+    "reflection": "Reflexión: {{title}}",
+    "self_disclosure": "Autodivulgación: {{title}}",
+    "holding": "Holding: {{title}}",
+    "pause": "Práctica de Pausa: {{title}}",
+    "motor_control": "Control Motor: {{title}}",
+    "generalisation": "Generalización: {{title}}"
   },
   "identification": {
     "start_recording": "Iniciar Grabación",
