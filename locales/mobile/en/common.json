@@ -344,7 +344,6 @@
   "patients_no_results_description": "Nothing matches \"{{query}}\". Try another name, or clear the search.",
   "clear_search": "Clear search",
   "patients_search": "Search patients...",
-  "patients_progress": "{{percent}}% complete",
   "patients_current_step": "Current: {{step}}",
   "patients_no_path": "No learning path",
   "invite_button": "Invite Patient",
