@@ -231,7 +231,7 @@
     },
     "expert_reviews": {
       "question": "What is the Recording Reviews feature?",
-      "answer": "Recording Reviews (available to admins and users with special access) is a dedicated tool for evaluating patient recordings across the organization. Reviewers can annotate disfluencies and techniques, add clinical notes, and work through a review queue."
+      "answer": "Recording Reviews (available to admins and users with special access) is a dedicated tool for evaluating patient recordings across the organisation. Reviewers can annotate disfluencies and techniques, add clinical notes, and work through a review queue."
     }
   },
   "documentation": {

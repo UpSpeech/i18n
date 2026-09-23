@@ -11,7 +11,7 @@
       "idle": "Look at the camera and keep your whole face in the frame",
       "no_face": "Face the camera",
       "too_small": "Move closer",
-      "off_center": "Center your face in the frame",
+      "off_center": "Centre your face in the frame",
       "good": "Framing looks good"
     }
   },
