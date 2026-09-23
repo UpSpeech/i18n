@@ -151,10 +151,10 @@
     "reassign": "Reasignar",
     "failed_title": "No se pudo redactar este informe",
     "failed_reasons": {
-      "timeout": "El servicio de análisis tardó demasiado en responder.",
-      "service_unavailable": "No se pudo contactar con el servicio de análisis.",
-      "invalid_response": "El servicio de análisis devolvió algo que la aplicación no pudo leer.",
-      "unknown": "Algo salió mal al redactar el informe."
+      "timeout": "El análisis tardó más de lo debido y se detuvo. Reintentar suele funcionar.",
+      "service_unavailable": "No se pudo contactar con el análisis. Inténtalo dentro de unos minutos.",
+      "invalid_response": "El análisis volvió en un formato que la aplicación no pudo leer. Reintentar suele funcionar.",
+      "unknown": "Algo salió mal al redactar este informe. Inténtalo de nuevo y avísanos si sigue ocurriendo."
     },
     "retry": "Reintentar",
     "retry_started": "Redactando el informe de nuevo. Esta página se actualiza cuando esté listo.",

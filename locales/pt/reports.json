@@ -151,10 +151,10 @@
     "reassign": "Reatribuir",
     "failed_title": "Não foi possível redigir este relatório",
     "failed_reasons": {
-      "timeout": "O serviço de análise demorou demasiado a responder.",
-      "service_unavailable": "Não foi possível contactar o serviço de análise.",
-      "invalid_response": "O serviço de análise devolveu algo que a aplicação não conseguiu ler.",
-      "unknown": "Algo correu mal ao redigir o relatório."
+      "timeout": "A análise demorou mais do que devia e parou. Tentar de novo costuma resolver.",
+      "service_unavailable": "Não foi possível contactar a análise. Tenta daqui a alguns minutos.",
+      "invalid_response": "A análise voltou num formato que a aplicação não conseguiu ler. Tentar de novo costuma resolver.",
+      "unknown": "Algo correu mal ao redigir este relatório. Tenta de novo e avisa-nos se continuar a acontecer."
     },
     "retry": "Tentar novamente",
     "retry_started": "A redigir o relatório novamente. Esta página atualiza quando estiver pronto.",
