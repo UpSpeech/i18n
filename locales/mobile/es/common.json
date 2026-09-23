@@ -1217,6 +1217,7 @@
   "attention_queue_reason_high_daily": "Puntuaciones diarias recientes altas",
   "attention_queue_action_review": "Revisar ahora",
   "attention_queue_milestone": "Hito {{position}} / {{total}}",
+  "attention_queue_path_progress": "Ruta {{percentage}}%",
   "last_active_days_ago_one": "Última actividad hace 1 día",
   "last_active_days_ago_other": "Última actividad hace {{count}} días",
   "quick_review_button_label": "Revisar práctica pendiente ({{count}})",

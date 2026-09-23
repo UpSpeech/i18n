@@ -166,6 +166,7 @@
     "attention_queue_empty_body": "Os pacientes aparecem aqui quando ficam em silêncio, falham uma verificação ou deixam trabalho para ti.",
     "attention_queue_empty_action": "Ver todos os pacientes",
     "attention_queue_milestone": "Marco {{position}} / {{total}}",
+    "attention_queue_path_progress": "Percurso {{percentage}}%",
     "last_active_days_ago_one": "Última atividade há 1 dia",
     "last_active_days_ago_other": "Última atividade há {{count}} dias",
     "attention_queue_action_dismiss": "Dispensar",
