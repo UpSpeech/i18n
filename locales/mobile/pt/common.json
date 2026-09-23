@@ -344,7 +344,6 @@
   "patients_no_results_description": "Nada corresponde a \"{{query}}\". Tenta outro nome ou limpa a pesquisa.",
   "clear_search": "Limpar pesquisa",
   "patients_search": "Pesquisar pacientes...",
-  "patients_progress": "{{percent}}% completo",
   "patients_current_step": "Atual: {{step}}",
   "patients_no_path": "Sem percurso de aprendizagem",
   "invite_button": "Convidar Paciente",
