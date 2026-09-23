@@ -78,7 +78,6 @@
     "duplicate_file_no_report": "Este ficheiro já foi carregado.",
     "configuration": "Configuração",
     "entity_audio_file": "Ficheiro de áudio",
-    "select_patient_description": "Escolhe o paciente a quem pertence esta gravação.",
     "select_patient_placeholder": "Seleciona um paciente..."
   }
 }
