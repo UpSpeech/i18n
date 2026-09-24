@@ -40,7 +40,7 @@
     "activity_window": "(last 7 days)",
     "consistency_window": "(last 30 days)",
     "activity_help": "How many days the patient practised in the last 7 days. Measures recent activity.",
-    "consistency_help": "How regularly the patient practised over the last 30 days. Shorter gaps between sessions score higher. Independent of recent activity.",
+    "consistency_help": "How regularly the patient practised over the last 30 days, counting the time since their last session. Shorter gaps score higher, so the score falls while a patient is away.",
     "activity_days": "{{days}}/7 days",
     "learning_path": "Learning Path"
   },

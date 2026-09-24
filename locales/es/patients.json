@@ -40,7 +40,7 @@
     "activity_window": "(últimos 7 días)",
     "consistency_window": "(últimos 30 días)",
     "activity_help": "Cuántos días practicó el paciente en los últimos 7 días. Mide la actividad reciente.",
-    "consistency_help": "Con qué regularidad practicó el paciente durante los últimos 30 días. Los intervalos más cortos entre sesiones puntúan más alto. Independiente de la actividad reciente.",
+    "consistency_help": "Con qué regularidad practicó el paciente durante los últimos 30 días, contando el tiempo desde su última sesión. Los intervalos más cortos puntúan más alto, así que la puntuación baja mientras el paciente está parado.",
     "activity_days": "{{days}}/7 días",
     "learning_path": "Ruta"
   },
