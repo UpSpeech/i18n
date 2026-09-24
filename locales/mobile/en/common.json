@@ -1720,5 +1720,6 @@
   "learning_path_condition_fluency": "Fluency",
   "learning_path_condition_articulation": "Articulation",
   "learning_path_condition_language": "Language",
-  "learning_path_condition_voice": "Voice"
+  "learning_path_condition_voice": "Voice",
+  "caregiver_switch_label": "Acting for {{name}}"
 }
