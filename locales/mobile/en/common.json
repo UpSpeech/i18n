@@ -1722,7 +1722,6 @@
   "learning_path_condition_language": "Language",
   "learning_path_condition_voice": "Voice",
   "child_hand_over": "Hand to {{name}}",
-  "child_hello_button": "Yes, let's go",
   "child_back_to": "{{name}} →",
   "child_done_title": "We did the {{title}}",
   "child_done_companion": "{{companion}} heard every one.",
