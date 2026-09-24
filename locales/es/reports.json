@@ -158,7 +158,8 @@
     },
     "retry": "Reintentar",
     "retry_started": "Redactando el informe de nuevo. Esta página se actualiza cuando esté listo.",
-    "retry_failed": "No se pudo iniciar otro intento. Inténtalo de nuevo."
+    "retry_failed": "No se pudo iniciar otro intento. Inténtalo de nuevo.",
+    "already_assigned": "Este informe ya está asignado a esa persona."
   },
   "errors": {
     "failed_export_pdf": "Error al exportar PDF. Por favor inténtalo de nuevo.",

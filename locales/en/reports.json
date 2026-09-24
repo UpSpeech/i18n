@@ -158,7 +158,8 @@
     },
     "retry": "Retry",
     "retry_started": "Drafting the report again. This page updates when it is ready.",
-    "retry_failed": "Could not start another attempt. Please try again."
+    "retry_failed": "Could not start another attempt. Please try again.",
+    "already_assigned": "This report is already assigned to that person."
   },
   "errors": {
     "failed_export_pdf": "Failed to export PDF. Please try again.",

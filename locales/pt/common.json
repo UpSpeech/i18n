@@ -1124,7 +1124,17 @@
       "confirming": "A atribuir",
       "confirm": "Atribuir",
       "unresolved_one": "{{count}} passo não correspondeu a nenhum exercício desta clínica e ficou escrito com as tuas palavras.",
-      "unresolved_other": "{{count}} passos não corresponderam a nenhum exercício desta clínica e ficaram escritos com as tuas palavras."
+      "unresolved_other": "{{count}} passos não corresponderam a nenhum exercício desta clínica e ficaram escritos com as tuas palavras.",
+      "week_heading": "A semana",
+      "week_none": "Ainda sem dose definida",
+      "week_sessions_one": "{{count}} sessão por semana",
+      "week_sessions_other": "{{count}} sessões por semana",
+      "week_sessions_minutes_one": "{{count}} sessão por semana, até {{minutes}} min no total",
+      "week_sessions_minutes_other": "{{count}} sessões por semana, até {{minutes}} min no total",
+      "week_undosed_one": "{{count}} passo não tem dose, por isso não entra nesta conta",
+      "week_undosed_other": "{{count}} passos não têm dose, por isso não entram nesta conta",
+      "week_existing_one": "{{name}} já pratica uma vez por semana",
+      "week_existing_other": "{{name}} já pratica {{count}} vezes por semana"
     },
     "reassign_authored_unsupported": "Escreve este passo de novo. Não está no currículo, por isso não há nada para voltar a atribuir.",
     "technique_rating_save_failed": "Não foi possível guardar a tua avaliação, mas o teu progresso continua.",

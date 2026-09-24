@@ -158,7 +158,8 @@
     },
     "retry": "Tentar novamente",
     "retry_started": "A redigir o relatório novamente. Esta página atualiza quando estiver pronto.",
-    "retry_failed": "Não foi possível iniciar outra tentativa. Tenta novamente."
+    "retry_failed": "Não foi possível iniciar outra tentativa. Tenta novamente.",
+    "already_assigned": "Este relatório já está atribuído a essa pessoa."
   },
   "errors": {
     "failed_export_pdf": "Falha ao exportar PDF. Tenta novamente.",
