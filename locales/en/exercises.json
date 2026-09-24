@@ -929,7 +929,9 @@
       "title": "Practice with these",
       "words": "Words",
       "phrases": "Phrases",
-      "sentences": "Sentences"
+      "sentences": "Sentences",
+      "pictures": "Pictures",
+      "picture_alt": "Picture {{n}}"
     }
   },
   "homework": {

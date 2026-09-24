@@ -929,7 +929,9 @@
       "title": "Practica con esto",
       "words": "Palabras",
       "phrases": "Expresiones",
-      "sentences": "Frases"
+      "sentences": "Frases",
+      "pictures": "Imágenes",
+      "picture_alt": "Imagen {{n}}"
     }
   },
   "homework": {

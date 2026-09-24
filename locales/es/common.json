@@ -1138,7 +1138,42 @@
     },
     "intro_video_open": "Abrir la introducción",
     "intro_video_title": "Introducción",
-    "goal_actions_batch": "Acciones para todos los pasos de este objetivo"
+    "goal_actions_batch": "Acciones para todos los pasos de este objetivo",
+    "resources": {
+      "open": "Elegir imágenes",
+      "picked_count_one": "{{count}} elegida",
+      "picked_count_other": "{{count}} elegidas",
+      "title": "Imágenes para {{name}}",
+      "description": "Elige lo que {{name}} va a describir. Las imágenes ya usadas con {{name}} quedan ocultas, salvo que las muestres.",
+      "theme_label": "Tema",
+      "all_themes": "Todos los temas",
+      "show_seen": "Mostrar imágenes ya usadas con {{name}}",
+      "seen_badge": "Ya usada",
+      "clinic_badge": "De tu clínica",
+      "select": "Seleccionar imagen {{n}}",
+      "empty_filters": "Todavía no hay imágenes en este tema.",
+      "empty_all_seen": "{{name}} ya ha visto todas las imágenes de este tema.",
+      "empty_all_seen_hint": "Muestra las ya usadas, o sube las tuyas.",
+      "upload": "Subir una imagen",
+      "uploading": "Subiendo",
+      "upload_failed": "No se ha podido subir la imagen. Inténtalo de nuevo.",
+      "upload_type": "Usa una imagen JPEG, PNG o WebP.",
+      "remove": "Quitar de tu biblioteca",
+      "load_failed": "No se han podido cargar las imágenes.",
+      "done": "Usar estas imágenes",
+      "themes": {
+        "animals": "Animales",
+        "food": "Comida",
+        "sport": "Deporte",
+        "vehicles": "Vehículos",
+        "nature": "Naturaleza",
+        "family": "Familia",
+        "school": "Colegio",
+        "toys": "Juguetes",
+        "music": "Música",
+        "places": "Lugares"
+      }
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

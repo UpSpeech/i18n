@@ -1448,6 +1448,8 @@
   "load_earlier_messages": "Cargar mensajes anteriores",
   "journey_intro_video_open": "Abrir la introducción",
   "learning_path_practice_material_title": "Practica con esto",
+  "learning_path_practice_material_pictures": "Imágenes",
+  "learning_path_practice_material_picture_alt": "Imagen {{n}}",
   "close": "Cerrar",
   "review_quiz_passed": "Aprobado",
   "review_quiz_failed": "No aprobado",

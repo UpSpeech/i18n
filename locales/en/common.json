@@ -1138,7 +1138,42 @@
     },
     "intro_video_open": "Open the introduction",
     "intro_video_title": "Introduction",
-    "goal_actions_batch": "Actions for every step in this goal"
+    "goal_actions_batch": "Actions for every step in this goal",
+    "resources": {
+      "open": "Choose pictures",
+      "picked_count_one": "{{count}} picked",
+      "picked_count_other": "{{count}} picked",
+      "title": "Pictures for {{name}}",
+      "description": "Pick what {{name}} will describe. Pictures already used with {{name}} stay hidden unless you show them.",
+      "theme_label": "Theme",
+      "all_themes": "All themes",
+      "show_seen": "Show pictures already used with {{name}}",
+      "seen_badge": "Used before",
+      "clinic_badge": "Your clinic",
+      "select": "Select picture {{n}}",
+      "empty_filters": "No pictures match this theme yet.",
+      "empty_all_seen": "{{name}} has seen every picture in this theme.",
+      "empty_all_seen_hint": "Show the ones already used, or upload your own.",
+      "upload": "Upload a picture",
+      "uploading": "Uploading",
+      "upload_failed": "The picture could not be uploaded. Try again.",
+      "upload_type": "Use a JPEG, PNG or WebP image.",
+      "remove": "Remove from your library",
+      "load_failed": "The pictures could not be loaded.",
+      "done": "Use these pictures",
+      "themes": {
+        "animals": "Animals",
+        "food": "Food",
+        "sport": "Sport",
+        "vehicles": "Vehicles",
+        "nature": "Nature",
+        "family": "Family",
+        "school": "School",
+        "toys": "Toys",
+        "music": "Music",
+        "places": "Places"
+      }
+    }
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
