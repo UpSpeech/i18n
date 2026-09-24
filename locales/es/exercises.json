@@ -1008,7 +1008,10 @@
     "offapp_note": "Deja la pantalla durante la práctica. Vuelve aquí cuando terminéis.",
     "week_title": "Esta semana",
     "week_sessions": "{{count}} sesiones registradas esta semana",
-    "week_no_days": "Elige los días dentro de cada ejercicio y aparecerán aquí."
+    "week_no_days": "Elige los días dentro de cada ejercicio y aparecerán aquí.",
+    "child_moment_title": "Hicimos el {{title}}",
+    "child_moment_companion": "{{companion}} lo escuchó todo.",
+    "child_moment_button": "Contárselo a {{name}}"
   },
   "parameter": {
     "hold_target": "Mantener · {{count}}s",
