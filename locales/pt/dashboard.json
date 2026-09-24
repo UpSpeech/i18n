@@ -285,6 +285,7 @@
       "reminder_after_school": "Depois da escola · 16:00",
       "reminder_after_dinner": "Depois do jantar · 18:00",
       "reminder_bedtime": "Hora de dormir · 20:00",
-      "reminder_save_failed": "Não conseguimos guardar o lembrete. Tenta de novo, ou muda-o mais tarde nas Definições."
+      "reminder_save_failed": "Não conseguimos guardar o lembrete. Tenta de novo, ou muda-o mais tarde nas Definições.",
+      "switch_label": "A acompanhar {{name}}"
   }
 }
