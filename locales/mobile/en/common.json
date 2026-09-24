@@ -1728,5 +1728,7 @@
   "child_done_title": "We did it!",
   "child_done_companion": "{{companion}} heard them all.",
   "child_done_button": "Tell {{name}}",
-  "caregiver_switch_label": "Acting for {{name}}"
+  "caregiver_switch_label": "Acting for {{name}}",
+  "exercise_quiz_pick_answer": "Pick an answer first.",
+  "exercise_reflection_write_first": "Write something first."
 }

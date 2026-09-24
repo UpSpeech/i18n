@@ -1728,5 +1728,7 @@
   "child_done_title": "Conseguimos!",
   "child_done_companion": "O {{companion}} ouviu todas.",
   "child_done_button": "Falar com {{name}}",
-  "caregiver_switch_label": "A acompanhar {{name}}"
+  "caregiver_switch_label": "A acompanhar {{name}}",
+  "exercise_quiz_pick_answer": "Escolhe primeiro uma resposta.",
+  "exercise_reflection_write_first": "Escreve primeiro alguma coisa."
 }

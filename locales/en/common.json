@@ -1124,7 +1124,17 @@
       "confirming": "Assigning",
       "confirm": "Assign",
       "unresolved_one": "{{count}} step could not be matched to this clinic's exercises and was written as your own words.",
-      "unresolved_other": "{{count}} steps could not be matched to this clinic's exercises and were written as your own words."
+      "unresolved_other": "{{count}} steps could not be matched to this clinic's exercises and were written as your own words.",
+      "week_heading": "The week",
+      "week_none": "No dose set yet",
+      "week_sessions_one": "{{count}} session a week",
+      "week_sessions_other": "{{count}} sessions a week",
+      "week_sessions_minutes_one": "{{count}} session a week, up to {{minutes}} min in total",
+      "week_sessions_minutes_other": "{{count}} sessions a week, up to {{minutes}} min in total",
+      "week_undosed_one": "{{count}} step carries no dose, so it is not counted here",
+      "week_undosed_other": "{{count}} steps carry no dose, so they are not counted here",
+      "week_existing_one": "{{name}} already practises once a week",
+      "week_existing_other": "{{name}} already practises {{count}} times a week"
     },
     "reassign_authored_unsupported": "Write this step again instead. It is not in the curriculum, so there is nothing to assign back.",
     "technique_rating_save_failed": "Your rating could not be saved, but your progress continues.",
