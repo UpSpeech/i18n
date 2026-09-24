@@ -931,7 +931,8 @@
       "phrases": "Expresiones",
       "sentences": "Frases",
       "pictures": "Imágenes",
-      "picture_alt": "Imagen {{n}}"
+      "picture_alt": "Imagen {{n}}",
+      "picture_failed": "No se ha podido cargar esta imagen."
     }
   },
   "homework": {

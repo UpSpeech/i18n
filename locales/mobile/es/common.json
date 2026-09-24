@@ -1450,6 +1450,7 @@
   "learning_path_practice_material_title": "Practica con esto",
   "learning_path_practice_material_pictures": "Imágenes",
   "learning_path_practice_material_picture_alt": "Imagen {{n}}",
+  "learning_path_practice_material_picture_failed": "No se ha podido cargar esta imagen.",
   "close": "Cerrar",
   "review_quiz_passed": "Aprobado",
   "review_quiz_failed": "No aprobado",

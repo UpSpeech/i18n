@@ -931,7 +931,8 @@
       "phrases": "Phrases",
       "sentences": "Sentences",
       "pictures": "Pictures",
-      "picture_alt": "Picture {{n}}"
+      "picture_alt": "Picture {{n}}",
+      "picture_failed": "This picture could not load."
     }
   },
   "homework": {
