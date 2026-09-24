@@ -1720,5 +1720,11 @@
   "learning_path_condition_fluency": "Fluency",
   "learning_path_condition_articulation": "Articulation",
   "learning_path_condition_language": "Language",
-  "learning_path_condition_voice": "Voice"
+  "learning_path_condition_voice": "Voice",
+  "child_hand_over": "Hand to {{name}}",
+  "child_hello_button": "Yes, let's go",
+  "child_back_to": "{{name}} →",
+  "child_done_title": "We did the {{title}}",
+  "child_done_companion": "{{companion}} heard every one.",
+  "child_done_button": "Tell {{name}}"
 }
