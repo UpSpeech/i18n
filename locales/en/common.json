@@ -1168,6 +1168,7 @@
       "uploading": "Uploading",
       "upload_failed": "The picture could not be uploaded. Try again.",
       "upload_type": "Use a JPEG, PNG or WebP image.",
+      "upload_too_large": "That picture is over 5 MB. Use a smaller one.",
       "remove": "Remove from your library",
       "load_failed": "The pictures could not be loaded.",
       "done": "Use these pictures",

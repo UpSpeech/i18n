@@ -1168,6 +1168,7 @@
       "uploading": "Subiendo",
       "upload_failed": "No se ha podido subir la imagen. Inténtalo de nuevo.",
       "upload_type": "Usa una imagen JPEG, PNG o WebP.",
+      "upload_too_large": "Esa imagen pesa más de 5 MB. Usa una más pequeña.",
       "remove": "Quitar de tu biblioteca",
       "load_failed": "No se han podido cargar las imágenes.",
       "done": "Usar estas imágenes",
