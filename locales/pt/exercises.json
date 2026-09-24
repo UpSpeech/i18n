@@ -929,7 +929,9 @@
       "title": "Pratica com o seguinte",
       "words": "Palavras",
       "phrases": "Expressões",
-      "sentences": "Frases"
+      "sentences": "Frases",
+      "pictures": "Imagens",
+      "picture_alt": "Imagem {{n}}"
     }
   },
   "homework": {

@@ -1138,7 +1138,42 @@
     },
     "intro_video_open": "Abrir a introdução",
     "intro_video_title": "Introdução",
-    "goal_actions_batch": "Ações para todos os passos deste objetivo"
+    "goal_actions_batch": "Ações para todos os passos deste objetivo",
+    "resources": {
+      "open": "Escolher imagens",
+      "picked_count_one": "{{count}} escolhida",
+      "picked_count_other": "{{count}} escolhidas",
+      "title": "Imagens para {{name}}",
+      "description": "Escolhe o que {{name}} vai descrever. As imagens já usadas com {{name}} ficam escondidas, a não ser que as mostres.",
+      "theme_label": "Tema",
+      "all_themes": "Todos os temas",
+      "show_seen": "Mostrar imagens já usadas com {{name}}",
+      "seen_badge": "Já usada",
+      "clinic_badge": "Da tua clínica",
+      "select": "Selecionar imagem {{n}}",
+      "empty_filters": "Ainda não há imagens neste tema.",
+      "empty_all_seen": "{{name}} já viu todas as imagens deste tema.",
+      "empty_all_seen_hint": "Mostra as já usadas, ou carrega as tuas.",
+      "upload": "Carregar uma imagem",
+      "uploading": "A carregar",
+      "upload_failed": "Não foi possível carregar a imagem. Tenta outra vez.",
+      "upload_type": "Usa uma imagem JPEG, PNG ou WebP.",
+      "remove": "Remover da tua biblioteca",
+      "load_failed": "Não foi possível carregar as imagens.",
+      "done": "Usar estas imagens",
+      "themes": {
+        "animals": "Animais",
+        "food": "Comida",
+        "sport": "Desporto",
+        "vehicles": "Veículos",
+        "nature": "Natureza",
+        "family": "Família",
+        "school": "Escola",
+        "toys": "Brinquedos",
+        "music": "Música",
+        "places": "Lugares"
+      }
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
