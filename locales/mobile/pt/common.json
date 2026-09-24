@@ -1721,5 +1721,10 @@
   "learning_path_condition_articulation": "Articulação",
   "learning_path_condition_language": "Linguagem",
   "learning_path_condition_voice": "Voz",
+  "child_hand_over": "Passar a {{name}}",
+  "child_back_to": "{{name}} →",
+  "child_done_title": "Fizemos o {{title}}",
+  "child_done_companion": "O {{companion}} ouviu tudo.",
+  "child_done_button": "Falar com {{name}}",
   "caregiver_switch_label": "A acompanhar {{name}}"
 }
