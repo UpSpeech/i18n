@@ -277,6 +277,14 @@
   "game_catalogue_subtitle": "Elige qué ejercicios de UpSpeech usa tu clínica",
   "caregiver": {
     "practising_with": "Practicando con",
-    "child_age": "{{name}}, {{count}} años"
+    "child_age": "{{name}}, {{count}} años",
+      "reminder_title": "Recordatorio diario",
+      "reminder_change": "Cambiar",
+      "reminder_at_hour": "a las {{hour}}:00",
+      "reminder_morning": "Mañana · 8:00",
+      "reminder_after_school": "Después del colegio · 16:00",
+      "reminder_after_dinner": "Después de cenar · 18:00",
+      "reminder_bedtime": "Hora de dormir · 20:00",
+      "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes."
   }
 }

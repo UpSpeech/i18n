@@ -277,6 +277,14 @@
   "game_catalogue_subtitle": "Choose which UpSpeech exercises your clinic uses",
   "caregiver": {
     "practising_with": "Practising with",
-    "child_age": "{{name}}, {{count}} years old"
+    "child_age": "{{name}}, {{count}} years old",
+      "reminder_title": "Daily reminder",
+      "reminder_change": "Change",
+      "reminder_at_hour": "at {{hour}}:00",
+      "reminder_morning": "Morning · 8:00",
+      "reminder_after_school": "After school · 16:00",
+      "reminder_after_dinner": "After dinner · 18:00",
+      "reminder_bedtime": "Bedtime · 20:00",
+      "reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings."
   }
 }
