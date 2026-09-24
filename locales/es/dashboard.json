@@ -285,6 +285,7 @@
       "reminder_after_school": "Después del colegio · 16:00",
       "reminder_after_dinner": "Después de cenar · 18:00",
       "reminder_bedtime": "Hora de dormir · 20:00",
-      "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes."
+      "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes.",
+      "switch_label": "Acompañando a {{name}}"
   }
 }

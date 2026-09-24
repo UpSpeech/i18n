@@ -285,6 +285,7 @@
       "reminder_after_school": "After school · 16:00",
       "reminder_after_dinner": "After dinner · 18:00",
       "reminder_bedtime": "Bedtime · 20:00",
-      "reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings."
+      "reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings.",
+      "switch_label": "Acting for {{name}}"
   }
 }

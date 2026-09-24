@@ -1009,8 +1009,8 @@
     "week_title": "This week",
     "week_sessions": "{{count}} sessions reported this week",
     "week_no_days": "Pick the days inside each exercise and they show up here.",
-    "child_moment_title": "We did the {{title}}",
-    "child_moment_companion": "{{companion}} heard every one.",
+    "child_moment_title": "We did it!",
+    "child_moment_companion": "{{companion}} heard them all.",
     "child_moment_button": "Tell {{name}}"
   },
   "parameter": {
