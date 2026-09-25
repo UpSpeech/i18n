@@ -1423,5 +1423,11 @@
     "switch_to_dark": "Mudar para o modo escuro",
     "switch_to_light": "Mudar para o modo claro"
   },
-  "undo": "Anular"
+  "undo": "Anular",
+  "empty_action": {
+    "view_all_users": "Ver todos os utilizadores",
+    "add_patient": "Adicionar um paciente",
+    "back_to_queue": "Voltar à fila",
+    "upload_recording": "Carregar uma gravação"
+  }
 }
