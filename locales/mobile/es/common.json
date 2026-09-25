@@ -70,6 +70,7 @@
   "streak_days_one": "{{count}} día",
   "streak_days_other": "{{count}} días",
   "upcoming_exercises": "Proximos",
+  "overdue_exercises": "Atrasados",
   "view_all": "Ver Todos",
   "your_progress": "Tu Progreso",
   "exercise_submit_failed": "No se pudo guardar. Revisa tu conexión e inténtalo de nuevo.",
