@@ -1032,5 +1032,66 @@
     "unavailable_title": "Practice is not set up for your clinic yet",
     "unavailable_description": "Your therapist has not switched on the practice library. Your journey has what to work on next.",
     "unavailable_action": "Go to my journey"
+  },
+  "games": {
+    "speech": {
+      "repetition": "Repetition",
+      "prolongation": "Prolongation",
+      "block": "Block"
+    },
+    "animal": {
+      "frog": "Frog",
+      "snake": "Snake",
+      "bear": "Bear"
+    },
+    "no_pictures": "There are no pictures for this game yet.",
+    "pictures_failed": "The pictures could not be loaded.",
+    "try_again": "Try again",
+    "next_picture": "Next picture",
+    "finish": "I'm done",
+    "done_title": "All done",
+    "done_body": "Well done. That was every picture.",
+    "spin_cards": {
+      "instructions": "Turn a card, spin the wheel, and say the word that way.",
+      "turn_card": "Turn the card",
+      "next_card": "Next card",
+      "spin": "Spin",
+      "spin_first": "Spin the wheel!",
+      "card_back": "A card, face down",
+      "result_frog": "Repetition, like the frog",
+      "result_snake": "Prolongation, like the snake",
+      "result_bear": "Block, like the bear"
+    },
+    "two_choice": {
+      "instructions": "Say the word out loud. How did it come out?",
+      "feather": "Feather",
+      "feather_hint": "soft and light",
+      "rock": "Rock",
+      "rock_hint": "heavy and strong",
+      "short_hop": "Short",
+      "short_hop_hint": "a few hops",
+      "long_hop": "Long",
+      "long_hop_hint": "lots of hops"
+    },
+    "pause_road": {
+      "instructions_picture": "Describe the picture. When you pause, hold the button.",
+      "instructions_free": "Talk about anything. When you pause, hold the button.",
+      "mode_picture": "Describe a picture",
+      "mode_free": "Talk freely",
+      "start": "Let's go!",
+      "pause": "PAUSE",
+      "pausing": "Pausing",
+      "again": "Again",
+      "stops_one": "{{count}} stop",
+      "stops_other": "{{count}} stops",
+      "road_label": "A car driving along a road"
+    },
+    "which_speech": {
+      "instructions": "The grown-up with you says the word their way. Tap the animal you heard.",
+      "prompt": "Tap the animal you heard.",
+      "picked_frog": "You picked the frog: repetition.",
+      "picked_snake": "You picked the snake: prolongation.",
+      "picked_bear": "You picked the bear: block."
+    }
   }
 }
