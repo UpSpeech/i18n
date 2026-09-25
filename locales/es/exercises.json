@@ -1032,5 +1032,66 @@
     "unavailable_title": "La práctica aún no está configurada en tu clínica",
     "unavailable_description": "Tu terapeuta aún no ha activado la biblioteca de práctica. Tu recorrido tiene qué hacer a continuación.",
     "unavailable_action": "Ir a mi recorrido"
+  },
+  "games": {
+    "speech": {
+      "repetition": "Repetición",
+      "prolongation": "Prolongación",
+      "block": "Bloqueo"
+    },
+    "animal": {
+      "frog": "Rana",
+      "snake": "Serpiente",
+      "bear": "Oso"
+    },
+    "no_pictures": "Todavía no hay imágenes para este juego.",
+    "pictures_failed": "No se han podido cargar las imágenes.",
+    "try_again": "Intentar de nuevo",
+    "next_picture": "Otra imagen",
+    "finish": "He terminado",
+    "done_title": "Has terminado",
+    "done_body": "Muy bien. Ya has visto todas las imágenes.",
+    "spin_cards": {
+      "instructions": "Da la vuelta a una carta, gira la rueda y di la palabra así.",
+      "turn_card": "Da la vuelta a la carta",
+      "next_card": "Otra carta",
+      "spin": "Girar",
+      "spin_first": "¡Gira la rueda!",
+      "card_back": "Una carta boca abajo",
+      "result_frog": "Repetición, como la rana",
+      "result_snake": "Prolongación, como la serpiente",
+      "result_bear": "Bloqueo, como el oso"
+    },
+    "two_choice": {
+      "instructions": "Di la palabra en voz alta. ¿Cómo ha salido?",
+      "feather": "Pluma",
+      "feather_hint": "suave y ligera",
+      "rock": "Roca",
+      "rock_hint": "pesada y fuerte",
+      "short_hop": "Corta",
+      "short_hop_hint": "pocos saltos",
+      "long_hop": "Larga",
+      "long_hop_hint": "muchos saltos"
+    },
+    "pause_road": {
+      "instructions_picture": "Describe la imagen. Cuando pares, mantén pulsado el botón.",
+      "instructions_free": "Cuenta lo que quieras. Cuando pares, mantén pulsado el botón.",
+      "mode_picture": "Describir una imagen",
+      "mode_free": "Hablar libremente",
+      "start": "¡Vamos!",
+      "pause": "PAUSA",
+      "pausing": "Parando",
+      "again": "Otra vez",
+      "stops_one": "{{count}} parada",
+      "stops_other": "{{count}} paradas",
+      "road_label": "Un coche por una carretera"
+    },
+    "which_speech": {
+      "instructions": "Quien está contigo dice la palabra a su manera. Toca el animal que has oído.",
+      "prompt": "Toca el animal que has oído.",
+      "picked_frog": "Has elegido la rana: repetición.",
+      "picked_snake": "Has elegido la serpiente: prolongación.",
+      "picked_bear": "Has elegido el oso: bloqueo."
+    }
   }
 }

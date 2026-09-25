@@ -1032,5 +1032,66 @@
     "unavailable_title": "A prática ainda não está configurada na tua clínica",
     "unavailable_description": "O teu terapeuta ainda não ativou a biblioteca de prática. A tua jornada tem o que fazer a seguir.",
     "unavailable_action": "Ir para a minha jornada"
+  },
+  "games": {
+    "speech": {
+      "repetition": "Repetição",
+      "prolongation": "Prolongamento",
+      "block": "Bloqueio"
+    },
+    "animal": {
+      "frog": "Sapo",
+      "snake": "Cobra",
+      "bear": "Urso"
+    },
+    "no_pictures": "Ainda não há imagens para este jogo.",
+    "pictures_failed": "Não foi possível carregar as imagens.",
+    "try_again": "Tentar outra vez",
+    "next_picture": "Outra imagem",
+    "finish": "Acabei",
+    "done_title": "Acabaste",
+    "done_body": "Muito bem. Já viste todas as imagens.",
+    "spin_cards": {
+      "instructions": "Vira um cartão, gira a roda e diz a palavra assim.",
+      "turn_card": "Vira o cartão",
+      "next_card": "Outro cartão",
+      "spin": "Girar",
+      "spin_first": "Gira a roda!",
+      "card_back": "Um cartão virado para baixo",
+      "result_frog": "Repetição, como o sapo",
+      "result_snake": "Prolongamento, como a cobra",
+      "result_bear": "Bloqueio, como o urso"
+    },
+    "two_choice": {
+      "instructions": "Diz a palavra em voz alta. Como é que saiu?",
+      "feather": "Pena",
+      "feather_hint": "suave e leve",
+      "rock": "Rocha",
+      "rock_hint": "pesada e forte",
+      "short_hop": "Curta",
+      "short_hop_hint": "poucos saltos",
+      "long_hop": "Longa",
+      "long_hop_hint": "muitos saltos"
+    },
+    "pause_road": {
+      "instructions_picture": "Descreve a imagem. Quando parares, segura o botão.",
+      "instructions_free": "Conta o que quiseres. Quando parares, segura o botão.",
+      "mode_picture": "Descrever uma imagem",
+      "mode_free": "Falar à vontade",
+      "start": "Vamos!",
+      "pause": "PAUSA",
+      "pausing": "A parar",
+      "again": "Outra vez",
+      "stops_one": "{{count}} paragem",
+      "stops_other": "{{count}} paragens",
+      "road_label": "Um carro a andar numa estrada"
+    },
+    "which_speech": {
+      "instructions": "Quem está contigo diz a palavra à sua maneira. Carrega no bicho que ouviste.",
+      "prompt": "Carrega no bicho que ouviste.",
+      "picked_frog": "Escolheste o sapo: repetição.",
+      "picked_snake": "Escolheste a cobra: prolongamento.",
+      "picked_bear": "Escolheste o urso: bloqueio."
+    }
   }
 }
