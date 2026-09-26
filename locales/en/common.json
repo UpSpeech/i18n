@@ -1221,7 +1221,19 @@
     "goals_finished_other": "{{count}} goals finished",
     "caregiver_together_after": "Afterwards, tell {{child}}'s therapist how it went.",
     "caregiver_together_hint": "Do this together with {{child}}, then tell the therapist how it went.",
-    "caregiver_together_title": "Do this together"
+    "caregiver_together_title": "Do this together",
+    "phase": {
+      "start": "Start",
+      "back_to_overview": "Back to overview",
+      "watch_demo_again": "Watch the demo again",
+      "show_instructions": "Show instructions",
+      "hide_instructions": "Hide instructions",
+      "practise_again": "Practise again",
+      "saved_title": "Saved",
+      "saved_body": "Your practice is with your therapist now. Take your time, there's no rush.",
+      "saved_body_caregiver": "Saved. {{child}}'s therapist will see how it went.",
+      "complete_step": "Complete step"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",

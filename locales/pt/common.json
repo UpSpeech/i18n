@@ -1221,7 +1221,19 @@
     "goals_finished_other": "{{count}} objetivos concluídos",
     "caregiver_together_after": "Depois, conta ao terapeuta de {{child}} como correu.",
     "caregiver_together_hint": "Faz isto em conjunto com {{child}} e depois conta ao terapeuta como correu.",
-    "caregiver_together_title": "Façam isto juntos"
+    "caregiver_together_title": "Façam isto juntos",
+    "phase": {
+      "start": "Começar",
+      "back_to_overview": "Voltar à visão geral",
+      "watch_demo_again": "Ver a demonstração outra vez",
+      "show_instructions": "Mostrar instruções",
+      "hide_instructions": "Esconder instruções",
+      "practise_again": "Praticar outra vez",
+      "saved_title": "Guardado",
+      "saved_body": "A tua prática já está com o teu terapeuta. Sem pressa.",
+      "saved_body_caregiver": "Guardado. O terapeuta de {{child}} vai ver como correu.",
+      "complete_step": "Concluir passo"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
