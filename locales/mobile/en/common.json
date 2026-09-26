@@ -1645,6 +1645,7 @@
   "companion_match_accent": "Match the cheeks",
   "companion_axes_unavailable": "Pick one of the drawn bodies to choose a crown and colours.",
   "companion_save": "Save companion",
+  "companion_save_no_changes": "Change something to save.",
   "companion_saved": "Companion saved",
   "companion_load_error": "Could not load your companion. Try again shortly.",
   "companion_style_lumo": "Lumo",
