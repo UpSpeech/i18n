@@ -1232,7 +1232,11 @@
       "saved_title": "Guardado",
       "saved_body": "A tua prática já está com o teu terapeuta. Sem pressa.",
       "saved_body_caregiver": "Guardado. O terapeuta de {{child}} vai ver como correu.",
-      "complete_step": "Concluir passo"
+      "complete_step": "Concluir passo",
+      "marker_intro": "Visão geral",
+      "marker_exercise": "Praticar",
+      "marker_done": "Concluído",
+      "marker_label": "Onde estás neste passo"
     }
   },
   "questionnaire": {
