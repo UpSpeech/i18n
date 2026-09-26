@@ -756,7 +756,7 @@
   "scenarios_playing_response": "Playing their reply",
   "scenarios_playing_skip": "Move on without it",
   "scenarios_playing_stalled": "Their reply did not play",
-  "scenarios_playing_retry": "Play their reply again",
+  "scenarios_playing_retry": "Play again",
   "scenarios_tap_to_replay": "Tap to replay",
   "scenarios_conversation": "Conversation",
   "scenarios_ambient_mute": "Mute background sound",
