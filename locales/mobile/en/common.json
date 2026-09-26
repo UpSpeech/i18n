@@ -1451,6 +1451,8 @@
   "effort_label": "Effort in using the technique",
   "naturalness_label": "How natural the speech felt",
   "assignments_empty": "No exercises here",
+  "assignments_empty_overdue": "Nothing overdue",
+  "assignments_empty_overdue_description": "Everything your therapist assigned is still on schedule.",
   "assignments_empty_description": "Assignments your therapist gives you will show up here.",
   "unlock_title": "Unlock your account",
   "unlock_in_progress": "Unlocking your account...",
