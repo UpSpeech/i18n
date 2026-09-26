@@ -1275,7 +1275,8 @@
       "image_alt": "{{title}}, imagem",
       "saving": "A guardar",
       "saved": "Ajudas guardadas",
-      "processing_badge": "A preparar"
+      "processing_badge": "A preparar",
+      "save_failed": "Não foi possível guardar. Tenta outra vez."
     }
   },
   "questionnaire": {

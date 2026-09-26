@@ -1275,7 +1275,8 @@
       "image_alt": "{{title}}, image",
       "saving": "Saving",
       "saved": "Aids saved",
-      "processing_badge": "Preparing"
+      "processing_badge": "Preparing",
+      "save_failed": "Could not save. Try again."
     }
   },
   "questionnaire": {
