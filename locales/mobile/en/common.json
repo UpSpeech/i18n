@@ -199,6 +199,8 @@
   "exercise_quiz_see_results": "See Results",
   "exercise_reflection_complete": "Reflection Submitted",
   "exercise_reflection_placeholder": "Write your reflection here...",
+  "exercise_reflection_or_record": "Or record your answer",
+  "exercise_reflection_answer_first": "Write or record something first.",
   "exercise_journal_complete": "Journal Entry Saved",
   "exercise_journal_characters": "{{count}} characters",
   "exercise_journal_placeholder": "Write your journal entry...",

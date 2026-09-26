@@ -199,6 +199,8 @@
   "exercise_quiz_see_results": "Ver Resultados",
   "exercise_reflection_complete": "Reflexión Enviada",
   "exercise_reflection_placeholder": "Escribe tu reflexión aquí...",
+  "exercise_reflection_or_record": "O graba tu respuesta",
+  "exercise_reflection_answer_first": "Escribe o graba algo primero.",
   "exercise_journal_complete": "Entrada de Diario Guardada",
   "exercise_journal_characters": "{{count}} caracteres",
   "exercise_journal_placeholder": "Escribe tu entrada de diario...",
