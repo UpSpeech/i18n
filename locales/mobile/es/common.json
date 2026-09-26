@@ -1698,6 +1698,8 @@
   "today_done_eyebrow": "Hecho por hoy",
   "today_rest_eyebrow": "Hoy",
   "today_no_schedule_eyebrow": "Aún sin plan semanal",
+  "today_caregiver_eyebrow": "Hoy con {{child}}",
+  "today_caregiver_start": "Empezar con {{child}}",
   "today_rest_title": "Nada previsto para hoy",
   "today_rest_next": "Lo siguiente: {{day}}",
   "today_start": "Empezar la práctica de hoy",
