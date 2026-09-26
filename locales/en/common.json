@@ -1108,7 +1108,8 @@
         "today": "Today",
         "upcoming": "Planned",
         "missed": "Not done"
-      }
+      },
+      "practise_anyway": "Practise anyway"
     },
     "sharing": {
       "exclude": "Keep out of suggestions",

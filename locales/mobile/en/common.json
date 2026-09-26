@@ -1705,6 +1705,7 @@
   "today_caregiver_start": "Start with {{child}}",
   "today_rest_title": "No practice planned today",
   "today_rest_next": "Next up: {{day}}",
+  "today_practise_anyway": "Practise anyway",
   "today_start": "Start today's practice",
   "today_practise_again": "Practise again",
   "today_about_minutes": "about {{count}} min",
