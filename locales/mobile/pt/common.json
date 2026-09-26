@@ -1451,6 +1451,8 @@
   "effort_label": "Esforço ao usar a técnica",
   "naturalness_label": "Quão natural pareceu a fala",
   "assignments_empty": "Sem exercícios por aqui",
+  "assignments_empty_overdue": "Nada em atraso",
+  "assignments_empty_overdue_description": "Está tudo dentro do prazo que a tua terapeuta definiu.",
   "assignments_empty_description": "Os exercícios que o teu terapeuta te atribuir vão aparecer aqui.",
   "unlock_title": "Desbloquear a tua conta",
   "unlock_in_progress": "A desbloquear a tua conta...",
