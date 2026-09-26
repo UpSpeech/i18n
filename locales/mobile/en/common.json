@@ -1866,5 +1866,6 @@
   "aids_saving": "Saving",
   "aids_saved": "Aids saved",
   "path_composer_note_label": "Note for {{name}}",
-  "path_composer_note_help": "Something to read before practising, such as a short script"
+  "path_composer_note_help": "Something to read before practising, such as a short script",
+  "aids_processing_badge": "Preparing"
 }

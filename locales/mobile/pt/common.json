@@ -1866,5 +1866,6 @@
   "aids_saving": "A guardar",
   "aids_saved": "Ajudas guardadas",
   "path_composer_note_label": "Nota para {{name}}",
-  "path_composer_note_help": "Algo para ler antes de praticar, como um pequeno guião"
+  "path_composer_note_help": "Algo para ler antes de praticar, como um pequeno guião",
+  "aids_processing_badge": "A preparar"
 }

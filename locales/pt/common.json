@@ -1274,7 +1274,8 @@
       "patient_heading": "Como fazer",
       "image_alt": "{{title}}, imagem",
       "saving": "A guardar",
-      "saved": "Ajudas guardadas"
+      "saved": "Ajudas guardadas",
+      "processing_badge": "A preparar"
     }
   },
   "questionnaire": {

@@ -1274,7 +1274,8 @@
       "patient_heading": "How to do it",
       "image_alt": "{{title}}, image",
       "saving": "Saving",
-      "saved": "Aids saved"
+      "saved": "Aids saved",
+      "processing_badge": "Preparing"
     }
   },
   "questionnaire": {
