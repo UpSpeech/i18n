@@ -1101,6 +1101,13 @@
         "rest": "día de descanso",
         "today": "hoy",
         "upcoming": "previsto"
+      },
+      "week_word": {
+        "done_today": "Hecho hoy",
+        "done": "Hecho",
+        "today": "Hoy",
+        "upcoming": "Previsto",
+        "missed": "No hecho"
       }
     },
     "sharing": {
