@@ -1097,10 +1097,10 @@
       "paused_child": "O terapeuta do {{name}} colocou a jornada dele em pausa. Uma pausa curta faz parte do processo.",
       "day_state": {
         "done": "feito",
-        "missed": "não feito",
+        "missed": "falhado",
         "rest": "dia de descanso",
-        "today": "dia de prática",
-        "upcoming": "dia de prática"
+        "today": "hoje",
+        "upcoming": "planeado"
       }
     },
     "sharing": {

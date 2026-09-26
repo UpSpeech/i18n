@@ -1097,10 +1097,10 @@
       "paused_child": "El terapeuta de {{name}} ha puesto su viaje en pausa. Una pausa corta forma parte del proceso.",
       "day_state": {
         "done": "hecho",
-        "missed": "no hecho",
+        "missed": "perdido",
         "rest": "día de descanso",
-        "today": "día de práctica",
-        "upcoming": "día de práctica"
+        "today": "hoy",
+        "upcoming": "previsto"
       }
     },
     "sharing": {

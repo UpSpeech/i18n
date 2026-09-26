@@ -1097,10 +1097,10 @@
       "paused_child": "{{name}}'s therapist has paused their journey. A short break is a normal part of the process.",
       "day_state": {
         "done": "done",
-        "missed": "not done",
+        "missed": "missed",
         "rest": "rest day",
-        "today": "practice day",
-        "upcoming": "practice day"
+        "today": "today",
+        "upcoming": "planned"
       }
     },
     "sharing": {
