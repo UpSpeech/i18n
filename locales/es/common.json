@@ -1137,7 +1137,7 @@
       "starts_first": "empieza primero",
       "edit_step": "Editar {{title}}",
       "remove_step": "Quitar {{title}}",
-      "add_step": "Añadir un paso",
+      "add_step": "Añadir un paso a este objetivo",
       "confirm_empty": "Añade un paso para continuar",
       "add_goal": "Añadir un objetivo",
       "confirming": "Asignando",
