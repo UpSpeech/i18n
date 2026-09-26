@@ -1232,7 +1232,11 @@
       "saved_title": "Saved",
       "saved_body": "Your practice is with your therapist now. Take your time, there's no rush.",
       "saved_body_caregiver": "Saved. {{child}}'s therapist will see how it went.",
-      "complete_step": "Complete step"
+      "complete_step": "Complete step",
+      "marker_intro": "Overview",
+      "marker_exercise": "Practise",
+      "marker_done": "Done",
+      "marker_label": "Where you are in this step"
     }
   },
   "questionnaire": {
