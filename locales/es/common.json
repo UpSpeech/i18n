@@ -1089,7 +1089,19 @@
       "about_minutes": "unos {{count}} min",
       "week_caption": "{{done}} de {{planned}} hechos esta semana",
       "change_days": "Cambiar mis días",
-      "is_today": "hoy"
+      "is_today": "hoy",
+      "caregiver_eyebrow": "Hoy con {{child}}",
+      "caregiver_start": "Empezar con {{child}}",
+      "no_schedule_eyebrow": "Aún sin plan semanal",
+      "load_failed": "El plan no cargó.",
+      "paused_child": "El terapeuta de {{name}} ha puesto su viaje en pausa. Una pausa corta forma parte del proceso.",
+      "day_state": {
+        "done": "hecho",
+        "missed": "no hecho",
+        "rest": "día de descanso",
+        "today": "día de práctica",
+        "upcoming": "día de práctica"
+      }
     },
     "sharing": {
       "exclude": "Mantener fuera de las sugerencias",
@@ -1184,6 +1196,18 @@
         "music": "Música",
         "places": "Lugares"
       }
+    },
+    "judgment": {
+      "title": "¿Cómo fue?",
+      "hint": "Una respuesta para el terapeuta de {{child}}. Una nota, si algo destacó.",
+      "got": "Lo consiguió",
+      "almost": "Casi",
+      "not_yet": "Todavía no",
+      "note_label": "Nota para el terapeuta",
+      "note_placeholder": "¿Algo que el terapeuta deba saber?",
+      "submit": "Enviar",
+      "pick_first": "Elige una respuesta para enviar.",
+      "save_failed": "No se envió. Inténtalo otra vez en un momento."
     }
   },
   "questionnaire": {
