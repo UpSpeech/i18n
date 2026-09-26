@@ -1094,7 +1094,14 @@
       "caregiver_start": "Start with {{child}}",
       "no_schedule_eyebrow": "No weekly plan yet",
       "load_failed": "The plan did not load.",
-      "paused_child": "{{name}}'s therapist has paused their journey. A short break is a normal part of the process."
+      "paused_child": "{{name}}'s therapist has paused their journey. A short break is a normal part of the process.",
+      "day_state": {
+        "done": "done",
+        "missed": "not done",
+        "rest": "rest day",
+        "today": "practice day",
+        "upcoming": "practice day"
+      }
     },
     "sharing": {
       "exclude": "Keep out of suggestions",
