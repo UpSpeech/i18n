@@ -1215,7 +1215,10 @@
       "submit": "Enviar",
       "pick_first": "Escolhe uma resposta para enviar.",
       "save_failed": "Não foi enviado. Tenta outra vez daqui a pouco."
-    }
+    },
+    "legend_key": "Legenda",
+    "goals_finished_one": "{{count}} objetivo concluído",
+    "goals_finished_other": "{{count}} objetivos concluídos"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
