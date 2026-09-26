@@ -1645,6 +1645,7 @@
   "companion_match_accent": "Igualar às bochechas",
   "companion_axes_unavailable": "Escolhe um dos corpos desenhados para poderes escolher adorno e cores.",
   "companion_save": "Guardar companheiro",
+  "companion_save_no_changes": "Muda alguma coisa para guardar.",
   "companion_saved": "Companheiro guardado",
   "companion_load_error": "Não foi possível carregar o teu companheiro. Tenta novamente daqui a pouco.",
   "companion_style_lumo": "Lumo",

@@ -1645,6 +1645,7 @@
   "companion_match_accent": "Igualar a las mejillas",
   "companion_axes_unavailable": "Elige uno de los cuerpos dibujados para poder elegir adorno y colores.",
   "companion_save": "Guardar compañero",
+  "companion_save_no_changes": "Cambia algo para guardar.",
   "companion_saved": "Compañero guardado",
   "companion_load_error": "No se pudo cargar tu compañero. Inténtalo de nuevo en un momento.",
   "companion_style_lumo": "Lumo",
