@@ -1219,7 +1219,9 @@
     "legend_key": "Key",
     "goals_finished_one": "{{count}} goal finished",
     "goals_finished_other": "{{count}} goals finished",
-    "caregiver_together_hint": "Do this together with {{child}}, then tell the therapist how it went."
+    "caregiver_together_after": "Afterwards, tell {{child}}'s therapist how it went.",
+    "caregiver_together_hint": "Do this together with {{child}}, then tell the therapist how it went.",
+    "caregiver_together_title": "Do this together"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
