@@ -513,6 +513,8 @@
   "mini_game_difficulty_hard": "Hard",
   "mini_game_difficulty_expert": "Expert",
   "assignment_overdue": "Overdue",
+  "assignment_overdue_by_one": "{{count}} day overdue",
+  "assignment_overdue_by_other": "{{count}} days overdue",
   "assignment_overdue_count_one": "{{count}} overdue",
   "assignment_overdue_count_other": "{{count}} overdue",
   "practice_recording_video": "Video & Audio",
