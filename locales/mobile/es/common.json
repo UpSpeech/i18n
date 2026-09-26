@@ -1865,7 +1865,5 @@
   "aids_image_alt": "{{title}}, imagen",
   "aids_saving": "Guardando",
   "aids_saved": "Ayudas guardadas",
-  "path_composer_note_label": "Nota para {{name}}",
-  "path_composer_note_help": "Algo para leer antes de practicar, como un guion breve",
   "aids_processing_badge": "Preparando"
 }

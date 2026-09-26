@@ -570,9 +570,7 @@
       "pill_game_plain": "Minijuego",
       "replace_game_drop_title": "¿Quitar el minijuego?",
       "replace_game_drop_body": "«{{next}}» no es un minijuego, así que este paso dejaría de abrir «{{current}}» y pasaría a ser instrucciones escritas, con el título y las palabras de la tarjeta en los campos.",
-      "replace_game_drop_confirm": "Quitarlo",
-      "note_label": "Nota para {{name}}",
-      "note_help": "Algo para leer antes de practicar, como un guion breve"
+      "replace_game_drop_confirm": "Quitarlo"
     },
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
