@@ -1215,7 +1215,10 @@
       "submit": "Enviar",
       "pick_first": "Elige una respuesta para enviar.",
       "save_failed": "No se envió. Inténtalo otra vez en un momento."
-    }
+    },
+    "legend_key": "Leyenda",
+    "goals_finished_one": "{{count}} objetivo completado",
+    "goals_finished_other": "{{count}} objetivos completados"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

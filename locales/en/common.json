@@ -1215,7 +1215,10 @@
       "submit": "Send",
       "pick_first": "Pick one answer to send.",
       "save_failed": "That did not send. Try again in a moment."
-    }
+    },
+    "legend_key": "Key",
+    "goals_finished_one": "{{count}} goal finished",
+    "goals_finished_other": "{{count}} goals finished"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
