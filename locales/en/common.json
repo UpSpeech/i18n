@@ -1101,7 +1101,14 @@
         "rest": "rest day",
         "today": "today",
         "upcoming": "planned"
-      }
+      },
+      "week_word": {
+        "done_today": "Done today",
+        "done": "Done",
+        "today": "Today",
+        "upcoming": "Planned"
+      },
+      "practise_anyway": "Practise anyway"
     },
     "sharing": {
       "exclude": "Keep out of suggestions",
