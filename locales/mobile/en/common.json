@@ -1697,6 +1697,7 @@
   "today_practice_eyebrow": "Today",
   "today_done_eyebrow": "Done for today",
   "today_rest_eyebrow": "Today",
+  "today_no_schedule_eyebrow": "No weekly plan yet",
   "today_rest_title": "No practice planned today",
   "today_rest_next": "Next up: {{day}}",
   "today_start": "Start today's practice",

@@ -1089,7 +1089,12 @@
       "about_minutes": "about {{count}} min",
       "week_caption": "{{done}} of {{planned}} done this week",
       "change_days": "Change my days",
-      "is_today": "today"
+      "is_today": "today",
+      "caregiver_eyebrow": "Today with {{child}}",
+      "caregiver_start": "Start with {{child}}",
+      "no_schedule_eyebrow": "No weekly plan yet",
+      "load_failed": "The plan did not load.",
+      "paused_child": "{{name}}'s therapist has paused their journey. A short break is a normal part of the process."
     },
     "sharing": {
       "exclude": "Keep out of suggestions",
@@ -1184,6 +1189,18 @@
         "music": "Music",
         "places": "Places"
       }
+    },
+    "judgment": {
+      "title": "How did it go?",
+      "hint": "One answer for {{child}}'s therapist. A note if something stood out.",
+      "got": "Got it",
+      "almost": "Almost",
+      "not_yet": "Not yet",
+      "note_label": "Note for the therapist",
+      "note_placeholder": "Anything the therapist should know?",
+      "submit": "Send",
+      "pick_first": "Pick one answer to send.",
+      "save_failed": "That did not send. Try again in a moment."
     }
   },
   "questionnaire": {

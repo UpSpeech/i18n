@@ -1089,7 +1089,12 @@
       "about_minutes": "cerca de {{count}} min",
       "week_caption": "{{done}} de {{planned}} feitos esta semana",
       "change_days": "Mudar os meus dias",
-      "is_today": "hoje"
+      "is_today": "hoje",
+      "caregiver_eyebrow": "Hoje com {{child}}",
+      "caregiver_start": "Começar com {{child}}",
+      "no_schedule_eyebrow": "Ainda sem plano semanal",
+      "load_failed": "O plano não carregou.",
+      "paused_child": "O terapeuta do {{name}} colocou a jornada dele em pausa. Uma pausa curta faz parte do processo."
     },
     "sharing": {
       "exclude": "Manter fora das sugestões",
@@ -1184,6 +1189,18 @@
         "music": "Música",
         "places": "Lugares"
       }
+    },
+    "judgment": {
+      "title": "Como correu?",
+      "hint": "Uma resposta para o terapeuta do/da {{child}}. Uma nota, se algo se destacou.",
+      "got": "Conseguiu",
+      "almost": "Quase",
+      "not_yet": "Ainda não",
+      "note_label": "Nota para o terapeuta",
+      "note_placeholder": "Alguma coisa que o terapeuta deva saber?",
+      "submit": "Enviar",
+      "pick_first": "Escolhe uma resposta para enviar.",
+      "save_failed": "Não foi enviado. Tenta outra vez daqui a pouco."
     }
   },
   "questionnaire": {
