@@ -1218,7 +1218,8 @@
     },
     "legend_key": "Leyenda",
     "goals_finished_one": "{{count}} objetivo completado",
-    "goals_finished_other": "{{count}} objetivos completados"
+    "goals_finished_other": "{{count}} objetivos completados",
+    "caregiver_together_hint": "Hazlo junto con {{child}} y luego cuéntale al terapeuta cómo fue."
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
