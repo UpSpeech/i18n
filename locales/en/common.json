@@ -853,6 +853,7 @@
         "self_disclosure_submissions": "Self-Disclosure",
         "observation_submissions": "Observation",
         "technique_rating_submissions": "Technique Rating",
+        "judgment_submissions": "Caregiver's Answer",
         "scenario_session": "Scenario"
       },
       "technique_rating_label": "Technique Rating",

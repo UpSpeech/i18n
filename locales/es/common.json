@@ -853,6 +853,7 @@
         "self_disclosure_submissions": "Autodivulgación",
         "observation_submissions": "Observación",
         "technique_rating_submissions": "Valoración de la Técnica",
+        "judgment_submissions": "Respuesta del Cuidador",
         "scenario_session": "Escenario"
       },
       "technique_rating_label": "Valoración de la Técnica",
