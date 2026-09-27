@@ -570,7 +570,8 @@
       "pill_game_plain": "Minijuego",
       "replace_game_drop_title": "¿Quitar el minijuego?",
       "replace_game_drop_body": "«{{next}}» no es un minijuego, así que este paso dejaría de abrir «{{current}}» y pasaría a ser instrucciones escritas, con el título y las palabras de la tarjeta en los campos.",
-      "replace_game_drop_confirm": "Quitarlo"
+      "replace_game_drop_confirm": "Quitarlo",
+      "start_now_consequence_none": "{{current}} se cierra antes. Puedes asignarlo otra vez más tarde."
     },
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
@@ -867,7 +868,11 @@
         "identification": "Identificación",
         "quiz": "Cuestionario",
         "scenario": "Escenario",
-        "self_modeling": "Automodelado"
+        "self_modeling": "Automodelado",
+        "spin_cards": "Ruleta y Cartas",
+        "two_choice": "Dos Imágenes",
+        "pause_road": "Camino de Pausas",
+        "which_speech": "Qué Habla"
       },
       "pause_mode_value": {
         "guided": "Guiado",
@@ -1137,7 +1142,7 @@
       "starts_first": "empieza primero",
       "edit_step": "Editar {{title}}",
       "remove_step": "Quitar {{title}}",
-      "add_step": "Añadir un paso",
+      "add_step": "Añadir un paso a este objetivo",
       "confirm_empty": "Añade un paso para continuar",
       "add_goal": "Añadir un objetivo",
       "confirming": "Asignando",
@@ -1201,8 +1206,14 @@
         "school": "Colegio",
         "toys": "Juguetes",
         "music": "Música",
-        "places": "Lugares"
-      }
+        "places": "Lugares",
+        "gv_cards": "Cartas de tartamudeo voluntario",
+        "which_speech_pre": "Qué habla, preescolar",
+        "feather_rock": "Pluma o roca",
+        "repetition_length": "Duración de las repeticiones",
+        "describe": "Imágenes para describir"
+      },
+      "section": "Imágenes"
     },
     "judgment": {
       "title": "¿Cómo fue?",
@@ -1248,6 +1259,46 @@
       "marker_exercise": "Practicar",
       "marker_done": "Hecho",
       "marker_label": "Dónde estás en este paso"
+    },
+    "aids": {
+      "section": "Ayudas",
+      "add": "Añadir ayudas",
+      "count_one": "{{count}} ayuda",
+      "count_other": "{{count}} ayudas",
+      "picker_title": "Ayudas de la clínica",
+      "library_empty": "Tu clínica todavía no tiene ayudas. Graba o sube la primera.",
+      "filter_all": "Todas",
+      "filter_image": "Imágenes",
+      "filter_video": "Vídeos",
+      "filter_audio": "Audio",
+      "search": "Buscar ayudas",
+      "record_video": "Grabar vídeo",
+      "record_audio": "Grabar audio",
+      "upload": "Subir un archivo",
+      "title_label": "Qué muestra",
+      "title_placeholder": "Por ejemplo, labios para la /m/",
+      "title_required": "Ponle un título a la ayuda",
+      "save": "Añadir a la biblioteca",
+      "processing": "Preparándola. Aparecerá para el paciente en breve.",
+      "max": "Un paso puede mostrar como máximo cinco",
+      "too_large": "Ese archivo es demasiado grande para una ayuda",
+      "wrong_type": "Ese tipo de archivo no puede ser una ayuda",
+      "upload_failed": "La subida falló. Vuelve a intentarlo.",
+      "load_failed": "No se pudieron cargar las ayudas de tu clínica",
+      "shared_note": "Las ayudas se comparten con toda tu clínica. No subas nada que muestre a un paciente.",
+      "use": "Usar estas ayudas",
+      "remove": "Quitar de este paso",
+      "retire": "Quitar de la biblioteca",
+      "retire_body": "Sale de la biblioteca. Los pasos que ya la muestran la conservan.",
+      "select": "Seleccionar {{title}}",
+      "patient_heading": "Cómo hacerlo",
+      "image_alt": "{{title}}, imagen",
+      "saving": "Guardando",
+      "saved": "Ayudas guardadas",
+      "processing_badge": "Preparando",
+      "save_failed": "No se pudo guardar. Vuelve a intentarlo.",
+      "editor_title": "Ayudas para {{step}}",
+      "retire_confirm": "Quitar"
     }
   },
   "questionnaire": {

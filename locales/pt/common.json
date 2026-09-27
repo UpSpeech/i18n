@@ -570,7 +570,8 @@
       "pill_game_plain": "Mini-jogo",
       "replace_game_drop_title": "Largar o mini-jogo?",
       "replace_game_drop_body": "“{{next}}” não é um mini-jogo, por isso este passo deixaria de abrir “{{current}}” e passaria a ser instruções escritas, com o título e as palavras do cartão nos campos.",
-      "replace_game_drop_confirm": "Largar"
+      "replace_game_drop_confirm": "Largar",
+      "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde."
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
@@ -867,7 +868,11 @@
         "identification": "Identificação",
         "quiz": "Quiz",
         "scenario": "Cenário",
-        "self_modeling": "Automodelação"
+        "self_modeling": "Automodelação",
+        "spin_cards": "Roda e Cartões",
+        "two_choice": "Duas Imagens",
+        "pause_road": "Estrada das Pausas",
+        "which_speech": "Que Fala"
       },
       "pause_mode_value": {
         "guided": "Guiado",
@@ -1137,7 +1142,7 @@
       "starts_first": "começa primeiro",
       "edit_step": "Editar {{title}}",
       "remove_step": "Remover {{title}}",
-      "add_step": "Adicionar um passo",
+      "add_step": "Adicionar um passo neste objetivo",
       "confirm_empty": "Adiciona um passo para continuar",
       "add_goal": "Adicionar um objetivo",
       "confirming": "A atribuir",
@@ -1201,8 +1206,14 @@
         "school": "Escola",
         "toys": "Brinquedos",
         "music": "Música",
-        "places": "Lugares"
-      }
+        "places": "Lugares",
+        "gv_cards": "Cartões de gaguez voluntária",
+        "which_speech_pre": "Que fala, pré-escolar",
+        "feather_rock": "Pena ou rocha",
+        "repetition_length": "Duração das repetições",
+        "describe": "Imagens para descrever"
+      },
+      "section": "Imagens"
     },
     "judgment": {
       "title": "Como correu?",
@@ -1248,6 +1259,46 @@
       "marker_exercise": "Praticar",
       "marker_done": "Concluído",
       "marker_label": "Onde estás neste passo"
+    },
+    "aids": {
+      "section": "Ajudas",
+      "add": "Adicionar ajudas",
+      "count_one": "{{count}} ajuda",
+      "count_other": "{{count}} ajudas",
+      "picker_title": "Ajudas da clínica",
+      "library_empty": "A tua clínica ainda não tem ajudas. Grava ou carrega a primeira.",
+      "filter_all": "Todas",
+      "filter_image": "Imagens",
+      "filter_video": "Vídeos",
+      "filter_audio": "Áudio",
+      "search": "Procurar ajudas",
+      "record_video": "Gravar vídeo",
+      "record_audio": "Gravar áudio",
+      "upload": "Carregar um ficheiro",
+      "title_label": "O que mostra",
+      "title_placeholder": "Por exemplo, lábios para o /m/",
+      "title_required": "Dá um título à ajuda",
+      "save": "Adicionar à biblioteca",
+      "processing": "A preparar. Vai aparecer ao paciente em breve.",
+      "max": "Um passo pode mostrar no máximo cinco",
+      "too_large": "Esse ficheiro é demasiado grande para uma ajuda",
+      "wrong_type": "Esse tipo de ficheiro não pode ser uma ajuda",
+      "upload_failed": "O carregamento falhou. Tenta outra vez.",
+      "load_failed": "Não foi possível carregar as ajudas da tua clínica",
+      "shared_note": "As ajudas são partilhadas com toda a tua clínica. Não carregues nada que mostre um paciente.",
+      "use": "Usar estas ajudas",
+      "remove": "Retirar deste passo",
+      "retire": "Retirar da biblioteca",
+      "retire_body": "Sai da biblioteca. Os passos que já a mostram mantêm-na.",
+      "select": "Selecionar {{title}}",
+      "patient_heading": "Como fazer",
+      "image_alt": "{{title}}, imagem",
+      "saving": "A guardar",
+      "saved": "Ajudas guardadas",
+      "processing_badge": "A preparar",
+      "save_failed": "Não foi possível guardar. Tenta outra vez.",
+      "editor_title": "Ajudas para {{step}}",
+      "retire_confirm": "Retirar"
     }
   },
   "questionnaire": {
