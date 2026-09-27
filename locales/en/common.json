@@ -867,7 +867,11 @@
         "identification": "Identification",
         "quiz": "Quiz",
         "scenario": "Scenario",
-        "self_modeling": "Self-Modelling"
+        "self_modeling": "Self-Modelling",
+        "spin_cards": "Spin and Say",
+        "two_choice": "Two Pictures",
+        "pause_road": "Pause Road",
+        "which_speech": "Which Speech"
       },
       "pause_mode_value": {
         "guided": "Guided",
@@ -1201,8 +1205,14 @@
         "school": "School",
         "toys": "Toys",
         "music": "Music",
-        "places": "Places"
-      }
+        "places": "Places",
+        "gv_cards": "Voluntary stuttering cards",
+        "which_speech_pre": "Which speech, pre-school",
+        "feather_rock": "Feather or rock",
+        "repetition_length": "Repetition length",
+        "describe": "Pictures to describe"
+      },
+      "section": "Pictures"
     },
     "judgment": {
       "title": "How did it go?",
@@ -1243,7 +1253,7 @@
       "add": "Add aids",
       "count_one": "{{count}} aid",
       "count_other": "{{count}} aids",
-      "picker_title": "Aids for {{name}}",
+      "picker_title": "Clinic aids",
       "library_empty": "Your clinic has no aids yet. Record or upload the first one.",
       "filter_all": "All",
       "filter_image": "Images",
@@ -1274,7 +1284,9 @@
       "saving": "Saving",
       "saved": "Aids saved",
       "processing_badge": "Preparing",
-      "save_failed": "Could not save. Try again."
+      "save_failed": "Could not save. Try again.",
+      "editor_title": "Aids for {{step}}",
+      "retire_confirm": "Remove"
     }
   },
   "questionnaire": {
