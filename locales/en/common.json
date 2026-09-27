@@ -1241,7 +1241,7 @@
     "caregiver_guide_report": "Tell the therapist",
     "caregiver_aids_intro": "Start here. Watch or listen before you practise with {{child}}.",
     "caregiver_understood": "I've understood",
-    "caregiver_try_intro": "Try it on your own first. Just for you, {{child}}'s therapist won't see it.",
+    "caregiver_try_intro": "Try it on your own first. Only you will see it, not {{child}}'s therapist.",
     "caregiver_ready": "I'm ready to practise",
     "caregiver_finished": "We've finished",
     "caregiver_skip_to_practice": "Skip to practising with {{child}}",
