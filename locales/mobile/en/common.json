@@ -1837,7 +1837,7 @@
   "aids_add": "Add aids",
   "aids_count_one": "{{count}} aid",
   "aids_count_other": "{{count}} aids",
-  "aids_picker_title": "Aids for {{name}}",
+  "aids_picker_title": "Clinic aids",
   "aids_library_empty": "Your clinic has no aids yet. Record or upload the first one.",
   "aids_filter_all": "All",
   "aids_filter_image": "Images",

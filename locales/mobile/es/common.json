@@ -1837,7 +1837,7 @@
   "aids_add": "Añadir ayudas",
   "aids_count_one": "{{count}} ayuda",
   "aids_count_other": "{{count}} ayudas",
-  "aids_picker_title": "Ayudas para {{name}}",
+  "aids_picker_title": "Ayudas de la clínica",
   "aids_library_empty": "Tu clínica todavía no tiene ayudas. Graba o sube la primera.",
   "aids_filter_all": "Todas",
   "aids_filter_image": "Imágenes",

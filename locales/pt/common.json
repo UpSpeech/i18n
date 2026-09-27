@@ -867,7 +867,11 @@
         "identification": "Identificação",
         "quiz": "Quiz",
         "scenario": "Cenário",
-        "self_modeling": "Automodelação"
+        "self_modeling": "Automodelação",
+        "spin_cards": "Roda e Cartões",
+        "two_choice": "Duas Imagens",
+        "pause_road": "Estrada das Pausas",
+        "which_speech": "Que Fala"
       },
       "pause_mode_value": {
         "guided": "Guiado",
@@ -1201,8 +1205,14 @@
         "school": "Escola",
         "toys": "Brinquedos",
         "music": "Música",
-        "places": "Lugares"
-      }
+        "places": "Lugares",
+        "gv_cards": "Cartões de gaguez voluntária",
+        "which_speech_pre": "Que fala, pré-escolar",
+        "feather_rock": "Pena ou rocha",
+        "repetition_length": "Duração das repetições",
+        "describe": "Imagens para descrever"
+      },
+      "section": "Imagens"
     },
     "judgment": {
       "title": "Como correu?",
@@ -1243,7 +1253,7 @@
       "add": "Adicionar ajudas",
       "count_one": "{{count}} ajuda",
       "count_other": "{{count}} ajudas",
-      "picker_title": "Ajudas para {{name}}",
+      "picker_title": "Ajudas da clínica",
       "library_empty": "A tua clínica ainda não tem ajudas. Grava ou carrega a primeira.",
       "filter_all": "Todas",
       "filter_image": "Imagens",
@@ -1274,7 +1284,9 @@
       "saving": "A guardar",
       "saved": "Ajudas guardadas",
       "processing_badge": "A preparar",
-      "save_failed": "Não foi possível guardar. Tenta outra vez."
+      "save_failed": "Não foi possível guardar. Tenta outra vez.",
+      "editor_title": "Ajudas para {{step}}",
+      "retire_confirm": "Retirar"
     }
   },
   "questionnaire": {
