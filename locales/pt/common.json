@@ -1556,6 +1556,7 @@
     "technique_practice": "Descrição de imagens",
     "choose_kind": "Escolhe um exercício para lhe carregares uma imagem.",
     "empty": "Ainda não há imagens aqui.",
-    "empty_hint": "Carrega uma e fica pronta da próxima vez que atribuíres este exercício."
+    "empty_hint": "Carrega uma e fica pronta da próxima vez que atribuíres este exercício.",
+    "remove_failed": "Não foi possível remover a imagem. Tenta outra vez."
   }
 }

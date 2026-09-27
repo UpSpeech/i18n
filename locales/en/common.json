@@ -1556,6 +1556,7 @@
     "technique_practice": "Picture description",
     "choose_kind": "Choose an exercise to upload a picture for it.",
     "empty": "No pictures here yet.",
-    "empty_hint": "Upload one and it is ready the next time you assign this exercise."
+    "empty_hint": "Upload one and it is ready the next time you assign this exercise.",
+    "remove_failed": "The picture could not be removed. Try again."
   }
 }

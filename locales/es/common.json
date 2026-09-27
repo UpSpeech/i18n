@@ -1556,6 +1556,7 @@
     "technique_practice": "Descripción de imágenes",
     "choose_kind": "Elige un ejercicio para subirle una imagen.",
     "empty": "Todavía no hay imágenes aquí.",
-    "empty_hint": "Sube una y estará lista la próxima vez que asignes este ejercicio."
+    "empty_hint": "Sube una y estará lista la próxima vez que asignes este ejercicio.",
+    "remove_failed": "No se pudo quitar la imagen. Inténtalo de nuevo."
   }
 }
