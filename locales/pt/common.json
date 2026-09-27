@@ -570,7 +570,8 @@
       "pill_game_plain": "Mini-jogo",
       "replace_game_drop_title": "Largar o mini-jogo?",
       "replace_game_drop_body": "“{{next}}” não é um mini-jogo, por isso este passo deixaria de abrir “{{current}}” e passaria a ser instruções escritas, com o título e as palavras do cartão nos campos.",
-      "replace_game_drop_confirm": "Largar"
+      "replace_game_drop_confirm": "Largar",
+      "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde."
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
