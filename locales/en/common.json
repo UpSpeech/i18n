@@ -1554,9 +1554,15 @@
     "kind_label": "Exercise",
     "all_kinds": "All exercises",
     "technique_practice": "Picture description",
-    "choose_kind": "Choose an exercise to upload a picture for it.",
     "empty": "No pictures here yet.",
     "empty_hint": "Upload one and it is ready the next time you assign this exercise.",
-    "remove_failed": "The picture could not be removed. Try again."
+    "remove_failed": "The picture could not be removed. Try again.",
+    "count_one": "{{count}} picture",
+    "count_other": "{{count}} pictures",
+    "empty_filtered": "No pictures match these filters.",
+    "clear_filters": "Clear filters",
+    "upload_for": "Which exercise is it for?",
+    "choose_exercise": "Choose an exercise",
+    "choose_file": "Choose a picture"
   }
 }

@@ -1554,9 +1554,15 @@
     "kind_label": "Ejercicio",
     "all_kinds": "Todos los ejercicios",
     "technique_practice": "Descripción de imágenes",
-    "choose_kind": "Elige un ejercicio para subirle una imagen.",
     "empty": "Todavía no hay imágenes aquí.",
     "empty_hint": "Sube una y estará lista la próxima vez que asignes este ejercicio.",
-    "remove_failed": "No se pudo quitar la imagen. Inténtalo de nuevo."
+    "remove_failed": "No se pudo quitar la imagen. Inténtalo de nuevo.",
+    "count_one": "{{count}} imagen",
+    "count_other": "{{count}} imágenes",
+    "empty_filtered": "Ninguna imagen coincide con estos filtros.",
+    "clear_filters": "Borrar filtros",
+    "upload_for": "¿Para qué ejercicio es?",
+    "choose_exercise": "Elige un ejercicio",
+    "choose_file": "Elegir una imagen"
   }
 }
