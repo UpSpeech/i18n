@@ -155,7 +155,8 @@
     "messages": "Mensajes",
     "messages_unread": "Mensajes, {{count}} sin leer",
     "gated_tooltip": "Completa la evaluación para continuar",
-    "game_catalogue": "Catálogo de ejercicios"
+    "game_catalogue": "Catálogo de ejercicios",
+    "resource_library": "Biblioteca de recursos"
   },
   "caregiver_ask": {
     "subtitle": "Dudas sobre practicar en casa, respondidas con material para padres",
@@ -505,7 +506,8 @@
     "history": "Historial",
     "pilot_accounts": "Cuentas Piloto",
     "invites": "Invitaciones",
-    "game_catalogue": "Catálogo de ejercicios"
+    "game_catalogue": "Catálogo de ejercicios",
+    "resource_library": "Biblioteca de recursos"
   },
   "learning_path": {
     "composer": {
@@ -1214,7 +1216,8 @@
         "repetition_length": "Duración de las repeticiones",
         "describe": "Imágenes para describir"
       },
-      "section": "Imágenes"
+      "section": "Imágenes",
+      "required": "Elige al menos una imagen para este paso."
     },
     "judgment": {
       "title": "¿Cómo fue?",
@@ -1510,7 +1513,7 @@
     "empty": "El catálogo está vacío"
   },
   "library": {
-    "title": "Biblioteca de recursos",
+    "title": "Biblioteca de ejercicios",
     "search_placeholder": "Buscar en la biblioteca",
     "filter_condition": "Condición",
     "filter_age": "Edad",
@@ -1557,5 +1560,22 @@
     "add_patient": "Añadir un paciente",
     "back_to_queue": "Volver a la cola",
     "upload_recording": "Subir una grabación"
+  },
+  "resource_library": {
+    "subtitle": "Las imágenes con las que se juegan tus pasos: las de tu clínica y las que ofrece UpSpeech.",
+    "kind_label": "Ejercicio",
+    "all_kinds": "Todos los ejercicios",
+    "technique_practice": "Descripción de imágenes",
+    "empty": "Tu clínica todavía no tiene imágenes.",
+    "empty_hint": "Sube una y estará lista para elegir la próxima vez que asignes un ejercicio con imágenes.",
+    "remove_failed": "No se pudo quitar la imagen. Inténtalo de nuevo.",
+    "count_one": "{{count}} imagen",
+    "count_other": "{{count}} imágenes",
+    "empty_filtered": "Ninguna imagen coincide con estos filtros.",
+    "clear_filters": "Borrar filtros",
+    "upload_for": "¿Para qué ejercicio es?",
+    "choose_exercise": "Elige un ejercicio",
+    "choose_file": "Elegir una imagen",
+    "curated": "UpSpeech"
   }
 }

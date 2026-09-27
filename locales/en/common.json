@@ -162,7 +162,8 @@
     "messages": "Messages",
     "messages_unread": "Messages, {{count}} unread",
     "gated_tooltip": "Complete the assessment to continue",
-    "game_catalogue": "Exercise catalogue"
+    "game_catalogue": "Exercise catalogue",
+    "resource_library": "Resource library"
   },
   "caregiver_ask": {
     "subtitle": "Questions about practising at home, answered from material for parents",
@@ -505,7 +506,8 @@
     "history": "History",
     "pilot_accounts": "Pilot Accounts",
     "invites": "Invites",
-    "game_catalogue": "Exercise catalogue"
+    "game_catalogue": "Exercise catalogue",
+    "resource_library": "Resource library"
   },
   "learning_path": {
     "composer": {
@@ -1214,7 +1216,8 @@
         "repetition_length": "Repetition length",
         "describe": "Pictures to describe"
       },
-      "section": "Pictures"
+      "section": "Pictures",
+      "required": "Pick at least one picture for this step."
     },
     "judgment": {
       "title": "How did it go?",
@@ -1510,7 +1513,7 @@
     "empty": "The catalogue is empty"
   },
   "library": {
-    "title": "Resource library",
+    "title": "Exercise library",
     "search_placeholder": "Search the library",
     "filter_condition": "Condition",
     "filter_age": "Age",
@@ -1557,5 +1560,22 @@
     "add_patient": "Add a patient",
     "back_to_queue": "Back to the queue",
     "upload_recording": "Upload a recording"
+  },
+  "resource_library": {
+    "subtitle": "The pictures your steps are played with: your clinic's own, and the ones UpSpeech provides.",
+    "kind_label": "Exercise",
+    "all_kinds": "All exercises",
+    "technique_practice": "Picture description",
+    "empty": "Your clinic has no pictures yet.",
+    "empty_hint": "Upload one and it is ready to pick the next time you assign a picture exercise.",
+    "remove_failed": "The picture could not be removed. Try again.",
+    "count_one": "{{count}} picture",
+    "count_other": "{{count}} pictures",
+    "empty_filtered": "No pictures match these filters.",
+    "clear_filters": "Clear filters",
+    "upload_for": "Which exercise is it for?",
+    "choose_exercise": "Choose an exercise",
+    "choose_file": "Choose a picture",
+    "curated": "UpSpeech"
   }
 }
