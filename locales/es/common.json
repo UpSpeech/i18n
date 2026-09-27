@@ -1554,8 +1554,8 @@
     "kind_label": "Ejercicio",
     "all_kinds": "Todos los ejercicios",
     "technique_practice": "Descripción de imágenes",
-    "empty": "Todavía no hay imágenes aquí.",
-    "empty_hint": "Sube una y estará lista la próxima vez que asignes este ejercicio.",
+    "empty": "Tu clínica todavía no tiene imágenes.",
+    "empty_hint": "Sube una y estará lista para elegir la próxima vez que asignes un ejercicio con imágenes.",
     "remove_failed": "No se pudo quitar la imagen. Inténtalo de nuevo.",
     "count_one": "{{count}} imagen",
     "count_other": "{{count}} imágenes",
@@ -1563,6 +1563,7 @@
     "clear_filters": "Borrar filtros",
     "upload_for": "¿Para qué ejercicio es?",
     "choose_exercise": "Elige un ejercicio",
-    "choose_file": "Elegir una imagen"
+    "choose_file": "Elegir una imagen",
+    "curated": "UpSpeech"
   }
 }
