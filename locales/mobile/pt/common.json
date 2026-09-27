@@ -758,6 +758,7 @@
   "scenarios_playing_stalled": "A resposta não foi reproduzida",
   "scenarios_playing_retry": "Reproduzir de novo",
   "scenarios_playing_read": "Ler em vez de ouvir",
+  "scenarios_reply_heading": "A resposta",
   "scenarios_tap_to_replay": "Toca para repetir",
   "scenarios_conversation": "Conversa",
   "scenarios_ambient_mute": "Silenciar som de fundo",
