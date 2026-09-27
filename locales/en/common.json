@@ -570,7 +570,8 @@
       "pill_game_plain": "Mini-game",
       "replace_game_drop_title": "Drop the mini-game?",
       "replace_game_drop_body": "“{{next}}” is not a mini-game, so this step would stop opening “{{current}}” and become written instructions, with the card's title and words in the fields.",
-      "replace_game_drop_confirm": "Drop it"
+      "replace_game_drop_confirm": "Drop it",
+      "start_now_consequence_none": "{{current}} closes early. You can assign it again later."
     },
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",
