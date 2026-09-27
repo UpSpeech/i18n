@@ -1137,7 +1137,7 @@
       "starts_first": "starts first",
       "edit_step": "Edit {{title}}",
       "remove_step": "Remove {{title}}",
-      "add_step": "Add a step",
+      "add_step": "Add a step to this goal",
       "confirm_empty": "Add a step to continue",
       "add_goal": "Add a goal",
       "confirming": "Assigning",
