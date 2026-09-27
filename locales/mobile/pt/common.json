@@ -1717,6 +1717,7 @@
   "caregiver_try_it_out": "Experimentar",
   "caregiver_practice_with": "Praticar com {{child}}",
   "caregiver_session_intro": "Começa a gravar e faz o exercício em conjunto. Carrega em Terminar quando acabares. Só o som é gravado, para o terapeuta de {{child}}.",
+  "caregiver_session_take": "A gravação da prática está a captar isto.",
   "caregiver_session_start": "Começar a gravar",
   "caregiver_session_finish": "Terminar",
   "caregiver_session_sending": "A enviar a gravação",

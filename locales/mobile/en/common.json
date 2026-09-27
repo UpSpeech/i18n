@@ -1717,6 +1717,7 @@
   "caregiver_try_it_out": "Try it out",
   "caregiver_practice_with": "Practise with {{child}}",
   "caregiver_session_intro": "Start recording, then do the exercise together. Press Finish when you are done. Only the sound is recorded, for {{child}}'s therapist.",
+  "caregiver_session_take": "The practice recording is capturing this.",
   "caregiver_session_start": "Start recording",
   "caregiver_session_finish": "Finish",
   "caregiver_session_sending": "Sending the recording",
