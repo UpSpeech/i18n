@@ -83,7 +83,7 @@
         "assign_exercise": "Atribui um percurso de aprendizagem",
         "assign_exercise_description": "Define a jornada terapêutica do teu paciente",
         "explore_library": "Descobre exercícios",
-        "explore_library_description": "Navega pelos exercícios e jogos disponíveis"
+        "explore_library_description": "Encontra jogos e tarefas prontas, e as imagens que os acompanham"
       }
     },
     "pilot": {
@@ -226,11 +226,13 @@
         },
         "library": {
           "grid_title": "Biblioteca de Exercícios",
-          "grid_content": "Navega por todos os exercícios disponíveis organizados por categoria.",
-          "card_title": "Detalhes do Exercício",
-          "card_content": "Clica para pré-visualizar um exercício ou atribuí-lo a um paciente.",
+          "grid_content": "Jogos e tarefas prontas para os teus pacientes. Tudo o que está aqui pode entrar no percurso de um paciente.",
           "filters_title": "Filtrar e Pesquisar",
-          "filters_content": "Filtra por tipo ou pesquisa para encontrares o exercício certo rapidamente."
+          "filters_content": "Afina a lista por condição, idade e nível, ou pesquisa uma palavra.",
+          "card_title": "Experimenta primeiro",
+          "card_content": "A pré-visualização mostra o exercício tal como o paciente o vê, sem guardar nada. Para o dares a um paciente, adiciona-o a partir do percurso dele.",
+          "resources_title": "Biblioteca de recursos",
+          "resources_content": "As imagens que dão contexto a um exercício, como uma paisagem que o paciente descreve enquanto usa uma técnica. Carrega as tuas ou escolhe entre as que a UpSpeech disponibiliza."
         }
       },
       "admin": {
