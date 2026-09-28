@@ -159,7 +159,7 @@
     "messages_unread": "Mensagens, {{count}} por ler",
     "gated_tooltip": "Conclui a avaliação para continuar",
     "game_catalogue": "Catálogo de exercícios",
-    "resource_library": "Imagens"
+    "resource_library": "Biblioteca de recursos"
   },
   "caregiver_ask": {
     "subtitle": "Dúvidas sobre praticar em casa, respondidas com material para pais",
@@ -510,7 +510,7 @@
     "pilot_accounts": "Contas Piloto",
     "invites": "Convites",
     "game_catalogue": "Catálogo de exercícios",
-    "resource_library": "Imagens"
+    "resource_library": "Biblioteca de recursos"
   },
   "learning_path": {
     "composer": {

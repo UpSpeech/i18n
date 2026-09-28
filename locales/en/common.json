@@ -166,7 +166,7 @@
     "messages_unread": "Messages, {{count}} unread",
     "gated_tooltip": "Complete the assessment to continue",
     "game_catalogue": "Exercise catalogue",
-    "resource_library": "Pictures"
+    "resource_library": "Resource library"
   },
   "caregiver_ask": {
     "subtitle": "Questions about practising at home, answered from material for parents",
@@ -510,7 +510,7 @@
     "pilot_accounts": "Pilot Accounts",
     "invites": "Invites",
     "game_catalogue": "Exercise catalogue",
-    "resource_library": "Pictures"
+    "resource_library": "Resource library"
   },
   "learning_path": {
     "composer": {
