@@ -525,7 +525,7 @@
       "dose_helper": "How much practice, over how long.",
       "goal_label": "Belongs to goal",
       "goal_name_required": "Name the new goal",
-      "max_per_session": "Maximum per session",
+      "max_per_session": "Minutes per session, at most",
       "minutes_value": "{{count}} min",
       "new_goal": "Start a new goal",
       "new_goal_helper": "{{name}} reads this too.",
@@ -534,7 +534,7 @@
       "pill_minutes": "up to {{count}} min",
       "pill_times": "{{count}}× a week",
       "placement_label": "When does this start",
-      "plan_window": "Plan window",
+      "plan_window": "Weeks to practise it",
       "preview_days": "Which days suit you?",
       "preview_days_note": "{{name}} picks the days that suit them.",
       "preview_eyebrow": "How {{name}} will see it",
@@ -576,7 +576,8 @@
       "replace_game_drop_title": "Drop the mini-game?",
       "replace_game_drop_body": "“{{next}}” is not a mini-game, so this step would stop opening “{{current}}” and become written instructions, with the card's title and words in the fields.",
       "replace_game_drop_confirm": "Drop it",
-      "start_now_consequence_none": "{{current}} closes early. You can assign it again later."
+      "start_now_consequence_none": "{{current}} closes early. You can assign it again later.",
+      "their_caregiver": "their caregiver"
     },
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",
@@ -1174,7 +1175,8 @@
       "question": "What is this path for?",
       "label": "Condition",
       "required": "Choose a condition to start",
-      "none": "No condition set"
+      "none": "No condition set",
+      "effect": "The exercise library opens on this condition."
     },
     "intro_video_open": "Open the introduction",
     "intro_video_title": "Introduction",
@@ -1226,7 +1228,8 @@
         "superheroes": "Superheroes"
       },
       "section": "Pictures",
-      "required": "Pick at least one picture for this step."
+      "required": "Pick at least one picture for this step.",
+      "change": "Change pictures"
     },
     "judgment": {
       "title": "How did it go?",
@@ -1324,6 +1327,43 @@
       "save_failed": "Could not save. Try again.",
       "editor_title": "Aids for {{step}}",
       "retire_confirm": "Remove"
+    },
+    "builder": {
+      "document_title": "Build a path",
+      "title": "{{name}}'s path",
+      "subtitle": "The goals and steps, and the step you are writing.",
+      "outline_label": "Goals and steps",
+      "no_goals": "Every step lands in a goal. Add one to start.",
+      "goal_placeholder": "Name this goal",
+      "move_goal_up": "Move {{title}} up",
+      "move_goal_down": "Move {{title}} down",
+      "move_step_up": "Move {{title}} up",
+      "move_step_down": "Move {{title}} down",
+      "untitled_step": "Untitled step",
+      "add_step": "Add a step",
+      "add_step_to": "Add a step to {{title}}",
+      "placeholder_empty": "Add a step to a goal, and write it here.",
+      "placeholder_edit": "Pick a step to change it, or add another.",
+      "placeholder_live": "Choose a goal to add a step to it.",
+      "status_current": "Now",
+      "status_done": "Done",
+      "back_to_path": "Back to the path",
+      "save_step": "Save step",
+      "live_note": "A step you add here reaches {{name}}'s path straight away.",
+      "back_to_step": "Back to the step",
+      "left_no_steps": "Add a step",
+      "left_goal_name": "Goal {{position}}: add a name",
+      "left_step": "{{step}}: add {{needs}}",
+      "left_need_title": "a title",
+      "left_need_text": "what {{name}} reads",
+      "left_need_dose": "a dose",
+      "left_need_pictures": "pictures",
+      "left_more_one": "And {{count}} more.",
+      "left_more_other": "And {{count}} more.",
+      "step_incomplete": "Not finished",
+      "left_title_one": "{{count}} thing to finish before you assign",
+      "left_title_other": "{{count}} things to finish before you assign",
+      "goal_numbered": "Goal {{position}}"
     }
   },
   "questionnaire": {
@@ -1555,7 +1595,8 @@
       "phrase": "Phrase",
       "sentence": "Sentence",
       "conversation": "Conversation"
-    }
+    },
+    "use_for_step": "Use for this step"
   },
   "go_to_practice": "Go to my practice",
   "no_data": "No data",

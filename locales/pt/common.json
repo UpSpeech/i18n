@@ -525,7 +525,7 @@
       "dose_helper": "Quanta prática, durante quanto tempo.",
       "goal_label": "Pertence ao objetivo",
       "goal_name_required": "Dá um nome ao novo objetivo",
-      "max_per_session": "Máximo por sessão",
+      "max_per_session": "Minutos por sessão, no máximo",
       "minutes_value": "{{count}} min",
       "new_goal": "Começar um novo objetivo",
       "new_goal_helper": "{{name}} também lê isto.",
@@ -534,7 +534,7 @@
       "pill_minutes": "até {{count}} min",
       "pill_times": "{{count}}× por semana",
       "placement_label": "Quando é que isto começa",
-      "plan_window": "Janela do plano",
+      "plan_window": "Semanas para praticar",
       "preview_days": "Que dias te dão jeito?",
       "preview_days_note": "{{name}} escolhe os dias que lhe dão jeito.",
       "preview_eyebrow": "Como {{name}} vai ver",
@@ -576,7 +576,8 @@
       "replace_game_drop_title": "Largar o mini-jogo?",
       "replace_game_drop_body": "“{{next}}” não é um mini-jogo, por isso este passo deixaria de abrir “{{current}}” e passaria a ser instruções escritas, com o título e as palavras do cartão nos campos.",
       "replace_game_drop_confirm": "Largar",
-      "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde."
+      "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde.",
+      "their_caregiver": "o cuidador"
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
@@ -1174,7 +1175,8 @@
       "question": "Para que é este percurso?",
       "label": "Condição",
       "required": "Escolhe uma condição para começar",
-      "none": "Sem condição definida"
+      "none": "Sem condição definida",
+      "effect": "A biblioteca de exercícios abre já nesta condição."
     },
     "intro_video_open": "Abrir a introdução",
     "intro_video_title": "Introdução",
@@ -1226,7 +1228,8 @@
         "superheroes": "Super-heróis"
       },
       "section": "Imagens",
-      "required": "Escolhe pelo menos uma imagem para este passo."
+      "required": "Escolhe pelo menos uma imagem para este passo.",
+      "change": "Mudar imagens"
     },
     "judgment": {
       "title": "Como correu?",
@@ -1324,6 +1327,43 @@
       "save_failed": "Não foi possível guardar. Tenta outra vez.",
       "editor_title": "Ajudas para {{step}}",
       "retire_confirm": "Retirar"
+    },
+    "builder": {
+      "document_title": "Construir um percurso",
+      "title": "Percurso de {{name}}",
+      "subtitle": "Os objetivos e os passos, e o passo que estás a escrever.",
+      "outline_label": "Objetivos e passos",
+      "no_goals": "Cada passo fica num objetivo. Adiciona um para começar.",
+      "goal_placeholder": "Dá um nome a este objetivo",
+      "move_goal_up": "Subir {{title}}",
+      "move_goal_down": "Descer {{title}}",
+      "move_step_up": "Subir {{title}}",
+      "move_step_down": "Descer {{title}}",
+      "untitled_step": "Passo sem título",
+      "add_step": "Adicionar um passo",
+      "add_step_to": "Adicionar um passo a {{title}}",
+      "placeholder_empty": "Adiciona um passo a um objetivo e escreve-o aqui.",
+      "placeholder_edit": "Escolhe um passo para o alterar, ou adiciona outro.",
+      "placeholder_live": "Escolhe um objetivo para lhe adicionar um passo.",
+      "status_current": "Agora",
+      "status_done": "Feito",
+      "back_to_path": "Voltar ao percurso",
+      "save_step": "Guardar passo",
+      "live_note": "Um passo que adiciones aqui entra logo no percurso de {{name}}.",
+      "back_to_step": "Voltar ao passo",
+      "left_no_steps": "Adiciona um passo",
+      "left_goal_name": "Objetivo {{position}}: falta um nome",
+      "left_step": "{{step}}: falta {{needs}}",
+      "left_need_title": "um título",
+      "left_need_text": "o que {{name}} lê",
+      "left_need_dose": "uma dose",
+      "left_need_pictures": "imagens",
+      "left_more_one": "E mais {{count}}.",
+      "left_more_other": "E mais {{count}}.",
+      "step_incomplete": "Por terminar",
+      "left_title_one": "Falta {{count}} coisa antes de atribuir",
+      "left_title_other": "Faltam {{count}} coisas antes de atribuir",
+      "goal_numbered": "Objetivo {{position}}"
     }
   },
   "questionnaire": {
@@ -1555,7 +1595,8 @@
       "phrase": "Frase curta",
       "sentence": "Frase",
       "conversation": "Conversa"
-    }
+    },
+    "use_for_step": "Usar neste passo"
   },
   "go_to_practice": "Ir para a minha prática",
   "no_data": "Sem dados",
