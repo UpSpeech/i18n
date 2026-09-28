@@ -159,7 +159,7 @@
     "messages_unread": "Mensagens, {{count}} por ler",
     "gated_tooltip": "Conclui a avaliação para continuar",
     "game_catalogue": "Catálogo de exercícios",
-    "resource_library": "Biblioteca de recursos"
+    "resource_library": "Imagens"
   },
   "caregiver_ask": {
     "subtitle": "Dúvidas sobre praticar em casa, respondidas com material para pais",
@@ -510,7 +510,7 @@
     "pilot_accounts": "Contas Piloto",
     "invites": "Convites",
     "game_catalogue": "Catálogo de exercícios",
-    "resource_library": "Biblioteca de recursos"
+    "resource_library": "Imagens"
   },
   "learning_path": {
     "composer": {
@@ -576,7 +576,8 @@
       "replace_game_drop_title": "Largar o mini-jogo?",
       "replace_game_drop_body": "“{{next}}” não é um mini-jogo, por isso este passo deixaria de abrir “{{current}}” e passaria a ser instruções escritas, com o título e as palavras do cartão nos campos.",
       "replace_game_drop_confirm": "Largar",
-      "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde."
+      "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde.",
+      "their_caregiver": "o cuidador"
     },
     "dashboard_title": "Percursos de Aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere as jornadas terapêuticas dos teus pacientes",
@@ -1227,7 +1228,8 @@
         "superheroes": "Super-heróis"
       },
       "section": "Imagens",
-      "required": "Escolhe pelo menos uma imagem para este passo."
+      "required": "Escolhe pelo menos uma imagem para este passo.",
+      "change": "Mudar imagens"
     },
     "judgment": {
       "title": "Como correu?",
@@ -1352,7 +1354,8 @@
       "status_done": "Feito",
       "back_to_path": "Voltar ao percurso",
       "save_step": "Guardar passo",
-      "live_note": "Um passo que adiciones aqui entra logo no percurso de {{name}}."
+      "live_note": "Um passo que adiciones aqui entra logo no percurso de {{name}}.",
+      "back_to_step": "Voltar ao passo"
     }
   },
   "questionnaire": {

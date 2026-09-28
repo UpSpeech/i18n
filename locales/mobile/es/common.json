@@ -1897,5 +1897,6 @@
   "aids_saved": "Ayudas guardadas",
   "aids_processing_badge": "Preparando",
   "journey_next_step": "Lo siguiente: {{title}}",
-  "journey_from_therapist": "De tu terapeuta"
+  "journey_from_therapist": "De tu terapeuta",
+  "path_composer_their_caregiver": "su cuidador"
 }
