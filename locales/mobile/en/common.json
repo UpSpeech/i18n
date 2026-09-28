@@ -1891,5 +1891,6 @@
   "aids_image_alt": "{{title}}, image",
   "aids_saving": "Saving",
   "aids_saved": "Aids saved",
-  "aids_processing_badge": "Preparing"
+  "aids_processing_badge": "Preparing",
+  "exercise_technique_practice_instructions": "Say it out loud, in your own words."
 }
