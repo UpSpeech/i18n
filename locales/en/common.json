@@ -1083,8 +1083,8 @@
       "back": "Back to the three ways in",
       "template_default": "Where most patients start",
       "scratch_applied": "Path started",
-      "template_count_one": "{{count}} saved in your clinic",
-      "template_count_other": "{{count}} saved in your clinic"
+      "template_count_one": "{{count}} saved",
+      "template_count_other": "{{count}} saved"
     },
     "practice_days_title": "Which days suit you?",
     "practice_days_any": "Pick the days that suit you.",

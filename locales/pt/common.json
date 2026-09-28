@@ -1083,8 +1083,8 @@
       "back": "Voltar às três formas de começar",
       "template_default": "Onde a maioria dos pacientes começa",
       "scratch_applied": "Percurso começado",
-      "template_count_one": "{{count}} guardado na tua clínica",
-      "template_count_other": "{{count}} guardados na tua clínica"
+      "template_count_one": "{{count}} guardado",
+      "template_count_other": "{{count}} guardados"
     },
     "practice_days_title": "Que dias te dão jeito?",
     "practice_days_any": "Escolhe os dias que te dão jeito.",
