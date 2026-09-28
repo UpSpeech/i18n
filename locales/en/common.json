@@ -1330,7 +1330,30 @@
       "retire_confirm": "Remove"
     },
     "next_step": "Next: {{title}}",
-    "from_therapist": "From your therapist"
+    "from_therapist": "From your therapist",
+    "builder": {
+      "document_title": "Build a path",
+      "title": "{{name}}'s path",
+      "subtitle": "The goals and steps, and the step you are writing.",
+      "outline_label": "Goals and steps",
+      "no_goals": "Every step lands in a goal. Add one to start.",
+      "goal_placeholder": "Name this goal",
+      "move_goal_up": "Move {{title}} up",
+      "move_goal_down": "Move {{title}} down",
+      "move_step_up": "Move {{title}} up",
+      "move_step_down": "Move {{title}} down",
+      "untitled_step": "Untitled step",
+      "add_step": "Add a step",
+      "add_step_to": "Add a step to {{title}}",
+      "placeholder_empty": "Add a step to a goal, and write it here.",
+      "placeholder_edit": "Pick a step to change it, or add another.",
+      "placeholder_live": "Choose a goal to add a step to it.",
+      "status_current": "Now",
+      "status_done": "Done",
+      "back_to_path": "Back to the path",
+      "save_step": "Save step",
+      "live_note": "A step you add here reaches {{name}}'s path straight away."
+    }
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
