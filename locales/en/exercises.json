@@ -1094,5 +1094,8 @@
       "picked_snake": "You picked the snake: prolongation.",
       "picked_bear": "You picked the bear: block."
     }
+  },
+  "technique_practice": {
+    "default_instructions": "Say it out loud, in your own words."
   }
 }

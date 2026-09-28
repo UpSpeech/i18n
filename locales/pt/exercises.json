@@ -1094,5 +1094,8 @@
       "picked_snake": "Escolheste a cobra: prolongamento.",
       "picked_bear": "Escolheste o urso: bloqueio."
     }
+  },
+  "technique_practice": {
+    "default_instructions": "Diz em voz alta, pelas tuas palavras."
   }
 }
