@@ -1356,9 +1356,8 @@
       "save_step": "Guardar paso",
       "live_note": "Un paso que añadas aquí entra en la ruta de {{name}} al momento.",
       "back_to_step": "Volver al paso",
-      "left_title": "Antes de asignar",
       "left_no_steps": "Añade un paso",
-      "left_goal_name": "Ponle nombre al objetivo {{position}}",
+      "left_goal_name": "Objetivo {{position}}: falta un nombre",
       "left_step": "{{step}}: falta {{needs}}",
       "left_need_title": "un título",
       "left_need_text": "lo que lee {{name}}",
@@ -1366,7 +1365,10 @@
       "left_need_pictures": "imágenes",
       "left_more_one": "Y {{count}} más.",
       "left_more_other": "Y {{count}} más.",
-      "step_incomplete": "Sin terminar"
+      "step_incomplete": "Sin terminar",
+      "left_title_one": "Falta {{count}} cosa antes de asignar",
+      "left_title_other": "Faltan {{count}} cosas antes de asignar",
+      "goal_numbered": "Objetivo {{position}}"
     }
   },
   "questionnaire": {
