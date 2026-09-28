@@ -83,7 +83,7 @@
         "assign_exercise": "Assign a learning path",
         "assign_exercise_description": "Set your patient's therapy journey",
         "explore_library": "Discover exercises",
-        "explore_library_description": "Browse available exercises and mini-games"
+        "explore_library_description": "Find games and premade tasks, and the pictures that go with them"
       }
     },
     "pilot": {
@@ -226,11 +226,13 @@
         },
         "library": {
           "grid_title": "Exercise Library",
-          "grid_content": "Browse all available exercises organised by category.",
-          "card_title": "Exercise Details",
-          "card_content": "Click to preview an exercise or assign it to a patient.",
+          "grid_content": "Games and premade tasks for your patients. Anything here can go into a patient's learning path.",
           "filters_title": "Filter & Search",
-          "filters_content": "Filter by type or search to find the right exercise quickly."
+          "filters_content": "Narrow the list by condition, age and level, or search for a word.",
+          "card_title": "Try it first",
+          "card_content": "Preview plays an exercise exactly as your patient sees it, and saves nothing. To give it to a patient, add it from their learning path.",
+          "resources_title": "Resource library",
+          "resources_content": "The pictures that give an exercise its context, like a landscape your patient describes while using a technique. Upload your own or choose from the ones UpSpeech provides."
         }
       },
       "admin": {

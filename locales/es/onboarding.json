@@ -83,7 +83,7 @@
         "assign_exercise": "Asigna una ruta de aprendizaje",
         "assign_exercise_description": "Define el camino terapéutico de tu paciente",
         "explore_library": "Descubre ejercicios",
-        "explore_library_description": "Navega por los ejercicios y juegos disponibles"
+        "explore_library_description": "Encuentra juegos y tareas preparadas, y las imágenes que los acompañan"
       }
     },
     "pilot": {
@@ -226,11 +226,13 @@
         },
         "library": {
           "grid_title": "Biblioteca de Ejercicios",
-          "grid_content": "Navega por todos los ejercicios disponibles organizados por categoría.",
-          "card_title": "Detalles del Ejercicio",
-          "card_content": "Haz clic para previsualizar un ejercicio o asignarlo a un paciente.",
+          "grid_content": "Juegos y tareas preparadas para tus pacientes. Todo lo que hay aquí puede entrar en la ruta de aprendizaje de un paciente.",
           "filters_title": "Filtrar y Buscar",
-          "filters_content": "Filtra por tipo o busca para encontrar el ejercicio adecuado rápidamente."
+          "filters_content": "Acota la lista por condición, edad y nivel, o busca una palabra.",
+          "card_title": "Pruébalo primero",
+          "card_content": "La vista previa muestra el ejercicio tal como lo ve tu paciente, sin guardar nada. Para dárselo a un paciente, añádelo desde su ruta de aprendizaje.",
+          "resources_title": "Biblioteca de recursos",
+          "resources_content": "Las imágenes que dan contexto a un ejercicio, como un paisaje que tu paciente describe mientras usa una técnica. Sube las tuyas o elige entre las que ofrece UpSpeech."
         }
       },
       "admin": {
