@@ -1130,6 +1130,7 @@
       "plan_actions": "Ações do plano"
     },
     "step_occurrence": "Tentativa {{n}} de {{total}}",
+    "step_round": "Volta {{n}} de {{total}}",
     "gate": {
       "no_goals_title": "Ainda sem objetivos",
       "no_goals_description": "Um objetivo é aquilo para que uma série de passos trabalha. Dá nome ao primeiro e acrescenta passos por baixo.",

@@ -1130,6 +1130,7 @@
       "plan_actions": "Plan actions"
     },
     "step_occurrence": "Attempt {{n}} of {{total}}",
+    "step_round": "Round {{n}} of {{total}}",
     "gate": {
       "no_goals_title": "No goals yet",
       "no_goals_description": "A goal is what a run of steps is working towards. Name the first one and add steps under it.",
