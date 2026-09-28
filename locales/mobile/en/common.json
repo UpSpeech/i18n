@@ -1903,5 +1903,6 @@
   "aids_processing_badge": "Preparing",
   "journey_next_step": "Next: {{title}}",
   "journey_from_therapist": "From your therapist",
-  "path_composer_their_caregiver": "their caregiver"
+  "path_composer_their_caregiver": "their caregiver",
+  "exercise_technique_practice_instructions": "Say it out loud, in your own words."
 }
