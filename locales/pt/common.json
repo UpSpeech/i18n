@@ -1059,7 +1059,7 @@
       "title": "Começar o percurso",
       "subtitle": "Comeces como começares, podes reorganizar tudo o que ele ainda não alcançou.",
       "template": "Começar de um modelo",
-      "template_help": "O percurso padrão, ou um que guardaste de outro paciente.",
+      "template_help": "Um percurso guardado para começar.",
       "template_action": "Escolher um",
       "template_size": "{{goals}} objetivos, {{steps}} passos",
       "template_applied": "Percurso começado a partir de {{name}}",
@@ -1082,7 +1082,9 @@
       "template_steps_other": "{{count}} passos",
       "back": "Voltar às três formas de começar",
       "template_default": "Onde a maioria dos pacientes começa",
-      "scratch_applied": "Percurso começado"
+      "scratch_applied": "Percurso começado",
+      "template_count_one": "{{count}} guardado",
+      "template_count_other": "{{count}} guardados"
     },
     "practice_days_title": "Que dias te dão jeito?",
     "practice_days_any": "Escolhe os dias que te dão jeito.",
@@ -1176,7 +1178,8 @@
       "question": "Para que é este percurso?",
       "label": "Condição",
       "required": "Escolhe uma condição para começar",
-      "none": "Sem condição definida"
+      "none": "Sem condição definida",
+      "effect": "A biblioteca de exercícios abre já nesta condição."
     },
     "intro_video_open": "Abrir a introdução",
     "intro_video_title": "Introdução",

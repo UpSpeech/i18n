@@ -1059,7 +1059,7 @@
       "title": "Empezar su ruta",
       "subtitle": "Empieces como empieces, puedes reorganizar todo lo que aún no haya alcanzado.",
       "template": "Empezar desde una plantilla",
-      "template_help": "La ruta estándar, o una que guardaste de otro paciente.",
+      "template_help": "Una ruta guardada para empezar.",
       "template_action": "Elegir una",
       "template_size": "{{goals}} objetivos, {{steps}} pasos",
       "template_applied": "Ruta empezada a partir de {{name}}",
@@ -1082,7 +1082,9 @@
       "template_steps_other": "{{count}} pasos",
       "back": "Volver a las tres formas de empezar",
       "template_default": "Donde empieza la mayoría de los pacientes",
-      "scratch_applied": "Ruta iniciada"
+      "scratch_applied": "Ruta iniciada",
+      "template_count_one": "{{count}} guardada",
+      "template_count_other": "{{count}} guardadas"
     },
     "practice_days_title": "¿Qué días te vienen bien?",
     "practice_days_any": "Elige los días que te vengan bien.",
@@ -1176,7 +1178,8 @@
       "question": "¿Para qué es esta ruta?",
       "label": "Condición",
       "required": "Elige una condición para empezar",
-      "none": "Sin condición definida"
+      "none": "Sin condición definida",
+      "effect": "La biblioteca de ejercicios se abre con esta condición."
     },
     "intro_video_open": "Abrir la introducción",
     "intro_video_title": "Introducción",
