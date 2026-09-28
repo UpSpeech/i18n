@@ -525,7 +525,7 @@
       "dose_helper": "Cuánta práctica, durante cuánto tiempo.",
       "goal_label": "Pertenece al objetivo",
       "goal_name_required": "Dale un nombre al nuevo objetivo",
-      "max_per_session": "Máximo por sesión",
+      "max_per_session": "Minutos por sesión, como máximo",
       "minutes_value": "{{count}} min",
       "new_goal": "Empezar un objetivo nuevo",
       "new_goal_helper": "{{name}} también lee esto.",
@@ -534,7 +534,7 @@
       "pill_minutes": "hasta {{count}} min",
       "pill_times": "{{count}}× por semana",
       "placement_label": "Cuándo empieza esto",
-      "plan_window": "Ventana del plan",
+      "plan_window": "Semanas para practicarlo",
       "preview_days": "¿Qué días te vienen bien?",
       "preview_days_note": "{{name}} elige los días que le vienen bien.",
       "preview_eyebrow": "Cómo lo verá {{name}}",
@@ -576,7 +576,8 @@
       "replace_game_drop_title": "¿Quitar el minijuego?",
       "replace_game_drop_body": "«{{next}}» no es un minijuego, así que este paso dejaría de abrir «{{current}}» y pasaría a ser instrucciones escritas, con el título y las palabras de la tarjeta en los campos.",
       "replace_game_drop_confirm": "Quitarlo",
-      "start_now_consequence_none": "{{current}} se cierra antes. Puedes asignarlo otra vez más tarde."
+      "start_now_consequence_none": "{{current}} se cierra antes. Puedes asignarlo otra vez más tarde.",
+      "their_caregiver": "su cuidador"
     },
     "dashboard_title": "Rutas de Aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona los recorridos terapéuticos de tus pacientes",
@@ -1174,7 +1175,8 @@
       "question": "¿Para qué es esta ruta?",
       "label": "Condición",
       "required": "Elige una condición para empezar",
-      "none": "Sin condición definida"
+      "none": "Sin condición definida",
+      "effect": "La biblioteca de ejercicios se abre con esta condición."
     },
     "intro_video_open": "Abrir la introducción",
     "intro_video_title": "Introducción",
@@ -1226,7 +1228,8 @@
         "superheroes": "Superhéroes"
       },
       "section": "Imágenes",
-      "required": "Elige al menos una imagen para este paso."
+      "required": "Elige al menos una imagen para este paso.",
+      "change": "Cambiar imágenes"
     },
     "judgment": {
       "title": "¿Cómo fue?",
@@ -1329,7 +1332,44 @@
       "retire_confirm": "Quitar"
     },
     "next_step": "Lo siguiente: {{title}}",
-    "from_therapist": "De tu terapeuta"
+    "from_therapist": "De tu terapeuta",
+    "builder": {
+      "document_title": "Construir una ruta",
+      "title": "Ruta de {{name}}",
+      "subtitle": "Los objetivos y los pasos, y el paso que estás escribiendo.",
+      "outline_label": "Objetivos y pasos",
+      "no_goals": "Cada paso va en un objetivo. Añade uno para empezar.",
+      "goal_placeholder": "Ponle nombre a este objetivo",
+      "move_goal_up": "Subir {{title}}",
+      "move_goal_down": "Bajar {{title}}",
+      "move_step_up": "Subir {{title}}",
+      "move_step_down": "Bajar {{title}}",
+      "untitled_step": "Paso sin título",
+      "add_step": "Añadir un paso",
+      "add_step_to": "Añadir un paso a {{title}}",
+      "placeholder_empty": "Añade un paso a un objetivo y escríbelo aquí.",
+      "placeholder_edit": "Elige un paso para cambiarlo, o añade otro.",
+      "placeholder_live": "Elige un objetivo para añadirle un paso.",
+      "status_current": "Ahora",
+      "status_done": "Hecho",
+      "back_to_path": "Volver a la ruta",
+      "save_step": "Guardar paso",
+      "live_note": "Un paso que añadas aquí entra en la ruta de {{name}} al momento.",
+      "back_to_step": "Volver al paso",
+      "left_no_steps": "Añade un paso",
+      "left_goal_name": "Objetivo {{position}}: falta un nombre",
+      "left_step": "{{step}}: falta {{needs}}",
+      "left_need_title": "un título",
+      "left_need_text": "lo que lee {{name}}",
+      "left_need_dose": "una dosis",
+      "left_need_pictures": "imágenes",
+      "left_more_one": "Y {{count}} más.",
+      "left_more_other": "Y {{count}} más.",
+      "step_incomplete": "Sin terminar",
+      "left_title_one": "Falta {{count}} cosa antes de asignar",
+      "left_title_other": "Faltan {{count}} cosas antes de asignar",
+      "goal_numbered": "Objetivo {{position}}"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -1560,7 +1600,8 @@
       "phrase": "Frase corta",
       "sentence": "Oración",
       "conversation": "Conversación"
-    }
+    },
+    "use_for_step": "Usar en este paso"
   },
   "go_to_practice": "Ir a mi práctica",
   "no_data": "Sin datos",
