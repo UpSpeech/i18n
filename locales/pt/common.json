@@ -1214,7 +1214,13 @@
         "which_speech_pre": "Que fala, pré-escolar",
         "feather_rock": "Pena ou rocha",
         "repetition_length": "Duração das repetições",
-        "describe": "Imagens para descrever"
+        "describe": "Imagens para descrever",
+        "cars": "Carros",
+        "trains": "Comboios",
+        "pirates": "Piratas",
+        "dinosaurs": "Dinossauros",
+        "space": "Espaço",
+        "superheroes": "Super-heróis"
       },
       "section": "Imagens",
       "required": "Escolhe pelo menos uma imagem para este passo."
@@ -1576,8 +1582,8 @@
     "count_other": "{{count}} imagens",
     "empty_filtered": "Nenhuma imagem corresponde a estes filtros.",
     "clear_filters": "Limpar filtros",
-    "upload_for": "Para que exercício é?",
-    "choose_exercise": "Escolhe um exercício",
+    "upload_interests": "Com que interesses se relaciona?",
+    "upload_interests_hint": "Escolhe todos os que se aplicam. O exercício escolhes ao atribuí-la.",
     "choose_file": "Escolher uma imagem",
     "curated": "UpSpeech"
   }
