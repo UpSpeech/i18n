@@ -1214,7 +1214,13 @@
         "which_speech_pre": "Which speech, pre-school",
         "feather_rock": "Feather or rock",
         "repetition_length": "Repetition length",
-        "describe": "Pictures to describe"
+        "describe": "Pictures to describe",
+        "cars": "Cars",
+        "trains": "Trains",
+        "pirates": "Pirates",
+        "dinosaurs": "Dinosaurs",
+        "space": "Space",
+        "superheroes": "Superheroes"
       },
       "section": "Pictures",
       "required": "Pick at least one picture for this step."
@@ -1573,8 +1579,8 @@
     "count_other": "{{count}} pictures",
     "empty_filtered": "No pictures match these filters.",
     "clear_filters": "Clear filters",
-    "upload_for": "Which exercise is it for?",
-    "choose_exercise": "Choose an exercise",
+    "upload_interests": "What interests does it relate to?",
+    "upload_interests_hint": "Pick as many as fit. You choose which exercise it goes in when you assign it.",
     "choose_file": "Choose a picture",
     "curated": "UpSpeech"
   }
