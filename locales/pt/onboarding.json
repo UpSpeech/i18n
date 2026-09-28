@@ -151,8 +151,8 @@
         "intro": "Vou mostrar-te a aplicação. Cerca de um minuto, e podes parar quando quiseres.",
         "intro_plain": "Cerca de um minuto, e podes parar quando quiseres.",
         "dashboard": {
-          "exercise_title": "Exercício de Hoje",
-          "exercise_content": "Este é o teu exercício diário. Começa aqui todos os dias para continuares a melhorar.",
+          "exercise_title": "Hoje",
+          "exercise_content": "O que praticar hoje e como vai a tua semana. Começa aqui.",
           "stats_title": "O Teu Progresso",
           "stats_content": "A tua taxa de conclusão e a tua sequência, atualizadas depois de cada prática.",
           "weekly_title": "Comparação Semanal",

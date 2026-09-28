@@ -151,8 +151,8 @@
         "intro": "I'll show you around. About a minute, and you can stop any time.",
         "intro_plain": "About a minute, and you can stop any time.",
         "dashboard": {
-          "exercise_title": "Today's Exercise",
-          "exercise_content": "This is your daily exercise. Start here each day to keep building your skills.",
+          "exercise_title": "Today",
+          "exercise_content": "What to practise today and how your week is going. Start here.",
           "stats_title": "Your progress",
           "stats_content": "Your completion rate and your streak, updated after each practice.",
           "weekly_title": "Weekly Comparison",

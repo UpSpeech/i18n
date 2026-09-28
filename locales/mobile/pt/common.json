@@ -1895,5 +1895,7 @@
   "aids_image_alt": "{{title}}, imagem",
   "aids_saving": "A guardar",
   "aids_saved": "Ajudas guardadas",
-  "aids_processing_badge": "A preparar"
+  "aids_processing_badge": "A preparar",
+  "journey_next_step": "A seguir: {{title}}",
+  "journey_from_therapist": "Do teu terapeuta"
 }

@@ -1327,7 +1327,9 @@
       "save_failed": "No se pudo guardar. Vuelve a intentarlo.",
       "editor_title": "Ayudas para {{step}}",
       "retire_confirm": "Quitar"
-    }
+    },
+    "next_step": "Lo siguiente: {{title}}",
+    "from_therapist": "De tu terapeuta"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
