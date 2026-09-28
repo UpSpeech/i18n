@@ -1355,7 +1355,18 @@
       "back_to_path": "Back to the path",
       "save_step": "Save step",
       "live_note": "A step you add here reaches {{name}}'s path straight away.",
-      "back_to_step": "Back to the step"
+      "back_to_step": "Back to the step",
+      "left_title": "Before you assign",
+      "left_no_steps": "Add a step",
+      "left_goal_name": "Name goal {{position}}",
+      "left_step": "{{step}}: add {{needs}}",
+      "left_need_title": "a title",
+      "left_need_text": "what {{name}} reads",
+      "left_need_dose": "a dose",
+      "left_need_pictures": "pictures",
+      "left_more_one": "And {{count}} more.",
+      "left_more_other": "And {{count}} more.",
+      "step_incomplete": "Not finished"
     }
   },
   "questionnaire": {

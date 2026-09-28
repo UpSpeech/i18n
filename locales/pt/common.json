@@ -1355,7 +1355,18 @@
       "back_to_path": "Voltar ao percurso",
       "save_step": "Guardar passo",
       "live_note": "Um passo que adiciones aqui entra logo no percurso de {{name}}.",
-      "back_to_step": "Voltar ao passo"
+      "back_to_step": "Voltar ao passo",
+      "left_title": "Antes de atribuir",
+      "left_no_steps": "Adiciona um passo",
+      "left_goal_name": "Dá um nome ao objetivo {{position}}",
+      "left_step": "{{step}}: falta {{needs}}",
+      "left_need_title": "um título",
+      "left_need_text": "o que {{name}} lê",
+      "left_need_dose": "uma dose",
+      "left_need_pictures": "imagens",
+      "left_more_one": "E mais {{count}}.",
+      "left_more_other": "E mais {{count}}.",
+      "step_incomplete": "Por terminar"
     }
   },
   "questionnaire": {
