@@ -31,10 +31,10 @@
   "back_to_patients": "Back to Patients",
   "habit": {
     "weekly_volume_title": "This Week",
-    "sessions_this_week": "Sessions",
-    "avg_session_minutes": "Avg session",
+    "sessions_this_week": "Practices",
+    "avg_session_minutes": "Avg practice",
     "total_minutes_this_week": "Total time",
     "standalone_practice": "Standalone practice",
-    "volume_info": "Short, frequent sessions build stronger neural pathways than long, spaced ones."
+    "volume_info": "Short, frequent practice builds stronger neural pathways than long, spaced-out practice."
   }
 }

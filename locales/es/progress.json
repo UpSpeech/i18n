@@ -31,10 +31,10 @@
   "back_to_patients": "Volver a Pacientes",
   "habit": {
     "weekly_volume_title": "Esta Semana",
-    "sessions_this_week": "Sesiones",
-    "avg_session_minutes": "Sesión promedio",
+    "sessions_this_week": "Prácticas",
+    "avg_session_minutes": "Práctica promedio",
     "total_minutes_this_week": "Tiempo total",
     "standalone_practice": "Práctica independiente",
-    "volume_info": "Las sesiones cortas y frecuentes construyen vías neurales más sólidas que las sesiones largas y espaciadas."
+    "volume_info": "Practicar poco y a menudo construye vías neurales más sólidas que practicar mucho de vez en cuando."
   }
 }
