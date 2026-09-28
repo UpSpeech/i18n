@@ -1059,7 +1059,7 @@
       "title": "Start their path",
       "subtitle": "However you start, you can rearrange anything they have not reached yet.",
       "template": "Start from a template",
-      "template_help": "A saved path to start from.",
+      "template_help": "The standard path, or one you saved from another patient.",
       "template_action": "Choose one",
       "template_size": "{{goals}} goals, {{steps}} steps",
       "template_applied": "Path started from {{name}}",
@@ -1082,9 +1082,7 @@
       "template_steps_other": "{{count}} steps",
       "back": "Back to the three ways in",
       "template_default": "Where most patients start",
-      "scratch_applied": "Path started",
-      "template_count_one": "{{count}} saved",
-      "template_count_other": "{{count}} saved"
+      "scratch_applied": "Path started"
     },
     "practice_days_title": "Which days suit you?",
     "practice_days_any": "Pick the days that suit you.",
