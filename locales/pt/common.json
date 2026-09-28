@@ -1330,7 +1330,30 @@
       "retire_confirm": "Retirar"
     },
     "next_step": "A seguir: {{title}}",
-    "from_therapist": "Do teu terapeuta"
+    "from_therapist": "Do teu terapeuta",
+    "builder": {
+      "document_title": "Construir um percurso",
+      "title": "Percurso de {{name}}",
+      "subtitle": "Os objetivos e os passos, e o passo que estás a escrever.",
+      "outline_label": "Objetivos e passos",
+      "no_goals": "Cada passo fica num objetivo. Adiciona um para começar.",
+      "goal_placeholder": "Dá um nome a este objetivo",
+      "move_goal_up": "Subir {{title}}",
+      "move_goal_down": "Descer {{title}}",
+      "move_step_up": "Subir {{title}}",
+      "move_step_down": "Descer {{title}}",
+      "untitled_step": "Passo sem título",
+      "add_step": "Adicionar um passo",
+      "add_step_to": "Adicionar um passo a {{title}}",
+      "placeholder_empty": "Adiciona um passo a um objetivo e escreve-o aqui.",
+      "placeholder_edit": "Escolhe um passo para o alterar, ou adiciona outro.",
+      "placeholder_live": "Escolhe um objetivo para lhe adicionar um passo.",
+      "status_current": "Agora",
+      "status_done": "Feito",
+      "back_to_path": "Voltar ao percurso",
+      "save_step": "Guardar passo",
+      "live_note": "Um passo que adiciones aqui entra logo no percurso de {{name}}."
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

@@ -1330,7 +1330,30 @@
       "retire_confirm": "Quitar"
     },
     "next_step": "Lo siguiente: {{title}}",
-    "from_therapist": "De tu terapeuta"
+    "from_therapist": "De tu terapeuta",
+    "builder": {
+      "document_title": "Construir una ruta",
+      "title": "Ruta de {{name}}",
+      "subtitle": "Los objetivos y los pasos, y el paso que estás escribiendo.",
+      "outline_label": "Objetivos y pasos",
+      "no_goals": "Cada paso va en un objetivo. Añade uno para empezar.",
+      "goal_placeholder": "Ponle nombre a este objetivo",
+      "move_goal_up": "Subir {{title}}",
+      "move_goal_down": "Bajar {{title}}",
+      "move_step_up": "Subir {{title}}",
+      "move_step_down": "Bajar {{title}}",
+      "untitled_step": "Paso sin título",
+      "add_step": "Añadir un paso",
+      "add_step_to": "Añadir un paso a {{title}}",
+      "placeholder_empty": "Añade un paso a un objetivo y escríbelo aquí.",
+      "placeholder_edit": "Elige un paso para cambiarlo, o añade otro.",
+      "placeholder_live": "Elige un objetivo para añadirle un paso.",
+      "status_current": "Ahora",
+      "status_done": "Hecho",
+      "back_to_path": "Volver a la ruta",
+      "save_step": "Guardar paso",
+      "live_note": "Un paso que añadas aquí entra en la ruta de {{name}} al momento."
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
