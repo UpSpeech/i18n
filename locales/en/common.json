@@ -166,7 +166,7 @@
     "messages_unread": "Messages, {{count}} unread",
     "gated_tooltip": "Complete the assessment to continue",
     "game_catalogue": "Exercise catalogue",
-    "resource_library": "Resource library"
+    "resource_library": "Pictures"
   },
   "caregiver_ask": {
     "subtitle": "Questions about practising at home, answered from material for parents",
@@ -510,7 +510,7 @@
     "pilot_accounts": "Pilot Accounts",
     "invites": "Invites",
     "game_catalogue": "Exercise catalogue",
-    "resource_library": "Resource library"
+    "resource_library": "Pictures"
   },
   "learning_path": {
     "composer": {
@@ -576,7 +576,8 @@
       "replace_game_drop_title": "Drop the mini-game?",
       "replace_game_drop_body": "“{{next}}” is not a mini-game, so this step would stop opening “{{current}}” and become written instructions, with the card's title and words in the fields.",
       "replace_game_drop_confirm": "Drop it",
-      "start_now_consequence_none": "{{current}} closes early. You can assign it again later."
+      "start_now_consequence_none": "{{current}} closes early. You can assign it again later.",
+      "their_caregiver": "their caregiver"
     },
     "dashboard_title": "Learning Paths",
     "dashboard_subtitle": "Monitor and manage your patients' therapy journeys",
@@ -1227,7 +1228,8 @@
         "superheroes": "Superheroes"
       },
       "section": "Pictures",
-      "required": "Pick at least one picture for this step."
+      "required": "Pick at least one picture for this step.",
+      "change": "Change pictures"
     },
     "judgment": {
       "title": "How did it go?",
@@ -1352,7 +1354,8 @@
       "status_done": "Done",
       "back_to_path": "Back to the path",
       "save_step": "Save step",
-      "live_note": "A step you add here reaches {{name}}'s path straight away."
+      "live_note": "A step you add here reaches {{name}}'s path straight away.",
+      "back_to_step": "Back to the step"
     }
   },
   "questionnaire": {
