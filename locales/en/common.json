@@ -25,6 +25,9 @@
     "sr_holding_target": "Holding for {{seconds}} seconds. {{elapsed}} elapsed.",
     "sr_released": "Released. Hold recorded."
   },
+  "scale_slider": {
+    "choose_prompt": "Choose a point on the line"
+  },
   "timer": {
     "of_target": "of {{target}}",
     "complete": "Well done!",

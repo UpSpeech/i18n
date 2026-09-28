@@ -25,6 +25,9 @@
     "sr_holding_target": "A manter durante {{seconds}} segundos. {{elapsed}} decorridos.",
     "sr_released": "Solto. Retenção gravada."
   },
+  "scale_slider": {
+    "choose_prompt": "Escolhe um ponto na linha"
+  },
   "timer": {
     "of_target": "de {{target}}",
     "complete": "Muito bem!",
