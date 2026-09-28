@@ -1742,6 +1742,7 @@
   "caregiver_session_done": "Grabación terminada",
   "caregiver_session_upload_failed": "La grabación no se ha enviado. Tu respuesta llega igualmente al terapeuta de {{child}}.",
   "caregiver_together_after": "Después, cuéntale al terapeuta de {{child}} cómo fue.",
+  "caregiver_together_hint": "Hazlo junto con {{child}} y luego cuéntale al terapeuta cómo fue.",
   "step_phase_start": "Empezar",
   "step_phase_back_to_overview": "Volver al resumen",
   "step_phase_watch_demo_again": "Ver la demostración otra vez",

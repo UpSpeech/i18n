@@ -1742,6 +1742,7 @@
   "caregiver_session_done": "Recording finished",
   "caregiver_session_upload_failed": "The recording did not send. Your answer still reaches {{child}}'s therapist.",
   "caregiver_together_after": "Afterwards, tell {{child}}'s therapist how it went.",
+  "caregiver_together_hint": "Do this together with {{child}}, then tell the therapist how it went.",
   "step_phase_start": "Start",
   "step_phase_back_to_overview": "Back to overview",
   "step_phase_watch_demo_again": "Watch the demo again",
