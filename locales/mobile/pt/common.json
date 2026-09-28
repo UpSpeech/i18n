@@ -1897,5 +1897,6 @@
   "aids_saved": "Ajudas guardadas",
   "aids_processing_badge": "A preparar",
   "journey_next_step": "A seguir: {{title}}",
-  "journey_from_therapist": "Do teu terapeuta"
+  "journey_from_therapist": "Do teu terapeuta",
+  "exercise_technique_practice_instructions": "Diz em voz alta, pelas tuas palavras."
 }

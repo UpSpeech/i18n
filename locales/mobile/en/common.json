@@ -1897,5 +1897,6 @@
   "aids_saved": "Aids saved",
   "aids_processing_badge": "Preparing",
   "journey_next_step": "Next: {{title}}",
-  "journey_from_therapist": "From your therapist"
+  "journey_from_therapist": "From your therapist",
+  "exercise_technique_practice_instructions": "Say it out loud, in your own words."
 }
