@@ -1896,5 +1896,6 @@
   "aids_image_alt": "{{title}}, imagen",
   "aids_saving": "Guardando",
   "aids_saved": "Ayudas guardadas",
-  "aids_processing_badge": "Preparando"
+  "aids_processing_badge": "Preparando",
+  "exercise_technique_practice_instructions": "Dilo en voz alta, con tus propias palabras."
 }
