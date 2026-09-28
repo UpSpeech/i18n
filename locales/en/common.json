@@ -1327,7 +1327,9 @@
       "save_failed": "Could not save. Try again.",
       "editor_title": "Aids for {{step}}",
       "retire_confirm": "Remove"
-    }
+    },
+    "next_step": "Next: {{title}}",
+    "from_therapist": "From your therapist"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
