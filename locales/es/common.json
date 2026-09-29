@@ -1436,7 +1436,8 @@
       "review_attempts": "Revisar intentos",
       "preview": "Vista previa",
       "since_date": "Desde el {{date}}",
-      "last_activity": "última actividad el {{date}}"
+      "last_activity": "última actividad el {{date}}",
+      "no_sessions_paused": "Sin sesiones mientras está en pausa"
     }
   },
   "questionnaire": {
