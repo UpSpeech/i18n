@@ -1435,7 +1435,6 @@
       "can_complete_later_hint": "{{name}} puede marcarlo como terminado cuando llegue.",
       "review_attempts": "Revisar intentos",
       "preview": "Vista previa",
-      "since_date": "Desde el {{date}}",
       "last_activity": "última actividad el {{date}}",
       "no_sessions_paused": "Sin sesiones mientras está en pausa"
     }

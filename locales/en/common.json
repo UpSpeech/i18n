@@ -1435,7 +1435,6 @@
       "can_complete_later_hint": "{{name}} can mark it complete once they reach it.",
       "review_attempts": "Review attempts",
       "preview": "Preview",
-      "since_date": "Since {{date}}",
       "last_activity": "last activity {{date}}",
       "no_sessions_paused": "No sessions while paused"
     }
