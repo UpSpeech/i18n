@@ -1381,7 +1381,6 @@
       "start_library": "Pick from the library",
       "start_library_hint": "Exercises and mini-games, ready to use. You can change the words after.",
       "start_write": "Write your own",
-      "aids": "Aids",
       "fixed_done_explained": "Fixed. {{name}} has finished this step, so it stays where it is and cannot be removed. You can still change its aids and exercises.",
       "fixed_practised_explained": "Fixed. {{name}} has already practised this step ({{count}} attempts), so it stays where it is and cannot be removed. You can still change its aids and exercises.",
       "goal_fixed": "Fixed: it has started",
@@ -1403,9 +1402,10 @@
       "exercise": "Exercise",
       "discard": "Discard",
       "step_saved": "Step saved",
-      "save_failed": "The step was not saved. Try again.",
       "discard_edits_title": "Discard your changes to this step?",
-      "discard_edits_body": "The step stays as it was saved."
+      "discard_edits_body": "The step stays as it was saved.",
+      "all_saved": "All changes saved",
+      "aids_not_saved": "The text was saved and the aids were not: {{reason}}"
     },
     "view": {
       "title": "Path",

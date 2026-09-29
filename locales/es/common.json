@@ -1381,7 +1381,6 @@
       "start_library": "Elegir de la biblioteca",
       "start_library_hint": "Ejercicios y minijuegos listos para usar. Puedes cambiar las palabras después.",
       "start_write": "Escribir desde cero",
-      "aids": "Ayudas",
       "fixed_done_explained": "Fijo. {{name}} ya terminó este paso, así que se queda donde está y no se puede quitar. Puedes cambiar sus ayudas y ejercicios.",
       "fixed_practised_explained": "Fijo. {{name}} ya practicó este paso ({{count}} intentos), así que se queda donde está y no se puede quitar. Puedes cambiar sus ayudas y ejercicios.",
       "goal_fixed": "Fijo: ya ha empezado",
@@ -1403,9 +1402,10 @@
       "exercise": "Ejercicio",
       "discard": "Descartar",
       "step_saved": "Paso guardado",
-      "save_failed": "El paso no se guardó. Inténtalo de nuevo.",
       "discard_edits_title": "¿Descartar los cambios en este paso?",
-      "discard_edits_body": "El paso se queda como estaba guardado."
+      "discard_edits_body": "El paso se queda como estaba guardado.",
+      "all_saved": "Todos los cambios guardados",
+      "aids_not_saved": "El texto se guardó y las ayudas no: {{reason}}"
     },
     "view": {
       "title": "Ruta",
