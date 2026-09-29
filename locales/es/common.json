@@ -1416,7 +1416,6 @@
       "this_week": "Esta semana",
       "no_days": "Sin días de práctica planificados",
       "done_of": "{{done}} de {{total}}",
-      "done_on": "Hecho el {{date}}",
       "done": "Hecho",
       "now": "Ahora",
       "up_next": "Por venir",
@@ -1435,7 +1434,9 @@
       "can_complete_later": "Puede terminar al llegar",
       "can_complete_later_hint": "{{name}} puede marcarlo como terminado cuando llegue.",
       "review_attempts": "Revisar intentos",
-      "preview": "Vista previa"
+      "preview": "Vista previa",
+      "since_date": "Desde el {{date}}",
+      "last_activity": "última actividad el {{date}}"
     }
   },
   "questionnaire": {
