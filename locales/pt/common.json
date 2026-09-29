@@ -1394,7 +1394,6 @@
       "state_not_started": "ainda não começado",
       "state_now": "agora",
       "state_practised": "praticado",
-      "step_fixed_practised": "Fixo: {{name}} já o praticou ({{count}} tentativas)",
       "step_meta": "Passo {{number}} · {{goal}} · {{state}}",
       "what_they_do": "O que {{name}} vai fazer",
       "current_not_removable": "{{name}} está neste passo agora, por isso não pode ser removido. Podes movê-lo e mudar as ajudas e os exercícios.",
