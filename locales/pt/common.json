@@ -311,7 +311,10 @@
         "sky": "Céu",
         "mint": "Menta"
       }
-    }
+    },
+    "companion_bar_title": "Barra do assistente",
+    "companion_bar_label": "Manter aberta em todas as páginas",
+    "companion_bar_description": "Desligada, fica só um botão pequeno no canto. A escolha acompanha-te em qualquer dispositivo onde entres."
   },
   "layout": {
     "open_sidebar": "Abrir menu lateral",
@@ -402,7 +405,10 @@
     "connection_failed": "Falha ao conectar ao serviço de chat.",
     "max_retries_reached": "Não foi possível conectar após várias tentativas. Por favor atualiza a página.",
     "ai_assistant_alt": "Assistente de IA UpSpeech",
-    "send_message": "Enviar mensagem"
+    "send_message": "Enviar mensagem",
+    "minimise_bar": "Minimizar a barra do assistente",
+    "restore_bar": "Mostrar a barra do assistente",
+    "bar_save_failed": "Não foi possível guardar. Tenta outra vez."
   },
   "patient_chatbot": {
     "button_label": "Perguntar ao Assistente IA",

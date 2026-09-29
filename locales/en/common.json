@@ -318,7 +318,10 @@
         "sky": "Sky",
         "mint": "Mint"
       }
-    }
+    },
+    "companion_bar_title": "Assistant bar",
+    "companion_bar_label": "Keep it open on every page",
+    "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on."
   },
   "layout": {
     "open_sidebar": "Open sidebar",
@@ -409,7 +412,10 @@
     "connection_failed": "Failed to connect to chat service.",
     "max_retries_reached": "Unable to connect after multiple attempts. Please refresh the page.",
     "ai_assistant_alt": "UpSpeech AI Assistant",
-    "send_message": "Send message"
+    "send_message": "Send message",
+    "minimise_bar": "Minimise the assistant bar",
+    "restore_bar": "Show the assistant bar",
+    "bar_save_failed": "Couldn't save that. Please try again."
   },
   "patient_chatbot": {
     "button_label": "Ask the AI Assistant",
