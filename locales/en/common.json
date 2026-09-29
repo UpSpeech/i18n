@@ -1375,7 +1375,12 @@
       "step_incomplete": "Not finished",
       "left_title_one": "{{count}} thing to finish before you assign",
       "left_title_other": "{{count}} things to finish before you assign",
-      "goal_numbered": "Goal {{position}}"
+      "goal_numbered": "Goal {{position}}",
+      "start_title": "A new step",
+      "start_subtitle": "Start from an exercise in the library, or write one yourself.",
+      "start_library": "Pick from the library",
+      "start_library_hint": "Exercises and mini-games, ready to use. You can change the words after.",
+      "start_write": "Write your own"
     }
   },
   "questionnaire": {

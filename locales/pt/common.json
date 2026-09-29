@@ -1375,7 +1375,12 @@
       "step_incomplete": "Por terminar",
       "left_title_one": "Falta {{count}} coisa antes de atribuir",
       "left_title_other": "Faltam {{count}} coisas antes de atribuir",
-      "goal_numbered": "Objetivo {{position}}"
+      "goal_numbered": "Objetivo {{position}}",
+      "start_title": "Um passo novo",
+      "start_subtitle": "Parte de um exercício da biblioteca, ou escreve um tu.",
+      "start_library": "Escolher da biblioteca",
+      "start_library_hint": "Exercícios e mini-jogos prontos a usar. Podes mudar as palavras depois.",
+      "start_write": "Escrever do zero"
     }
   },
   "questionnaire": {
