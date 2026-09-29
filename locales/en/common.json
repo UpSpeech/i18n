@@ -320,7 +320,7 @@
       }
     },
     "companion_bar_title": "Assistant bar",
-    "companion_bar_label": "Show the assistant bar on every page",
+    "companion_bar_label": "Keep it open on every page",
     "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on."
   },
   "layout": {

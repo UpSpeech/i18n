@@ -313,7 +313,7 @@
       }
     },
     "companion_bar_title": "Barra do assistente",
-    "companion_bar_label": "Mostrar a barra do assistente em todas as páginas",
+    "companion_bar_label": "Manter aberta em todas as páginas",
     "companion_bar_description": "Desligada, fica só um botão pequeno no canto. A escolha acompanha-te em qualquer dispositivo onde entres."
   },
   "layout": {
