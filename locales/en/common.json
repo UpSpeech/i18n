@@ -1382,7 +1382,6 @@
       "start_library_hint": "Exercises and mini-games, ready to use. You can change the words after.",
       "start_write": "Write your own",
       "aids": "Aids",
-      "exercises": "Exercises",
       "fixed_done_explained": "Fixed. {{name}} has finished this step, so it stays where it is and cannot be removed. You can still change its aids and exercises.",
       "fixed_practised_explained": "Fixed. {{name}} has already practised this step ({{count}} attempts), so it stays where it is and cannot be removed. You can still change its aids and exercises.",
       "goal_fixed": "Fixed: it has started",
@@ -1399,7 +1398,14 @@
       "current_not_removable": "{{name}} is on this step now, so it cannot be removed. You can still move it, and change its aids and exercises.",
       "discard_draft_title": "Discard this new step?",
       "discard_draft_body": "What you have written for the new step is lost.",
-      "discard_draft": "Discard it"
+      "discard_draft": "Discard it",
+      "step_title": "Step title",
+      "exercise": "Exercise",
+      "discard": "Discard",
+      "step_saved": "Step saved",
+      "save_failed": "The step was not saved. Try again.",
+      "discard_edits_title": "Discard your changes to this step?",
+      "discard_edits_body": "The step stays as it was saved."
     },
     "view": {
       "title": "Path",

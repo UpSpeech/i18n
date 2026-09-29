@@ -1382,7 +1382,6 @@
       "start_library_hint": "Exercícios e mini-jogos prontos a usar. Podes mudar as palavras depois.",
       "start_write": "Escrever do zero",
       "aids": "Ajudas",
-      "exercises": "Exercícios",
       "fixed_done_explained": "Fixo. {{name}} já concluiu este passo, por isso fica onde está e não pode ser removido. Podes mudar as ajudas e os exercícios.",
       "fixed_practised_explained": "Fixo. {{name}} já praticou este passo ({{count}} tentativas), por isso fica onde está e não pode ser removido. Podes mudar as ajudas e os exercícios.",
       "goal_fixed": "Fixo: já começou",
@@ -1399,7 +1398,14 @@
       "current_not_removable": "{{name}} está neste passo agora, por isso não pode ser removido. Podes movê-lo e mudar as ajudas e os exercícios.",
       "discard_draft_title": "Descartar este passo novo?",
       "discard_draft_body": "O que escreveste para o passo novo perde-se.",
-      "discard_draft": "Descartar"
+      "discard_draft": "Descartar",
+      "step_title": "Título do passo",
+      "exercise": "Exercício",
+      "discard": "Descartar",
+      "step_saved": "Passo guardado",
+      "save_failed": "O passo não foi guardado. Tenta outra vez.",
+      "discard_edits_title": "Descartar as alterações a este passo?",
+      "discard_edits_body": "O passo fica como estava guardado."
     },
     "view": {
       "title": "Percurso",
