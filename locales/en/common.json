@@ -1380,7 +1380,24 @@
       "start_subtitle": "Start from an exercise in the library, or write one yourself.",
       "start_library": "Pick from the library",
       "start_library_hint": "Exercises and mini-games, ready to use. You can change the words after.",
-      "start_write": "Write your own"
+      "start_write": "Write your own",
+      "aids": "Aids",
+      "exercises": "Exercises",
+      "fixed_done_explained": "Fixed. {{name}} has finished this step, so it stays where it is and cannot be removed. You can still change its aids and exercises.",
+      "fixed_practised_explained": "Fixed. {{name}} has already practised this step ({{count}} attempts), so it stays where it is and cannot be removed. You can still change its aids and exercises.",
+      "goal_fixed": "Fixed: it has finished steps",
+      "path_settings": "Path settings",
+      "placeholder_live_select": "Choose a step to change it, or a goal to add a step to it.",
+      "rename_goal_named": "Rename {{title}}",
+      "rename_hint": "Enter saves, Esc cancels",
+      "state_done": "finished",
+      "state_not_started": "not started yet",
+      "state_now": "now",
+      "state_practised": "practised",
+      "step_fixed_done": "Fixed: finished",
+      "step_fixed_practised": "Fixed: {{name}} has practised it ({{count}} attempts)",
+      "step_meta": "Step {{number}} · {{goal}} · {{state}}",
+      "what_they_do": "What {{name}} will do"
     }
   },
   "questionnaire": {

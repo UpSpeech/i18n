@@ -1380,7 +1380,24 @@
       "start_subtitle": "Parte de um exercício da biblioteca, ou escreve um tu.",
       "start_library": "Escolher da biblioteca",
       "start_library_hint": "Exercícios e mini-jogos prontos a usar. Podes mudar as palavras depois.",
-      "start_write": "Escrever do zero"
+      "start_write": "Escrever do zero",
+      "aids": "Ajudas",
+      "exercises": "Exercícios",
+      "fixed_done_explained": "Fixo. {{name}} já concluiu este passo, por isso fica onde está e não pode ser removido. Podes mudar as ajudas e os exercícios.",
+      "fixed_practised_explained": "Fixo. {{name}} já praticou este passo ({{count}} tentativas), por isso fica onde está e não pode ser removido. Podes mudar as ajudas e os exercícios.",
+      "goal_fixed": "Fixo: tem passos concluídos",
+      "path_settings": "Definições do percurso",
+      "placeholder_live_select": "Escolhe um passo para o alterar, ou um objetivo para lhe adicionar um passo.",
+      "rename_goal_named": "Renomear {{title}}",
+      "rename_hint": "Enter guarda, Esc cancela",
+      "state_done": "concluído",
+      "state_not_started": "ainda não começado",
+      "state_now": "agora",
+      "state_practised": "praticado",
+      "step_fixed_done": "Fixo: concluído",
+      "step_fixed_practised": "Fixo: {{name}} já o praticou ({{count}} tentativas)",
+      "step_meta": "Passo {{number}} · {{goal}} · {{state}}",
+      "what_they_do": "O que {{name}} vai fazer"
     }
   },
   "questionnaire": {
