@@ -1429,7 +1429,13 @@
       "can_complete": "{{name}} can complete this step",
       "can_complete_on": "{{name}} marks it complete in the app.",
       "can_complete_off": "Only you mark it complete.",
-      "assign_again_hint": "Adds this step to the path again and keeps the record of the first time."
+      "assign_again_hint": "Adds this step to the path again and keeps the record of the first time.",
+      "mark_complete": "Mark as completed",
+      "skipped": "Skipped",
+      "can_complete_later": "Can complete when reached",
+      "can_complete_later_hint": "{{name}} can mark it complete once they reach it.",
+      "review_attempts": "Review attempts",
+      "preview": "Preview"
     }
   },
   "questionnaire": {

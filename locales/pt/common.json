@@ -1429,7 +1429,13 @@
       "can_complete": "{{name}} pode concluir este passo",
       "can_complete_on": "{{name}} marca-o como concluído na app.",
       "can_complete_off": "Só tu o marcas como concluído.",
-      "assign_again_hint": "Junta este passo ao percurso outra vez e mantém o registo da primeira vez."
+      "assign_again_hint": "Junta este passo ao percurso outra vez e mantém o registo da primeira vez.",
+      "mark_complete": "Marcar como concluído",
+      "skipped": "Saltado",
+      "can_complete_later": "Pode concluir quando lá chegar",
+      "can_complete_later_hint": "{{name}} pode marcá-lo como concluído quando lá chegar.",
+      "review_attempts": "Rever tentativas",
+      "preview": "Pré-visualizar"
     }
   },
   "questionnaire": {

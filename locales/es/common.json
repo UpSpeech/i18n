@@ -1429,7 +1429,13 @@
       "can_complete": "{{name}} puede terminar este paso",
       "can_complete_on": "{{name}} lo marca como terminado en la app.",
       "can_complete_off": "Solo tú lo marcas como terminado.",
-      "assign_again_hint": "Añade este paso a la ruta otra vez y conserva el registro de la primera vez."
+      "assign_again_hint": "Añade este paso a la ruta otra vez y conserva el registro de la primera vez.",
+      "mark_complete": "Marcar como terminado",
+      "skipped": "Saltado",
+      "can_complete_later": "Puede terminar al llegar",
+      "can_complete_later_hint": "{{name}} puede marcarlo como terminado cuando llegue.",
+      "review_attempts": "Revisar intentos",
+      "preview": "Vista previa"
     }
   },
   "questionnaire": {
