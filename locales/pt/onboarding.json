@@ -7,7 +7,9 @@
       },
       "caregiver": {
         "title": "Olá, {{name}}",
-        "description": "Vais orientar a prática em casa de {{child}}. Os exercícios que o terapeuta atribuir aparecem aqui, para fazeres com {{child}} uns minutos de cada vez."
+        "description": "Vais orientar a prática em casa de {{child}}. Os exercícios que o terapeuta atribuir aparecem aqui, para fazeres com {{child}} uns minutos de cada vez.",
+        "description_he": "Vais orientar a prática em casa do {{child}}. Os exercícios que o terapeuta atribuir aparecem aqui, para fazeres com o {{child}} uns minutos de cada vez.",
+        "description_she": "Vais orientar a prática em casa da {{child}}. Os exercícios que o terapeuta atribuir aparecem aqui, para fazeres com a {{child}} uns minutos de cada vez."
       },
       "therapist": {
         "title": "Bem-vindo à UpSpeech!",
