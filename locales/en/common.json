@@ -1385,7 +1385,7 @@
       "exercises": "Exercises",
       "fixed_done_explained": "Fixed. {{name}} has finished this step, so it stays where it is and cannot be removed. You can still change its aids and exercises.",
       "fixed_practised_explained": "Fixed. {{name}} has already practised this step ({{count}} attempts), so it stays where it is and cannot be removed. You can still change its aids and exercises.",
-      "goal_fixed": "Fixed: it has finished steps",
+      "goal_fixed": "Fixed: it has started",
       "path_settings": "Path settings",
       "placeholder_live_select": "Choose a step to change it, or a goal to add a step to it.",
       "rename_goal_named": "Rename {{title}}",
@@ -1394,10 +1394,13 @@
       "state_not_started": "not started yet",
       "state_now": "now",
       "state_practised": "practised",
-      "step_fixed_done": "Fixed: finished",
       "step_fixed_practised": "Fixed: {{name}} has practised it ({{count}} attempts)",
       "step_meta": "Step {{number}} · {{goal}} · {{state}}",
-      "what_they_do": "What {{name}} will do"
+      "what_they_do": "What {{name}} will do",
+      "current_not_removable": "{{name}} is on this step now, so it cannot be removed. You can still move it, and change its aids and exercises.",
+      "discard_draft_title": "Discard this new step?",
+      "discard_draft_body": "What you have written for the new step is lost.",
+      "discard_draft": "Discard it"
     }
   },
   "questionnaire": {

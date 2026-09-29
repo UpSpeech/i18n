@@ -1385,7 +1385,7 @@
       "exercises": "Ejercicios",
       "fixed_done_explained": "Fijo. {{name}} ya terminó este paso, así que se queda donde está y no se puede quitar. Puedes cambiar sus ayudas y ejercicios.",
       "fixed_practised_explained": "Fijo. {{name}} ya practicó este paso ({{count}} intentos), así que se queda donde está y no se puede quitar. Puedes cambiar sus ayudas y ejercicios.",
-      "goal_fixed": "Fijo: tiene pasos terminados",
+      "goal_fixed": "Fijo: ya ha empezado",
       "path_settings": "Ajustes de la ruta",
       "placeholder_live_select": "Elige un paso para cambiarlo, o un objetivo para añadirle un paso.",
       "rename_goal_named": "Renombrar {{title}}",
@@ -1394,10 +1394,13 @@
       "state_not_started": "sin empezar",
       "state_now": "ahora",
       "state_practised": "practicado",
-      "step_fixed_done": "Fijo: terminado",
       "step_fixed_practised": "Fijo: {{name}} ya lo practicó ({{count}} intentos)",
       "step_meta": "Paso {{number}} · {{goal}} · {{state}}",
-      "what_they_do": "Lo que {{name}} va a hacer"
+      "what_they_do": "Lo que {{name}} va a hacer",
+      "current_not_removable": "{{name}} está en este paso ahora, así que no se puede quitar. Puedes moverlo y cambiar sus ayudas y ejercicios.",
+      "discard_draft_title": "¿Descartar este paso nuevo?",
+      "discard_draft_body": "Lo que has escrito para el paso nuevo se pierde.",
+      "discard_draft": "Descartar"
     }
   },
   "questionnaire": {
