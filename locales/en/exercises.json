@@ -156,13 +156,15 @@
       "completion_log": "Completion Log"
     },
     "deadline_stats": {
-      "completed": "completed!",
-      "target_reached_message": "Target reached! Great work!",
+      "completed": "completed",
+      "target_reached_message": "Target reached",
       "overdue": "Overdue",
       "overdue_encouragement": "The deadline has passed, but you can still complete the remaining exercises! Your therapist can see your progress.",
-      "day_streak": "{{count}} day streak!",
+      "day_streak": "{{count}} day streak",
       "completion_history": "Completion History",
       "no_completions": "No completions yet. Start your first exercise!",
+      "no_completions_recorded": "No completions recorded",
+      "last_completed": "Last completed",
       "completion_number": "Completion #{{number}}",
       "remaining_target": "{{count}} more to reach your target!",
       "target_reached": "Target Reached!",
