@@ -52,9 +52,8 @@
   "outcomes_engagement": "Engagement",
   "outcomes_days_since_p50": "Days since practice, median",
   "outcomes_days_since_p90": "Days since practice, slowest 10%",
-  "outcomes_never_practised": "Never practised",
   "outcomes_active_per_therapist": "Active patients per therapist",
-  "outcomes_single_patient_share": "Therapists on one patient at day 14",
+  "outcomes_single_patient_share": "Solo therapists at day 14",
   "outcomes_retention": "Still practising, by week since enrolment",
   "outcomes_retention_week": "Week {{week}}",
   "outcomes_of_count": "of {{count}}",
@@ -84,5 +83,8 @@
   "outcomes_time_empty": "No report has been edited since {{since}}, so there is nothing to time yet.",
   "outcomes_coverage_adherent": "Reached the dose",
   "outcomes_coverage_short": "Fell short",
-  "outcomes_coverage_unmeasured": "No dose set"
+  "outcomes_coverage_unmeasured": "No dose set",
+  "outcomes_never_practised_line_one": "{{count}} enrolled patient has never practised.",
+  "outcomes_never_practised_line_many": "{{count}} enrolled patients have never practised.",
+  "outcomes_never_practised_line_other": "{{count}} enrolled patients have never practised."
 }

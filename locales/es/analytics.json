@@ -52,9 +52,8 @@
   "outcomes_engagement": "Participación",
   "outcomes_days_since_p50": "Días desde la última práctica, mediana",
   "outcomes_days_since_p90": "Días desde la última práctica, 10% más lentos",
-  "outcomes_never_practised": "Nunca practicaron",
   "outcomes_active_per_therapist": "Pacientes activos por terapeuta",
-  "outcomes_single_patient_share": "Terapeutas con un paciente al día 14",
+  "outcomes_single_patient_share": "Terapeutas en solitario al día 14",
   "outcomes_retention": "Siguen practicando, por semana desde la inscripción",
   "outcomes_retention_week": "Semana {{week}}",
   "outcomes_of_count": "de {{count}}",
@@ -84,5 +83,8 @@
   "outcomes_time_empty": "Ningún informe se ha editado desde el {{since}}, así que aún no hay nada que medir.",
   "outcomes_coverage_adherent": "Alcanzaron la dosis",
   "outcomes_coverage_short": "Se quedaron cortas",
-  "outcomes_coverage_unmeasured": "Sin dosis definida"
+  "outcomes_coverage_unmeasured": "Sin dosis definida",
+  "outcomes_never_practised_line_one": "{{count}} paciente inscrito nunca ha practicado.",
+  "outcomes_never_practised_line_many": "{{count}} pacientes inscritos nunca han practicado.",
+  "outcomes_never_practised_line_other": "{{count}} pacientes inscritos nunca han practicado."
 }
