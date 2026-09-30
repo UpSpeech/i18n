@@ -887,7 +887,8 @@
         "spin_cards": "Spin and Say",
         "two_choice": "Two Pictures",
         "pause_road": "Pause Road",
-        "which_speech": "Which Speech"
+        "which_speech": "Which Speech",
+        "story_scene": "Build Your Story"
       },
       "pause_mode_value": {
         "guided": "Guided",
