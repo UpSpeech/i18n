@@ -280,6 +280,7 @@
   "caregiver": {
     "practising_with": "Practising with",
     "child_age": "{{name}}, {{count}} years old",
+    "child_colour": "{{name}}'s colour",
       "reminder_title": "Daily reminder",
       "reminder_change": "Change",
       "reminder_at_hour": "at {{hour}}:00",
