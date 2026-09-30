@@ -260,6 +260,8 @@
       "save": "Guardar compañero",
       "saved": "Compañero guardado",
       "load_error": "No se pudo cargar tu compañero. Inténtalo de nuevo en un momento.",
+      "child_title": "El color de {{name}}",
+      "child_unset": "Todavía no se ha elegido ningún color. Elige uno ahora y cambiadlo juntos más tarde.",
       "styles": {
         "lumo": "Lumo",
         "pip": "Pip",
