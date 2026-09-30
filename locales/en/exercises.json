@@ -1027,6 +1027,21 @@
       "very_slow": "very slow",
       "medium": "medium",
       "natural": "natural"
+    },
+    "fields": {
+      "heading": "Settings",
+      "hold_time": "Hold time",
+      "no_target": "No target",
+      "seconds_one": "{{count}} second",
+      "seconds_other": "{{count}} seconds",
+      "exit_speed": "How to come out of it",
+      "target_pauses": "Pauses to aim for",
+      "pause_length": "Pause length",
+      "pause_level": {
+        "very_long": "Very long",
+        "medium": "Medium",
+        "short": "Short"
+      }
     }
   },
   "practice": {

@@ -1027,6 +1027,21 @@
       "very_slow": "muito lenta",
       "medium": "média",
       "natural": "natural"
+    },
+    "fields": {
+      "heading": "Definições",
+      "hold_time": "Tempo de manutenção",
+      "no_target": "Sem objetivo",
+      "seconds_one": "{{count}} segundo",
+      "seconds_other": "{{count}} segundos",
+      "exit_speed": "Como sair",
+      "target_pauses": "Pausas a atingir",
+      "pause_length": "Duração da pausa",
+      "pause_level": {
+        "very_long": "Muito longa",
+        "medium": "Média",
+        "short": "Curta"
+      }
     }
   },
   "practice": {
