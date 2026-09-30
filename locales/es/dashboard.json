@@ -187,6 +187,9 @@
   },
   "admin_dashboard": {
     "title": "Panel de Administración",
+    "greeting_morning": "Buenos días",
+    "greeting_afternoon": "Buenas tardes",
+    "greeting_evening": "Buenas noches",
     "subtitle": "Gestiona usuarios, terapeutas y monitorea la actividad de tu organización.",
     "stats": {
       "total_users": "Total de Usuarios",

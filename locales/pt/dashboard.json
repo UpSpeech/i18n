@@ -187,6 +187,9 @@
   },
   "admin_dashboard": {
     "title": "Painel de Administração",
+    "greeting_morning": "Bom dia",
+    "greeting_afternoon": "Boa tarde",
+    "greeting_evening": "Boa noite",
     "subtitle": "Gere utilizadores, terapeutas e monitoriza a atividade da tua organização.",
     "stats": {
       "total_users": "Total de Utilizadores",
