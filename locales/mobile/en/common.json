@@ -1660,6 +1660,8 @@
   "companion_accent": "Cheeks and details",
   "companion_belly": "Belly",
   "companion_custom": "Custom",
+  "companion_custom_hue": "Colour",
+  "companion_custom_lightness": "Lightness",
   "companion_contrast": "Contrast on the companion: {{ratio}}:1",
   "companion_too_dark": "Too close to the companion's body to be visible. Pick a lighter colour.",
   "companion_match_accent": "Match the cheeks",

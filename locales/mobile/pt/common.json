@@ -1660,6 +1660,8 @@
   "companion_accent": "Bochechas e detalhes",
   "companion_belly": "Barriga",
   "companion_custom": "Personalizada",
+  "companion_custom_hue": "Cor",
+  "companion_custom_lightness": "Luminosidade",
   "companion_contrast": "Contraste no companheiro: {{ratio}}:1",
   "companion_too_dark": "Demasiado próxima do corpo do companheiro para se ver. Escolhe uma cor mais clara.",
   "companion_match_accent": "Igualar às bochechas",

@@ -1660,6 +1660,8 @@
   "companion_accent": "Mejillas y detalles",
   "companion_belly": "Barriga",
   "companion_custom": "Personalizado",
+  "companion_custom_hue": "Color",
+  "companion_custom_lightness": "Luminosidad",
   "companion_contrast": "Contraste sobre el compañero: {{ratio}}:1",
   "companion_too_dark": "Demasiado cerca del cuerpo del compañero para verse. Elige un color más claro.",
   "companion_match_accent": "Igualar a las mejillas",
