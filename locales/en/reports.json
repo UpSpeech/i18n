@@ -117,6 +117,7 @@
     "at": "at"
   },
   "edit_page": {
+    "ai_drafted_notice": "Drafted by AI from the recording. Each sentence needs checking before it is relied on.",
     "report_title": "Report Title",
     "title_placeholder": "Enter report title",
     "status_label": "Status",
