@@ -249,6 +249,10 @@
       "severity": "Gravedad inicial (media ± DE)",
       "note": "Grandes diferencias iniciales entre grupos pueden sesgar la comparación; rangos pequeños y solapados la respaldan."
     },
+    "direction": {
+      "improved": "mejoró",
+      "worsened": "empeoró"
+    },
     "change": {
       "title": "Cambio de autogravedad (primera a última)",
       "info": "Cambio por grupo en la gravedad autoinformada CBSA desde la primera hasta la última entrega semanal de cada paciente. Cambio medio con IC 95%, tamaño del efecto (d de Cohen) y cuántos pacientes mejoraron, se mantuvieron o empeoraron. Un cambio negativo significa mejora.",

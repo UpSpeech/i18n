@@ -249,6 +249,10 @@
       "severity": "Baseline severity (mean ± SD)",
       "note": "Large baseline gaps between arms can confound the comparison; small, overlapping ranges support it."
     },
+    "direction": {
+      "improved": "improved",
+      "worsened": "worsened"
+    },
     "change": {
       "title": "Self-severity change (first to last)",
       "info": "Per-arm change in CBSA self-reported severity from each patient's first to last weekly submission. Mean change with 95% CI, effect size (Cohen's d), and how many patients improved, stayed the same, or worsened. Negative change means improvement.",
