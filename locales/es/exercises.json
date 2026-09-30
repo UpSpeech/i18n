@@ -1029,7 +1029,6 @@
       "natural": "natural"
     },
     "fields": {
-      "heading": "Ajustes",
       "hold_time": "Tiempo de mantenimiento",
       "no_target": "Sin objetivo",
       "seconds": "{{seconds}} segundos",

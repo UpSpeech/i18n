@@ -1029,7 +1029,6 @@
       "natural": "natural"
     },
     "fields": {
-      "heading": "Definições",
       "hold_time": "Tempo de manutenção",
       "no_target": "Sem objetivo",
       "seconds": "{{seconds}} segundos",

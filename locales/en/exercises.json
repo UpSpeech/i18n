@@ -1029,7 +1029,6 @@
       "natural": "natural"
     },
     "fields": {
-      "heading": "Settings",
       "hold_time": "Hold time",
       "no_target": "No target",
       "seconds": "{{seconds}} seconds",
