@@ -274,7 +274,7 @@
         "pip": "Pip",
         "nima": "Nima",
         "tumbo": "Tumbo",
-        "mark": "Logo mark",
+        "mark": "UpSpeech logo",
         "none": "No companion"
       },
       "eyes": "Eyes",
@@ -285,7 +285,7 @@
       "face_group": "Face",
       "colours_group": "Colours",
       "eyes_options": {
-        "default": "As drawn",
+        "default": "Original",
         "wide": "Wide",
         "narrow": "Narrow",
         "dot": "Dots"
@@ -297,7 +297,7 @@
         "soft": "Soft"
       },
       "belly_shapes": {
-        "lobe": "As drawn",
+        "lobe": "Original",
         "none": "None",
         "round": "Round",
         "shield": "Shield"
@@ -308,7 +308,7 @@
         "l": "Large"
       },
       "crowns": {
-        "default": "As drawn",
+        "default": "Original",
         "ears": "Ears",
         "antenna": "Antenna",
         "sideEars": "Side ears",

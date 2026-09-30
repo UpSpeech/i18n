@@ -267,7 +267,7 @@
         "pip": "Pip",
         "nima": "Nima",
         "tumbo": "Tumbo",
-        "mark": "Símbolo",
+        "mark": "Logótipo UpSpeech",
         "none": "Sem companheiro"
       },
       "eyes": "Olhos",
@@ -278,7 +278,7 @@
       "face_group": "Rosto",
       "colours_group": "Cores",
       "eyes_options": {
-        "default": "Como foi desenhado",
+        "default": "Original",
         "wide": "Grandes",
         "narrow": "Estreitos",
         "dot": "Pontos"
@@ -290,7 +290,7 @@
         "soft": "Suaves"
       },
       "belly_shapes": {
-        "lobe": "Como foi desenhada",
+        "lobe": "Original",
         "none": "Sem barriga",
         "round": "Redonda",
         "shield": "Escudo"
@@ -301,7 +301,7 @@
         "l": "Grande"
       },
       "crowns": {
-        "default": "Como foi desenhado",
+        "default": "Original",
         "ears": "Orelhas",
         "antenna": "Antena",
         "sideEars": "Orelhas laterais",
