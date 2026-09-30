@@ -72,7 +72,7 @@
   "outcomes_processing_p95": "Recording processing, 95th percentile",
   "outcomes_unit_days": "days",
   "outcomes_headline_adherence": "patient-weeks reached the prescribed dose",
-  "outcomes_of_total": "{{count}} of {{total}}",
+  "outcomes_of_total": "{{part}} of {{total}}",
   "outcomes_headline_lapse": "of patients enrolled a week or more have not practised in the last 7 days",
   "outcomes_headline_time": "median hours from the AI draft to the clinician's last save",
   "outcomes_not_enough_data": "Not enough data yet",
