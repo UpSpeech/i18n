@@ -260,8 +260,8 @@
       "save": "Guardar companheiro",
       "saved": "Companheiro guardado",
       "load_error": "Não foi possível carregar o teu companheiro. Tenta novamente daqui a pouco.",
-      "child_title": "A cor de {{name}}",
-      "child_unset": "Ainda não foi escolhida nenhuma cor. Escolhe uma agora e mudem-na juntos mais tarde.",
+      "child_title": "O companheiro de {{name}}",
+      "child_unset": "Ainda ninguém escolheu este companheiro. Escolhe um agora e mudem-no juntos mais tarde.",
       "styles": {
         "lumo": "Lumo",
         "pip": "Pip",

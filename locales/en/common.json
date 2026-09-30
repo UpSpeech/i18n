@@ -267,8 +267,8 @@
       "save": "Save companion",
       "saved": "Companion saved",
       "load_error": "Could not load your companion. Try again shortly.",
-      "child_title": "{{name}}'s colour",
-      "child_unset": "No colour has been picked yet. Choose one now, and change it together later.",
+      "child_title": "{{name}}'s companion",
+      "child_unset": "Nobody has set this companion up yet. Choose one now, and change it together later.",
       "styles": {
         "lumo": "Lumo",
         "pip": "Pip",
