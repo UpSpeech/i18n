@@ -1029,7 +1029,7 @@
       "natural": "natural"
     },
     "fields": {
-      "hold_time": "Tiempo de mantenimiento",
+      "hold_time": "Duración de la retención",
       "no_target": "Sin objetivo",
       "seconds": "{{seconds}} segundos",
       "exit_speed": "Cómo salir",

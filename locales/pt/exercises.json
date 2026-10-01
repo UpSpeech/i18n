@@ -1029,8 +1029,8 @@
       "natural": "natural"
     },
     "fields": {
-      "hold_time": "Tempo de manutenção",
-      "no_target": "Sem objetivo",
+      "hold_time": "Duração da retenção",
+      "no_target": "Sem alvo",
       "seconds": "{{seconds}} segundos",
       "exit_speed": "Como sair",
       "target_pauses": "Pausas a atingir",
