@@ -953,7 +953,7 @@
     "confirm_batch_unlock_title": "Allow Completion for {{count}} Steps",
     "confirm_complete_no_attempts_body": "\"{{step}}\" has no recorded practice attempts. Are you sure you want to mark it as complete?",
     "confirm_complete_title": "Complete Without Attempts",
-    "confirm_reopen_body": "This will reopen \"{{step}}\" so the patient can practice it again.",
+    "confirm_reopen_body": "This reopens \"{{step}}\" so the patient can practise it again. The step they are on now stays open too.",
     "confirm_reopen_title": "Reopen Step",
     "confirm_skip_body": "This will skip \"{{step}}\" and move the patient to the next step. The patient can still return to it later if reopened.",
     "confirm_skip_title": "Skip Step",
@@ -1445,7 +1445,18 @@
       "review_attempts": "Review attempts",
       "preview": "Preview",
       "last_activity": "last activity {{date}}",
-      "no_sessions_paused": "No sessions while paused"
+      "no_sessions_paused": "No sessions while paused",
+      "start_now": "Start this now",
+      "start_now_title": "Start step {{number}} now?",
+      "keep_only": "Keep only this one open",
+      "keep_only_title": "Keep only step {{number}} open?",
+      "start_group_done": "Will be marked done, has practice",
+      "start_group_skipped_open": "Will be skipped, no practice yet",
+      "start_group_skipped_waiting": "Will be skipped, not reached yet",
+      "start_skipped_return": "{{name}} can still practise a skipped step.",
+      "start_done": "Step {{number}} is open now.",
+      "start_group_opens": "Will open",
+      "keep_only_done": "Step {{number}} is the only open step now."
     }
   },
   "questionnaire": {

@@ -953,7 +953,7 @@
     "confirm_batch_unlock_title": "Permitir Conclusão de {{count}} Passos",
     "confirm_complete_no_attempts_body": "\"{{step}}\" não tem tentativas de prática registadas. Tens a certeza de que queres marcar como concluído?",
     "confirm_complete_title": "Concluir Sem Tentativas",
-    "confirm_reopen_body": "Isto irá reabrir \"{{step}}\" para que o paciente possa praticá-lo novamente.",
+    "confirm_reopen_body": "Isto reabre \"{{step}}\" para que o paciente o possa praticar outra vez. O passo em que está agora também continua aberto.",
     "confirm_reopen_title": "Reabrir Passo",
     "confirm_skip_body": "Isto irá saltar \"{{step}}\" e mover o paciente para o próximo passo. O paciente pode ainda voltar a ele mais tarde se for reaberto.",
     "confirm_skip_title": "Saltar Passo",
@@ -1445,7 +1445,18 @@
       "review_attempts": "Rever tentativas",
       "preview": "Pré-visualizar",
       "last_activity": "última atividade {{date}}",
-      "no_sessions_paused": "Sem sessões enquanto está em pausa"
+      "no_sessions_paused": "Sem sessões enquanto está em pausa",
+      "start_now": "Começar já",
+      "start_now_title": "Começar já o passo {{number}}?",
+      "keep_only": "Manter só este aberto",
+      "keep_only_title": "Manter só o passo {{number}} aberto?",
+      "start_group_done": "Vai ser marcado como feito, tem prática",
+      "start_group_skipped_open": "Vai ser saltado, ainda sem prática",
+      "start_group_skipped_waiting": "Vai ser saltado, ainda não alcançado",
+      "start_skipped_return": "{{name}} ainda pode praticar um passo saltado.",
+      "start_done": "O passo {{number}} está aberto agora.",
+      "start_group_opens": "Vai abrir",
+      "keep_only_done": "O passo {{number}} é agora o único aberto."
     }
   },
   "questionnaire": {
