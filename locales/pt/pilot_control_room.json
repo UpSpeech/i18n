@@ -249,6 +249,10 @@
       "severity": "Gravidade inicial (média ± DP)",
       "note": "Grandes diferenças iniciais entre grupos podem enviesar a comparação; intervalos pequenos e sobrepostos sustentam-na."
     },
+    "direction": {
+      "improved": "melhorou",
+      "worsened": "piorou"
+    },
     "change": {
       "title": "Variação da autogravidade (primeira à última)",
       "info": "Variação por grupo na gravidade autorrelatada CBSA da primeira à última submissão semanal de cada paciente. Variação média com IC 95%, tamanho de efeito (d de Cohen) e quantos pacientes melhoraram, mantiveram-se ou pioraram. Variação negativa significa melhoria.",

@@ -117,6 +117,7 @@
     "at": "en"
   },
   "edit_page": {
+    "ai_drafted_notice": "Borrador generado por IA a partir de la grabación. Cada frase debe revisarse antes de usarse.",
     "report_title": "Título del Informe",
     "title_placeholder": "Ingresa el título del informe",
     "status_label": "Estado",

@@ -117,6 +117,7 @@
     "at": "em"
   },
   "edit_page": {
+    "ai_drafted_notice": "Rascunho gerado por IA a partir da gravação. Cada frase deve ser verificada antes de ser usada.",
     "report_title": "Título do Relatório",
     "title_placeholder": "Introduz o título do relatório",
     "status_label": "Estado",
