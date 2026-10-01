@@ -1969,6 +1969,8 @@
   "analytics_consent_sent_practice_started": "Uma prática começa",
   "analytics_consent_sent_practice_finished": "Uma prática termina",
   "analytics_consent_sent_reminder_opened": "Abres um lembrete",
+  "analytics_consent_sent_account": "O identificador da tua conta, o teu perfil e a tua clínica",
+  "analytics_consent_sent_study": "Se participas num estudo e em que semana entraste",
   "analytics_consent_sent_phone_type": "O tipo de telemóvel",
   "analytics_consent_sent_device_id": "Um identificador aleatório deste telemóvel",
   "analytics_consent_never_heading": "O que nunca enviamos",
