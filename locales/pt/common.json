@@ -1457,7 +1457,7 @@
       "start_skips_open_other": "{{count}} passos abertos ainda não têm prática, por isso são saltados.",
       "start_skips_waiting_one": "O passo à espera antes deste é saltado.",
       "start_skips_waiting_other": "Os {{count}} passos à espera antes deste são saltados.",
-      "start_skipped_stay": "{{name}} pode sempre voltar a um passo saltado."
+      "start_skipped_stay": "{{name}} ainda pode voltar a um passo saltado."
     }
   },
   "questionnaire": {
