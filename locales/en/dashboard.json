@@ -300,6 +300,11 @@
       "reminder_after_dinner": "After dinner · 18:00",
       "reminder_bedtime": "Bedtime · 20:00",
       "reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings.",
-      "switch_label": "Acting for {{name}}"
+      "switch_label": "Acting for {{name}}",
+      "therapist_note_title": "From {{therapist}}",
+      "practice_title": "{{child}}'s practice",
+      "practice_sessions_one": "session",
+      "practice_sessions_other": "sessions",
+      "practice_reported_by": "Reported by {{name}}"
   }
 }

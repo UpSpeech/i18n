@@ -300,6 +300,11 @@
       "reminder_after_dinner": "Después de cenar · 18:00",
       "reminder_bedtime": "Hora de dormir · 20:00",
       "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes.",
-      "switch_label": "Acompañando a {{name}}"
+      "switch_label": "Acompañando a {{name}}",
+      "therapist_note_title": "De {{therapist}}",
+      "practice_title": "La práctica de {{child}}",
+      "practice_sessions_one": "sesión",
+      "practice_sessions_other": "sesiones",
+      "practice_reported_by": "Registrado por {{name}}"
   }
 }
