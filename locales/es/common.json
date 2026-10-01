@@ -1448,7 +1448,16 @@
       "no_sessions_paused": "Sin sesiones mientras está en pausa",
       "start_now": "Empezar ya",
       "start_now_title": "¿Empezar “{{step}}” ya?",
-      "start_now_open": "Se abre para {{name}} enseguida."
+      "start_now_open": "Se abre para {{name}} enseguida.",
+      "keep_only": "Dejar solo este abierto",
+      "keep_only_title": "¿Dejar solo “{{step}}” abierto?",
+      "start_completes_one": "“{{step}}” tiene práctica, así que se cierra como hecho.",
+      "start_completes_other": "{{count}} pasos abiertos tienen práctica, así que se cierran como hechos.",
+      "start_skips_open_one": "“{{step}}” aún no tiene práctica, así que se salta.",
+      "start_skips_open_other": "{{count}} pasos abiertos aún no tienen práctica, así que se saltan.",
+      "start_skips_waiting_one": "El paso en espera antes de este se salta.",
+      "start_skips_waiting_other": "Los {{count}} pasos en espera antes de este se saltan.",
+      "start_skipped_stay": "{{name}} todavía puede volver a un paso saltado."
     }
   },
   "questionnaire": {
