@@ -1978,6 +1978,7 @@
   "analytics_consent_sent_phone_type": "O tipo de telemóvel",
   "analytics_consent_sent_app_version": "A versão da aplicação, a versão do sistema do telemóvel e o tamanho do ecrã",
   "analytics_consent_sent_device_id": "Um identificador aleatório deste telemóvel",
+  "analytics_consent_sent_experiment": "Que versão recebes, quando testamos uma alteração aos lembretes",
   "analytics_consent_never_heading": "Nunca enviamos",
   "analytics_consent_never_recordings": "Gravações",
   "analytics_consent_never_ratings": "Como avaliaste a tua fala",

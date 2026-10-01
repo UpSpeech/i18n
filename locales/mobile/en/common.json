@@ -1978,6 +1978,7 @@
   "analytics_consent_sent_phone_type": "Your phone type",
   "analytics_consent_sent_app_version": "The app version, your phone's software version and screen size",
   "analytics_consent_sent_device_id": "A random ID for this phone",
+  "analytics_consent_sent_experiment": "Which version you get, when we test a change to reminders",
   "analytics_consent_never_heading": "We never send",
   "analytics_consent_never_recordings": "Recordings",
   "analytics_consent_never_ratings": "How you rated your speech",
