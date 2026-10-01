@@ -1451,13 +1451,11 @@
       "start_now_open": "It opens for {{name}} straight away.",
       "keep_only": "Keep only this one open",
       "keep_only_title": "Keep only “{{step}}” open?",
-      "start_completes_one": "“{{step}}” has practice, so it closes as done.",
-      "start_completes_other": "{{count}} open steps have practice, so they close as done.",
-      "start_skips_open_one": "“{{step}}” has no practice yet, so it is skipped.",
-      "start_skips_open_other": "{{count}} open steps have no practice yet, so they are skipped.",
-      "start_skips_waiting_one": "The step waiting before it is skipped.",
-      "start_skips_waiting_other": "The {{count}} steps waiting before it are skipped.",
-      "start_skipped_stay": "{{name}} can still go back to a skipped step."
+      "start_group_done": "Closes as done",
+      "start_group_skipped_open": "Skipped, no practice yet",
+      "start_group_skipped_waiting": "Skipped, not reached yet",
+      "start_skipped_return": "{{name}} can still practise a skipped step.",
+      "start_done": "“{{step}}” is open now."
     }
   },
   "questionnaire": {
