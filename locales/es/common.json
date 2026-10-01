@@ -953,7 +953,7 @@
     "confirm_batch_unlock_title": "Permitir Conclusión de {{count}} Pasos",
     "confirm_complete_no_attempts_body": "\"{{step}}\" no tiene intentos de práctica registrados. ¿Estás seguro de que quieres marcarlo como completado?",
     "confirm_complete_title": "Completar Sin Intentos",
-    "confirm_reopen_body": "Esto reabrirá \"{{step}}\" para que el paciente pueda practicarlo de nuevo.",
+    "confirm_reopen_body": "Esto reabre \"{{step}}\" para que el paciente pueda practicarlo de nuevo. El paso en el que está ahora también sigue abierto.",
     "confirm_reopen_title": "Reabrir Paso",
     "confirm_skip_body": "Esto saltará \"{{step}}\" y moverá al paciente al siguiente paso. El paciente puede volver a él más tarde si se reabre.",
     "confirm_skip_title": "Saltar Paso",
@@ -1445,7 +1445,10 @@
       "review_attempts": "Revisar intentos",
       "preview": "Vista previa",
       "last_activity": "última actividad el {{date}}",
-      "no_sessions_paused": "Sin sesiones mientras está en pausa"
+      "no_sessions_paused": "Sin sesiones mientras está en pausa",
+      "start_now": "Empezar ya",
+      "start_now_title": "¿Empezar “{{step}}” ya?",
+      "start_now_open": "Se abre para {{name}} enseguida."
     }
   },
   "questionnaire": {
