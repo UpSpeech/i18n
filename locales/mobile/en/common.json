@@ -1964,12 +1964,12 @@
   "path_composer_their_caregiver": "their caregiver",
   "exercise_technique_practice_instructions": "Say it out loud, in your own words.",
   "analytics_consent_title": "Share usage data?",
-  "analytics_consent_intro": "If you allow it, UpSpeech sends a few usage events to PostHog, our analytics provider in the EU. Each one is linked to your account and your clinic.",
+  "analytics_consent_intro": "If you allow it, UpSpeech sends a few usage events to PostHog, our analytics provider in the EU, so we can see which exercises people finish and whether reminders help. Each one is linked to your account and your clinic.",
   "analytics_consent_sent_heading": "What we send",
   "analytics_consent_sent_practice_started": "A practice starts",
   "analytics_consent_sent_practice_finished": "A practice finishes",
   "analytics_consent_sent_reminder_opened": "You open a reminder",
-  "analytics_consent_attached_heading": "Attached to each",
+  "analytics_consent_attached_heading": "Sent with every event",
   "analytics_consent_sent_account": "Your account ID, role and clinic",
   "analytics_consent_sent_study": "Whether you're in a study, and which week you joined",
   "analytics_consent_sent_phone_type": "Your phone type",
@@ -1982,10 +1982,11 @@
   "analytics_consent_never_answers": "Answers you type",
   "analytics_consent_never_names": "Your name or your therapist's",
   "analytics_consent_privacy_link": "Privacy policy",
-  "analytics_consent_optional": "Saying no changes nothing about how the app works. You can change your mind any time in Settings.",
+  "analytics_consent_optional": "Saying no changes nothing, and you can change this in Settings any time.",
   "analytics_consent_accept": "Allow",
   "analytics_consent_decline": "Don't allow",
   "analytics_consent_settings_title": "Usage data",
   "analytics_consent_settings_label": "Share usage data",
-  "analytics_consent_settings_helper": "Practice and reminder events, linked to your account. Never recordings, ratings, notes or names."
+  "analytics_consent_settings_helper": "Practice and reminder events, linked to your account. Never recordings, ratings, notes or names.",
+  "analytics_consent_settings_details_link": "See exactly what's sent"
 }
