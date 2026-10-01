@@ -1450,7 +1450,7 @@
       "start_now_title": "¿Empezar ya el paso {{number}}?",
       "keep_only": "Dejar solo este abierto",
       "keep_only_title": "¿Dejar solo el paso {{number}} abierto?",
-      "start_group_done": "Se marcará como hecho",
+      "start_group_done": "Se marcará como hecho, tiene práctica",
       "start_group_skipped_open": "Se saltará, aún sin práctica",
       "start_group_skipped_waiting": "Se saltará, aún no alcanzado",
       "start_skipped_return": "{{name}} todavía puede practicar un paso saltado.",
