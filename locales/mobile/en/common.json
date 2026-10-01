@@ -1962,5 +1962,14 @@
   "journey_next_step": "Next: {{title}}",
   "journey_from_therapist": "From your therapist",
   "path_composer_their_caregiver": "their caregiver",
-  "exercise_technique_practice_instructions": "Say it out loud, in your own words."
+  "exercise_technique_practice_instructions": "Say it out loud, in your own words.",
+  "analytics_consent_title": "Help us see what works",
+  "analytics_consent_body": "With your permission, UpSpeech sends usage events to PostHog, our analytics provider in the EU: when a practice starts and finishes, when you open a reminder, and whether you use an iPhone or Android phone.",
+  "analytics_consent_not_sent": "We never send recordings, ratings, notes, answers you type, or anyone's name.",
+  "analytics_consent_optional": "This is optional and changes nothing about how the app works. You can change your mind any time in Settings.",
+  "analytics_consent_accept": "Allow",
+  "analytics_consent_decline": "Don't allow",
+  "analytics_consent_settings_title": "Usage analytics",
+  "analytics_consent_settings_label": "Share usage analytics",
+  "analytics_consent_settings_helper": "Sends when a practice starts and finishes and when you open a reminder. Never recordings, notes or names."
 }

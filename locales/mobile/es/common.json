@@ -1962,5 +1962,14 @@
   "journey_next_step": "Lo siguiente: {{title}}",
   "journey_from_therapist": "De tu terapeuta",
   "path_composer_their_caregiver": "su cuidador",
-  "exercise_technique_practice_instructions": "Dilo en voz alta, con tus propias palabras."
+  "exercise_technique_practice_instructions": "Dilo en voz alta, con tus propias palabras.",
+  "analytics_consent_title": "Ayúdanos a ver qué funciona",
+  "analytics_consent_body": "Con tu permiso, UpSpeech envía datos de uso a PostHog, nuestro proveedor de analítica en la UE: cuándo empieza y termina una práctica, cuándo abres un recordatorio y si usas un iPhone o un teléfono Android.",
+  "analytics_consent_not_sent": "Nunca enviamos grabaciones, valoraciones, notas, respuestas que escribas ni el nombre de nadie.",
+  "analytics_consent_optional": "Es opcional y no cambia nada del funcionamiento de la aplicación. Puedes cambiar de opinión cuando quieras en Configuración.",
+  "analytics_consent_accept": "Permitir",
+  "analytics_consent_decline": "No permitir",
+  "analytics_consent_settings_title": "Datos de uso",
+  "analytics_consent_settings_label": "Compartir datos de uso",
+  "analytics_consent_settings_helper": "Envía cuándo empieza y termina una práctica y cuándo abres un recordatorio. Nunca grabaciones, notas ni nombres."
 }
