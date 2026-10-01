@@ -37,7 +37,6 @@
   "path_editor_start_group_skipped_open": "Saltado, ainda sem prática",
   "path_editor_start_group_skipped_waiting": "Saltado, ainda não alcançado",
   "path_editor_start_skipped_return": "{{name}} ainda pode praticar um passo saltado.",
-  "path_editor_start_done": "“{{step}}” está aberto agora.",
   "path_editor_step_actions": "Ações do passo",
   "path_editor_steps_progress": "{{done}} de {{total}} passos",
   "success": "Sucesso",

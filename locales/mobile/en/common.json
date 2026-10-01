@@ -37,7 +37,6 @@
   "path_editor_start_group_skipped_open": "Skipped, no practice yet",
   "path_editor_start_group_skipped_waiting": "Skipped, not reached yet",
   "path_editor_start_skipped_return": "{{name}} can still practise a skipped step.",
-  "path_editor_start_done": "“{{step}}” is open now.",
   "path_editor_step_actions": "Step actions",
   "path_editor_steps_progress": "{{done}} of {{total}} steps",
   "success": "Success",
