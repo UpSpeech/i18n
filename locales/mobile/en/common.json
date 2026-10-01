@@ -1964,14 +1964,16 @@
   "path_composer_their_caregiver": "their caregiver",
   "exercise_technique_practice_instructions": "Say it out loud, in your own words.",
   "analytics_consent_title": "Share usage data?",
-  "analytics_consent_intro": "With your permission, UpSpeech sends a few usage events to PostHog, our analytics provider in the EU.",
+  "analytics_consent_intro": "If you allow it, UpSpeech sends a few usage events to PostHog, our analytics provider in the EU. Each one is linked to your account and your clinic.",
   "analytics_consent_sent_heading": "What we send",
   "analytics_consent_sent_practice_started": "A practice starts",
   "analytics_consent_sent_practice_finished": "A practice finishes",
   "analytics_consent_sent_reminder_opened": "You open a reminder",
+  "analytics_consent_attached_heading": "Attached to each",
   "analytics_consent_sent_account": "Your account ID, role and clinic",
   "analytics_consent_sent_study": "Whether you're in a study, and which week you joined",
   "analytics_consent_sent_phone_type": "Your phone type",
+  "analytics_consent_sent_app_version": "The app version, your phone's software version and screen size",
   "analytics_consent_sent_device_id": "A random ID for this phone",
   "analytics_consent_never_heading": "What we never send",
   "analytics_consent_never_recordings": "Recordings",
@@ -1983,7 +1985,7 @@
   "analytics_consent_optional": "Saying no changes nothing about how the app works. You can change your mind any time in Settings.",
   "analytics_consent_accept": "Allow",
   "analytics_consent_decline": "Don't allow",
-  "analytics_consent_settings_title": "Usage analytics",
-  "analytics_consent_settings_label": "Share usage analytics",
-  "analytics_consent_settings_helper": "Sends when a practice starts and finishes and when you open a reminder. Never recordings, notes or names."
+  "analytics_consent_settings_title": "Usage data",
+  "analytics_consent_settings_label": "Share usage data",
+  "analytics_consent_settings_helper": "Practice and reminder events, linked to your account. Never recordings, ratings, notes or names."
 }

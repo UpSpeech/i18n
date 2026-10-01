@@ -1964,14 +1964,16 @@
   "path_composer_their_caregiver": "su cuidador",
   "exercise_technique_practice_instructions": "Dilo en voz alta, con tus propias palabras.",
   "analytics_consent_title": "¿Compartir datos de uso?",
-  "analytics_consent_intro": "Con tu permiso, UpSpeech envía algunos datos de uso a PostHog, nuestro proveedor de analítica en la UE.",
+  "analytics_consent_intro": "Si lo permites, UpSpeech envía algunos eventos de uso a PostHog, nuestro proveedor de analítica en la UE. Cada uno queda vinculado a tu cuenta y a tu clínica.",
   "analytics_consent_sent_heading": "Lo que enviamos",
   "analytics_consent_sent_practice_started": "Empieza una práctica",
   "analytics_consent_sent_practice_finished": "Termina una práctica",
   "analytics_consent_sent_reminder_opened": "Abres un recordatorio",
+  "analytics_consent_attached_heading": "Junto a cada uno",
   "analytics_consent_sent_account": "El identificador de tu cuenta, tu rol y tu clínica",
   "analytics_consent_sent_study": "Si participas en un estudio y en qué semana te uniste",
   "analytics_consent_sent_phone_type": "El tipo de teléfono",
+  "analytics_consent_sent_app_version": "La versión de la aplicación, la versión del sistema del teléfono y el tamaño de la pantalla",
   "analytics_consent_sent_device_id": "Un identificador aleatorio de este teléfono",
   "analytics_consent_never_heading": "Lo que nunca enviamos",
   "analytics_consent_never_recordings": "Grabaciones",
@@ -1985,5 +1987,5 @@
   "analytics_consent_decline": "No permitir",
   "analytics_consent_settings_title": "Datos de uso",
   "analytics_consent_settings_label": "Compartir datos de uso",
-  "analytics_consent_settings_helper": "Envía cuándo empieza y termina una práctica y cuándo abres un recordatorio. Nunca grabaciones, notas ni nombres."
+  "analytics_consent_settings_helper": "Eventos de práctica y de recordatorios, vinculados a tu cuenta. Nunca grabaciones, valoraciones, notas ni nombres."
 }
