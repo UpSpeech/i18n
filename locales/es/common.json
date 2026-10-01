@@ -1447,15 +1447,15 @@
       "last_activity": "última actividad el {{date}}",
       "no_sessions_paused": "Sin sesiones mientras está en pausa",
       "start_now": "Empezar ya",
-      "start_now_title": "¿Empezar “{{step}}” ya?",
-      "start_now_open": "Se abre para {{name}} enseguida.",
+      "start_now_title": "¿Empezar ya el paso {{number}}?",
       "keep_only": "Dejar solo este abierto",
-      "keep_only_title": "¿Dejar solo “{{step}}” abierto?",
-      "start_group_done": "Se cierra como hecho",
-      "start_group_skipped_open": "Saltado, aún sin práctica",
-      "start_group_skipped_waiting": "Saltado, aún no alcanzado",
+      "keep_only_title": "¿Dejar solo el paso {{number}} abierto?",
+      "start_group_done": "Se marcará como hecho",
+      "start_group_skipped_open": "Se saltará, aún sin práctica",
+      "start_group_skipped_waiting": "Se saltará, aún no alcanzado",
       "start_skipped_return": "{{name}} todavía puede practicar un paso saltado.",
-      "start_done": "“{{step}}” ya está abierto."
+      "start_done": "“{{step}}” ya está abierto.",
+      "start_group_opens": "Se abrirá"
     }
   },
   "questionnaire": {

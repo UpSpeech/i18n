@@ -1447,15 +1447,15 @@
       "last_activity": "last activity {{date}}",
       "no_sessions_paused": "No sessions while paused",
       "start_now": "Start this now",
-      "start_now_title": "Start “{{step}}” now?",
-      "start_now_open": "It opens for {{name}} straight away.",
+      "start_now_title": "Start step {{number}} now?",
       "keep_only": "Keep only this one open",
-      "keep_only_title": "Keep only “{{step}}” open?",
-      "start_group_done": "Closes as done",
-      "start_group_skipped_open": "Skipped, no practice yet",
-      "start_group_skipped_waiting": "Skipped, not reached yet",
+      "keep_only_title": "Keep only step {{number}} open?",
+      "start_group_done": "Will be marked done",
+      "start_group_skipped_open": "Will be skipped, no practice yet",
+      "start_group_skipped_waiting": "Will be skipped, not reached yet",
       "start_skipped_return": "{{name}} can still practise a skipped step.",
-      "start_done": "“{{step}}” is open now."
+      "start_done": "“{{step}}” is open now.",
+      "start_group_opens": "Will open"
     }
   },
   "questionnaire": {
