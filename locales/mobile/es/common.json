@@ -1978,6 +1978,7 @@
   "analytics_consent_sent_phone_type": "El tipo de teléfono",
   "analytics_consent_sent_app_version": "La versión de la aplicación, la versión del sistema del teléfono y el tamaño de la pantalla",
   "analytics_consent_sent_device_id": "Un identificador aleatorio de este teléfono",
+  "analytics_consent_sent_experiment": "Qué versión recibes, cuando probamos un cambio en los recordatorios",
   "analytics_consent_never_heading": "Nunca enviamos",
   "analytics_consent_never_recordings": "Grabaciones",
   "analytics_consent_never_ratings": "Cómo valoraste tu habla",
