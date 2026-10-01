@@ -1969,6 +1969,8 @@
   "analytics_consent_sent_practice_started": "A practice starts",
   "analytics_consent_sent_practice_finished": "A practice finishes",
   "analytics_consent_sent_reminder_opened": "You open a reminder",
+  "analytics_consent_sent_account": "Your account ID, role and clinic",
+  "analytics_consent_sent_study": "Whether you're in a study, and which week you joined",
   "analytics_consent_sent_phone_type": "Your phone type",
   "analytics_consent_sent_device_id": "A random ID for this phone",
   "analytics_consent_never_heading": "What we never send",
