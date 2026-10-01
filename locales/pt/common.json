@@ -1454,8 +1454,9 @@
       "start_group_skipped_open": "Vai ser saltado, ainda sem prática",
       "start_group_skipped_waiting": "Vai ser saltado, ainda não alcançado",
       "start_skipped_return": "{{name}} ainda pode praticar um passo saltado.",
-      "start_done": "“{{step}}” está aberto agora.",
-      "start_group_opens": "Vai abrir"
+      "start_done": "O passo {{number}} está aberto agora.",
+      "start_group_opens": "Vai abrir",
+      "keep_only_done": "O passo {{number}} é agora o único aberto."
     }
   },
   "questionnaire": {

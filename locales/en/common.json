@@ -1454,8 +1454,9 @@
       "start_group_skipped_open": "Will be skipped, no practice yet",
       "start_group_skipped_waiting": "Will be skipped, not reached yet",
       "start_skipped_return": "{{name}} can still practise a skipped step.",
-      "start_done": "“{{step}}” is open now.",
-      "start_group_opens": "Will open"
+      "start_done": "Step {{number}} is open now.",
+      "start_group_opens": "Will open",
+      "keep_only_done": "Step {{number}} is the only open step now."
     }
   },
   "questionnaire": {
