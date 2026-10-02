@@ -18,6 +18,7 @@
     "view_details": "Ver detalhes",
     "no_path_title": "Ainda não há percurso de aprendizagem",
     "no_path_description": "Este paciente ainda não tem percurso. Começa um de raiz, com um modelo ou com uma sugestão.",
+    "no_path_body": "Escolhe os passos que vai praticar entre sessões.",
     "assign_path": "Atribuir um percurso de aprendizagem",
     "steps_completed": "{{completed}} de {{total}} passos",
     "started": "Iniciado em {{date}}",
