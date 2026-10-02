@@ -34,6 +34,7 @@
     "status_label": "Filtrar por estado",
     "unread_status": "No leídas",
     "read_status": "Leídas",
+    "unread_only": "Solo no leídas",
     "inactive_patient": "Inactivos",
     "missing_feedback": "Feedback pendiente",
     "practice_reminder": "Práctica",
