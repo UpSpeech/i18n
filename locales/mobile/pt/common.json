@@ -1196,7 +1196,7 @@
   "scenario_realtime_headphones_hint": "Recomendamos auscultadores para um áudio mais limpo.",
   "scenario_realtime_status_connecting": "A ligar…",
   "scenario_realtime_status_listening": "À escuta",
-  "scenario_realtime_status_bot_speaking": "A falar",
+  "scenario_realtime_status_bot_speaking": "IA a falar",
   "scenario_realtime_status_idle": "Chamada terminada",
   "scenario_realtime_warming_up": "A preparar a chamada…",
   "scenario_realtime_objectives": "Objetivos da conversa",
