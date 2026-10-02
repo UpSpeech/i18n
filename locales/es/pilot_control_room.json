@@ -392,11 +392,11 @@
     },
     "heatmap": {
       "title": "Tendencia de Adherencia",
-      "subtitle": "Adherencia semanal por usuario (celda rellena con marca = cumplido, contorno vacío = fallido)",
+      "subtitle": "Adherencia semanal por usuario (punto relleno = cumplido, anillo vacío = fallido)",
       "patient": "Paciente",
       "met": "Cumplido",
       "missed": "Fallido",
-      "info": "Cuadrícula de adherencia semanal por paciente. Una celda rellena con una marca significa que el paciente cumplió el umbral (≥2 sesiones Y ≥6 minutos de práctica) esa semana; un contorno vacío significa que falló. Revela patrones como rendimientos consistentes, usuarios intermitentes o pacientes que se desvinculan después de una semana específica. Desplace horizontalmente para ver más semanas."
+      "info": "Cuadrícula de adherencia semanal por paciente. Un punto relleno significa que el paciente cumplió el umbral (≥2 sesiones Y ≥6 minutos de práctica) esa semana; un anillo vacío significa que falló. Revela patrones como rendimientos consistentes, usuarios intermitentes o pacientes que se desvinculan después de una semana específica. Desplace horizontalmente para ver más semanas."
     },
     "severity": {
       "title": "Cambio en severidad auto-reportada",

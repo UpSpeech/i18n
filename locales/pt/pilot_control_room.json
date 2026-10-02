@@ -392,11 +392,11 @@
     },
     "heatmap": {
       "title": "Tendência de Adesão",
-      "subtitle": "Adesão semanal por utilizador (célula preenchida com visto = cumpriu, contorno vazio = falhou)",
+      "subtitle": "Adesão semanal por utilizador (ponto preenchido = cumpriu, anel vazio = falhou)",
       "patient": "Paciente",
       "met": "Cumpriu",
       "missed": "Falhou",
-      "info": "Grelha de adesão semanal por paciente. Uma célula preenchida com um visto significa que o paciente cumpriu o limiar (≥2 sessões E ≥6 minutos de prática) nessa semana; um contorno vazio significa que falhou. Revela padrões como desempenhos consistentes, utilizadores intermitentes ou pacientes que desistem após uma semana específica. Deslize horizontalmente para ver mais semanas."
+      "info": "Grelha de adesão semanal por paciente. Um ponto preenchido significa que o paciente cumpriu o limiar (≥2 sessões E ≥6 minutos de prática) nessa semana; um anel vazio significa que falhou. Revela padrões como desempenhos consistentes, utilizadores intermitentes ou pacientes que desistem após uma semana específica. Deslize horizontalmente para ver mais semanas."
     },
     "severity": {
       "title": "Mudança na severidade auto-reportada",
