@@ -910,6 +910,7 @@
   "assessment_history_title": "Assessment history",
   "assessment_history_cbsa": "Speech assessment (CBSA)",
   "assessment_history_severity": "Daily severity",
+  "assessment_history_higher_is_worse": "Higher means more severe.",
   "assessment_history_trend": "Trend",
   "assessment_history_average": "Average",
   "assessment_history_latest": "Latest",
