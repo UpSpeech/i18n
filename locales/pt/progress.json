@@ -16,6 +16,9 @@
   "learning_path": {
     "title": "Progresso do Percurso de Aprendizagem",
     "view_details": "Ver detalhes",
+    "no_path_title": "Ainda não há percurso de aprendizagem",
+    "no_path_description": "Este paciente ainda não tem percurso. Começa um de raiz, com um modelo ou com uma sugestão.",
+    "assign_path": "Atribuir um percurso de aprendizagem",
     "steps_completed": "{{completed}} de {{total}} passos",
     "started": "Iniciado em {{date}}",
     "current_step_label": "Passo atual",

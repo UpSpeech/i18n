@@ -16,6 +16,9 @@
   "learning_path": {
     "title": "Progreso de la Ruta de Aprendizaje",
     "view_details": "Ver detalles",
+    "no_path_title": "Todavía no hay ruta de aprendizaje",
+    "no_path_description": "Este paciente aún no tiene ruta. Empieza una desde cero, con una plantilla o con una sugerencia.",
+    "assign_path": "Asignar una ruta de aprendizaje",
     "steps_completed": "{{completed}} de {{total}} pasos",
     "started": "Iniciado el {{date}}",
     "current_step_label": "Paso actual",

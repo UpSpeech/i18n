@@ -16,6 +16,9 @@
   "learning_path": {
     "title": "Learning path progress",
     "view_details": "View details",
+    "no_path_title": "No learning path yet",
+    "no_path_description": "This patient has no path yet. Start one from scratch, from a template or from a suggestion.",
+    "assign_path": "Assign a learning path",
     "steps_completed": "{{completed}} of {{total}} steps",
     "started": "Started {{date}}",
     "current_step_label": "Current step",
