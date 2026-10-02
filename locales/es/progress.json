@@ -15,10 +15,10 @@
   },
   "learning_path": {
     "title": "Progreso de la Ruta de Aprendizaje",
-    "view_details": "Ver Detalles",
+    "view_details": "Ver detalles",
     "steps_completed": "{{completed}} de {{total}} pasos",
     "started": "Iniciado el {{date}}",
-    "current_step_label": "Paso Actual",
+    "current_step_label": "Paso actual",
     "step_type": {
       "standard": "Práctica",
       "quiz": "Quiz",
@@ -30,7 +30,7 @@
   },
   "back_to_patients": "Volver a Pacientes",
   "habit": {
-    "weekly_volume_title": "Esta Semana",
+    "weekly_volume_title": "Esta semana",
     "sessions_this_week": "Prácticas",
     "avg_session_minutes": "Práctica promedio",
     "total_minutes_this_week": "Tiempo total",
