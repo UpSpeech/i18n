@@ -2053,5 +2053,12 @@
   "intake_interview_answers_kept": "As tuas respostas ficam guardadas à medida que avanças. Podes fechar e voltar ainda hoje.",
   "intake_interview_answer_other": "Outra coisa",
   "intake_interview_answer_confirm": "Continuar",
-  "intake_interview_answer_nothing_else": "Nada mais a acrescentar"
+  "intake_interview_answer_nothing_else": "Nada mais a acrescentar",
+  "view_switch_label": "Mudar de vista",
+  "view_switch_me": "Eu",
+  "view_switch_child": "O meu filho ou filha",
+  "view_switch_children": "Os meus filhos",
+  "add_patient_linked_heading": "{{name}} foi adicionado",
+  "add_patient_linked_body": "{{email}} já tem uma conta UpSpeech, por isso não há convite para enviar. {{name}} já aparece nessa conta e enviámos um email a avisar.",
+  "add_patient_summary_linked_to": "Adicionado a"
 }
