@@ -121,7 +121,19 @@
         "speak_now": "Fala para veres o nível de áudio",
         "audio_level": "Nível de áudio",
         "camera_preview": "Pré-visualização da câmara"
-      }
+      },
+      "step_companion": "Companheiro",
+      "companion_title": "Conhece o {{companion}}",
+      "companion_body": "O {{companion}} faz companhia a {{child}} quando praticam. Depois da primeira prática juntos, {{child}} escolhe a cor do {{companion}}.",
+      "try_first_exercise": "Experimenta tu o primeiro exercício de {{child}}",
+      "try_first_exercise_he": "Experimenta tu o primeiro exercício do {{child}}",
+      "try_first_exercise_she": "Experimenta tu o primeiro exercício da {{child}}",
+      "try_later": "Mais tarde",
+      "try_first_note": "Treino. Nada é guardado nem enviado.",
+      "try_first_reason": "Experimenta um primeiro por conta própria, para ficar familiar quando te sentares com {{child}}.",
+      "try_first_reason_he": "Experimenta um primeiro por conta própria, para ficar familiar quando te sentares com o {{child}}.",
+      "try_first_reason_she": "Experimenta um primeiro por conta própria, para ficar familiar quando te sentares com a {{child}}.",
+      "consent_narration": "Olá, {{name}}. Antes de começarmos, há duas coisas a aceitar."
     },
     "guardian": {
       "title": "Os dados de {{child}}",

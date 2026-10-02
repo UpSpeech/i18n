@@ -31,8 +31,10 @@
   "filters": {
     "all_types": "Todas",
     "all_status": "Todas",
+    "status_label": "Filtrar por estado",
     "unread_status": "Não lidas",
     "read_status": "Lidas",
+    "unread_only": "Só não lidas",
     "inactive_patient": "Inativos",
     "missing_feedback": "Feedback pendente",
     "practice_reminder": "Prática",

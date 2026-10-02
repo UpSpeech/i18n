@@ -121,7 +121,19 @@
         "speak_now": "Speak to see the audio level",
         "audio_level": "Audio level",
         "camera_preview": "Camera preview"
-      }
+      },
+      "step_companion": "Companion",
+      "companion_title": "Meet {{companion}}",
+      "companion_body": "{{companion}} keeps {{child}} company when you practise. After your first practice together, {{child}} picks {{companion}}'s colour.",
+      "try_first_exercise": "Try {{child}}'s first exercise yourself",
+      "try_first_exercise_he": "Try {{child}}'s first exercise yourself",
+      "try_first_exercise_she": "Try {{child}}'s first exercise yourself",
+      "try_later": "Later",
+      "try_first_note": "Practice run. Nothing is saved or sent.",
+      "try_first_reason": "Try one on your own first, so it feels familiar when you sit down with {{child}}.",
+      "try_first_reason_he": "Try one on your own first, so it feels familiar when you sit down with {{child}}.",
+      "try_first_reason_she": "Try one on your own first, so it feels familiar when you sit down with {{child}}.",
+      "consent_narration": "Hello, {{name}}. Before we start, there are two things to agree to."
     },
     "guardian": {
       "title": "About {{child}}'s data",

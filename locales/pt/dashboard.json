@@ -307,5 +307,11 @@
     "practice_sessions_one": "sessão",
     "practice_sessions_other": "sessões",
     "practice_reported_by": "Registado por {{name}}"
+  },
+  "view_switch": {
+    "label": "Mudar de vista",
+    "me": "Eu",
+    "child": "O meu filho ou filha",
+    "children": "Os meus filhos"
   }
 }
