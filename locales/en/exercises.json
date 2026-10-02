@@ -586,7 +586,7 @@
       "medium_desc": "Hold the moment and exit at a moderate, comfortable pace",
       "natural_desc": "Hold the moment and exit at a natural speaking pace"
     },
-    "ready_title": "Ready to Practice",
+    "ready_title": "Ready to Practise",
     "start_practice": "Start Practice",
     "completed_partial": "Practice recorded.",
     "duration_recorded": "Duration: {{duration}}s",
@@ -608,7 +608,7 @@
     "hold_description": "We'll guide you through {{cycles}} holding moments. Press and hold whenever you feel a stuttering moment.",
     "duration_target": "Hold for {{seconds}}s",
     "duration_target_desc": "Hold the moment for {{seconds}} seconds, then exit smoothly.",
-    "practice_again": "Practice Again",
+    "practice_again": "Practise Again",
     "uploading": "Uploading recording...",
     "default_instructions": "Hold the moment of stuttering and exit smoothly.",
     "holding": "Holding..."
@@ -618,17 +618,17 @@
       "easy_voluntary": "Easy Voluntary Stuttering",
       "voluntary_with_force": "Voluntary Stuttering with Tension",
       "voluntary_without_force": "Voluntary Stuttering without Tension",
-      "easy_voluntary_desc": "Practice easy repetitions. Mark when you're doing voluntary (controlled) stuttering.",
+      "easy_voluntary_desc": "Practise easy repetitions. Mark when you're doing voluntary (controlled) stuttering.",
       "voluntary_with_force_desc": "Exaggerate the tension. Press the Tension button when you start adding tension, and Release when you let go.",
       "voluntary_without_force_desc": "Same stuttering moments, but now soft and controlled. Mark the moments to show your control."
     },
-    "ready_title": "Ready to Practice",
-    "ready_desc": "Start recording and practice voluntary stuttering. Use the button to mark your moments.",
+    "ready_title": "Ready to Practise",
+    "ready_desc": "Start recording and practise voluntary stuttering. Use the button to mark your moments.",
     "ready_force_desc": "Start recording and use the buttons below to mark when you're adding tension and when you release.",
     "completed": "Practice Completed!",
     "submit": "Submit Practice",
     "finish": "Finish",
-    "practice_again": "Practice Again",
+    "practice_again": "Practise Again",
     "mark": "Mark",
     "force": "Tension",
     "release": "Release",
@@ -642,7 +642,7 @@
     "review_moments": "Review moments ({{count}})",
     "play_moment": "Play moment {{number}}",
     "hold_interval": "{{number}}: {{start}} → {{end}} ({{duration}}s)",
-    "default_instructions": "Practice voluntary stuttering to build motor control."
+    "default_instructions": "Practise voluntary stuttering to build motor control."
   },
   "journal": {
     "prompts_title": "Writing prompts to get you started",
@@ -678,27 +678,27 @@
       "medium_desc": "A comfortable 2-second pause. Feel the stillness.",
       "short_desc": "A brief 1-second pause. Quick and natural."
     },
-    "ready_title": "Ready to Practice Pauses",
+    "ready_title": "Ready to Practise Pauses",
     "progress_label": "Pauses completed",
     "target_reached": "Target reached!",
     "completed_full": "Excellent! All pauses completed.",
     "completed_partial": "Practice recorded.",
     "summary": "Duration: {{duration}}s • {{pauses}} pauses",
     "submit": "Submit Practice",
-    "default_instructions": "Practice natural pausing in your speech.",
+    "default_instructions": "Practise natural pausing in your speech.",
     "completed_no_pauses": "Practice Recorded",
     "hold_to_pause": "Hold to Pause",
     "no_pauses_hint": "No pauses were marked. Try holding the button each time you pause in your speech.",
     "pause_detail": "Pause {{number}} \\u2014 {{time}} ({{duration}}s)",
     "pausing": "Pausing...",
     "play_pause": "Play pause {{number}}",
-    "practice_again": "Practice Again",
+    "practice_again": "Practise Again",
     "ready_hold_description": "Start recording and hold the button each time you pause. Aim for about {{duration}} seconds per pause, {{count}} times.",
     "review_pauses": "Review pauses ({{count}})"
   },
   "disclosure": {
     "practice_title": "Disclosure Practice",
-    "practice_description": "Practice saying a disclosure phrase out loud with confidence.",
+    "practice_description": "Practise saying a disclosure phrase out loud with confidence.",
     "choose_level": "Choose difficulty level:",
     "level_desc": {
       "1": "The other person is patient and supportive.",
@@ -711,9 +711,9 @@
       "2": "Just so you know, I'm a person who stutters. It's just how I talk.",
       "3": "Before we begin, I want you to know that I stutter. I'd appreciate your patience."
     },
-    "choose_prompt": "Choose a disclosure prompt to practice:",
+    "choose_prompt": "Choose a disclosure prompt to practise:",
     "level": "Level {{level}}",
-    "ready_title": "Ready to Practice",
+    "ready_title": "Ready to Practise",
     "ready_description": "Take a breath, then record yourself saying the disclosure phrase with confidence.",
     "start_recording": "Start Recording",
     "recording": "Recording...",
@@ -730,7 +730,7 @@
     },
     "try_again": "Try Again",
     "submit": "Submit Practice",
-    "default_instructions": "Practice sharing about your speech in a safe space."
+    "default_instructions": "Practise sharing about your speech in a safe space."
   },
   "generalisation": {
     "scenario_label": "Your Scenario",
@@ -756,13 +756,13 @@
     },
     "submit": "Complete Exercise",
     "default_instructions": "Apply your techniques in this real-world scenario.",
-    "default_prompt": "Practice using your techniques naturally in conversation.",
+    "default_prompt": "Practise using your techniques naturally in conversation.",
     "ready_hold_description": "Record yourself practising the scenario. Select a technique, then hold the button while using it.",
     "completed_no_techniques": "Practice Recorded",
     "hold_technique": "Hold: {{technique}}",
     "no_techniques_hint": "No techniques were marked. Try selecting a technique and holding the button while using it.",
     "play_technique": "Play technique {{number}}",
-    "practice_again": "Practice Again",
+    "practice_again": "Practise Again",
     "review_techniques": "Review techniques ({{count}})",
     "select_technique": "Select technique, then hold:",
     "short": {
@@ -835,7 +835,7 @@
     "recording_count": "{{count}} recording"
   },
   "reading_prompt": {
-    "invitation": "Want something to practice with?",
+    "invitation": "Want something to practise with?",
     "generate": "Get started",
     "choose_mode": "What would you like?",
     "mode_topic": "Get a topic",
@@ -858,8 +858,8 @@
     "suggest_topics": "Suggest Topics",
     "topics_error": "Could not load topics. Try again.",
     "passage_length": "Length",
-    "mode_words": "Practice words",
-    "mode_words_desc": "Read random words to practice with",
+    "mode_words": "Practise words",
+    "mode_words_desc": "Read random words to practise with",
     "how_many_words": "How many words?",
     "generate_words": "Generate",
     "your_words": "Your words",
@@ -895,7 +895,7 @@
     "description": "If you'd like, let us know what happened. Your therapist reads it next to this attempt.",
     "reasons": {
       "background_noise": "Too much background noise",
-      "wanted_practice": "Wanted to practice more first",
+      "wanted_practice": "Wanted to practise more first",
       "mistake": "Made a mistake",
       "not_ready": "Didn't feel ready",
       "poor_quality": "Poor audio/video quality",
@@ -959,7 +959,7 @@
       ]
     },
     "practice_material": {
-      "title": "Practice with these",
+      "title": "Practise with these",
       "words": "Words",
       "phrases": "Phrases",
       "sentences": "Sentences",

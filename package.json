@@ -11,7 +11,7 @@
     "locales"
   ],
   "scripts": {
-    "check": "node scripts/check-parity.mjs && node scripts/check-option-balance.mjs"
+    "check": "node scripts/check-parity.mjs && node scripts/check-option-balance.mjs && node scripts/check-british.mjs"
   },
   "repository": {
     "type": "git",
