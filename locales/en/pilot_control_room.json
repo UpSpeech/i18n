@@ -392,11 +392,11 @@
     },
     "heatmap": {
       "title": "Adherence trend",
-      "subtitle": "Weekly adherence per user (green = met threshold, red = missed)",
+      "subtitle": "Weekly adherence per user (filled tick = met threshold, empty outline = missed)",
       "patient": "Patient",
       "met": "Met",
       "missed": "Missed",
-      "info": "Per-patient weekly adherence grid. Green cells mean the patient met the threshold (≥2 sessions AND ≥6 minutes of practice) that week; red cells mean they missed it. Reveals patterns like consistent high performers, intermittent users, or patients who disengage after a specific week. Scroll horizontally for more weeks."
+      "info": "Per-patient weekly adherence grid. A filled cell with a tick means the patient met the threshold (≥2 sessions AND ≥6 minutes of practice) that week; an empty outline means they missed it. Reveals patterns like consistent high performers, intermittent users, or patients who disengage after a specific week. Scroll horizontally for more weeks."
     },
     "severity": {
       "title": "Self-Reported severity change",
