@@ -1549,6 +1549,8 @@
   "caregiver_reminder_skip": "Skip for now",
   "caregiver_finish_setup": "Finish setup",
   "caregiver_continue": "Continue",
+  "caregiver_companion_step_title": "Meet {{companion}}",
+  "caregiver_companion_step_body": "{{companion}} will be there when you practise. {{child}} picks {{companion}}'s colour when you finish your first one together.",
   "caregiver_step_of": "Step {{current}} of {{total}}",
   "homework_section_title": "{{child}}'s homework",
   "homework_screen_title": "Homework",
