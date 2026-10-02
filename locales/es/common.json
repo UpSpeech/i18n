@@ -162,6 +162,11 @@
     "messages": "Mensajes",
     "messages_unread": "Mensajes, {{count}} sin leer",
     "gated_tooltip": "Completa la evaluación para continuar",
+    "gated_tooltip_guardian": "Confirma tu responsabilidad por el menor para continuar",
+    "gated_tooltip_pilotConsent": "Completa los pasos de bienvenida para continuar",
+    "gated_tooltip_cbsaOnboarding": "Completa la evaluación para continuar",
+    "gated_tooltip_dailySeverity": "Completa el check-in de hoy para continuar",
+    "gated_tooltip_cbsaWeekly": "Completa la evaluación de esta semana para continuar",
     "game_catalogue": "Catálogo de ejercicios",
     "resource_library": "Biblioteca de recursos"
   },

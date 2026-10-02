@@ -159,7 +159,8 @@
       "weekly_checkin_overdue": "Revisión semanal pendiente",
       "moderate_or_worse": "Gravedad moderada o peor",
       "worsening_weekly": "Tendencia semanal a empeorar",
-      "high_daily": "Puntuaciones diarias recientes altas"
+      "high_daily": "Puntuaciones diarias recientes altas",
+      "first_recording_waiting": "Primera grabación esperando respuesta"
     },
     "attention_queue_action_review": "Revisar ahora",
     "attention_queue_action_review_count": "Revisar ({{count}})",
@@ -292,19 +293,25 @@
   "caregiver": {
     "practising_with": "Practicando con",
     "child_age": "{{name}}, {{count}} años",
-      "reminder_title": "Recordatorio diario",
-      "reminder_change": "Cambiar",
-      "reminder_at_hour": "a las {{hour}}:00",
-      "reminder_morning": "Mañana · 8:00",
-      "reminder_after_school": "Después del colegio · 16:00",
-      "reminder_after_dinner": "Después de cenar · 18:00",
-      "reminder_bedtime": "Hora de dormir · 20:00",
-      "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes.",
-      "switch_label": "Acompañando a {{name}}",
-      "therapist_note_title": "De {{therapist}}",
-      "practice_title": "La práctica de {{child}}",
-      "practice_sessions_one": "sesión",
-      "practice_sessions_other": "sesiones",
-      "practice_reported_by": "Registrado por {{name}}"
+    "reminder_title": "Recordatorio diario",
+    "reminder_change": "Cambiar",
+    "reminder_at_hour": "a las {{hour}}:00",
+    "reminder_morning": "Mañana · 8:00",
+    "reminder_after_school": "Después del colegio · 16:00",
+    "reminder_after_dinner": "Después de cenar · 18:00",
+    "reminder_bedtime": "Hora de dormir · 20:00",
+    "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes.",
+    "switch_label": "Acompañando a {{name}}",
+    "therapist_note_title": "De {{therapist}}",
+    "practice_title": "La práctica de {{child}}",
+    "practice_sessions_one": "sesión",
+    "practice_sessions_other": "sesiones",
+    "practice_reported_by": "Registrado por {{name}}"
+  },
+  "view_switch": {
+    "label": "Cambiar de vista",
+    "me": "Yo",
+    "child": "Mi hijo o hija",
+    "children": "Mis hijos"
   }
 }
