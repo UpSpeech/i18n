@@ -1846,6 +1846,7 @@
   "child_hand_over": "Passar a {{name}}",
   "child_back_to": "{{name}} →",
   "child_show_first": "Mostra a {{name}} primeiro",
+  "child_show_first_hint": "Um olá rápido para {{name}} antes de começarem.",
   "child_hello_greeting": "Olá, {{name}}!",
   "child_hello_line": "Vamos praticar juntos.",
   "child_done_title": "Conseguimos!",
