@@ -338,7 +338,7 @@
     "import_defaults": {
       "button": "Importar Ejercicios Iniciales",
       "importing": "Importando...",
-      "description": "Comience rápidamente con 17 ejercicios curados de terapia del tartamudeo cubriendo todas las técnicas principales.",
+      "description": "Empieza rápidamente con 17 ejercicios curados de terapia del tartamudeo cubriendo todas las técnicas principales.",
       "success": "Importados {{count}} ejercicios iniciales",
       "all_exist": "Todos los ejercicios iniciales ya existen"
     },
@@ -402,8 +402,8 @@
     "avoidance_behaviors": "Evitaciones",
     "starter_postponements": "Iniciadores/Postergaciones",
     "record_reference_video": "Grabar Vídeo de Referencia",
-    "camera_permission_error": "No se pudo acceder a la cámara y micrófono. Verifique los permisos.",
-    "recording_start_error": "No se pudo iniciar la grabación. Inténtelo de nuevo."
+    "camera_permission_error": "No se pudo acceder a la cámara y micrófono. Verifica los permisos.",
+    "recording_start_error": "No se pudo iniciar la grabación. Inténtalo de nuevo."
   },
   "recording": {
     "add_notes": "Agregar notas (opcional)...",
@@ -527,7 +527,7 @@
         "minimum_moments": "Marca al menos un momento antes de continuar."
       }
     },
-    "default_instructions": "Vea el vídeo e identifique los momentos de disfluencia.",
+    "default_instructions": "Mira el vídeo e identifica los momentos de disfluencia.",
     "identified_moments_count": "Momentos Identificados ({{count}})",
     "marker_hint": "Haz clic para buscar, doble clic para eliminar",
     "notes_placeholder": "Agregar notas sobre este momento (opcional)...",
@@ -575,7 +575,7 @@
     "video_recorded": "Video grabado",
     "text_written": "Reflexión escrita",
     "submit": "Enviar Reflexión",
-    "default_instructions": "Tómese un momento para reflexionar sobre su experiencia."
+    "default_instructions": "Tómate un momento para reflexionar sobre tu experiencia."
   },
   "motor_control": {
     "step": {
@@ -606,7 +606,7 @@
     "review_moments": "Revisar momentos ({{count}})",
     "play_moment": "Reproducir momento {{number}}",
     "hold_interval": "{{number}}: {{start}} → {{end}} ({{duration}}s)",
-    "default_instructions": "Practique el tartamudeo voluntario para desarrollar el control motor."
+    "default_instructions": "Practica el tartamudeo voluntario para desarrollar el control motor."
   },
   "holding": {
     "exit_speed": {
@@ -666,7 +666,7 @@
       "good": "Bueno",
       "great": "Genial"
     },
-    "default_instructions": "Escriba sobre cómo se sintió y sus experiencias con el habla hoy.",
+    "default_instructions": "Escribe sobre cómo te sentiste y tus experiencias con el habla hoy.",
     "therapist_comment": "Nota del Terapeuta"
   },
   "pause": {
@@ -685,7 +685,7 @@
     "completed_partial": "Práctica grabada.",
     "summary": "Duración: {{duration}}s • {{pauses}} pausas",
     "submit": "Enviar Práctica",
-    "default_instructions": "Practique pausas naturales en su discurso.",
+    "default_instructions": "Practica pausas naturales en tu discurso.",
     "completed_no_pauses": "Práctica Grabada",
     "hold_to_pause": "Mantén para Pausar",
     "no_pauses_hint": "No se marcaron pausas. Intenta mantener el botón presionado cada vez que pauses en tu discurso.",
@@ -730,7 +730,7 @@
     },
     "try_again": "Intentar de Nuevo",
     "submit": "Enviar Práctica",
-    "default_instructions": "Practique hablar sobre su habla en un espacio seguro."
+    "default_instructions": "Practica hablar sobre tu habla en un espacio seguro."
   },
   "generalisation": {
     "scenario_label": "Tu Escenario",
@@ -784,7 +784,7 @@
     "notes_label": "Notas Adicionales (Opcional)",
     "notes_placeholder": "¿Qué notaste? ¿Algún momento específico que quieras recordar?",
     "submit": "Guardar Reflexión",
-    "default_instructions": "Vea su grabación y reflexione sobre su práctica.",
+    "default_instructions": "Mira tu grabación y reflexiona sobre tu práctica.",
     "re_record": "Regrabar Video",
     "reflect": "Reflexiona Sobre Tu Práctica"
   },
@@ -793,14 +793,14 @@
     "truncated": "Mostrando {{scanned}} de tus pacientes. {{missing}} no están en esta lista. Elige un paciente para ver todo lo suyo.",
     "all_patients": "Todos los pacientes",
     "page_title": "Envíos",
-    "page_subtitle": "Revise todos los envíos de pacientes en ejercicios, escenarios y evaluaciones",
+    "page_subtitle": "Revisa todos los envíos de pacientes en ejercicios, escenarios y evaluaciones",
     "filter_title": "Filtrar Envíos",
-    "select_patient": "Seleccione un paciente",
-    "select_patient_description": "Elija un paciente para ver sus envíos",
+    "select_patient": "Selecciona un paciente",
+    "select_patient_description": "Elige un paciente para ver sus envíos",
     "no_submissions": "Sin Envíos",
     "no_submissions_description": "Este paciente aún no ha completado ningún ejercicio o actividad.",
     "no_results": "Sin Resultados",
-    "no_results_description": "Ningún envío coincide con los filtros actuales. Intente ajustar los criterios.",
+    "no_results_description": "Ningún envío coincide con los filtros actuales. Intenta ajustar los criterios.",
     "recording_count": "{{count}} grabación",
     "loading_details": "Cargando detalles...",
     "loading_error": "Error al cargar los detalles",
@@ -866,7 +866,7 @@
     "shuffle": "Mezclar"
   },
   "observation": {
-    "default_instructions": "Vea el vídeo con atención y evalúe al comunicador en cada dimensión.",
+    "default_instructions": "Mira el vídeo con atención y evalúa al comunicador en cada dimensión.",
     "encouragement": "No hay respuestas correctas o incorrectas. Evalúa lo que observas.",
     "grid_title": "Cuadrícula de Observación",
     "progress": "{{rated}} de {{total}} evaluados",

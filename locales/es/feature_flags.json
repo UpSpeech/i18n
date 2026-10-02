@@ -18,7 +18,7 @@
   "tenants": {
     "title": "Organizaciones",
     "total": "{{count}} total",
-    "select_prompt": "Seleccione una organización para ver y gestionar funcionalidades",
+    "select_prompt": "Selecciona una organización para ver y gestionar funcionalidades",
     "system_subtitle": "Anulaciones Globales",
     "search_placeholder": "Buscar organizaciones",
     "no_results": "Ninguna organización coincide con \"{{query}}\"",
@@ -47,7 +47,7 @@
   },
   "system_tenant": {
     "title": "Funcionalidades Globales",
-    "description": "Está viendo la organización del sistema. Use los controles a continuación para establecer anulaciones globales que afectan a <strong>todas las organizaciones</strong> a la vez. Esto es útil para activar o desactivar funcionalidades en toda la plataforma."
+    "description": "Estás viendo la organización del sistema. Usa los controles a continuación para establecer anulaciones globales que afectan a <strong>todas las organizaciones</strong> a la vez. Esto es útil para activar o desactivar funcionalidades en toda la plataforma."
   },
   "global_override": {
     "title": "Anulación Global (afecta a todas las organizaciones)",

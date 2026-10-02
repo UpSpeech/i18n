@@ -8,7 +8,7 @@
   "step_monologue": "Habla Libre",
   "reading": {
     "title": "Lectura en Voz Alta",
-    "instruction": "Lea el texto a continuación en voz alta, a su ritmo natural. Grabaremos un vídeo mientras lee.",
+    "instruction": "Lee el texto a continuación en voz alta, a tu ritmo natural. Grabaremos un vídeo mientras lees.",
     "text": "El viento norte y el sol discutían cuál de los dos era el más fuerte, cuando acertó a pasar un viajero envuelto en una capa. Al verlo, se pusieron de acuerdo en que aquel que primero consiguiera obligar al viajero a quitarse la capa sería considerado el más fuerte. El viento norte comenzó a soplar con mucha furia, pero cuanto más soplaba, más se arropaba el viajero con su capa, hasta que el viento norte desistió. El sol brilló entonces con todo su esplendor, e inmediatamente el viajero se quitó la capa. El viento norte tuvo así que reconocer la superioridad del sol."
   },
   "monologue": {
@@ -30,7 +30,7 @@
     "quick_pets": "Mascotas"
   },
   "recording": {
-    "duration_hint": "Su grabación debe tener entre 2 y 3 minutos.",
+    "duration_hint": "Tu grabación debe tener entre 2 y 3 minutos.",
     "idle_hint": "La vista previa de la cámara aparecerá aquí",
     "start": "Iniciar Grabación",
     "stop": "Detener Grabación",
@@ -38,30 +38,30 @@
     "continue": "Continuar",
     "submit": "Enviar Grabación",
     "uploading": "Enviando...",
-    "upload_error": "La grabación no se envió. Verifique su conexión e inténtelo de nuevo.",
+    "upload_error": "La grabación no se envió. Verifica tu conexión e inténtalo de nuevo.",
     "too_short": "Esta grabación tiene menos de 2 minutos. Recomendamos 2–3 minutos para mejores resultados.",
     "confirm_short_title": "Grabación corta",
-    "confirm_short_body": "Su grabación tiene menos de los 2 minutos recomendados. ¿Desea enviarla de todos modos, o seguir grabando?",
+    "confirm_short_body": "Tu grabación tiene menos de los 2 minutos recomendados. ¿Quieres enviarla de todos modos, o seguir grabando?",
     "confirm_short_submit": "Enviar de todos modos",
     "confirm_short_cancel": "Seguir grabando",
-    "min_reached": "Ha pasado la marca de los 2 minutos. Puede detenerse cuando quiera.",
-    "min_remaining": "Continúe. Faltan {{time}} para los 2 minutos"
+    "min_reached": "Has pasado la marca de los 2 minutos. Puedes detenerte cuando quieras.",
+    "min_remaining": "Continúa. Faltan {{time}} para los 2 minutos"
   },
   "thank_you": {
     "title": "¡Gracias, {{name}}!",
-    "message": "Hemos recibido ambas grabaciones. Su terapeuta las revisará y se pondrá en contacto pronto.",
-    "stay_message": "Puede cerrar esta página. Le avisaremos cuando su acceso a la plataforma esté listo.",
+    "message": "Hemos recibido ambas grabaciones. Tu terapeuta las revisará y se pondrá en contacto pronto.",
+    "stay_message": "Puedes cerrar esta página. Te avisaremos cuando tu acceso a la plataforma esté listo.",
     "logout": "Cerrar sesión",
     "go_to_app": "Ir a la aplicación"
   },
   "control_group": {
     "title": "Estás inscrito, {{name}}",
-    "message": "Hemos recibido sus grabaciones. ¡Gracias por participar en este estudio! Su terapeuta se pondrá en contacto sobre su plan de práctica.",
-    "practice_hint": "No necesita hacer nada más aquí por ahora. Nos pondremos en contacto cuando el período del estudio haya concluido.",
-    "contact_hint": "¿Preguntas? Contacte directamente con su terapeuta."
+    "message": "Hemos recibido tus grabaciones. ¡Gracias por participar en este estudio! Tu terapeuta se pondrá en contacto sobre tu plan de práctica.",
+    "practice_hint": "No necesitas hacer nada más aquí por ahora. Nos pondremos en contacto cuando el período del estudio haya concluido.",
+    "contact_hint": "¿Preguntas? Contacta directamente con tu terapeuta."
   },
   "errors": {
     "load_failed": "Algo salió mal al cargar la evaluación. Por favor, actualice la página.",
-    "submit_failed": "No se pudo guardar su progreso. Inténtelo de nuevo."
+    "submit_failed": "No se pudo guardar tu progreso. Inténtalo de nuevo."
   }
 }

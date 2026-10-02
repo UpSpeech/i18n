@@ -1,8 +1,8 @@
 {
   "title": "Sala de Control Piloto",
   "subtitle": "Panel operativo para monitorizar la participación del piloto",
-  "select_tenant": "Seleccione una clínica para ver los datos del piloto",
-  "no_pilot_patients": "Ningún paciente está marcado como 'en piloto' para esta clínica. Use la sección de inscripción para añadir participantes.",
+  "select_tenant": "Selecciona una clínica para ver los datos del piloto",
+  "no_pilot_patients": "Ningún paciente está marcado como 'en piloto' para esta clínica. Usa la sección de inscripción para añadir participantes.",
   "group_filter": {
     "label": "Grupo",
     "all": "Todos los grupos",
@@ -161,7 +161,7 @@
     "banner_subtitle": "Los gráficos de adherencia, retención y abandono se rellenan una vez que el piloto tenga fecha de inicio."
   },
   "errors": {
-    "load_failed": "No se pudieron cargar los datos del piloto. Compruebe la conexión e inténtelo de nuevo.",
+    "load_failed": "No se pudieron cargar los datos del piloto. Comprueba la conexión e inténtalo de nuevo.",
     "notify_failed": "Error al enviar la notificación",
     "toggle_failed": "Error al actualizar el estado del piloto",
     "control_group_failed": "Error al actualizar el estado del grupo de control",
@@ -282,7 +282,7 @@
       "post": "Post",
       "delta": "Cambio",
       "n": "n",
-      "not_scored": "Aún no se han evaluado grabaciones de evaluación del habla. Complete las revisiones de las grabaciones de evaluación para rellenar esto."
+      "not_scored": "Aún no se han evaluado grabaciones de evaluación del habla. Completa las revisiones de las grabaciones de evaluación para rellenar esto."
     }
   },
   "dose_response": {
@@ -337,7 +337,7 @@
       "speech_assessments": "Evaluaciones del habla",
       "recording_reviews": "Revisiones de grabación",
       "none": "Ninguna todavía",
-      "unscored": "{{count}} grabación(es) de evaluación subida(s) pero aún sin evaluar. Evalúelas en la sala de anotación para rellenar la vista de resultado pre/post.",
+      "unscored": "{{count}} grabación(es) de evaluación subida(s) pero aún sin evaluar. Evalúalas en la sala de anotación para rellenar la vista de resultado pre/post.",
       "expert_reviews": "Revisiones de grabación"
     },
     "statuses": {
