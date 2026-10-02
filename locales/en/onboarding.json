@@ -125,6 +125,10 @@
       "step_companion": "Companion",
       "companion_title": "Meet {{companion}}",
       "companion_body": "{{companion}} keeps {{child}} company when you practise. After your first practice together, {{child}} picks {{companion}}'s colour.",
+      "try_first_exercise": "Try {{child}}'s first exercise yourself",
+      "try_first_exercise_he": "Try {{child}}'s first exercise yourself",
+      "try_first_exercise_she": "Try {{child}}'s first exercise yourself",
+      "try_later": "Later",
       "consent_narration": "Hello, {{name}}. Before we start, there are two things to agree to."
     },
     "guardian": {

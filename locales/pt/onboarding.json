@@ -125,6 +125,10 @@
       "step_companion": "Companheiro",
       "companion_title": "Conhece o {{companion}}",
       "companion_body": "O {{companion}} faz companhia a {{child}} quando praticam. Depois da primeira prática juntos, {{child}} escolhe a cor do {{companion}}.",
+      "try_first_exercise": "Experimenta tu o primeiro exercício de {{child}}",
+      "try_first_exercise_he": "Experimenta tu o primeiro exercício do {{child}}",
+      "try_first_exercise_she": "Experimenta tu o primeiro exercício da {{child}}",
+      "try_later": "Mais tarde",
       "consent_narration": "Olá, {{name}}. Antes de começarmos, há duas coisas a aceitar."
     },
     "guardian": {
