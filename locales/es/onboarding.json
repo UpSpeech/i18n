@@ -121,7 +121,11 @@
         "speak_now": "Habla para ver el nivel de audio",
         "audio_level": "Nivel de audio",
         "camera_preview": "Vista previa de la cámara"
-      }
+      },
+      "step_companion": "Compañero",
+      "companion_title": "Conoce a {{companion}}",
+      "companion_body": "{{companion}} estará contigo cuando practiquéis. {{child}} elige el color de {{companion}} cuando terminéis la primera práctica juntos.",
+      "consent_narration": "Hola, {{name}}. Antes de empezar, hay dos cosas que aceptar."
     },
     "guardian": {
       "title": "Los datos de {{child}}",

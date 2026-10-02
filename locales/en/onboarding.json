@@ -121,7 +121,11 @@
         "speak_now": "Speak to see the audio level",
         "audio_level": "Audio level",
         "camera_preview": "Camera preview"
-      }
+      },
+      "step_companion": "Companion",
+      "companion_title": "Meet {{companion}}",
+      "companion_body": "{{companion}} will be there when you practise. {{child}} picks {{companion}}'s colour when you finish your first one together.",
+      "consent_narration": "Hello, {{name}}. Before we start, there are two things to agree to."
     },
     "guardian": {
       "title": "About {{child}}'s data",
