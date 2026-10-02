@@ -11,7 +11,7 @@
     "all_time": "Todo el tiempo"
   },
   "error": {
-    "message": "Hubo un problema al cargar el progreso del paciente. Por favor, inténtelo de nuevo."
+    "message": "Hubo un problema al cargar el progreso del paciente. Por favor, inténtalo de nuevo."
   },
   "learning_path": {
     "title": "Progreso de la Ruta de Aprendizaje",

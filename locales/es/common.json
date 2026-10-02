@@ -459,7 +459,7 @@
   "language": "Idioma",
   "no_content_available": "No hay contenido disponible",
   "cookie_consent": {
-    "message": "Utilizamos cookies para mejorar su experiencia y analizar el uso del sitio. Al aceptar, acepta el uso de cookies de análisis.",
+    "message": "Utilizamos cookies para mejorar tu experiencia y analizar el uso del sitio. Al aceptar, aceptas el uso de cookies de análisis.",
     "learn_more": "Saber más",
     "accept": "Aceptar",
     "decline": "Rechazar",
@@ -925,16 +925,16 @@
       "exercise_4": "Así es como ocurre el progreso.",
       "step_1": "Cada paso adelante importa.",
       "step_2": "Está haciendo progresos reales.",
-      "step_3": "Muy bien. Siga adelante.",
-      "step_4": "Un paso más cerca de sus objetivos.",
+      "step_3": "Muy bien. Sigue adelante.",
+      "step_4": "Un paso más cerca de tus objetivos.",
       "milestone_1": "Este es un logro significativo.",
-      "milestone_2": "Su dedicación está dando frutos.",
+      "milestone_2": "Tu dedicación está dando frutos.",
       "milestone_3": "Debería estar orgulloso de esto.",
-      "milestone_4": "Un momento significativo en su recorrido.",
+      "milestone_4": "Un momento significativo en tu recorrido.",
       "journey_1": "Qué logro increíble.",
       "journey_2": "Ha recorrido un largo camino.",
       "journey_3": "Esto es solo el comienzo.",
-      "journey_4": "Su esfuerzo le ha traído hasta aquí."
+      "journey_4": "Tu esfuerzo te ha traído hasta aquí."
     },
     "sync_from_templates": "Sincronizar desde plantillas",
     "exercises_synced": "{{count}} ejercicios añadidos desde plantillas",
@@ -1549,7 +1549,7 @@
     "component_stack": "Pila de Componentes:",
     "reload_page": "Recargar Página",
     "try_again": "Reintentar",
-    "contact_support": "Si el problema persiste, contacte al soporte en"
+    "contact_support": "Si el problema persiste, contacta con soporte en"
   },
   "not_found": {
     "title": "Página no encontrada",

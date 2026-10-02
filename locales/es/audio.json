@@ -10,7 +10,7 @@
     "no_file_available": "Grabación no disponible"
   },
   "delete_recording": "Eliminar Grabación de Audio",
-  "delete_confirmation": "¿Está seguro de que desea eliminar esta grabación de audio ({{filename}})? Esto también eliminará todas las transcripciones e informes asociados. Esta acción no se puede deshacer.",
+  "delete_confirmation": "¿Estás seguro de que quieres eliminar esta grabación de audio ({{filename}})? Esto también eliminará todas las transcripciones e informes asociados. Esta acción no se puede deshacer.",
   "retry": "Reintentar",
   "retry_confirmation": "¿Reintentar el procesamiento de {{filename}}? La IA volverá a transcribir y regenerar el informe.",
   "annotations": {
