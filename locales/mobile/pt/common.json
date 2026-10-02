@@ -555,6 +555,7 @@
   "intake_required_open": "Abrir a entrevista",
   "intake_required_done": "Já terminei",
   "consent_title": "Termos e Privacidade",
+  "pilot_consent_narration": "Olá, {{name}}. Antes de começarmos, há duas coisas a aceitar.",
   "consent_terms_heading": "Termos de Utilização",
   "consent_terms_body": "Ao participares neste programa, concordas em utilizar a UpSpeech de acordo com o seu propósito como ferramenta de apoio à terapia da fala. Os teus dados de utilização podem ser recolhidos de forma anónima para melhorar a plataforma. Podes desistir a qualquer momento contactando o teu administrador.",
   "consent_privacy_heading": "Política de Privacidade",
