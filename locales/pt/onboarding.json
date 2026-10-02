@@ -308,7 +308,7 @@
       "resume_look_around": "Dar uma volta primeiro",
       "patient": {
         "invite_therapist_role": "{{therapist}} · terapeuta da fala",
-        "invite_bubble": "{{name}}, este é o sítio para praticares entre as nossas sessões. Eu ouço do outro lado.",
+        "invite_bubble": "Dou-te as boas-vindas ao UpSpeech, {{name}}. É aqui que vais praticar entre as nossas sessões. Vou estar a ouvir do outro lado!",
         "invite_title": "A tua voz tem lugar aqui.",
         "invite_lead": "Cinco minutos: um companheiro, uma pergunta de {{therapist}}, a tua primeira gravação.",
         "invite_cta": "Entrar com {{therapist}}",

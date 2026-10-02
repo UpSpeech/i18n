@@ -2098,7 +2098,7 @@
   "first_run_resume_body": "Everything is saved and there is nothing to repeat. Pick up here when there is a calm moment.",
   "first_run_resume_look_around": "Look around first",
   "first_run_patient_invite_therapist_role": "{{therapist}} · speech and language therapist",
-  "first_run_patient_invite_bubble": "{{name}}, this is the place to practise between our sessions. I listen on the other side.",
+  "first_run_patient_invite_bubble": "Welcome to UpSpeech, {{name}}. This is where you'll practise in between our sessions. I'll be listening on the other side!",
   "first_run_patient_invite_title": "Your voice has a place here.",
   "first_run_patient_invite_lead": "Five minutes: a companion, a question from {{therapist}}, your first recording.",
   "first_run_patient_invite_cta": "Come in with {{therapist}}",

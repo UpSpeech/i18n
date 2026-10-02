@@ -2098,7 +2098,7 @@
   "first_run_resume_body": "Todo está guardado y no hay nada que repetir. Retoma aquí cuando haya un momento tranquilo.",
   "first_run_resume_look_around": "Echar un vistazo primero",
   "first_run_patient_invite_therapist_role": "{{therapist}} · logopeda",
-  "first_run_patient_invite_bubble": "{{name}}, este es el sitio para practicar entre nuestras sesiones. Yo escucho al otro lado.",
+  "first_run_patient_invite_bubble": "Te doy la bienvenida a UpSpeech, {{name}}. Aquí es donde vas a practicar entre nuestras sesiones. ¡Voy a estar escuchando al otro lado!",
   "first_run_patient_invite_title": "Tu voz tiene un lugar aquí.",
   "first_run_patient_invite_lead": "Cinco minutos: un compañero, una pregunta de {{therapist}}, tu primera grabación.",
   "first_run_patient_invite_cta": "Entrar con {{therapist}}",

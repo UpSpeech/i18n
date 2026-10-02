@@ -308,7 +308,7 @@
       "resume_look_around": "Echar un vistazo primero",
       "patient": {
         "invite_therapist_role": "{{therapist}} · logopeda",
-        "invite_bubble": "{{name}}, este es el sitio para practicar entre nuestras sesiones. Yo escucho al otro lado.",
+        "invite_bubble": "Te doy la bienvenida a UpSpeech, {{name}}. Aquí es donde vas a practicar entre nuestras sesiones. ¡Voy a estar escuchando al otro lado!",
         "invite_title": "Tu voz tiene un lugar aquí.",
         "invite_lead": "Cinco minutos: un compañero, una pregunta de {{therapist}}, tu primera grabación.",
         "invite_cta": "Entrar con {{therapist}}",

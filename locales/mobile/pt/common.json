@@ -2098,7 +2098,7 @@
   "first_run_resume_body": "Está tudo guardado e não há nada a repetir. Retoma aqui quando houver um momento calmo.",
   "first_run_resume_look_around": "Dar uma volta primeiro",
   "first_run_patient_invite_therapist_role": "{{therapist}} · terapeuta da fala",
-  "first_run_patient_invite_bubble": "{{name}}, este é o sítio para praticares entre as nossas sessões. Eu ouço do outro lado.",
+  "first_run_patient_invite_bubble": "Dou-te as boas-vindas ao UpSpeech, {{name}}. É aqui que vais praticar entre as nossas sessões. Vou estar a ouvir do outro lado!",
   "first_run_patient_invite_title": "A tua voz tem lugar aqui.",
   "first_run_patient_invite_lead": "Cinco minutos: um companheiro, uma pergunta de {{therapist}}, a tua primeira gravação.",
   "first_run_patient_invite_cta": "Entrar com {{therapist}}",
