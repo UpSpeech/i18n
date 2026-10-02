@@ -99,7 +99,7 @@
         "title": "Consent & privacy",
         "intro": "Your privacy and safety are our priority. Please take a moment to review the information below. It explains how we protect your data during the pilot.",
         "terms_title": "Terms & conditions",
-        "terms_text": "By participating in this pilot programme, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymized form to improve the platform. You may withdraw from the pilot at any time by contacting your administrator.",
+        "terms_text": "By participating in this pilot programme, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymised form to improve the platform. You may withdraw from the pilot at any time by contacting your administrator.",
         "privacy_title": "Privacy policy",
         "privacy_text": "UpSpeech collects audio recordings, exercise data, and usage analytics to provide speech therapy services. Your data is stored securely, encrypted at rest and in transit. Your recordings are processed for speech analysis and clinical report generation, which involves trusted third-party AI providers (ElevenLabs for transcription and Google's Gemini for report generation) acting only on our instructions. We never sell your data, and we don't share it for any other purpose without your explicit consent. Your recordings are only used to train AI models if you separately opt in.",
         "privacy_link": "Read our full Privacy Policy",

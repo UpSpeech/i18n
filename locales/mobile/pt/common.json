@@ -1567,7 +1567,7 @@
   "caregiver_finish_setup": "Concluir",
   "caregiver_continue": "Continuar",
   "caregiver_companion_step_title": "Conhece o {{companion}}",
-  "caregiver_companion_step_body": "O {{companion}} vai estar presente quando praticarem. {{child}} escolhe a cor do {{companion}} quando acabarem a primeira prática juntos.",
+  "caregiver_companion_step_body": "O {{companion}} faz companhia a {{child}} quando praticam. Depois da primeira prática juntos, {{child}} escolhe a cor do {{companion}}.",
   "caregiver_step_of": "Passo {{current}} de {{total}}",
   "homework_section_title": "Trabalho de casa de {{child}}",
   "homework_screen_title": "Trabalho de casa",
