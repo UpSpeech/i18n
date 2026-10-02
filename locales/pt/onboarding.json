@@ -129,7 +129,7 @@
       "try_first_exercise_he": "Experimenta tu o primeiro exercício do {{child}}",
       "try_first_exercise_she": "Experimenta tu o primeiro exercício da {{child}}",
       "try_later": "Mais tarde",
-      "try_first_note": "Experimenta primeiro por conta própria. Nada é guardado nem enviado.",
+      "try_first_note": "Um treino só para ti. Nada é guardado nem enviado.",
       "consent_narration": "Olá, {{name}}. Antes de começarmos, há duas coisas a aceitar."
     },
     "guardian": {
