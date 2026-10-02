@@ -1835,6 +1835,8 @@
   "child_hand_over": "Pasar a {{name}}",
   "child_back_to": "{{name}} →",
   "child_show_first": "Muéstrale a {{name}} primero",
+  "child_hello_greeting": "¡Hola, {{name}}!",
+  "child_hello_line": "Vamos a practicar juntos.",
   "child_done_title": "¡Lo hicimos!",
   "child_done_companion": "{{companion}} las escuchó todas.",
   "child_done_button": "Contárselo a {{name}}",
