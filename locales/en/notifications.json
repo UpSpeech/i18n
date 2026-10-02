@@ -31,6 +31,7 @@
   "filters": {
     "all_types": "All",
     "all_status": "All",
+    "status_label": "Filter by status",
     "unread_status": "Unread",
     "read_status": "Read",
     "inactive_patient": "Inactive",
