@@ -1258,6 +1258,7 @@
   "attention_queue_reason_moderate_or_worse": "Gravidade moderada ou pior",
   "attention_queue_reason_worsening_weekly": "Tendência semanal a piorar",
   "attention_queue_reason_high_daily": "Pontuações diárias recentes altas",
+  "attention_queue_reason_first_recording_waiting": "Primeira gravação à espera de resposta",
   "attention_queue_action_review": "Rever agora",
   "attention_queue_milestone": "Marco {{position}} / {{total}}",
   "attention_queue_path_progress": "Percurso {{percentage}}%",
