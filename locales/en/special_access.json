@@ -1,9 +1,9 @@
 {
-  "page_title": "Special Access",
+  "page_title": "Special access",
   "page_subtitle": "Grant additional capabilities to individual therapists beyond their standard role permissions.",
   "permissions": {
     "control_room_access": {
-      "title": "Recording Reviews Access",
+      "title": "Recording reviews access",
       "description": "Access the Recording Reviews dashboard to review patient recordings across the organisation."
     }
   },
@@ -14,12 +14,12 @@
     "therapist_plural": "therapists"
   },
   "actions": {
-    "add_therapist": "Add Therapist",
+    "add_therapist": "Add therapist",
     "remove": "Remove",
     "cancel": "Cancel",
-    "grant": "Grant Access",
+    "grant": "Grant access",
     "grant_title": "Grant {{permission}}",
-    "revoke_title": "Revoke Access"
+    "revoke_title": "Revoke access"
   },
   "select_therapist": "Select a therapist...",
   "select_therapist_label": "Therapist",
