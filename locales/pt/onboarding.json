@@ -129,7 +129,10 @@
       "try_first_exercise_he": "Experimenta tu o primeiro exercício do {{child}}",
       "try_first_exercise_she": "Experimenta tu o primeiro exercício da {{child}}",
       "try_later": "Mais tarde",
-      "try_first_note": "Um treino só para ti. Nada é guardado nem enviado.",
+      "try_first_note": "Treino. Nada é guardado nem enviado.",
+      "try_first_reason": "Experimenta um primeiro por conta própria, para ficar familiar quando te sentares com {{child}}.",
+      "try_first_reason_he": "Experimenta um primeiro por conta própria, para ficar familiar quando te sentares com o {{child}}.",
+      "try_first_reason_she": "Experimenta um primeiro por conta própria, para ficar familiar quando te sentares com a {{child}}.",
       "consent_narration": "Olá, {{name}}. Antes de começarmos, há duas coisas a aceitar."
     },
     "guardian": {
