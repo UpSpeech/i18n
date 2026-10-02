@@ -129,6 +129,7 @@
       "try_first_exercise_he": "Try {{child}}'s first exercise yourself",
       "try_first_exercise_she": "Try {{child}}'s first exercise yourself",
       "try_later": "Later",
+      "try_first_note": "Try it on your own first. Nothing is saved or sent.",
       "consent_narration": "Hello, {{name}}. Before we start, there are two things to agree to."
     },
     "guardian": {
