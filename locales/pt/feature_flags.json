@@ -19,7 +19,7 @@
     "title": "Organizações",
     "total": "{{count}} total",
     "select_prompt": "Seleciona uma organização para ver e gerir funcionalidades",
-    "system_subtitle": "Substituições Globais",
+    "system_subtitle": "Substituições globais",
     "search_placeholder": "Pesquisar organizações",
     "no_results": "Nenhuma organização corresponde a \"{{query}}\"",
     "change_button": "Mudar organização",
@@ -41,12 +41,12 @@
     "toggle_off": "OFF",
     "click_to_enable": "Clica para ativar",
     "click_to_disable": "Clica para desativar",
-    "global_override_badge": "Substituição Global",
+    "global_override_badge": "Substituição global",
     "copy_key": "Copiar chave",
     "copied": "Copiado"
   },
   "system_tenant": {
-    "title": "Funcionalidades Globais",
+    "title": "Funcionalidades globais",
     "description": "Estás a visualizar a organização do sistema. Usa os controlos abaixo para definir substituições globais que afetam <strong>todas as organizações</strong> de uma só vez. Isto é útil para ativar ou desativar funcionalidades em toda a plataforma."
   },
   "global_override": {
@@ -54,16 +54,16 @@
     "no_override": "Sem substituição global - a usar definições por organização",
     "enabled_all": "ATIVADO globalmente para todas as organizações",
     "disabled_all": "DESATIVADO globalmente para todas as organizações",
-    "button_enable_all": "Ativar Todas",
-    "button_disable_all": "Desativar Todas",
-    "button_clear": "Limpar Substituição",
+    "button_enable_all": "Ativar todas",
+    "button_disable_all": "Desativar todas",
+    "button_clear": "Limpar substituição",
     "button_enable_all_title": "Forçar ativado para todas as organizações",
     "button_disable_all_title": "Forçar desativado para todas as organizações",
     "button_clear_title": "Limpar substituição global - usar definições por organização",
     "cannot_change_warning": "Esta funcionalidade tem uma substituição global - não pode ser alterada por organização"
   },
   "warning": {
-    "global_override_active": "Substituição Global Ativa",
+    "global_override_active": "Substituição global ativa",
     "global_override_description": "Esta funcionalidade está <strong>globalmente {{status}}</strong> para todas as organizações. As definições específicas da organização são ignoradas. Vai para a organização <strong>Sistema (Proprietários da Plataforma)</strong> para alterar a substituição global."
   },
   "success": {

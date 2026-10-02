@@ -19,7 +19,7 @@
     "title": "Organizaciones",
     "total": "{{count}} total",
     "select_prompt": "Selecciona una organización para ver y gestionar funcionalidades",
-    "system_subtitle": "Anulaciones Globales",
+    "system_subtitle": "Anulaciones globales",
     "search_placeholder": "Buscar organizaciones",
     "no_results": "Ninguna organización coincide con \"{{query}}\"",
     "change_button": "Cambiar organización",
@@ -41,12 +41,12 @@
     "toggle_off": "OFF",
     "click_to_enable": "Clic para activar",
     "click_to_disable": "Clic para desactivar",
-    "global_override_badge": "Anulación Global",
+    "global_override_badge": "Anulación global",
     "copy_key": "Copiar clave",
     "copied": "Copiado"
   },
   "system_tenant": {
-    "title": "Funcionalidades Globales",
+    "title": "Funcionalidades globales",
     "description": "Estás viendo la organización del sistema. Usa los controles a continuación para establecer anulaciones globales que afectan a <strong>todas las organizaciones</strong> a la vez. Esto es útil para activar o desactivar funcionalidades en toda la plataforma."
   },
   "global_override": {
@@ -54,16 +54,16 @@
     "no_override": "Sin anulación global - usando configuración por organización",
     "enabled_all": "ACTIVADO globalmente para todas las organizaciones",
     "disabled_all": "DESACTIVADO globalmente para todas las organizaciones",
-    "button_enable_all": "Activar Todas",
-    "button_disable_all": "Desactivar Todas",
-    "button_clear": "Limpiar Anulación",
+    "button_enable_all": "Activar todas",
+    "button_disable_all": "Desactivar todas",
+    "button_clear": "Limpiar anulación",
     "button_enable_all_title": "Forzar activado para todas las organizaciones",
     "button_disable_all_title": "Forzar desactivado para todas las organizaciones",
     "button_clear_title": "Limpiar anulación global - usar configuración por organización",
     "cannot_change_warning": "Esta funcionalidad tiene una anulación global - no se puede cambiar por organización"
   },
   "warning": {
-    "global_override_active": "Anulación Global Activa",
+    "global_override_active": "Anulación global activa",
     "global_override_description": "Esta funcionalidad está <strong>globalmente {{status}}</strong> para todas las organizaciones. Las configuraciones específicas de la organización se ignoran. Vaya a la organización <strong>Sistema (Propietarios de la Plataforma)</strong> para cambiar la anulación global."
   },
   "success": {

@@ -1,5 +1,5 @@
 {
-  "page_title": "Feature Flag Management",
+  "page_title": "Feature flag management",
   "page_description": "Manage feature flags across all tenants (Owner only)",
   "intro": {
     "title": "How feature flags work",
@@ -19,7 +19,7 @@
     "title": "Tenants",
     "total": "{{count}} total",
     "select_prompt": "Select a tenant to view and manage feature flags",
-    "system_subtitle": "Global Overrides",
+    "system_subtitle": "Global overrides",
     "search_placeholder": "Search tenants",
     "no_results": "No tenants match \"{{query}}\"",
     "change_button": "Change tenant",
@@ -28,7 +28,7 @@
     "no_selection": "No tenant selected"
   },
   "flags": {
-    "title": "Feature Flags",
+    "title": "Feature flags",
     "no_flags": "No feature flags available",
     "no_results": "No flags match \"{{query}}\"",
     "search_placeholder": "Search flags",
@@ -41,12 +41,12 @@
     "toggle_off": "OFF",
     "click_to_enable": "Click to enable",
     "click_to_disable": "Click to disable",
-    "global_override_badge": "Global Override",
+    "global_override_badge": "Global override",
     "copy_key": "Copy flag key",
     "copied": "Copied"
   },
   "system_tenant": {
-    "title": "Global Feature Flags",
+    "title": "Global feature flags",
     "description": "You are viewing the system tenant. Use the controls below to set global overrides that affect <strong>all tenants</strong> at once. This is useful for enabling or disabling features platform-wide."
   },
   "global_override": {
@@ -54,16 +54,16 @@
     "no_override": "No global override - using per-tenant settings",
     "enabled_all": "Globally ENABLED for all tenants",
     "disabled_all": "Globally DISABLED for all tenants",
-    "button_enable_all": "Enable All",
-    "button_disable_all": "Disable All",
-    "button_clear": "Clear Override",
+    "button_enable_all": "Enable all",
+    "button_disable_all": "Disable all",
+    "button_clear": "Clear override",
     "button_enable_all_title": "Force enabled for all tenants",
     "button_disable_all_title": "Force disabled for all tenants",
     "button_clear_title": "Clear global override - use per-tenant settings",
     "cannot_change_warning": "This flag has a global override - cannot be changed per-tenant"
   },
   "warning": {
-    "global_override_active": "Global Override Active",
+    "global_override_active": "Global override active",
     "global_override_description": "This flag is <strong>globally {{status}}</strong> for all tenants. Tenant-specific settings are ignored. Go to <strong>System (Platform Owners)</strong> tenant to change the global override."
   },
   "success": {
