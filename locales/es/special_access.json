@@ -1,5 +1,5 @@
 {
-  "page_title": "Accesos Especiales",
+  "page_title": "Accesos especiales",
   "page_subtitle": "Otorgar permisos adicionales a terapeutas individuales más allá de su perfil estándar.",
   "permissions": {
     "control_room_access": {
@@ -14,12 +14,12 @@
     "therapist_plural": "terapeutas"
   },
   "actions": {
-    "add_therapist": "Añadir Terapeuta",
+    "add_therapist": "Añadir terapeuta",
     "remove": "Eliminar",
     "cancel": "Cancelar",
-    "grant": "Otorgar Acceso",
+    "grant": "Otorgar acceso",
     "grant_title": "Otorgar {{permission}}",
-    "revoke_title": "Revocar Acceso"
+    "revoke_title": "Revocar acceso"
   },
   "select_therapist": "Seleccionar un terapeuta...",
   "select_therapist_label": "Terapeuta",

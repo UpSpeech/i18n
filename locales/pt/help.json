@@ -1,6 +1,6 @@
 {
   "video_coming_soon": "Em breve...",
-  "play_video": "Reproduzir Vídeo",
+  "play_video": "Reproduzir vídeo",
   "video_unavailable": "Vídeo indisponível",
   "subtitle": "As perguntas que mais nos fazem, e seis vídeos por baixo delas.",
   "quick_navigation": "Navegação rápida",
@@ -8,14 +8,14 @@
   "video_library": "Biblioteca de vídeos",
   "faq_title": "Perguntas frequentes",
   "no_results": "Nenhum resultado encontrado. Tenta um termo de pesquisa diferente.",
-  "show_more_videos": "Mostrar Mais Vídeos",
-  "show_less": "Mostrar Menos",
+  "show_more_videos": "Mostrar mais vídeos",
+  "show_less": "Mostrar menos",
   "more": "mais",
   "categories": {
     "all": "Todos os vídeos",
-    "patient": "Para Pacientes",
-    "therapist": "Para Terapeutas",
-    "admin": "Para Administradores"
+    "patient": "Para pacientes",
+    "therapist": "Para terapeutas",
+    "admin": "Para administradores"
   },
   "faq_categories": {
     "getting_started": "Começar",

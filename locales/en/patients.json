@@ -3,7 +3,7 @@
   "tabs": {
     "overview": "Overview",
     "intake": "Intake",
-    "learning_path": "Learning Path",
+    "learning_path": "Learning path",
     "patients": "Patients",
     "invites": "Invites",
     "assessments": "Assessments"
@@ -15,21 +15,21 @@
     "no_active_invites_description": "All invites have been used or expired",
     "for_child": "For {{name}}"
   },
-  "title": "My Patients",
+  "title": "My patients",
   "title_all": "Patients",
   "subtitle": "Manage your assigned patients and track their progress",
-  "invite_patient": "Invite Patient",
-  "add_patient": "Create Account",
-  "add_new_patient": "Create Patient Account",
+  "invite_patient": "Invite patient",
+  "add_patient": "Create account",
+  "add_new_patient": "Create patient account",
   "add_new_patient_description": "Your patient will use these credentials to sign in.",
-  "edit_patient": "Edit Patient",
-  "update_patient": "Update Patient",
-  "delete_patient": "Delete Patient",
-  "send_invite": "Send Invite",
+  "edit_patient": "Edit patient",
+  "update_patient": "Update patient",
+  "delete_patient": "Delete patient",
+  "send_invite": "Send invite",
   "stats": {
-    "total_patients": "Total Patients",
+    "total_patients": "Total patients",
     "assigned_to_me": "Assigned to Me",
-    "new_this_month": "New This Month"
+    "new_this_month": "New this month"
   },
   "table": {
     "patient": "Patient",
@@ -42,7 +42,7 @@
     "activity_help": "How many days the patient practised in the last 7 days. Measures recent activity.",
     "consistency_help": "How regularly the patient practised over the last 30 days, counting the time since their last session. Shorter gaps score higher, so the score falls while a patient is away.",
     "activity_days": "{{days}}/7 days",
-    "learning_path": "Learning Path"
+    "learning_path": "Learning path"
   },
   "needs_attention": "Needs attention",
   "activity": "Activity",
@@ -69,9 +69,9 @@
     "assign_back": "Assign back"
   },
   "activity_levels": {
-    "very_active": "Very Active",
+    "very_active": "Very active",
     "active": "Active",
-    "low_activity": "Low Activity",
+    "low_activity": "Low activity",
     "inactive": "Inactive"
   },
   "empty_state": {
@@ -80,7 +80,7 @@
   },
   "filters": {
     "search_placeholder": "Search by name or email...",
-    "patient_type": "Patient Type",
+    "patient_type": "Patient type",
     "all_types": "All types",
     "status": "Status",
     "all_statuses": "All statuses",
@@ -88,30 +88,30 @@
     "inactive": "Inactive",
     "pending": "Pending",
     "assignment": "Assignment",
-    "all_assignments": "All Assignments",
+    "all_assignments": "All assignments",
     "filter_by_therapist": "Filter by Therapist",
-    "all_therapists": "All Therapists",
-    "unassigned_only": "Unassigned Only",
-    "learning_path": "Learning Path",
-    "all_paths": "All Paths",
+    "all_therapists": "All therapists",
+    "unassigned_only": "Unassigned only",
+    "learning_path": "Learning path",
+    "all_paths": "All paths",
     "attention": "Attention",
-    "all_patients": "All Patients"
+    "all_patients": "All patients"
   },
   "form": {
     "first_name": "First name",
     "last_name": "Last name",
     "password": "Password",
-    "confirm_password": "Confirm Password",
+    "confirm_password": "Confirm password",
     "in_pilot": "Include in pilot programme"
   },
   "invite_modal": {
-    "title": "Invite Patient",
-    "email_label": "Patient Email",
+    "title": "Invite patient",
+    "email_label": "Patient email",
     "email_placeholder": "patient@example.com",
     "email_help": "We'll email them a link to sign up.",
-    "pending_invites": "Pending Invites",
+    "pending_invites": "Pending invites",
     "expires": "Expires:",
-    "copy_link": "Copy Link",
+    "copy_link": "Copy link",
     "revoke": "Revoke",
     "close": "Close"
   },
@@ -125,7 +125,7 @@
   },
   "quick_review": {
     "button_label": "Review pending practice ({{count}})",
-    "modal_title": "Quick Review",
+    "modal_title": "Quick review",
     "modal_description": "Step through pending practice and send feedback.",
     "progress_strip": "Practice {{current}} of {{total}}",
     "pending_count": "{{count}} pending",
@@ -168,13 +168,13 @@
       "self_modeling": "Self-Modelling",
       "identification": "Identification",
       "holding": "Holding",
-      "motor_control": "Motor Control",
+      "motor_control": "Motor control",
       "generalisation": "Generalisation",
       "reflection": "Reflection",
       "journal": "Journal",
       "self_disclosure": "Self-Disclosure",
       "observation": "Observation",
-      "technique_rating": "Technique Rating",
+      "technique_rating": "Technique rating",
       "quiz": "Quiz",
       "scenario": "Scenario",
       "standard": "Practice",

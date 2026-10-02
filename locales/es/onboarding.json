@@ -26,7 +26,7 @@
       "video": {
         "admin": {
           "description": "Aprende a gestionar tu organización y personalizar tu plataforma",
-          "title": "Primeros Pasos como Administrador"
+          "title": "Primeros pasos como administrador"
         },
         "default": {
           "description": "Aprende a utilizar la plataforma",
@@ -34,11 +34,11 @@
         },
         "patient": {
           "description": "Cómo completar los ejercicios que te asigna tu terapeuta y grabar tu práctica",
-          "title": "Primeros Pasos como Paciente"
+          "title": "Primeros pasos como paciente"
         },
         "therapist": {
           "description": "Aprende a gestionar pacientes, generar informes y asignar ejercicios",
-          "title": "Primeros Pasos como Terapeuta"
+          "title": "Primeros pasos como terapeuta"
         }
       },
       "dont_show_again": "No mostrar de nuevo",
@@ -47,7 +47,7 @@
       "view_all_videos": "Ver todos los vídeos en el Centro de Ayuda"
     },
     "checklist": {
-      "title": "Tus Primeros Pasos",
+      "title": "Tus primeros pasos",
       "progress": "{{completed}} de {{total}} completados",
       "progress_label": "Progreso de incorporación",
       "items_label": "Tareas de inicio",
@@ -110,12 +110,12 @@
       },
       "media": {
         "heading": "Cámara y Micrófono",
-        "title": "Configura Tus Dispositivos",
+        "title": "Configura tus dispositivos",
         "description": "UpSpeech necesita acceso a tu micrófono y cámara para ejercicios de habla y sesiones de práctica. Vamos a verificar que funcionan.",
         "microphone": "Micrófono",
         "camera": "Cámara",
-        "test_mic": "Probar Micrófono",
-        "test_camera": "Probar Cámara",
+        "test_mic": "Probar micrófono",
+        "test_camera": "Probar cámara",
         "testing": "Probando...",
         "granted": "Listo",
         "speak_now": "Habla para ver el nivel de audio",
@@ -155,31 +155,31 @@
         "dashboard": {
           "exercise_title": "Hoy",
           "exercise_content": "Qué practicar hoy y cómo va tu semana. Empieza aquí.",
-          "stats_title": "Tu Progreso",
+          "stats_title": "Tu progreso",
           "stats_content": "Tu tasa de finalización y tu racha, actualizadas después de cada práctica.",
-          "weekly_title": "Comparación Semanal",
+          "weekly_title": "Comparación semanal",
           "weekly_content": "¡Ve cómo vas en comparación con la semana pasada. La consistencia es clave!",
-          "upcoming_title": "Próximos Ejercicios",
+          "upcoming_title": "Próximos ejercicios",
           "upcoming_content": "Tus próximos ejercicios del terapeuta están listados aquí.",
-          "nav_journey_title": "Mi Viaje",
+          "nav_journey_title": "Mi viaje",
           "nav_journey_content": "Sigue tu viaje terapéutico paso a paso.",
           "nav_exercises_title": "Ejercicios",
           "nav_exercises_content": "Encuentra tus tareas, sesiones de práctica e historial aquí."
         },
         "journey": {
-          "progress_title": "Tu Ruta Terapéutica",
+          "progress_title": "Tu ruta terapéutica",
           "progress_content": "Este es tu viaje personalizado. Cada paso complementa el anterior.",
-          "current_step_title": "Paso Actual",
+          "current_step_title": "Paso actual",
           "current_step_content": "Aquí es donde estás ahora. Toca para empezar.",
           "indicators_title": "Indicadores de Progreso",
           "indicators_content": "¡Verde significa completado. Sigue para abrir los siguientes pasos!"
         },
         "exercise": {
-          "list_title": "Tus Tareas",
+          "list_title": "Tus tareas",
           "list_content": "Tu terapeuta asigna ejercicios aquí para que los completes.",
           "card_title": "Detalles del Ejercicio",
           "card_content": "Haz clic en cualquier ejercicio para ver los detalles y empezar a practicar.",
-          "filters_title": "Filtrar Ejercicios",
+          "filters_title": "Filtrar ejercicios",
           "filters_content": "Filtra por estado para encontrar lo que necesita tu atención."
         },
         "practice": {
@@ -199,7 +199,7 @@
           "activity_content": "Grabaciones recientes y actividad de tus pacientes aparecen aquí.",
           "bubble_chart_title": "Participación de Pacientes",
           "bubble_chart_content": "Una burbuja por paciente. Cuanto mayor, más ha practicado.",
-          "nav_patients_title": "Mis Pacientes",
+          "nav_patients_title": "Mis pacientes",
           "nav_patients_content": "Gestiona tus pacientes, envía invitaciones y ve su progreso.",
           "nav_reports_title": "Informes",
           "nav_reports_content": "Genera informes clínicos asistidos por IA desde grabaciones.",
@@ -223,7 +223,7 @@
           "generate_content": "La IA redactará el informe clínico para que lo revises y edites."
         },
         "assign": {
-          "row_title": "Seleccionar Paciente",
+          "row_title": "Seleccionar paciente",
           "row_content": "Haz clic en un paciente para abrir su perfil y gestionar su ruta de aprendizaje."
         },
         "library": {
@@ -239,11 +239,11 @@
       },
       "admin": {
         "dashboard": {
-          "stats_title": "Métricas Clave",
+          "stats_title": "Métricas clave",
           "stats_content": "Clientes activos, total de usuarios, grabaciones fallidas e invitaciones pendientes.",
-          "actions_title": "Acciones Rápidas",
+          "actions_title": "Acciones rápidas",
           "actions_content": "Salta a Usuarios, Analíticas, Ajustes o Informes desde aquí.",
-          "users_title": "Registros Recientes",
+          "users_title": "Registros recientes",
           "users_content": "Nuevos usuarios que se registraron recientemente en tu organización.",
           "activity_title": "Actividad de la plataforma",
           "activity_content": "Actividad reciente de la plataforma, incluyendo grabaciones fallidas que necesitan atención.",

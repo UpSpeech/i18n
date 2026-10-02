@@ -2,7 +2,7 @@
   "page_title": "Gestión de Feedback",
   "page_description": "Gestiona todos los envíos de feedback en la plataforma",
   "navigation": {
-    "general_feedback": "Feedback General",
+    "general_feedback": "Feedback general",
     "general_feedback_short": "General",
     "report_feedback": "Feedback de Informes",
     "report_feedback_short": "Informes",
@@ -17,7 +17,7 @@
   },
   "statuses": {
     "new": "Nuevo",
-    "in_review": "En Revisión",
+    "in_review": "En revisión",
     "planned": "Planificado",
     "completed": "Completado",
     "rejected": "Rechazado"
@@ -46,7 +46,7 @@
   "thankYou": "¡Gracias!",
   "successMessage": "Tu feedback ha sido recibido. ¡Lo revisaremos pronto!",
   "feedbackId": "ID del Feedback",
-  "sendFeedback": "Enviar Feedback",
+  "sendFeedback": "Enviar feedback",
   "submitError": "Error al enviar feedback. Por favor inténtalo de nuevo.",
   "image": {
     "label": "Captura de pantalla (opcional)",
@@ -76,10 +76,10 @@
     "annotation_text": "Anotación"
   },
   "filters": {
-    "clear_filters": "Limpiar Filtros"
+    "clear_filters": "Limpiar filtros"
   },
   "dashboard": {
-    "load_more": "Cargar Más"
+    "load_more": "Cargar más"
   },
   "loading": {
     "feedback": "Cargando feedback..."
@@ -104,22 +104,22 @@
     "overview_title": "Resumen del Feedback de Informes",
     "no_feedback": "Aún no se ha recibido feedback",
     "helpful": "Útil",
-    "not_helpful": "No Útil",
+    "not_helpful": "No útil",
     "total_votes": "Total de Votos",
     "all_feedback": "Todos los feedbacks",
     "satisfaction_rate": "Tasa de Satisfacción",
-    "average_score": "Puntuación Promedio"
+    "average_score": "Puntuación promedio"
   },
   "addCommentOptional": "Agregar comentario (opcional)",
   "commentPlaceholder": "Tu comentario...",
-  "giveFeedback": "Dar Feedback",
+  "giveFeedback": "Dar feedback",
   "helpful": "Útil",
-  "notHelpful": "No Útil",
-  "submittedBy": "Enviado Por",
+  "notHelpful": "No útil",
+  "submittedBy": "Enviado por",
   "thankYouHelpful": "¡Gracias por tu feedback!",
   "thankYouImprove": "¡Gracias por ayudarnos a mejorar!",
-  "view_full": "Ver Completo",
-  "voteChanged": "Voto Cambiado",
+  "view_full": "Ver completo",
+  "voteChanged": "Voto cambiado",
   "wasReportHelpful": "¿Fue útil este informe?",
   "report_feedback_tab": {
     "page_title": "Feedback de Informes",
@@ -133,12 +133,12 @@
     "filter_user_role_label": "Rol de Usuario",
     "filter_display_label": "Visualización",
     "grouped_by_report": "Agrupado por Informe",
-    "flat_list": "Lista Plana",
+    "flat_list": "Lista plana",
     "no_report_feedback_yet": "Aún no hay feedback de informes",
     "feedback_will_appear": "El feedback aparecerá aquí una vez que los usuarios comiencen a calificar informes",
     "no_feedback_found": "No se encontró feedback",
     "try_adjusting_filters": "Intenta ajustar tus filtros",
-    "clear_filters": "Limpiar Filtros",
+    "clear_filters": "Limpiar filtros",
     "client_label": "Paciente:",
     "total_votes_label": "Total de Votos",
     "comments_count": "Comentarios ({{count}}):",

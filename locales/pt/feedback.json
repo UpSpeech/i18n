@@ -2,7 +2,7 @@
   "page_title": "Gestão de Feedback",
   "page_description": "Gerir todos os envios de feedback na plataforma",
   "navigation": {
-    "general_feedback": "Feedback Geral",
+    "general_feedback": "Feedback geral",
     "general_feedback_short": "Geral",
     "report_feedback": "Feedback de Relatórios",
     "report_feedback_short": "Relatórios",
@@ -17,7 +17,7 @@
   },
   "statuses": {
     "new": "Novo",
-    "in_review": "Em Revisão",
+    "in_review": "Em revisão",
     "planned": "Planeado",
     "completed": "Concluído",
     "rejected": "Rejeitado"
@@ -35,7 +35,7 @@
     "high": "Alta",
     "critical": "Crítica"
   },
-  "shareYourFeedback": "Partilha o Teu Feedback",
+  "shareYourFeedback": "Partilha o teu feedback",
   "selectCategory": "Que tipo de feedback tens?",
   "changeCategory": "Alterar categoria",
   "title": "Título",
@@ -46,7 +46,7 @@
   "thankYou": "Obrigado!",
   "successMessage": "O teu feedback foi recebido. Iremos revê-lo em breve!",
   "feedbackId": "ID do Feedback",
-  "sendFeedback": "Enviar Feedback",
+  "sendFeedback": "Enviar feedback",
   "submitError": "Falha ao enviar feedback. Tenta novamente.",
   "image": {
     "label": "Captura de ecrã (opcional)",
@@ -72,25 +72,25 @@
   },
   "addCommentOptional": "Adicionar comentário (opcional)",
   "commentPlaceholder": "O teu comentário...",
-  "giveFeedback": "Dar Feedback",
+  "giveFeedback": "Dar feedback",
   "helpful": "Útil",
-  "notHelpful": "Não Útil",
-  "submittedBy": "Enviado Por",
+  "notHelpful": "Não útil",
+  "submittedBy": "Enviado por",
   "thankYouHelpful": "Obrigado pelo teu feedback!",
   "thankYouImprove": "Obrigado por nos ajudar a melhorar!",
-  "view_full": "Ver Completo",
-  "voteChanged": "Voto Alterado",
+  "view_full": "Ver completo",
+  "voteChanged": "Voto alterado",
   "wasReportHelpful": "Este relatório foi útil?",
   "annotations": {
     "annotation_text": "Anotação",
-    "view_report": "Ver Relatório",
+    "view_report": "Ver relatório",
     "search_placeholder": "Pesquisar anotações por texto, comentário ou título do relatório..."
   },
   "filters": {
-    "clear_filters": "Limpar Filtros"
+    "clear_filters": "Limpar filtros"
   },
   "dashboard": {
-    "load_more": "Carregar Mais"
+    "load_more": "Carregar mais"
   },
   "loading": {
     "feedback": "A carregar feedback..."
@@ -101,7 +101,7 @@
     "load_failed": "Falha ao carregar feedback"
   },
   "filters_title": "Filtros",
-  "clear_all": "Limpar Tudo",
+  "clear_all": "Limpar tudo",
   "type": "Tipo",
   "all_types": "Todos os tipos",
   "status": "Estado",
@@ -112,33 +112,33 @@
   "tenant": "Organização",
   "all_tenants": "Todas as Organizações",
   "metrics": {
-    "overview_title": "Visão Geral do Feedback de Relatórios",
+    "overview_title": "Visão geral do feedback de relatórios",
     "no_feedback": "Ainda sem feedback recebido",
     "helpful": "Útil",
-    "not_helpful": "Não Útil",
+    "not_helpful": "Não útil",
     "total_votes": "Total de Votos",
     "all_feedback": "Todos os feedbacks",
     "satisfaction_rate": "Taxa de Satisfação",
-    "average_score": "Pontuação Média"
+    "average_score": "Pontuação média"
   },
   "report_feedback_tab": {
     "page_title": "Feedback de Relatórios",
     "showing_reports_with_feedback": "A mostrar {{count}} relatórios com feedback",
     "loading_report_feedback": "A carregar feedback de relatórios...",
     "failed_load_message": "Falha ao carregar feedback de relatórios. Tenta novamente.",
-    "try_again": "Tentar Novamente",
+    "try_again": "Tentar novamente",
     "search_placeholder": "Pesquisar por título de relatório ou comentário...",
     "filter_report_label": "Relatório",
     "all_reports": "Todos os relatórios",
     "filter_user_role_label": "Função do Utilizador",
     "filter_display_label": "Visualização",
     "grouped_by_report": "Agrupado por Relatório",
-    "flat_list": "Lista Simples",
+    "flat_list": "Lista simples",
     "no_report_feedback_yet": "Ainda sem feedback de relatórios",
     "feedback_will_appear": "O feedback aparecerá aqui assim que os utilizadores começarem a avaliar os relatórios",
     "no_feedback_found": "Nenhum feedback encontrado",
     "try_adjusting_filters": "Tenta ajustar os teus filtros",
-    "clear_filters": "Limpar Filtros",
+    "clear_filters": "Limpar filtros",
     "client_label": "Paciente:",
     "total_votes_label": "Total de Votos",
     "comments_count": "Comentários ({{count}}):",
@@ -147,7 +147,7 @@
   },
   "export_csv": "Exportar CSV",
   "search_feedback_placeholder": "Pesquisar feedback por título ou descrição...",
-  "try_again": "Tentar Novamente",
+  "try_again": "Tentar novamente",
   "no_feedback_found": "Nenhum feedback encontrado",
   "try_adjusting_filters": "Tenta ajustar os teus filtros",
   "no_feedback_submitted": "Ainda não foi submetido nenhum feedback",

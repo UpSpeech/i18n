@@ -1,6 +1,6 @@
 {
   "video_coming_soon": "Video coming soon",
-  "play_video": "Play Video",
+  "play_video": "Play video",
   "video_unavailable": "Video unavailable",
   "subtitle": "The questions people ask most, and six videos under them.",
   "quick_navigation": "Quick navigation",
@@ -8,14 +8,14 @@
   "video_library": "Video library",
   "faq_title": "Frequently asked questions",
   "no_results": "No results found. Try a different search term.",
-  "show_more_videos": "Show More Videos",
-  "show_less": "Show Less",
+  "show_more_videos": "Show more videos",
+  "show_less": "Show less",
   "more": "more",
   "categories": {
     "all": "All videos",
-    "patient": "For Patients",
-    "therapist": "For Therapists",
-    "admin": "For Admins"
+    "patient": "For patients",
+    "therapist": "For therapists",
+    "admin": "For admins"
   },
   "faq_categories": {
     "getting_started": "Getting started",

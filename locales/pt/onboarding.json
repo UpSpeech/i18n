@@ -26,7 +26,7 @@
       "video": {
         "admin": {
           "description": "Aprende a gerir a tua organização e a personalizar a tua plataforma",
-          "title": "Primeiros Passos como Administrador"
+          "title": "Primeiros passos como administrador"
         },
         "default": {
           "description": "Aprende a utilizar a plataforma",
@@ -34,11 +34,11 @@
         },
         "patient": {
           "description": "Como completar os exercícios que o teu terapeuta te atribui e gravar a tua prática",
-          "title": "Primeiros Passos como Paciente"
+          "title": "Primeiros passos como paciente"
         },
         "therapist": {
           "description": "Aprende a gerir pacientes, gerar relatórios e atribuir exercícios",
-          "title": "Primeiros Passos como Terapeuta"
+          "title": "Primeiros passos como terapeuta"
         }
       },
       "dont_show_again": "Não mostrar novamente",
@@ -47,7 +47,7 @@
       "view_all_videos": "Ver todos os vídeos no Centro de Ajuda"
     },
     "checklist": {
-      "title": "Os Teus Primeiros Passos",
+      "title": "Os teus primeiros passos",
       "progress": "{{completed}} de {{total}} completos",
       "progress_label": "Progresso de integração",
       "items_label": "Tarefas de início",
@@ -110,12 +110,12 @@
       },
       "media": {
         "heading": "Câmara e Microfone",
-        "title": "Configura os Teus Dispositivos",
+        "title": "Configura os teus dispositivos",
         "description": "A UpSpeech precisa de acesso ao teu microfone e câmara para exercícios de fala e sessões de prática. Vamos verificar que funcionam.",
         "microphone": "Microfone",
         "camera": "Câmara",
-        "test_mic": "Testar Microfone",
-        "test_camera": "Testar Câmara",
+        "test_mic": "Testar microfone",
+        "test_camera": "Testar câmara",
         "testing": "A testar...",
         "granted": "Pronto",
         "speak_now": "Fala para veres o nível de áudio",
@@ -155,31 +155,31 @@
         "dashboard": {
           "exercise_title": "Hoje",
           "exercise_content": "O que praticar hoje e como vai a tua semana. Começa aqui.",
-          "stats_title": "O Teu Progresso",
+          "stats_title": "O teu progresso",
           "stats_content": "A tua taxa de conclusão e a tua sequência, atualizadas depois de cada prática.",
-          "weekly_title": "Comparação Semanal",
+          "weekly_title": "Comparação semanal",
           "weekly_content": "Vê como estás em comparação com a semana passada. A consistência é fundamental!",
-          "upcoming_title": "Próximos Exercícios",
+          "upcoming_title": "Próximos exercícios",
           "upcoming_content": "Os teus próximos exercícios do terapeuta estão listados aqui.",
-          "nav_journey_title": "A Minha Jornada",
+          "nav_journey_title": "A minha jornada",
           "nav_journey_content": "Segue a tua jornada terapêutica passo a passo.",
           "nav_exercises_title": "Exercícios",
           "nav_exercises_content": "Encontra as tuas tarefas, sessões de prática e histórico aqui."
         },
         "journey": {
-          "progress_title": "O Teu Percurso Terapêutico",
+          "progress_title": "O teu percurso terapêutico",
           "progress_content": "Esta é a tua jornada personalizada. Cada passo complementa o anterior.",
-          "current_step_title": "Passo Atual",
+          "current_step_title": "Passo atual",
           "current_step_content": "É aqui que estás agora. Toca para começar.",
           "indicators_title": "Indicadores de Progresso",
           "indicators_content": "Verde significa completo. Continua para abrires os próximos passos!"
         },
         "exercise": {
-          "list_title": "As Tuas Tarefas",
+          "list_title": "As tuas tarefas",
           "list_content": "O teu terapeuta atribui exercícios aqui para completares.",
           "card_title": "Detalhes do Exercício",
           "card_content": "Clica em qualquer exercício para veres os detalhes e começar a praticar.",
-          "filters_title": "Filtrar Exercícios",
+          "filters_title": "Filtrar exercícios",
           "filters_content": "Filtra por estado para encontrares o que precisa da tua atenção."
         },
         "practice": {
@@ -193,13 +193,13 @@
       },
       "therapist": {
         "dashboard": {
-          "stats_title": "Visão Geral da Prática",
+          "stats_title": "Visão geral da prática",
           "stats_content": "Quantos pacientes tens, e quanto praticaram.",
           "activity_title": "Atividade recente",
           "activity_content": "Gravações recentes e atividade dos teus pacientes aparecem aqui.",
           "bubble_chart_title": "Envolvimento dos Pacientes",
           "bubble_chart_content": "Uma bolha por paciente. Quanto maior, mais praticou.",
-          "nav_patients_title": "Os Meus Pacientes",
+          "nav_patients_title": "Os meus pacientes",
           "nav_patients_content": "Gere os teus pacientes, envia convites e vê o progresso deles.",
           "nav_reports_title": "Relatórios",
           "nav_reports_content": "Gera relatórios clínicos assistidos por IA a partir de gravações.",
@@ -223,7 +223,7 @@
           "generate_content": "A IA vai redigir o relatório clínico para reveres e editares."
         },
         "assign": {
-          "row_title": "Selecionar Paciente",
+          "row_title": "Selecionar paciente",
           "row_content": "Clica num paciente para abrires o perfil e gerires o percurso de aprendizagem."
         },
         "library": {
@@ -239,11 +239,11 @@
       },
       "admin": {
         "dashboard": {
-          "stats_title": "Métricas Chave",
+          "stats_title": "Métricas chave",
           "stats_content": "Clientes ativos, total de utilizadores, gravações falhadas e convites pendentes.",
-          "actions_title": "Ações Rápidas",
+          "actions_title": "Ações rápidas",
           "actions_content": "Salta para Utilizadores, Análises, Definições ou Relatórios a partir daqui.",
-          "users_title": "Registos Recentes",
+          "users_title": "Registos recentes",
           "users_content": "Novos utilizadores que se registaram recentemente na tua organização.",
           "activity_title": "Atividade da plataforma",
           "activity_content": "Atividade recente da plataforma, incluindo gravações falhadas que precisam de atenção.",

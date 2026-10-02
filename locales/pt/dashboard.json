@@ -24,7 +24,7 @@
     "overdue_open": "Praticar agora",
     "no_path_title": "O teu plano ainda não está pronto",
     "no_path_description": "O teu terapeuta está a montar os teus passos. Este ecrã preenche-se assim que estiver.",
-    "start_exercise": "Iniciar Exercício",
+    "start_exercise": "Iniciar exercício",
     "current_streak": "Sequência atual, hoje",
     "consecutive_days": "dias",
     "vs_last_week": "vs {{count}} semana passada",
@@ -42,7 +42,7 @@
     "activities_this_week_one": "{{count}} prática esta semana",
     "no_activities_last_week": "Sem prática na semana passada",
     "step_label": "Passo {{number}}",
-    "upcoming_steps": "Próximos Passos",
+    "upcoming_steps": "Próximos passos",
     "steps_progress": "{{completed}}/{{total}} exercícios",
     "consistency": "Consistência",
     "consistency_info": "Com que regularidade praticaste nos últimos 30 dias. A prática regular e repetida importa mais do que uma sequência longa e ininterrupta.",
@@ -68,7 +68,7 @@
     "streak_label": "Dias seguidos",
     "sessions_label": "Práticas",
     "journey": {
-      "label": "O Meu Percurso",
+      "label": "O meu percurso",
       "new_step": "Novo",
       "completed": "Percurso concluído!",
       "milestone_label": "Marco {{number}}",
@@ -87,7 +87,7 @@
     "view_all_reports": "Todos os relatórios",
     "assign_exercises": "Atribuir um exercício",
     "create_report_description": "Criar novo relatório",
-    "unknown_patient": "Paciente Desconhecido",
+    "unknown_patient": "Paciente desconhecido",
     "filter": {
       "all": "Todos",
       "sessions": "Sessões",
@@ -115,10 +115,10 @@
       "quizzes": "Questionários",
       "total_activities": "Total de Atividades",
       "activity_breakdown": "Detalhe da Atividade",
-      "last_activity": "Última Atividade",
+      "last_activity": "Última atividade",
       "click_for_details": "Clica para detalhes",
       "patient_details": "Detalhes da Atividade do Paciente",
-      "view_full_progress": "Ver Progresso Completo",
+      "view_full_progress": "Ver progresso completo",
       "total_completions": "Total de Conclusões",
       "no_recent_activity": "Sem atividade recente",
       "no_patient_activity": "Nenhuma atividade de paciente encontrada",
@@ -126,9 +126,9 @@
       "close": "Fechar",
       "engagement_level": "Nível de Envolvimento",
       "engagement": {
-        "high": "Alto Envolvimento",
-        "medium": "Envolvimento Médio",
-        "low": "Baixo Envolvimento"
+        "high": "Alto envolvimento",
+        "medium": "Envolvimento médio",
+        "low": "Baixo envolvimento"
       },
       "legend": {
         "high": "Alto envolvimento (≥5 atividades)",
@@ -140,9 +140,9 @@
     },
     "patient_activity_error": "Falha ao carregar atividade do paciente",
     "quick_actions": "Ações rápidas",
-    "to_review": "Para Revisão",
+    "to_review": "Para revisão",
     "processed_recordings": "Gravações processadas",
-    "needs_attention": "Requer Atenção",
+    "needs_attention": "Requer atenção",
     "never_active": "Sem atividade ainda",
     "attention_queue_title": "Fila de atenção",
     "attention_queue_description": "Pacientes que precisam da tua ação hoje, os mais urgentes primeiro.",
@@ -193,9 +193,9 @@
     "subtitle": "Gere utilizadores, terapeutas e monitoriza a atividade da tua organização.",
     "stats": {
       "total_users": "Total de Utilizadores",
-      "active_clients": "Pacientes Ativos",
-      "failed_recordings": "Gravações Falhadas",
-      "pending_invites": "Convites Pendentes"
+      "active_clients": "Pacientes ativos",
+      "failed_recordings": "Gravações falhadas",
+      "pending_invites": "Convites pendentes"
     },
     "all_users": "Todos os Utilizadores",
     "recordings_needing_attention": "Gravações que falharam ao processar",
@@ -207,7 +207,7 @@
     "assigned_patients_other": "pacientes",
     "no_therapists": "Nenhum terapeuta encontrado",
     "no_therapists_description": "Sem atribuições de terapeutas ativas",
-    "last_30_days": "Últimos 30 Dias",
+    "last_30_days": "Últimos 30 dias",
     "no_recent_activity_description": "Sem atividade recente para exibir",
     "no_recent_users_description": "Sem novos utilizadores neste período",
     "system_management": "Gestão do Sistema",
@@ -221,13 +221,13 @@
       "reports": "Relatórios",
       "reports_description": "Todos os relatórios"
     },
-    "recent_users": "Utilizadores Recentes",
+    "recent_users": "Utilizadores recentes",
     "no_recent_users": "Sem utilizadores recentes",
     "recent_activity": "Atividade recente",
     "no_recent_activity": "Sem atividade recente"
   },
   "owner_dashboard": {
-    "title": "Painel do Proprietário - Sistema Global",
+    "title": "Painel do proprietário - Sistema global",
     "subtitle": "Monitoriza todas as organizações, os utilizadores e a atividade do sistema.",
     "status": {
       "healthy": "Saudável",
@@ -240,9 +240,9 @@
       "total_reports": "Total de Relatórios",
       "total_recordings": "Total de Gravações"
     },
-    "global_system_management": "Gestão Global do Sistema",
+    "global_system_management": "Gestão global do sistema",
     "actions": {
-      "manage_tenants": "Gerir Organizações",
+      "manage_tenants": "Gerir organizações",
       "manage_tenants_description": "Todas as organizações",
       "all_users": "Todos os Utilizadores",
       "all_users_description": "Multi-organização",
@@ -261,7 +261,7 @@
     "no_tenant_activity": "Sem atividade de organizações",
     "no_tenant_activity_description": "Sem atividade de organizações para exibir",
     "system_settings": "Definições do Sistema",
-    "view_system_details": "Ver Detalhes do Sistema",
+    "view_system_details": "Ver detalhes do sistema",
     "users": "Utilizadores",
     "users_zero": "Utilizadores",
     "users_one": "Utilizador",
@@ -271,15 +271,15 @@
     "recordings_one": "Gravação",
     "recordings_other": "Gravações",
     "success_rate_label": "Taxa de Sucesso",
-    "avg_processing": "Taxa Média de Processamento",
+    "avg_processing": "Taxa média de processamento",
     "processed": "Processado",
     "processing": "Processando",
     "failed": "Falhou",
     "pending": "Pendente",
     "total_storage_label": "Uso de Armazenamento",
-    "avg_file_size": "Tamanho Médio de Arquivo",
+    "avg_file_size": "Tamanho médio de arquivo",
     "complete": "Completo",
-    "inactive_tenants": "Organizações Inativas",
+    "inactive_tenants": "Organizações inativas",
     "inactive_tenants_description": "Organizações sem gravações no período atual"
   },
   "training_consent_prompt": {

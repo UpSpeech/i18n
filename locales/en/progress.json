@@ -1,24 +1,24 @@
 {
   "time_range": {
-    "label": "Time Range:",
-    "7_days": "Last 7 Days",
-    "30_days": "Last 30 Days",
-    "90_days": "Last 90 Days",
-    "6_months": "Last 6 Months",
-    "1_year": "Last Year",
-    "all_time": "All Time"
+    "label": "Time range:",
+    "7_days": "Last 7 days",
+    "30_days": "Last 30 days",
+    "90_days": "Last 90 days",
+    "6_months": "Last 6 months",
+    "1_year": "Last year",
+    "all_time": "All time"
   },
   "error": {
     "message": "We encountered an issue loading the patient's progress. Please try again."
   },
-  "patient_progress": "Patient Progress",
+  "patient_progress": "Patient progress",
   "view_patient_metrics": "View patient metrics and trends",
   "learning_path": {
-    "title": "Learning Path Progress",
-    "view_details": "View Details",
+    "title": "Learning path progress",
+    "view_details": "View details",
     "steps_completed": "{{completed}} of {{total}} steps",
     "started": "Started {{date}}",
-    "current_step_label": "Current Step",
+    "current_step_label": "Current step",
     "step_type": {
       "standard": "Practice",
       "quiz": "Quiz",
@@ -30,7 +30,7 @@
   },
   "back_to_patients": "Back to Patients",
   "habit": {
-    "weekly_volume_title": "This Week",
+    "weekly_volume_title": "This week",
     "sessions_this_week": "Practices",
     "avg_session_minutes": "Avg practice",
     "total_minutes_this_week": "Total time",

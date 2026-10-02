@@ -1,7 +1,7 @@
 {
   "message_patient": "Mensaje",
   "tabs": {
-    "overview": "Visión General",
+    "overview": "Visión general",
     "intake": "Entrevista",
     "learning_path": "Ruta de Aprendizaje",
     "patients": "Pacientes",
@@ -15,17 +15,17 @@
     "no_active_invites_description": "Todas las invitaciones han sido utilizadas o han expirado",
     "for_child": "Para {{name}}"
   },
-  "title": "Mis Pacientes",
+  "title": "Mis pacientes",
   "title_all": "Pacientes",
   "subtitle": "Gestiona tus pacientes asignados y rastrea su progreso",
-  "invite_patient": "Invitar Paciente",
-  "add_patient": "Crear Cuenta",
-  "add_new_patient": "Crear Cuenta de Paciente",
+  "invite_patient": "Invitar paciente",
+  "add_patient": "Crear cuenta",
+  "add_new_patient": "Crear cuenta de paciente",
   "add_new_patient_description": "Tu paciente usará estas credenciales para iniciar sesión.",
-  "edit_patient": "Editar Paciente",
-  "update_patient": "Actualizar Paciente",
-  "delete_patient": "Eliminar Paciente",
-  "send_invite": "Enviar Invitación",
+  "edit_patient": "Editar paciente",
+  "update_patient": "Actualizar paciente",
+  "delete_patient": "Eliminar paciente",
+  "send_invite": "Enviar invitación",
   "stats": {
     "total_patients": "Total de Pacientes",
     "assigned_to_me": "Asignados a Mí",
@@ -33,7 +33,7 @@
   },
   "table": {
     "patient": "Paciente",
-    "email": "Correo Electrónico",
+    "email": "Correo electrónico",
     "assignment": "Asignación",
     "activity": "Actividad",
     "consistency": "Consistencia",
@@ -53,7 +53,7 @@
   },
   "status": {
     "assigned_to": "Asignado a {{name}}",
-    "unassigned": "No Asignado",
+    "unassigned": "No asignado",
     "no_data": "Sin datos"
   },
   "transfer": {
@@ -66,9 +66,9 @@
     "assign_back": "Volver a asignar"
   },
   "activity_levels": {
-    "very_active": "Muy Activo",
+    "very_active": "Muy activo",
     "active": "Activo",
-    "low_activity": "Actividad Baja",
+    "low_activity": "Actividad baja",
     "inactive": "Inactivo"
   },
   "empty_state": {
@@ -88,7 +88,7 @@
     "all_assignments": "Todas las Asignaciones",
     "filter_by_therapist": "Filtrar por Terapeuta",
     "all_therapists": "Todos los Terapeutas",
-    "unassigned_only": "Solo No Asignados",
+    "unassigned_only": "Solo no asignados",
     "learning_path": "Ruta",
     "all_paths": "Todas las Rutas",
     "attention": "Atención",
@@ -98,17 +98,17 @@
     "first_name": "Nombre",
     "last_name": "Apellido",
     "password": "Contraseña",
-    "confirm_password": "Confirmar Contraseña",
+    "confirm_password": "Confirmar contraseña",
     "in_pilot": "Incluir en el programa piloto"
   },
   "invite_modal": {
-    "title": "Invitar Paciente",
+    "title": "Invitar paciente",
     "email_label": "Correo del Paciente",
     "email_placeholder": "paciente@ejemplo.com",
     "email_help": "Le enviaremos un enlace para registrarse.",
-    "pending_invites": "Invitaciones Pendientes",
+    "pending_invites": "Invitaciones pendientes",
     "expires": "Expira:",
-    "copy_link": "Copiar Enlace",
+    "copy_link": "Copiar enlace",
     "revoke": "Revocar",
     "close": "Cerrar"
   },
@@ -116,7 +116,7 @@
   "invitation_sent": "Invitación",
   "activity": "Actividad",
   "consistency": "Consistencia",
-  "joined": "Se Unió",
+  "joined": "Se unió",
   "entity_invitation": "Invitación",
   "entity_invite_link": "Enlace de invitación",
   "entity_patient": "Paciente",
@@ -125,7 +125,7 @@
   },
   "quick_review": {
     "button_label": "Revisar práctica pendiente ({{count}})",
-    "modal_title": "Revisión Rápida",
+    "modal_title": "Revisión rápida",
     "modal_description": "Revisa las prácticas pendientes y deja comentarios.",
     "progress_strip": "Práctica {{current}} de {{total}}",
     "pending_count": "{{count}} pendiente",
@@ -168,7 +168,7 @@
       "self_modeling": "Auto-modelado",
       "identification": "Identificación",
       "holding": "Holding",
-      "motor_control": "Control Motor",
+      "motor_control": "Control motor",
       "generalisation": "Generalización",
       "reflection": "Reflexión",
       "journal": "Diario",

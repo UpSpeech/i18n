@@ -8,13 +8,13 @@
     "stopping": "Deteniendo..."
   },
   "modal": {
-    "title": "Suplantar Usuario",
+    "title": "Suplantar usuario",
     "target_user": "Usuario objetivo",
     "read_only_label": "Modo solo lectura",
     "read_only_description": "Puede navegar pero no puede hacer cambios",
     "read_write_description": "Los cambios se guardarán permanentemente",
     "read_write_warning": "Los cambios realizados en modo lectura y escritura serán permanentes y no se pueden revertir. Usa con precaución.",
-    "confirm": "Iniciar Suplantación",
+    "confirm": "Iniciar suplantación",
     "starting": "Iniciando...",
     "cancel": "Cancelar"
   },
