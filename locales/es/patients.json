@@ -282,7 +282,10 @@
     "add_another": "Añadir otro paciente",
     "child_saved": "El perfil de {{name}} está guardado. Revisa los datos del cuidador y continúa para enviar la invitación.",
     "summary_invite_sent_to": "Invitación enviada a",
-    "language_label": "Idioma de la invitación y la app"
+    "language_label": "Idioma de la invitación y la app",
+    "linked_heading": "{{name}} ha sido añadido",
+    "linked_body": "{{email}} ya tiene una cuenta de UpSpeech, así que no hay invitación que enviar. {{name}} ya aparece en esa cuenta y le hemos enviado un correo para avisarle.",
+    "summary_linked_to": "Añadido a"
   },
   "relationship": {
     "parent": "Padre o madre",
