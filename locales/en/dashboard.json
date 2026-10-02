@@ -306,5 +306,11 @@
       "practice_sessions_one": "session",
       "practice_sessions_other": "sessions",
       "practice_reported_by": "Reported by {{name}}"
+  },
+  "view_switch": {
+    "label": "Switch view",
+    "me": "Me",
+    "child": "My child",
+    "children": "My children"
   }
 }

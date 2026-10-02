@@ -2053,5 +2053,12 @@
   "intake_interview_answers_kept": "Your answers are saved as you go. You can close this and come back to it today.",
   "intake_interview_answer_other": "Something else",
   "intake_interview_answer_confirm": "Continue",
-  "intake_interview_answer_nothing_else": "Nothing else to add"
+  "intake_interview_answer_nothing_else": "Nothing else to add",
+  "view_switch_label": "Switch view",
+  "view_switch_me": "Me",
+  "view_switch_child": "My child",
+  "view_switch_children": "My children",
+  "add_patient_linked_heading": "{{name}} is added",
+  "add_patient_linked_body": "{{email}} already has an UpSpeech account, so there is no invite to send. {{name}} now shows on that account, and we emailed them to say so.",
+  "add_patient_summary_linked_to": "Added to"
 }
