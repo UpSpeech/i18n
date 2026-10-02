@@ -100,8 +100,11 @@
   },
   "notes": {
     "title": "Therapist notes",
+    "care_team_title": "Care team notes",
+    "private_caption": "Patients do not see these notes.",
     "add_note_placeholder": "Add a note or feedback for this report...",
     "care_team_placeholder": "Add a note for the care team. Patients do not see notes.",
+    "write_note": "Write a note",
     "edit_note": "Edit note",
     "delete_note": "Delete note",
     "failed_to_load": "Failed to load notes",

@@ -100,8 +100,11 @@
   },
   "notes": {
     "title": "Notas del Terapeuta",
+    "care_team_title": "Notas del equipo",
+    "private_caption": "Los pacientes no ven estas notas.",
     "add_note_placeholder": "Agrega una nota o comentario para este informe...",
     "care_team_placeholder": "Agrega una nota para el equipo. Los pacientes no ven las notas.",
+    "write_note": "Escribe una nota",
     "edit_note": "Editar nota",
     "delete_note": "Eliminar nota",
     "failed_to_load": "Error al cargar notas",
