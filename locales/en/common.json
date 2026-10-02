@@ -61,6 +61,10 @@
     "inactive": "Visualiser paused"
   },
   "loading": "Loading...",
+  "ai_loading": {
+    "default_title": "Processing with AI",
+    "default_body": "This may take a few moments..."
+  },
   "error": "Error",
   "success": "Success",
   "cancel": "Cancel",

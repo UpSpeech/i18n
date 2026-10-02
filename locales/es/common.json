@@ -61,6 +61,10 @@
     "inactive": "Visualizador en pausa"
   },
   "loading": "Cargando...",
+  "ai_loading": {
+    "default_title": "Procesando con IA",
+    "default_body": "Esto puede tardar unos instantes..."
+  },
   "error": "Error",
   "success": "Éxito",
   "cancel": "Cancelar",
