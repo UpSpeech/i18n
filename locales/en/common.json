@@ -169,6 +169,11 @@
     "messages": "Messages",
     "messages_unread": "Messages, {{count}} unread",
     "gated_tooltip": "Complete the assessment to continue",
+    "gated_tooltip_guardian": "Confirm your responsibility for the child to continue",
+    "gated_tooltip_pilotConsent": "Finish the welcome steps to continue",
+    "gated_tooltip_cbsaOnboarding": "Complete the assessment to continue",
+    "gated_tooltip_dailySeverity": "Complete today's check-in to continue",
+    "gated_tooltip_cbsaWeekly": "Complete this week's assessment to continue",
     "game_catalogue": "Exercise catalogue",
     "resource_library": "Resource library"
   },
