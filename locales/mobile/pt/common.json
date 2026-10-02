@@ -2040,9 +2040,5 @@
   "intake_interview_answers_kept": "As tuas respostas ficam guardadas à medida que avanças. Podes fechar e voltar ainda hoje.",
   "intake_interview_answer_other": "Outra coisa",
   "intake_interview_answer_confirm": "Continuar",
-  "intake_interview_answer_nothing_else": "Nada mais a acrescentar",
-  "intake_interview_title_child": "Umas perguntas sobre {{child}}",
-  "intake_interview_title_self": "Umas perguntas antes da primeira sessão",
-  "intake_interview_subtitle_child": "{{therapist}} lê as tuas respostas antes da primeira sessão.",
-  "intake_interview_subtitle_self": "O teu terapeuta lê as tuas respostas antes da primeira sessão."
+  "intake_interview_answer_nothing_else": "Nada mais a acrescentar"
 }

@@ -2040,9 +2040,5 @@
   "intake_interview_answers_kept": "Your answers are saved as you go. You can close this and come back to it today.",
   "intake_interview_answer_other": "Something else",
   "intake_interview_answer_confirm": "Continue",
-  "intake_interview_answer_nothing_else": "Nothing else to add",
-  "intake_interview_title_child": "A few questions about {{child}}",
-  "intake_interview_title_self": "A few questions before your first session",
-  "intake_interview_subtitle_child": "{{therapist}} reads your answers before the first session.",
-  "intake_interview_subtitle_self": "Your therapist reads your answers before the first session."
+  "intake_interview_answer_nothing_else": "Nothing else to add"
 }

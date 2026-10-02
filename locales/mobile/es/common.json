@@ -2040,9 +2040,5 @@
   "intake_interview_answers_kept": "Tus respuestas se guardan a medida que avanzas. Puedes cerrar y volver hoy mismo.",
   "intake_interview_answer_other": "Otra cosa",
   "intake_interview_answer_confirm": "Continuar",
-  "intake_interview_answer_nothing_else": "Nada más que añadir",
-  "intake_interview_title_child": "Unas preguntas sobre {{child}}",
-  "intake_interview_title_self": "Unas preguntas antes de la primera sesión",
-  "intake_interview_subtitle_child": "{{therapist}} lee tus respuestas antes de la primera sesión.",
-  "intake_interview_subtitle_self": "Tu logopeda lee tus respuestas antes de la primera sesión."
+  "intake_interview_answer_nothing_else": "Nada más que añadir"
 }
