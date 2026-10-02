@@ -311,6 +311,8 @@
     "label": "Switch view",
     "me": "Me",
     "child": "My child",
-    "children": "My children"
+    "children": "My children",
+    "messages_child": "Chat with {{child}}'s therapist",
+    "dashboard_me": "Your practice"
   }
 }

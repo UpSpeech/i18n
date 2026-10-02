@@ -311,6 +311,8 @@
     "label": "Mudar de vista",
     "me": "Eu",
     "child": "O meu filho ou filha",
-    "children": "Os meus filhos"
+    "children": "Os meus filhos",
+    "messages_child": "Conversa com o terapeuta de {{child}}",
+    "dashboard_me": "A tua prática"
   }
 }
