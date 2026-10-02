@@ -24,7 +24,7 @@
     "overdue_open": "Practicar ahora",
     "no_path_title": "Tu plan aún no está listo",
     "no_path_description": "Tu terapeuta está preparando tus pasos. Esta pantalla se completa en cuanto lo haga.",
-    "start_exercise": "Iniciar Ejercicio",
+    "start_exercise": "Iniciar ejercicio",
     "current_streak": "Racha actual, hoy",
     "consecutive_days": "días",
     "vs_last_week": "vs {{count}} semana pasada",
@@ -42,7 +42,7 @@
     "activities_this_week_one": "{{count}} práctica esta semana",
     "no_activities_last_week": "Sin práctica la semana pasada",
     "step_label": "Paso {{number}}",
-    "upcoming_steps": "Próximos Pasos",
+    "upcoming_steps": "Próximos pasos",
     "steps_progress": "{{completed}}/{{total}} ejercicios",
     "consistency": "Constancia",
     "consistency_info": "Con qué regularidad practicaste en los últimos 30 días. La práctica constante y repetida importa más que una racha larga e ininterrumpida.",
@@ -68,7 +68,7 @@
     "streak_label": "Días seguidos",
     "sessions_label": "Prácticas",
     "journey": {
-      "label": "Mi Recorrido",
+      "label": "Mi recorrido",
       "new_step": "Nuevo",
       "completed": "¡Recorrido completado!",
       "milestone_label": "Hito {{number}}",
@@ -87,7 +87,7 @@
     "view_all_reports": "Todos los informes",
     "assign_exercises": "Asignar un ejercicio",
     "create_report_description": "Crear nuevo informe",
-    "unknown_patient": "Paciente Desconocido",
+    "unknown_patient": "Paciente desconocido",
     "filter": {
       "all": "Todos",
       "sessions": "Sesiones",
@@ -115,10 +115,10 @@
       "quizzes": "Cuestionarios",
       "total_activities": "Total de Actividades",
       "activity_breakdown": "Desglose de Actividad",
-      "last_activity": "Última Actividad",
+      "last_activity": "Última actividad",
       "click_for_details": "Haz clic para detalles",
       "patient_details": "Detalles de Actividad del Paciente",
-      "view_full_progress": "Ver Progreso Completo",
+      "view_full_progress": "Ver progreso completo",
       "total_completions": "Total de Finalizaciones",
       "no_recent_activity": "Sin actividad reciente",
       "no_patient_activity": "No se encontró actividad del paciente",
@@ -126,9 +126,9 @@
       "close": "Cerrar",
       "engagement_level": "Nivel de Compromiso",
       "engagement": {
-        "high": "Alto Compromiso",
-        "medium": "Compromiso Medio",
-        "low": "Bajo Compromiso"
+        "high": "Alto compromiso",
+        "medium": "Compromiso medio",
+        "low": "Bajo compromiso"
       },
       "legend": {
         "high": "Alto compromiso (≥5 actividades)",
@@ -140,9 +140,9 @@
     },
     "patient_activity_error": "Error al cargar la actividad del paciente",
     "quick_actions": "Acciones rápidas",
-    "to_review": "Por Revisar",
+    "to_review": "Por revisar",
     "processed_recordings": "Grabaciones procesadas",
-    "needs_attention": "Requiere Atención",
+    "needs_attention": "Requiere atención",
     "never_active": "Sin actividad aún",
     "attention_queue_title": "Cola de atención",
     "attention_queue_description": "Pacientes que necesitan tu acción hoy, los más urgentes primero.",
@@ -193,9 +193,9 @@
     "subtitle": "Gestiona usuarios, terapeutas y monitorea la actividad de tu organización.",
     "stats": {
       "total_users": "Total de Usuarios",
-      "active_clients": "Pacientes Activos",
-      "failed_recordings": "Grabaciones Fallidas",
-      "pending_invites": "Invitaciones Pendientes"
+      "active_clients": "Pacientes activos",
+      "failed_recordings": "Grabaciones fallidas",
+      "pending_invites": "Invitaciones pendientes"
     },
     "all_users": "Todos los Usuarios",
     "recordings_needing_attention": "Grabaciones que no se pudieron procesar",
@@ -207,21 +207,21 @@
     "assigned_patients_other": "pacientes",
     "no_therapists": "No se encontraron terapeutas",
     "no_therapists_description": "Sin asignaciones de terapeutas activas",
-    "last_30_days": "Últimos 30 Días",
+    "last_30_days": "Últimos 30 días",
     "no_recent_activity_description": "No hay actividad reciente para mostrar",
     "no_recent_users_description": "No hay nuevos usuarios en este período",
     "system_management": "Gestión del Sistema",
     "actions": {
       "users": "Usuarios",
-      "users_description": "Gestionar Cuentas",
+      "users_description": "Gestionar cuentas",
       "analytics": "Análisis",
-      "analytics_description": "Métricas Detalladas",
+      "analytics_description": "Métricas detalladas",
       "settings": "Configuración",
       "settings_description": "Organización",
       "reports": "Informes",
       "reports_description": "Todos los Informes"
     },
-    "recent_users": "Usuarios Recientes",
+    "recent_users": "Usuarios recientes",
     "no_recent_users": "No hay usuarios recientes",
     "recent_activity": "Actividad reciente",
     "no_recent_activity": "No hay actividad reciente"
@@ -279,7 +279,7 @@
     "total_storage_label": "Uso total",
     "avg_file_size": "Promedio de tamaño de archivo",
     "complete": "Completado",
-    "inactive_tenants": "Organizaciones Inactivas",
+    "inactive_tenants": "Organizaciones inactivas",
     "inactive_tenants_description": "Organizaciones sin grabaciones en el período actual"
   },
   "training_consent_prompt": {
