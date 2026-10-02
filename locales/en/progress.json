@@ -19,6 +19,8 @@
     "no_path_title": "No learning path yet",
     "no_path_description": "This patient has no path yet. Start one from scratch, from a template or from a suggestion.",
     "no_path_body": "Choose the steps they practise between sessions.",
+    "no_path_action_named": "Give {{name}} a learning path",
+    "no_path_action_unnamed": "Give this patient a learning path",
     "assign_path": "Assign a learning path",
     "steps_completed": "{{completed}} of {{total}} steps",
     "started": "Started {{date}}",
