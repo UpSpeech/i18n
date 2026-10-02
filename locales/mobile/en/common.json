@@ -555,6 +555,7 @@
   "intake_required_open": "Open the interview",
   "intake_required_done": "I have finished it",
   "consent_title": "Terms & privacy",
+  "pilot_consent_narration": "Hello, {{name}}. Before we start, there are two things to agree to.",
   "consent_terms_heading": "Terms of Use",
   "consent_terms_body": "By participating in this programme, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymized form to improve the platform. You may withdraw at any time by contacting your administrator.",
   "consent_privacy_heading": "Privacy policy",

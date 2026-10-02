@@ -555,6 +555,7 @@
   "intake_required_open": "Abrir la entrevista",
   "intake_required_done": "Ya la he terminado",
   "consent_title": "Terminos y Privacidad",
+  "pilot_consent_narration": "Hola, {{name}}. Antes de empezar, hay dos cosas que aceptar.",
   "consent_terms_heading": "Terminos de Uso",
   "consent_terms_body": "Al participar en este programa, aceptas usar UpSpeech de acuerdo con su propósito como herramienta de apoyo a la logopedia. Tus datos de uso pueden ser recopilados de forma anónima para mejorar la plataforma. Puedes retirarte en cualquier momento contactando a tu administrador.",
   "consent_privacy_heading": "Politica de Privacidad",
