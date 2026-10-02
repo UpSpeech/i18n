@@ -2251,5 +2251,6 @@
   "first_run_caregiver_reply_show_together": "Muéstraselo a {{child}} cuando estéis juntos",
   "first_run_caregiver_reply_child_title": "{{therapist}} te ha escuchado, {{child}}",
   "first_run_caregiver_reply_say_hello_again": "Decir hola otra vez",
-  "view_switch_messages_child": "Chatea con el terapeuta de {{child}}"
+  "view_switch_messages_child": "Chatea con el terapeuta de {{child}}",
+  "view_switch_messages_own": "Chatea con tu terapeuta"
 }
