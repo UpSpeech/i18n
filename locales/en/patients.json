@@ -282,7 +282,10 @@
     "add_another": "Add another patient",
     "child_saved": "{{name}}'s profile is saved. Check the caregiver details and continue to send the invite.",
     "summary_invite_sent_to": "Invite sent to",
-    "language_label": "Invite and app language"
+    "language_label": "Invite and app language",
+    "linked_heading": "{{name}} is added",
+    "linked_body": "{{email}} already has an UpSpeech account, so there is no invite to send. {{name}} now shows on that account, and we emailed them to say so.",
+    "summary_linked_to": "Added to"
   },
   "relationship": {
     "parent": "Parent",

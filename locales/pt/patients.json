@@ -282,7 +282,10 @@
     "add_another": "Adicionar outro paciente",
     "child_saved": "O perfil de {{name}} está guardado. Confirma os dados do cuidador e continua para enviar o convite.",
     "summary_invite_sent_to": "Convite enviado para",
-    "language_label": "Idioma do convite e da app"
+    "language_label": "Idioma do convite e da app",
+    "linked_heading": "{{name}} foi adicionado",
+    "linked_body": "{{email}} já tem uma conta UpSpeech, por isso não há convite para enviar. {{name}} já aparece nessa conta e enviámos um email a avisar.",
+    "summary_linked_to": "Adicionado a"
   },
   "relationship": {
     "parent": "Pai ou mãe",
