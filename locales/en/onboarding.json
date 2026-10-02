@@ -308,7 +308,7 @@
       "resume_look_around": "Look around first",
       "patient": {
         "invite_therapist_role": "{{therapist}} · speech and language therapist",
-        "invite_bubble": "{{name}}, this is the place to practise between our sessions. I listen on the other side.",
+        "invite_bubble": "Welcome to UpSpeech, {{name}}. This is where you'll practise in between our sessions. I'll be listening on the other side!",
         "invite_title": "Your voice has a place here.",
         "invite_lead": "Five minutes: a companion, a question from {{therapist}}, your first recording.",
         "invite_cta": "Come in with {{therapist}}",
