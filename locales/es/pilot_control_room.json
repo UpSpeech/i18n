@@ -1,5 +1,5 @@
 {
-  "title": "Sala de Control Piloto",
+  "title": "Sala de control piloto",
   "subtitle": "Panel operativo para monitorizar la participación del piloto",
   "select_tenant": "Selecciona una clínica para ver los datos del piloto",
   "no_pilot_patients": "Ningún paciente está marcado como 'en piloto' para esta clínica. Usa la sección de inscripción para añadir participantes.",
@@ -9,68 +9,68 @@
     "group": "Grupo",
     "unassigned": "Sin grupo",
     "control_group": "Grupo de Control",
-    "pilot_non_control": "Piloto (Sin Control)",
+    "pilot_non_control": "Piloto (sin control)",
     "clear": "Limpiar filtro de grupo"
   },
   "show_all": "Mostrar todos {{count}}",
-  "show_less": "Mostrar Menos",
+  "show_less": "Mostrar menos",
   "tenant_label": "Clínica",
   "key_metrics": {
-    "active_pct": "Pacientes Activos",
+    "active_pct": "Pacientes activos",
     "active_pct_helper": "Con 2+ sesiones esta semana",
-    "at_risk": "En Riesgo",
+    "at_risk": "En riesgo",
     "at_risk_helper": "Cero sesiones esta semana",
     "avg_sessions": "Media de Sesiones",
     "avg_sessions_helper": "Por paciente esta semana",
-    "total_patients": "En Piloto",
+    "total_patients": "En piloto",
     "total_patients_unit_one": "{{count}} inscrito",
     "total_patients_unit_other": "{{count}} inscritos"
   },
   "immediate_risks": {
-    "title": "Riesgos Inmediatos",
+    "title": "Riesgos inmediatos",
     "subtitle": "Pacientes inactivos durante 3+ días, requiere atención",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "days_inactive": "Días de Inactividad",
-    "last_activity": "Última Actividad",
+    "last_activity": "Última actividad",
     "action": "Acción",
-    "notify": "Notificar Terapeuta",
+    "notify": "Notificar terapeuta",
     "never_active": "Nunca activo",
     "empty": "Ningún paciente en riesgo. Todos los participantes del piloto están activos.",
     "info": "Pacientes sin actividad en la plataforma (grabaciones, ejercicios o escenarios completados) durante 3 o más días, o que nunca han estado activos. Días de Inactividad muestra cuánto tiempo ha pasado desde su última actividad. Use Notificar Terapeuta para alertar al terapeuta asignado sobre pacientes desvinculados."
   },
   "missing_feedback": {
-    "title": "Feedback Pendiente",
+    "title": "Feedback pendiente",
     "subtitle": "Envíos de ejercicios sin revisión del terapeuta durante 48+ horas",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "time_since": "En espera",
     "action": "Acción",
-    "remind": "Recordar Terapeuta",
+    "remind": "Recordar terapeuta",
     "hours_ago": "hace {{count}}h",
     "empty": "Todos los envíos han sido revisados, sin feedback pendiente.",
     "info": "Grabaciones de ejercicios enviadas por pacientes que llevan más de 48 horas esperando la revisión del terapeuta. Solo se monitorizan grabaciones relacionadas con ejercicios (mini-juegos, ejercicios del recorrido de aprendizaje). El tiempo de espera muestra las horas desde el envío."
   },
   "weekly_activity": {
-    "title": "Actividad Semanal",
+    "title": "Actividad semanal",
     "subtitle": "Todos los pacientes del piloto, participación de esta semana",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "sessions": "Sesiones",
-    "last_activity": "Última Actividad",
+    "last_activity": "Última actividad",
     "status": "Estado",
     "active": "Activo",
-    "at_risk": "En Riesgo",
+    "at_risk": "En riesgo",
     "dropping": "Abandonando",
     "info": "Estado de participación semanal de todos los pacientes del piloto. Una sesión es un grupo de grabaciones de ejercicios en una hora con al menos 3 minutos en total, un ejercicio de cuestionario completado, o una sesión de escenario completada. Estado: Activo (2+ sesiones), En Riesgo (1 sesión), Abandonando (0 sesiones)."
   },
   "high_performers": {
-    "title": "Mejores Rendimientos",
+    "title": "Mejores rendimientos",
     "subtitle": "Pacientes con 3+ sesiones esta semana",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "sessions": "Sesiones",
-    "trend": "vs Semana Anterior",
+    "trend": "vs semana anterior",
     "info": "Pacientes con 3 o más sesiones de práctica esta semana. La tendencia compara el número de sesiones de esta semana con la semana anterior. Valores positivos indican mejora y 'new' significa que es su primera semana cualificada."
   },
   "activity_overview": {
@@ -82,7 +82,7 @@
     "practice_minutes": "Tiempo de Práctica",
     "user": "Usuario",
     "role": "Rol",
-    "last_active": "Última Actividad",
+    "last_active": "Última actividad",
     "patient": "Paciente",
     "therapist": "Terapeuta",
     "minutes_unit": "{{count}} min",
@@ -97,7 +97,7 @@
     "name": "Nombre",
     "email": "Email",
     "role": "Rol",
-    "in_pilot": "En Piloto",
+    "in_pilot": "En piloto",
     "group": "Grupo",
     "patient": "Paciente",
     "therapist": "Terapeuta",
@@ -113,7 +113,7 @@
   "feature_flags": {
     "title": "Funcionalidades",
     "subtitle": "Funcionalidades activas para esta clínica",
-    "manage": "Gestionar Funcionalidades",
+    "manage": "Gestionar funcionalidades",
     "enabled": "Activa",
     "disabled": "Desactivada"
   },
@@ -127,13 +127,13 @@
     "subtitle": "Progreso de la recolección de muestras de habla pre-piloto",
     "completed": "Completado",
     "completed_at": "Completado el",
-    "in_progress": "En Progreso",
+    "in_progress": "En progreso",
     "pending": "Pendiente",
-    "not_started": "No Iniciado",
+    "not_started": "No iniciado",
     "status": "Estado",
     "patient": "Paciente",
     "therapist": "Terapeuta",
-    "request_new": "Solicitar Nuevas Grabaciones",
+    "request_new": "Solicitar nuevas grabaciones",
     "request_new_tooltip": "Asignar nuevas grabaciones de habla a todos los pacientes del piloto. Los pacientes que ya tienen una evaluación pendiente se omiten.",
     "requested": "Creada(s) {{count}} nueva(s) evaluación(es)",
     "confirm_title": "¿Solicitar nuevas grabaciones de habla?",
@@ -151,7 +151,7 @@
   },
   "pilot_date_label": "Fecha de inicio del piloto",
   "pilot_start": {
-    "set_date": "Establecer Fecha de Inicio",
+    "set_date": "Establecer fecha de inicio",
     "active_since": "Activo desde {{date}}",
     "scheduled_for": "Inicia el {{date}}",
     "date_set": "Fecha de inicio del piloto establecida",
@@ -372,7 +372,7 @@
       "info": "Curva de supervivencia que muestra el porcentaje de pacientes aún activos cada semana desde el inicio del piloto. Un paciente cuenta como activo si completó al menos 1 sesión de práctica esa semana. Una caída más pronunciada indica desvinculación más rápida. Esta métrica solo incluye pacientes del grupo experimental (grupo de control excluido)."
     },
     "dau": {
-      "title": "Usuarios Activos Diarios",
+      "title": "Usuarios activos diarios",
       "subtitle": "Número de usuarios activos por día",
       "y_label": "Usuarios",
       "info": "Número de pacientes únicos que grabaron un ejercicio o completaron un ejercicio de cuestionario en cada día. Ayuda a identificar patrones de uso (tendencias entre semana vs fin de semana) y a detectar caídas repentinas en la participación. Cada paciente se cuenta solo una vez por día, independientemente de cuántas actividades completó."
@@ -380,7 +380,7 @@
     "practices": {
       "title": "Prácticas por Usuario",
       "subtitle": "Promedio de sesiones por usuario por semana",
-      "y_label": "Promedio Sesiones",
+      "y_label": "Promedio sesiones",
       "info": "Número promedio de sesiones de práctica por paciente por semana. Una sesión se define como un conjunto de grabaciones de ejercicios realizadas en un intervalo de 1 hora que totaliza al menos 3 minutos de audio, o un ejercicio de cuestionario completado. El objetivo es ≥2 sesiones por paciente por semana para cumplir el umbral de adherencia."
     },
     "dropout": {
@@ -399,7 +399,7 @@
       "info": "Cuadrícula de adherencia semanal por paciente. Las celdas verdes significan que el paciente cumplió el umbral (≥2 sesiones Y ≥6 minutos de práctica) esa semana; las celdas rojas significan que falló. Revela patrones como rendimientos consistentes, usuarios intermitentes o pacientes que se desvinculan después de una semana específica. Desplace horizontalmente para ver más semanas."
     },
     "severity": {
-      "title": "Cambio en Severidad Auto-Reportada",
+      "title": "Cambio en severidad auto-reportada",
       "subtitle": "Puntuación final menos baseline (CBSA-SR, menor = mejoría)",
       "change": "Cambio",
       "empty": "Sin datos de severidad disponibles.",
@@ -409,7 +409,7 @@
       "retention_week_8": "Retención en Semana 8",
       "retention_helper": "% de usuarios activos en semana 8",
       "retention_info": "Porcentaje de pacientes del piloto que siguen utilizando activamente la plataforma en la semana 8. Un paciente se considera activo si completó al menos 1 sesión de práctica esa semana. Este KPI solo está disponible tras 8+ semanas de piloto. Los pacientes del grupo de control están excluidos.",
-      "week1_activation": "Activación Semana 1",
+      "week1_activation": "Activación semana 1",
       "week1_helper": "% con ≥2 sesiones en primera semana",
       "week1_info": "Porcentaje de pacientes del piloto que completaron al menos 2 sesiones de práctica durante su primera semana en el programa. Una sesión cuenta cuando las grabaciones de ejercicios totalizan ≥3 minutos o un ejercicio de cuestionario se completa. Objetivo: ≥60%. Este es un indicador adelantado: baja activación predice mayor abandono.",
       "not_available": "N/D"
