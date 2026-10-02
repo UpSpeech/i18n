@@ -1196,7 +1196,7 @@
   "scenario_realtime_headphones_hint": "Headphones recommended for the cleanest audio.",
   "scenario_realtime_status_connecting": "Connecting…",
   "scenario_realtime_status_listening": "Listening",
-  "scenario_realtime_status_bot_speaking": "Speaking",
+  "scenario_realtime_status_bot_speaking": "AI speaking",
   "scenario_realtime_status_idle": "Call ended",
   "scenario_realtime_warming_up": "Warming up the call…",
   "scenario_realtime_objectives": "Conversation goals",
