@@ -1,5 +1,5 @@
 {
-  "title": "Contas Piloto",
+  "title": "Contas piloto",
   "subtitle": "Gerar contas anonimizadas para participantes do piloto",
   "config_title": "Configuração de Contas",
   "tenant": "Clínica",
@@ -7,7 +7,7 @@
   "role_patient": "Paciente",
   "role_therapist": "Terapeuta",
   "count": "Quantidade",
-  "generate": "Gerar Contas",
+  "generate": "Gerar contas",
   "generating": "A gerar...",
   "email": "Email",
   "name": "Nome",
@@ -15,10 +15,10 @@
   "role_label": "Função",
   "patient": "Paciente",
   "therapist": "Terapeuta",
-  "results_title": "Contas Geradas",
+  "results_title": "Contas geradas",
   "security_warning": "Estas credenciais são mostradas apenas uma vez. Copia ou descarrega-as agora. As palavras-passe não podem ser recuperadas depois.",
   "download_csv": "Descarregar CSV",
-  "copy_all": "Copiar Tudo",
+  "copy_all": "Copiar tudo",
   "copied": "Copiado!",
   "errors": {
     "generate_failed": "Falha ao gerar contas"
