@@ -45,7 +45,7 @@
   "custom_scenario": "Custom Scenario",
   "history": "History",
   "completed_count": "{{count}} completed",
-  "practice_real": "Practice real scenarios",
+  "practice_real": "Practise real scenarios",
   "endedEarly": "Ended early",
   "no_session_id": "No session ID provided",
   "load_error": "Failed to load scenario session",
@@ -57,11 +57,11 @@
   "view_conversation": "View Conversation",
   "view_analysis": "View Analysis",
   "session_duration": "Session: {{minutes}}m {{seconds}}s",
-  "objectives_loading": "Practice this scenario naturally. Focus on clear communication and staying calm.",
+  "objectives_loading": "Practise this scenario naturally. Focus on clear communication and staying calm.",
   "objectives_in_call_hint": "Speak naturally. The AI will guide you toward your objectives.",
   "tab": {
     "title": "Scenario Practice",
-    "subtitle": "Practice real-world conversations in a safe, supportive environment",
+    "subtitle": "Practise real-world conversations in a safe, supportive environment",
     "browseCategories": "Browse Categories",
     "quickStart": "Quick Start Templates",
     "yourSessions": "Your Sessions",
@@ -83,10 +83,10 @@
     "other": "Other"
   },
   "categoryDescriptions": {
-    "job_interview": "Practice interview questions and professional responses",
+    "job_interview": "Practise interview questions and professional responses",
     "phone_call": "Build confidence for phone conversations",
     "social_interaction": "Navigate social situations with ease",
-    "ordering_food": "Practice ordering at restaurants and cafes",
+    "ordering_food": "Practise ordering at restaurants and cafes",
     "medical_appointment": "Prepare for healthcare conversations",
     "public_speaking": "Develop presentation and speaking skills",
     "customer_service": "Handle service interactions confidently",
@@ -95,7 +95,7 @@
   "templates": {
     "jobInterview": {
       "title": "Tell me about yourself",
-      "description": "Practice the classic interview opener"
+      "description": "Practise the classic interview opener"
     },
     "phoneCall": {
       "title": "Schedule an appointment",
@@ -103,7 +103,7 @@
     },
     "socialInteraction": {
       "title": "Meeting someone new",
-      "description": "Practice introductions and small talk"
+      "description": "Practise introductions and small talk"
     },
     "orderingFood": {
       "title": "Restaurant order",
@@ -125,7 +125,7 @@
   "briefing": {
     "label": "Scenario",
     "defaultTitle": "Scenario practice",
-    "objectivesHeading": "What you'll practice",
+    "objectivesHeading": "What you'll practise",
     "modeHeading": "How you'd like to speak",
     "modeHelper": "You can change this any time.",
     "modeGuided": {
@@ -337,7 +337,7 @@
   },
   "create": {
     "title": "Create New Scenario",
-    "description": "Describe a real-world situation you'd like to practice. Be specific about the context, who you're talking to, and what you're trying to accomplish.",
+    "description": "Describe a real-world situation you'd like to practise. Be specific about the context, who you're talking to, and what you're trying to accomplish.",
     "languageLabel": "Practice Language",
     "languageHelperText": "Language for speech and responses",
     "selectCategory": "Select a category (optional)",
@@ -345,21 +345,21 @@
     "categoryHelperText": "Choose a category to guide the conversation",
     "descriptionLabel": "Scenario Description",
     "descriptionHelperText": "Example: 'I'm calling to schedule a doctor's appointment. I need to describe my symptoms and ask about available times.'",
-    "descriptionPlaceholder": "Describe the scenario you want to practice...",
-    "descriptionRequired": "Please describe the scenario you want to practice",
+    "descriptionPlaceholder": "Describe the scenario you want to practise...",
+    "descriptionRequired": "Please describe the scenario you want to practise",
     "failedToCreate": "Failed to create scenario. Please try again.",
     "tipsTitle": "Tips for a good scenario:",
     "tip1": "Be specific about the situation and context",
     "tip2": "Include who you're talking to (receptionist, interviewer, etc.)",
     "tip3": "State your goal (scheduling, asking for information, etc.)",
-    "tip4": "Mention any challenges you want to practice handling",
+    "tip4": "Mention any challenges you want to practise handling",
     "creating": "Creating...",
     "startScenario": "Start Scenario"
   },
   "categoryModal": {
     "pickExample": "Pick an example or write your own",
     "customDescription": "Or write your own",
-    "customHelperText": "Describe the specific situation you want to practice",
+    "customHelperText": "Describe the specific situation you want to practise",
     "customPlaceholder": "Describe your scenario...",
     "examples": {
       "job_interview": [
@@ -421,9 +421,9 @@
   "assigned_title": "Assigned by Your Therapist",
   "create_first": "Create Your First Scenario",
   "due_date": "Due: {{date}}",
-  "empty_description_create": "Practice real-world conversations to build your confidence. Choose a category above or create a custom scenario.",
+  "empty_description_create": "Practise real-world conversations to build your confidence. Choose a category above or create a custom scenario.",
   "empty_description_wait": "Your therapist hasn't assigned any scenarios yet. Check back soon!",
-  "empty_title": "Ready to Practice?",
+  "empty_title": "Ready to Practise?",
   "error_title": "Error Loading Scenarios",
   "load_details_error": "Failed to load session details. Please try again.",
   "overdue": "Overdue",

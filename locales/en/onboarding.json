@@ -184,7 +184,7 @@
         },
         "practice": {
           "library_title": "Exercise Library",
-          "library_content": "Choose from these exercises to practice anytime you want.",
+          "library_content": "Choose from these exercises to practise anytime you want.",
           "button_title": "Start Practising",
           "button_content": "Hit the practice button to start a recording session.",
           "scenarios_title": "Conversation Scenarios",
@@ -276,7 +276,7 @@
       "dont_show_again": "Hide tips",
       "recording_controls": {
         "title": "Recording Controls",
-        "description": "Use these controls to record your practice session. You can pause, resume, and add annotations as you practice."
+        "description": "Use these controls to record your practice session. You can pause, resume, and add annotations as you practise."
       }
     }
   }

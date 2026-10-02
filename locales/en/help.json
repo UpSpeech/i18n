@@ -107,7 +107,7 @@
   "faq": {
     "what_is_upspeech": {
       "question": "What is UpSpeech and who is it for?",
-      "answer": "UpSpeech is a speech therapy platform built for therapists and their patients, with a focus on stuttering therapy. Therapists use it to assign exercises, manage learning paths, generate AI-powered clinical reports, and track patient progress. Patients use it to practice daily exercises, follow structured therapy journeys, and record practice sessions."
+      "answer": "UpSpeech is a speech therapy platform built for therapists and their patients, with a focus on stuttering therapy. Therapists use it to assign exercises, manage learning paths, generate AI-powered clinical reports, and track patient progress. Patients use it to practise daily exercises, follow structured therapy journeys, and record practice sessions."
     },
     "what_are_learning_paths": {
       "question": "What are learning paths?",
@@ -115,7 +115,7 @@
     },
     "learning_path_progression": {
       "question": "How does progression through a learning path work?",
-      "answer": "Patients practice each step as many times as they like, but only the therapist can mark a step as complete or skip it. When a step is completed, the next step opens automatically. Therapists can also reopen completed or skipped steps if needed. Progress is tracked per milestone and overall."
+      "answer": "Patients practise each step as many times as they like, but only the therapist can mark a step as complete or skip it. When a step is completed, the next step opens automatically. Therapists can also reopen completed or skipped steps if needed. Progress is tracked per milestone and overall."
     },
     "learning_path_access": {
       "question": "How do I access my learning path?",
@@ -123,7 +123,7 @@
     },
     "exercise_types": {
       "question": "What types of exercises are available?",
-      "answer": "There are two main types. Mini games are daily practice exercises assigned by your therapist that you complete at home, with streak tracking. AI scenarios let you practice real-life conversations (job interviews, phone calls, etc.) with an AI partner."
+      "answer": "There are two main types. Mini games are daily practice exercises assigned by your therapist that you complete at home, with streak tracking. AI scenarios let you practise real-life conversations (job interviews, phone calls, etc.) with an AI partner."
     },
     "complete_daily_exercise": {
       "question": "How do I complete a daily exercise?",
@@ -143,7 +143,7 @@
     },
     "what_are_scenarios": {
       "question": "What are AI practice scenarios?",
-      "answer": "AI scenarios let you practice real-life conversations in a safe environment. You can practice situations like job interviews, phone calls, ordering food, medical appointments, public speaking, and more. The AI responds naturally, helping you build confidence with your fluency techniques."
+      "answer": "AI scenarios let you practise real-life conversations in a safe environment. You can practise situations like job interviews, phone calls, ordering food, medical appointments, public speaking, and more. The AI responds naturally, helping you build confidence with your fluency techniques."
     },
     "how_scenarios_work": {
       "question": "How do AI scenarios work?",
