@@ -124,7 +124,7 @@
       },
       "step_companion": "Compañero",
       "companion_title": "Conoce a {{companion}}",
-      "companion_body": "{{companion}} estará contigo cuando practiquéis. {{child}} elige el color de {{companion}} cuando terminéis la primera práctica juntos.",
+      "companion_body": "{{companion}} hace compañía a {{child}} cuando practicáis. Después de vuestra primera práctica juntos, {{child}} elige el color de {{companion}}.",
       "consent_narration": "Hola, {{name}}. Antes de empezar, hay dos cosas que aceptar."
     },
     "guardian": {

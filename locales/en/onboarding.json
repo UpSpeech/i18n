@@ -124,7 +124,7 @@
       },
       "step_companion": "Companion",
       "companion_title": "Meet {{companion}}",
-      "companion_body": "{{companion}} will be there when you practise. {{child}} picks {{companion}}'s colour when you finish your first one together.",
+      "companion_body": "{{companion}} keeps {{child}} company when you practise. After your first practice together, {{child}} picks {{companion}}'s colour.",
       "consent_narration": "Hello, {{name}}. Before we start, there are two things to agree to."
     },
     "guardian": {
