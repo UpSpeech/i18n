@@ -101,6 +101,7 @@
   "notes": {
     "title": "Notas do Terapeuta",
     "add_note_placeholder": "Adiciona uma nota ou comentário para este relatório...",
+    "care_team_placeholder": "Adiciona uma nota para a equipa. Os pacientes não veem as notas.",
     "edit_note": "Editar nota",
     "delete_note": "Eliminar nota",
     "failed_to_load": "Falha ao carregar notas",
