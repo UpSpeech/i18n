@@ -1845,6 +1845,7 @@
   "learning_path_condition_voice": "Voz",
   "child_hand_over": "Pasar a {{name}}",
   "child_back_to": "{{name}} →",
+  "child_grownup_exit": "Turno de {{name}}",
   "child_show_first": "Muéstrale a {{name}} primero",
   "child_show_first_hint": "Un saludo rápido para {{name}} antes de empezar.",
   "child_hello_greeting": "¡Hola, {{name}}!",
