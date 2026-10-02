@@ -1549,6 +1549,8 @@
   "caregiver_reminder_skip": "Saltar por agora",
   "caregiver_finish_setup": "Concluir",
   "caregiver_continue": "Continuar",
+  "caregiver_companion_step_title": "Conhece o {{companion}}",
+  "caregiver_companion_step_body": "O {{companion}} vai estar presente quando praticarem. {{child}} escolhe a cor do {{companion}} quando acabarem a primeira prática juntos.",
   "caregiver_step_of": "Passo {{current}} de {{total}}",
   "homework_section_title": "Trabalho de casa de {{child}}",
   "homework_screen_title": "Trabalho de casa",
