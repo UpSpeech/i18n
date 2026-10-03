@@ -501,7 +501,9 @@
       "offer_now": "Probar ahora",
       "offer_later": "Ahora no",
       "offer_later_note": "Todavía puedes probarlo desde el primer paso de {{child}}.",
-      "offer_minutes": "{{count}} min"
+      "offer_minutes": "{{count}} min",
+      "offer_now_minutes": "Probar ahora ({{count}} min)",
+      "home_hint": "El terapeuta de {{child}} define el primer ejercicio. Aparece aquí en cuanto lo haga."
     }
   }
 }

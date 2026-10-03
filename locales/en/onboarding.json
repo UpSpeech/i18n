@@ -501,7 +501,9 @@
       "offer_now": "Try it now",
       "offer_later": "Not now",
       "offer_later_note": "You can still try it from {{child}}'s first step.",
-      "offer_minutes": "{{count}} min"
+      "offer_minutes": "{{count}} min",
+      "offer_now_minutes": "Try it now ({{count}} min)",
+      "home_hint": "{{child}}'s therapist sets the first exercise. It shows up here as soon as they do."
     }
   }
 }
