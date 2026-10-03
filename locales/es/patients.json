@@ -365,7 +365,18 @@
       "answer_other": "Otra cosa",
       "answer_confirm": "Continuar",
       "answer_nothing_else": "Nada más que añadir",
-      "finalizing": "Tus respuestas ya se están guardando, así que esta no se pudo añadir. No queda nada por enviar."
+      "finalizing": "Tus respuestas ya se están guardando, así que esta no se pudo añadir. No queda nada por enviar.",
+      "topic": {
+        "about": "Para empezar",
+        "history": "Cómo empezó",
+        "main_reason": "Por qué ahora",
+        "hard_situations": "Situaciones difíciles",
+        "impact": "Impacto",
+        "goal": "Lo que esperas",
+        "child_context": "Sobre el niño o la niña",
+        "anything_else": "Algo más"
+      },
+      "shapes_plan": "Ayuda a diseñar el plan"
     }
   },
   "header_facts": "{{total}} pacientes, {{recent}} nuevos este mes"
