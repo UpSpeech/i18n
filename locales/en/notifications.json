@@ -9,6 +9,7 @@
   "empty_unread": "No unread notifications",
   "empty_filtered": "No {{type}} notifications",
   "all_caught_up": "You're all caught up!",
+  "empty_what": "Feedback, messages and reminders from your therapist appear here.",
   "actions": {
     "practice_now": "Practise now",
     "read_feedback": "Read the feedback",
