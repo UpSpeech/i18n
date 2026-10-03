@@ -314,6 +314,8 @@
     "child": "Mi hijo o hija",
     "children": "Mis hijos",
     "messages_child": "Chatea con el terapeuta de {{child}}",
-    "dashboard_me": "Tu práctica"
+    "dashboard_me": "Tu práctica",
+    "signed_in_as": "Sesión iniciada como {{name}}",
+    "back_to_me": "Volver a mi práctica"
   }
 }

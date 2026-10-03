@@ -2313,5 +2313,6 @@
   "first_run_caregiver_home_kept_title": "La primera grabación de {{child}} está esperando.",
   "first_run_caregiver_home_done_cta": "Ir al plan",
   "view_switch_messages_child": "Chatea con el terapeuta de {{child}}",
-  "view_switch_messages_own": "Chatea con tu terapeuta"
+  "view_switch_messages_own": "Chatea con tu terapeuta",
+  "view_switch_back_to_me": "Volver a mi práctica"
 }

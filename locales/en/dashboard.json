@@ -314,6 +314,8 @@
     "child": "My child",
     "children": "My children",
     "messages_child": "Chat with {{child}}'s therapist",
-    "dashboard_me": "Your practice"
+    "dashboard_me": "Your practice",
+    "signed_in_as": "Signed in as {{name}}",
+    "back_to_me": "Back to my practice"
   }
 }
