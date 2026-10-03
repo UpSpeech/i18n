@@ -329,7 +329,10 @@
     },
     "companion_bar_title": "Barra del asistente",
     "companion_bar_label": "Mantenerla abierta en todas las páginas",
-    "companion_bar_description": "Desactivada, queda solo un botón pequeño en la esquina. La elección te acompaña en cualquier dispositivo en el que inicies sesión."
+    "companion_bar_description": "Desactivada, queda solo un botón pequeño en la esquina. La elección te acompaña en cualquier dispositivo en el que inicies sesión.",
+    "practice_title": "Práctica",
+    "practice_days_heading": "Días de práctica de {{name}}",
+    "practice_days_empty": "Los días de práctica de {{name}} aparecerán aquí cuando su terapeuta haya definido un ejercicio."
   },
   "layout": {
     "open_sidebar": "Abrir barra lateral",

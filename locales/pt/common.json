@@ -329,7 +329,10 @@
     },
     "companion_bar_title": "Barra do assistente",
     "companion_bar_label": "Manter aberta em todas as páginas",
-    "companion_bar_description": "Desligada, fica só um botão pequeno no canto. A escolha acompanha-te em qualquer dispositivo onde entres."
+    "companion_bar_description": "Desligada, fica só um botão pequeno no canto. A escolha acompanha-te em qualquer dispositivo onde entres.",
+    "practice_title": "Prática",
+    "practice_days_heading": "Dias de prática de {{name}}",
+    "practice_days_empty": "Os dias de prática de {{name}} aparecem aqui quando o terapeuta definir um exercício."
   },
   "layout": {
     "open_sidebar": "Abrir menu lateral",

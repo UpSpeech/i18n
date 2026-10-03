@@ -336,7 +336,10 @@
     },
     "companion_bar_title": "Assistant bar",
     "companion_bar_label": "Keep it open on every page",
-    "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on."
+    "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on.",
+    "practice_title": "Practice",
+    "practice_days_heading": "{{name}}'s practice days",
+    "practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise."
   },
   "layout": {
     "open_sidebar": "Open sidebar",

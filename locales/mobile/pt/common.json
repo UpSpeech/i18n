@@ -2320,5 +2320,7 @@
   "first_run_caregiver_home_done_cta": "Ir para o plano",
   "view_switch_messages_child": "Conversa com o terapeuta de {{child}}",
   "view_switch_messages_own": "Conversa com o teu terapeuta",
-  "view_switch_back_to_me": "Voltar à minha prática"
+  "view_switch_back_to_me": "Voltar à minha prática",
+  "settings_practice_days_heading": "Dias de prática de {{name}}",
+  "settings_practice_days_empty": "Os dias de prática de {{name}} aparecem aqui quando o terapeuta definir um exercício."
 }
