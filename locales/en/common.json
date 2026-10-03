@@ -247,6 +247,7 @@
     "job_title_placeholder": "Speech-language pathologist",
     "job_title_hint": "Shown beside your name on report notes. Leave it empty to show your role.",
     "job_title_saved": "Job title saved",
+    "job_title_failed": "Couldn't save the job title",
     "delete_account_title": "Delete account",
     "delete_account_warning_body": "Your account and the data tied to it will be deleted. This action is permanent and cannot be undone from the app.",
     "delete_account_what_happens": "What gets deleted:",
