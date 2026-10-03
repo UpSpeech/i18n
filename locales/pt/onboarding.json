@@ -489,6 +489,19 @@
         "home_kept_title": "A primeira gravação de {{child}} está à espera.",
         "home_done_cta": "Ir para o plano"
       }
+    },
+    "stage": {
+      "progress": "Passo {{step}} de {{of}}",
+      "consent_line": "Antes de começarmos, há duas coisas a aceitar.",
+      "lumo_hello": "Eu sou o Lumo. Vou estar cá sempre que praticarem.",
+      "lumo_intro": "Faço companhia a {{child}} quando praticam. Depois da primeira prática juntos, {{child}} escolhe a minha cor.",
+      "offer_title": "Experimenta {{exercise}} primeiro, por conta própria",
+      "offer_body": "É o primeiro exercício de {{child}}. Fazê-lo uma vez ajuda a ficar familiar quando se sentarem juntos.",
+      "offer_promise": "Um treino. Nada é guardado e só tu o vês.",
+      "offer_now": "Experimentar agora",
+      "offer_later": "Agora não",
+      "offer_later_note": "Ainda podes experimentá-lo no primeiro passo de {{child}}.",
+      "offer_minutes": "{{count}} min"
     }
   }
 }
