@@ -2320,5 +2320,7 @@
   "first_run_caregiver_home_done_cta": "Go to the plan",
   "view_switch_messages_child": "Chat with {{child}}'s therapist",
   "view_switch_messages_own": "Chat with your therapist",
-  "view_switch_back_to_me": "Back to my practice"
+  "view_switch_back_to_me": "Back to my practice",
+  "settings_practice_days_heading": "{{name}}'s practice days",
+  "settings_practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise."
 }
