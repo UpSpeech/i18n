@@ -73,7 +73,8 @@
   },
   "empty_state": {
     "title": "Ainda sem pacientes",
-    "description": "Começa por adicionar o teu primeiro paciente"
+    "description": "Começa por adicionar o teu primeiro paciente",
+    "what_appears": "Cada paciente que adicionares terá uma página com as gravações, o progresso e as tuas notas."
   },
   "filters": {
     "search_placeholder": "Pesquisar por nome ou email...",

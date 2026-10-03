@@ -9,6 +9,7 @@
   "empty_unread": "Sem notificações por ler",
   "empty_filtered": "Sem notificações de {{type}}",
   "all_caught_up": "Está tudo em dia!",
+  "empty_what": "Aqui aparecem os comentários, mensagens e lembretes do teu terapeuta.",
   "actions": {
     "practice_now": "Praticar agora",
     "read_feedback": "Ler o comentário",

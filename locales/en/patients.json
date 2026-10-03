@@ -76,7 +76,8 @@
   },
   "empty_state": {
     "title": "No patients yet",
-    "description": "Get started by adding your first patient"
+    "description": "Get started by adding your first patient",
+    "what_appears": "Each patient you add gets a page for their recordings, progress and your notes."
   },
   "filters": {
     "search_placeholder": "Search by name or email...",
