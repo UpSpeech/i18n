@@ -1748,5 +1748,147 @@
     "upload_interests_hint": "Pick as many as fit. You choose which exercise it goes in when you assign it.",
     "choose_file": "Choose a picture",
     "curated": "UpSpeech"
+  },
+  "step_voice": {
+    "what_is_stuttering": {
+      "instructions": "Answer the quiz questions together with {{child}} to check what you both understand. You can retry as many times as you need."
+    },
+    "how_speech_works": {
+      "instructions": "Answer the quiz questions together with {{child}} to check what you both understand. Take your time, there's no rush."
+    },
+    "therapy_process": {
+      "description": "Learn what to expect during {{child}}'s therapy journey",
+      "instructions": "Answer the quiz questions together with {{child}} to check what you both understand of the therapy process."
+    },
+    "therapeutic_objectives": {
+      "instructions": "Answer the quiz questions together with {{child}} to check what you both understand of the therapeutic objectives."
+    },
+    "avoidance_vs_struggle": {
+      "instructions": "Answer the quiz questions together with {{child}} to check what you both understand. Recognising these patterns is an important step forward."
+    },
+    "knowledge_recap": {
+      "description": "A short recap of this milestone from {{child}}'s therapist before you reflect together.",
+      "instructions": "Watch the short recap from {{child}}'s therapist together before moving on to the reflection. Video coming soon. For now, read or listen to the recap below."
+    },
+    "video_explanation": {
+      "description": "Record a video of {{child}} explaining what they've learned in their own words"
+    },
+    "identify_disfluencies": {
+      "instructions": "The exercise will guide you and {{child}} through each phase. Take your time, there's no rush."
+    },
+    "self_review_identification": {
+      "description": "Record {{child}} speaking, then look at the video together and spot the disfluencies.",
+      "instructions": "First you'll record a short video of {{child}}, then review it together to spot disfluencies."
+    },
+    "holding_very_slow": {
+      "instructions": "1. Start with {{child}} speaking naturally\n2. When {{child}} feels a moment of stuttering, encourage them to stay with it\n3. Help them hold the position without forcing or escaping\n4. Let them exit very slowly and smoothly\n5. Carry on speaking"
+    },
+    "holding_medium": {
+      "instructions": "1. Start with {{child}} speaking naturally\n2. When {{child}} feels a moment of stuttering, encourage them to stay with it\n3. Help them hold the position without forcing\n4. Let them exit at a moderate pace, staying smooth\n5. Carry on speaking"
+    },
+    "holding_natural": {
+      "instructions": "1. Start with {{child}} speaking naturally\n2. When {{child}} feels a moment of stuttering, encourage them to stay with it briefly\n3. Let them exit at their natural speaking pace\n4. The hold should feel brief but intentional"
+    },
+    "holding_duration_short": {
+      "instructions": "1. Start with {{child}} speaking naturally\n2. When {{child}} feels a moment of stuttering, encourage them to stay with it\n3. Help them hold for at least 2 seconds, the ring will show their progress\n4. Let them exit at their natural pace when the target is met"
+    },
+    "holding_duration_medium": {
+      "instructions": "1. Start with {{child}} speaking naturally\n2. When {{child}} feels a moment of stuttering, encourage them to stay with it\n3. Help them hold for at least 4 seconds, the ring will show their progress\n4. Let them exit at their natural pace when the target is met"
+    },
+    "holding_duration_long": {
+      "instructions": "1. Start with {{child}} speaking naturally\n2. When {{child}} feels a moment of stuttering, encourage them to stay with it\n3. Help them hold for at least 6 seconds, the ring will show their progress\n4. Let them exit at their natural pace when the target is met"
+    },
+    "easy_voluntary_stuttering": {
+      "instructions": "1. Help {{child}} choose a word to stutter on intentionally\n2. Make a gentle, easy repetition or prolongation together\n3. Keep it soft and relaxed\n4. Ask how it feels different from involuntary moments"
+    },
+    "voluntary_with_force": {
+      "instructions": "1. Try voluntary stuttering with intentional tension together\n2. Ask {{child}} to notice how this feels in their body\n3. Observe the difference from easy voluntary stuttering\n4. This awareness helps {{child}} recognise and release tension"
+    },
+    "voluntary_without_force": {
+      "instructions": "1. Begin with gentle voluntary stuttering\n2. If {{child}} notices any tension, help them release it\n3. Focus on keeping the moment soft and open\n4. This is the target feeling for all speech moments"
+    },
+    "motor_control_scenario": {
+      "description": "A random everyday situation, like asking for directions, chatting with a cashier, or calling to schedule an appointment. {{child}} practises using their voluntary stuttering techniques naturally."
+    },
+    "cancellation": {
+      "description": "Repair each stutter right after it happens, while {{child}} reads a passage aloud.",
+      "instructions": "Learn cancellation, then record {{child}} reading a passage. Whenever they stutter, help them stop, pause, and say the word again with an easier exit."
+    },
+    "preparatory_set": {
+      "description": "Ease into the words {{child}} expects to be hard, before they reach them.",
+      "instructions": "Learn the preparatory set, then record {{child}} reading a text. Before each word they expect to be hard, help them pre-shape their airflow and articulation so they ease into it gently, without forcing."
+    },
+    "pull_out": {
+      "instructions": "Learn pull-out, then record {{child}} giving a short monologue. When they feel a block, help them ease out of it gently rather than forcing through."
+    },
+    "repair_under_pressure": {
+      "description": "A casual chat about weekend plans. Every few exchanges the AI gently asks what {{child}} did when they worked through a moment."
+    },
+    "identify_disfluency_types": {
+      "description": "Watch an experienced communicator with {{child}} and mark the moments of disfluency you both recognise.",
+      "instructions": "Watch the video with {{child}} and mark each moment of disfluency you recognise, noting whether it is a repetition, a prolongation or a block. You do not need to rate intensity or identify secondary behaviours, just mark the type."
+    },
+    "observe_communicator": {
+      "description": "Analyse what you and {{child}} observed using a structured observation grid",
+      "instructions": "Watch the video carefully with {{child}}, then rate the communicator on each dimension. There are no right or wrong answers, just rate what you observe."
+    },
+    "speech_rate_warmup_reading": {
+      "description": "A reading warm-up to slow {{child}}'s speech down, stretching syllables and pauses naturally.",
+      "instructions": "Record {{child}} reading the text aloud, more slowly than usual. Stretch the syllables and honour each pause marked in the text, letting them sound natural. The goal is not to speak robotically, but to give {{child}} more time on each word."
+    },
+    "soft_articulatory_contacts": {
+      "instructions": "Start with the sounds {{child}} finds hardest, for example PRA, PRE, PRI. Say each one first with force and then without force, feeling the difference in how the lips and tongue touch. Then move on to words with those sounds, and finally to sentences, softening only the most difficult word. Record {{child}} practising."
+    },
+    "soft_onsets": {
+      "instructions": "Begin each word lightly, letting the sound grow from a soft release of air instead of attacking the first syllable. Practise first on single words and then on short sentences, recording {{child}} applying the soft onset whenever they feel tension."
+    },
+    "guided_pauses_long": {
+      "instructions": "1. {{child}} speaks naturally for a sentence or two\n2. When signalled, they pause for 2-3 seconds\n3. They continue speaking after the pause\n4. Notice how pausing affects their speech flow"
+    },
+    "guided_pauses_medium": {
+      "instructions": "1. {{child}} speaks naturally for a sentence or two\n2. When signalled, they pause for 1-2 seconds\n3. They continue speaking after the pause\n4. Notice how pausing affects their speech flow"
+    },
+    "guided_pauses_short": {
+      "instructions": "1. {{child}} speaks naturally\n2. When signalled, they pause briefly (about 1 second)\n3. They continue speaking\n4. These brief pauses help maintain a comfortable pace"
+    },
+    "autonomous_pauses": {
+      "description": "Help {{child}} practise choosing when and where to pause on their own"
+    },
+    "communication_scenario": {
+      "description": "An everyday conversation, like catching up with a friend, asking for information at a store, or speaking with a colleague during a break. {{child}} uses their pausing and pacing strategies."
+    },
+    "disclosure_practice": {
+      "description": "A casual everyday interaction where {{child}} practises mentioning their stutter naturally, like meeting someone new, starting a conversation at a café, or chatting with a classmate."
+    },
+    "disclosure_ordering": {
+      "description": "{{child}} practises self-disclosure when ordering at a restaurant or store"
+    },
+    "disclosure_introduction": {
+      "description": "{{child}} practises introducing themselves and their stuttering"
+    },
+    "reflection_journal": {
+      "description": "Write, or help {{child}} write, about their experiences with self-disclosure"
+    },
+    "situation_hierarchy": {
+      "description": "List five real speaking situations for {{child}}, easiest to hardest. Their therapist tailors the next steps from this.",
+      "instructions": "List five real speaking situations for {{child}}, ranked from easiest to hardest. Be specific. {{child}}'s therapist uses this hierarchy to tailor the practice that follows."
+    },
+    "low_stakes_practice": {
+      "description": "The AI plays a familiar, informal person such as a friend or barista. {{child}} can use any technique from their toolkit."
+    },
+    "scenario_with_technique_id": {
+      "description": "A typical daily situation, like ordering food, making a phone call, or chatting with someone at a bus stop. Pay attention to which techniques {{child}} naturally uses during the conversation."
+    },
+    "real_world_assignment": {
+      "description": "Not a recording. {{child}} has one real conversation this week using a technique, then you report back.",
+      "instructions": "This isn't a recording. {{child}} has one real conversation this week using a technique of their choice, then you come back and report the situation, the technique used, and how it went."
+    },
+    "generalisation_scenario": {
+      "description": "A random everyday conversation, like running an errand, meeting a friend for coffee, or handling a day-to-day phone call. {{child}} puts all their skills together naturally."
+    },
+    "build_toolkit": {
+      "description": "Pick the techniques that work best for {{child}} and note when they'll reach for each one.",
+      "instructions": "Choose the techniques that have worked best for {{child}} across the journey, and write a short note on when and how they'll use each one. This is their personal toolkit to carry forward."
+    }
   }
 }

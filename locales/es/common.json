@@ -1748,5 +1748,147 @@
     "upload_interests_hint": "Elige todos los que encajen. El ejercicio lo eliges al asignarla.",
     "choose_file": "Elegir una imagen",
     "curated": "UpSpeech"
+  },
+  "step_voice": {
+    "what_is_stuttering": {
+      "instructions": "Responded juntos las preguntas del cuestionario para comprobar lo que ambos comprendéis. Podéis intentarlo todas las veces que necesitéis."
+    },
+    "how_speech_works": {
+      "instructions": "Responded juntos las preguntas del cuestionario para comprobar lo que ambos comprendéis. Con calma, no hay prisa."
+    },
+    "therapy_process": {
+      "description": "Descubre qué esperar del camino terapéutico de {{child}}",
+      "instructions": "Responded juntos las preguntas del cuestionario para comprobar lo que ambos comprendéis del proceso terapéutico."
+    },
+    "therapeutic_objectives": {
+      "instructions": "Responded juntos las preguntas del cuestionario para comprobar lo que ambos comprendéis de los objetivos terapéuticos."
+    },
+    "avoidance_vs_struggle": {
+      "instructions": "Responded juntos las preguntas del cuestionario para comprobar lo que ambos comprendéis. Reconocer estos patrones es un paso importante."
+    },
+    "knowledge_recap": {
+      "description": "Un breve resumen de este hito por parte del terapeuta de {{child}} antes de reflexionar juntos.",
+      "instructions": "Mirad juntos el breve resumen del terapeuta de {{child}} antes de pasar a la reflexión. Vídeo disponible próximamente. Por ahora, leed o escuchad el resumen a continuación."
+    },
+    "video_explanation": {
+      "description": "Graba un video de {{child}} explicando lo que ha aprendido con sus propias palabras"
+    },
+    "identify_disfluencies": {
+      "instructions": "El ejercicio os guiará a ti y a {{child}} en cada fase. Con calma, no hay prisa."
+    },
+    "self_review_identification": {
+      "description": "Graba a {{child}} hablando y luego mirad juntos el video para detectar las disfluencias.",
+      "instructions": "Primero grabarás un breve video de {{child}}, luego lo revisaréis juntos para detectar disfluencias."
+    },
+    "holding_very_slow": {
+      "instructions": "1. Empieza con {{child}} hablando con naturalidad\n2. Cuando {{child}} sienta un momento de tartamudez, anímale a quedarse con él\n3. Ayúdale a mantener la posición sin forzar ni escapar\n4. Déjale salir muy despacio y con suavidad\n5. Seguid hablando"
+    },
+    "holding_medium": {
+      "instructions": "1. Empieza con {{child}} hablando con naturalidad\n2. Cuando {{child}} sienta un momento de tartamudez, anímale a quedarse con él\n3. Ayúdale a mantener la posición sin forzar\n4. Déjale salir a un ritmo moderado, con suavidad\n5. Seguid hablando"
+    },
+    "holding_natural": {
+      "instructions": "1. Empieza con {{child}} hablando con naturalidad\n2. Cuando {{child}} sienta un momento de tartamudez, anímale a quedarse con él brevemente\n3. Déjale salir a su ritmo natural de habla\n4. La pausa debe sentirse breve pero intencional"
+    },
+    "holding_duration_short": {
+      "instructions": "1. Empieza con {{child}} hablando con naturalidad\n2. Cuando {{child}} sienta un momento de tartamudez, anímale a quedarse con él\n3. Ayúdale a mantener al menos 2 segundos, el anillo mostrará su progreso\n4. Déjale salir a su ritmo natural cuando se alcance el objetivo"
+    },
+    "holding_duration_medium": {
+      "instructions": "1. Empieza con {{child}} hablando con naturalidad\n2. Cuando {{child}} sienta un momento de tartamudez, anímale a quedarse con él\n3. Ayúdale a mantener al menos 4 segundos, el anillo mostrará su progreso\n4. Déjale salir a su ritmo natural cuando se alcance el objetivo"
+    },
+    "holding_duration_long": {
+      "instructions": "1. Empieza con {{child}} hablando con naturalidad\n2. Cuando {{child}} sienta un momento de tartamudez, anímale a quedarse con él\n3. Ayúdale a mantener al menos 6 segundos, el anillo mostrará su progreso\n4. Déjale salir a su ritmo natural cuando se alcance el objetivo"
+    },
+    "easy_voluntary_stuttering": {
+      "instructions": "1. Ayuda a {{child}} a elegir una palabra para tartamudear a propósito\n2. Haced juntos una repetición o prolongación suave y fácil\n3. Mantenedlo ligero y relajado\n4. Pregunta cómo se siente distinto de los momentos involuntarios"
+    },
+    "voluntary_with_force": {
+      "instructions": "1. Probad juntos la tartamudez voluntaria con tensión intencional\n2. Pide a {{child}} que note cómo se siente en el cuerpo\n3. Observad la diferencia con la tartamudez voluntaria fácil\n4. Esta conciencia ayuda a {{child}} a reconocer y soltar la tensión"
+    },
+    "voluntary_without_force": {
+      "instructions": "1. Empezad con una tartamudez voluntaria suave\n2. Si {{child}} nota alguna tensión, ayúdale a soltarla\n3. Centraos en mantener el momento ligero y abierto\n4. Esta es la sensación objetivo en todos los momentos de habla"
+    },
+    "motor_control_scenario": {
+      "description": "Una situación cotidiana aleatoria, como pedir indicaciones, charlar con un cajero o llamar para pedir cita. {{child}} practica sus técnicas de tartamudez voluntaria con naturalidad."
+    },
+    "cancellation": {
+      "description": "Reparar cada tartamudeo justo después de que ocurra, mientras {{child}} lee un texto en voz alta.",
+      "instructions": "Aprende la cancelación y luego graba a {{child}} leyendo un texto. Cada vez que tartamudee, ayúdale a parar, hacer una pausa y decir la palabra de nuevo con una salida más fácil."
+    },
+    "preparatory_set": {
+      "description": "Entrar con suavidad en las palabras que {{child}} prevé difíciles, antes de llegar a ellas.",
+      "instructions": "Aprende la preparación y luego graba a {{child}} leyendo un texto. Antes de cada palabra que prevea difícil, ayúdale a preformar el flujo de aire y la articulación para entrar con suavidad, sin forzar."
+    },
+    "pull_out": {
+      "instructions": "Aprende la salida suave y luego graba a {{child}} en un breve monólogo. Cuando note un bloqueo, ayúdale a salir de él con suavidad en vez de forzar."
+    },
+    "repair_under_pressure": {
+      "description": "Una charla informal sobre los planes del fin de semana. Cada pocos intercambios, la IA pregunta con delicadeza qué hizo {{child}} al superar un momento."
+    },
+    "identify_disfluency_types": {
+      "description": "Mirad juntos a un comunicador experimentado y marcad los momentos de disfluencia que ambos reconozcáis.",
+      "instructions": "Mirad el video juntos y marcad cada momento de disfluencia que reconozcáis, indicando si es una repetición, un alargamiento o un bloqueo. No necesitáis valorar la intensidad ni identificar conductas secundarias, basta con marcar el tipo."
+    },
+    "observe_communicator": {
+      "description": "Analizad lo que habéis observado, tú y {{child}}, con una cuadrícula de observación estructurada",
+      "instructions": "Mirad el video con atención, juntos, y valorad al comunicador en cada dimensión. No hay respuestas correctas ni incorrectas, solo valorad lo que observáis."
+    },
+    "speech_rate_warmup_reading": {
+      "description": "Un calentamiento de lectura para ralentizar el habla de {{child}}, alargando sílabas y pausas con naturalidad.",
+      "instructions": "Graba a {{child}} leyendo el texto en voz alta, más despacio de lo habitual. Alarga las sílabas y respeta cada pausa marcada en el texto, dejando que suenen naturales. El objetivo no es hablar de forma robótica, sino dar a {{child}} más tiempo en cada palabra."
+    },
+    "soft_articulatory_contacts": {
+      "instructions": "Empieza por los sonidos que a {{child}} le resultan más difíciles, por ejemplo PRA, PRE, PRI. Di cada uno primero con fuerza y luego sin fuerza, sintiendo la diferencia en cómo se tocan los labios y la lengua. Después pasad a palabras con esos sonidos y, por último, a frases, suavizando solo la palabra más difícil. Graba a {{child}} practicando."
+    },
+    "soft_onsets": {
+      "instructions": "Empieza cada palabra con ligereza, dejando que el sonido crezca desde una liberación suave de aire en vez de atacar la primera sílaba. Practicad primero con palabras sueltas y luego con frases cortas, grabando a {{child}} aplicando el inicio suave siempre que note tensión."
+    },
+    "guided_pauses_long": {
+      "instructions": "1. {{child}} habla con naturalidad una o dos frases\n2. Cuando se le avise, hace una pausa de 2-3 segundos\n3. Sigue hablando después de la pausa\n4. Fijaos en cómo afecta la pausa al flujo del habla"
+    },
+    "guided_pauses_medium": {
+      "instructions": "1. {{child}} habla con naturalidad una o dos frases\n2. Cuando se le avise, hace una pausa de 1-2 segundos\n3. Sigue hablando después de la pausa\n4. Fijaos en cómo afecta la pausa al flujo del habla"
+    },
+    "guided_pauses_short": {
+      "instructions": "1. {{child}} habla con naturalidad\n2. Cuando se le avise, hace una pausa breve (de aproximadamente 1 segundo)\n3. Sigue hablando\n4. Estas pausas breves ayudan a mantener un ritmo cómodo"
+    },
+    "autonomous_pauses": {
+      "description": "Ayuda a {{child}} a practicar cómo elegir cuándo y dónde hacer pausas por su cuenta"
+    },
+    "communication_scenario": {
+      "description": "Una conversación cotidiana, como ponerse al día con un amigo, pedir información en una tienda o hablar con un compañero durante un descanso. {{child}} usa sus estrategias de pausa y ritmo."
+    },
+    "disclosure_practice": {
+      "description": "Una interacción informal cotidiana en la que {{child}} practica mencionar su tartamudez con naturalidad, como conocer a alguien, empezar una conversación en una cafetería o charlar con un compañero de clase."
+    },
+    "disclosure_ordering": {
+      "description": "{{child}} practica la autodivulgación al pedir en un restaurante o una tienda"
+    },
+    "disclosure_introduction": {
+      "description": "{{child}} practica presentarse y presentar su tartamudez"
+    },
+    "reflection_journal": {
+      "description": "Escribe, o ayuda a {{child}} a escribir, sobre sus experiencias con la autodivulgación"
+    },
+    "situation_hierarchy": {
+      "description": "Enumera cinco situaciones reales de habla de {{child}}, de la más fácil a la más difícil. Su terapeuta adapta los siguientes pasos a partir de esto.",
+      "instructions": "Enumera cinco situaciones reales de habla de {{child}}, ordenadas de la más fácil a la más difícil. Sé específico. El terapeuta de {{child}} usa esta jerarquía para adaptar la práctica que sigue."
+    },
+    "low_stakes_practice": {
+      "description": "La IA hace de una persona familiar e informal, como un amigo o un camarero. {{child}} puede usar cualquier técnica de su caja de herramientas."
+    },
+    "scenario_with_technique_id": {
+      "description": "Una situación diaria típica, como pedir comida, hacer una llamada o charlar con alguien en una parada de autobús. Presta atención a qué técnicas usa {{child}} de forma natural durante la conversación."
+    },
+    "real_world_assignment": {
+      "description": "No es una grabación. {{child}} tiene una conversación real esta semana usando una técnica y luego tú lo cuentas.",
+      "instructions": "Esto no es una grabación. {{child}} tiene una conversación real esta semana usando una técnica de su elección y luego vuelves a contar la situación, la técnica usada y cómo fue."
+    },
+    "generalisation_scenario": {
+      "description": "Una conversación cotidiana aleatoria, como hacer un recado, quedar con un amigo para un café o atender una llamada del día a día. {{child}} reúne todas sus habilidades con naturalidad."
+    },
+    "build_toolkit": {
+      "description": "Elige las técnicas que mejor funcionan para {{child}} y anota cuándo recurrirá a cada una.",
+      "instructions": "Elige las técnicas que mejor han funcionado para {{child}} a lo largo del camino y escribe una breve nota sobre cuándo y cómo las usará. Esta es su caja de herramientas personal para llevar adelante."
+    }
   }
 }
