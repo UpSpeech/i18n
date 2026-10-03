@@ -206,7 +206,9 @@
     "error_title": "Could not load feedback",
     "load_error": "Something went wrong. Try refreshing the page.",
     "view_step": "View step",
-    "message_from": "Message from {{name}}"
+    "message_from": "Message from {{name}}",
+    "first_recording": "Your first recording",
+    "first_recording_child": "{{child}}'s first recording"
   },
   "scenarioSettings": {
     "title": "Scenario settings",

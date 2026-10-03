@@ -206,7 +206,9 @@
     "error_title": "Não foi possível carregar o feedback",
     "load_error": "Algo correu mal. Tenta atualizar a página.",
     "view_step": "Ver passo",
-    "message_from": "Mensagem de {{name}}"
+    "message_from": "Mensagem de {{name}}",
+    "first_recording": "A tua primeira gravação",
+    "first_recording_child": "A primeira gravação de {{child}}"
   },
   "scenarioSettings": {
     "title": "Definições de cenário",
