@@ -240,6 +240,7 @@
     "job_title_placeholder": "Logopeda",
     "job_title_hint": "Se muestra junto a tu nombre en las notas de los informes. Déjalo vacío para mostrar tu rol.",
     "job_title_saved": "Cargo guardado",
+    "job_title_failed": "No se pudo guardar el cargo",
     "delete_account_title": "Eliminar cuenta",
     "delete_account_warning_body": "Tu cuenta y los datos asociados serán eliminados. Esta acción es permanente y no se puede deshacer desde la aplicación.",
     "delete_account_what_happens": "Lo que se eliminará:",
