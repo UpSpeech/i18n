@@ -2392,5 +2392,6 @@
   "step_voice_real_world_assignment_instructions": "Esto no es una grabación. {{child}} tiene una conversación real esta semana usando una técnica de su elección y luego vuelves a contar la situación, la técnica usada y cómo fue.",
   "step_voice_generalisation_scenario_description": "Una conversación cotidiana aleatoria, como hacer un recado, quedar con un amigo para un café o atender una llamada del día a día. {{child}} reúne todas sus habilidades con naturalidad.",
   "step_voice_build_toolkit_description": "Elige las técnicas que mejor funcionan para {{child}} y anota cuándo recurrirá a cada una.",
-  "step_voice_build_toolkit_instructions": "Elige las técnicas que mejor han funcionado para {{child}} a lo largo del camino y escribe una breve nota sobre cuándo y cómo las usará. Esta es su caja de herramientas personal para llevar adelante."
+  "step_voice_build_toolkit_instructions": "Elige las técnicas que mejor han funcionado para {{child}} a lo largo del camino y escribe una breve nota sobre cuándo y cómo las usará. Esta es su caja de herramientas personal para llevar adelante.",
+  "today_set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes"
 }

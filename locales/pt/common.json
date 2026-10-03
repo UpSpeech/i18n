@@ -1156,7 +1156,8 @@
         "today": "Hoje",
         "upcoming": "Planeado"
       },
-      "practise_anyway": "Praticar na mesma"
+      "practise_anyway": "Praticar na mesma",
+      "set_days_in_settings": "Escolha os dias de prática de {{child}} nas Definições"
     },
     "sharing": {
       "exclude": "Manter fora das sugestões",
