@@ -317,5 +317,13 @@
     "dashboard_me": "Tu práctica",
     "signed_in_as": "Sesión iniciada como {{name}}",
     "back_to_me": "Volver a mi práctica"
+  },
+  "caregiver_requests": {
+    "title": "{{therapist}} quiere añadir a {{child}} a tu cuenta",
+    "body": "Seguirías la práctica de {{child}} y la dirigirías con tu propio acceso. Figuras como {{relationship}}.",
+    "accept": "Aceptar",
+    "decline": "Rechazar",
+    "error": "No pudimos responder a esta solicitud. Inténtalo de nuevo.",
+    "accepted": "{{child}} ya está en tu cuenta."
   }
 }

@@ -2325,5 +2325,18 @@
   "view_switch_messages_own": "Chatea con tu terapeuta",
   "view_switch_back_to_me": "Volver a mi práctica",
   "settings_practice_days_heading": "Días de práctica de {{name}}",
-  "settings_practice_days_empty": "Los días de práctica de {{name}} aparecerán aquí cuando su terapeuta haya definido un ejercicio."
+  "settings_practice_days_empty": "Los días de práctica de {{name}} aparecerán aquí cuando su terapeuta haya definido un ejercicio.",
+  "caregiver_request_title": "{{therapist}} quiere añadir a {{child}} a tu cuenta",
+  "caregiver_request_body": "Seguirías la práctica de {{child}} y la dirigirías con tu propio acceso. Figuras como {{relationship}}.",
+  "caregiver_request_accept": "Aceptar",
+  "caregiver_request_decline": "Rechazar",
+  "caregiver_request_error": "No pudimos responder a esta solicitud. Inténtalo de nuevo.",
+  "caregiver_request_accepted": "{{child}} ya está en tu cuenta.",
+  "family_heading": "Familia",
+  "family_linked": "Vinculado",
+  "family_unlink": "Desvincular",
+  "family_unlink_title": "¿Desvincular a {{caregiver}} de {{child}}?",
+  "family_unlink_body": "{{caregiver}} dejará de ver la práctica de {{child}} y ya no podrá dirigirla. No se borra nada y puedes enviar una nueva solicitud más tarde.",
+  "family_unlink_confirm": "Desvincular",
+  "family_unlink_error": "No pudimos desvincular. Inténtalo de nuevo."
 }
