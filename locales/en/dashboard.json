@@ -314,5 +314,13 @@
     "children": "My children",
     "messages_child": "Chat with {{child}}'s therapist",
     "dashboard_me": "Your practice"
+  },
+  "caregiver_requests": {
+    "title": "{{therapist}} would like to add {{child}} to your account",
+    "body": "You would follow {{child}}'s practice and run it from your own login. You are listed as {{relationship}}.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "error": "We could not answer this request. Try again.",
+    "accepted": "{{child}} is now on your account."
   }
 }

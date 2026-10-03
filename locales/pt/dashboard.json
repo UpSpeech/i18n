@@ -314,5 +314,13 @@
     "children": "Os meus filhos",
     "messages_child": "Conversa com o terapeuta de {{child}}",
     "dashboard_me": "A tua prática"
+  },
+  "caregiver_requests": {
+    "title": "{{therapist}} quer adicionar {{child}} à tua conta",
+    "body": "Passarias a acompanhar a prática de {{child}} e a orientá-la com o teu próprio acesso. Ficas indicado como {{relationship}}.",
+    "accept": "Aceitar",
+    "decline": "Recusar",
+    "error": "Não foi possível responder a este pedido. Tenta novamente.",
+    "accepted": "{{child}} já está na tua conta."
   }
 }

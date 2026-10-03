@@ -368,5 +368,14 @@
       "finalizing": "As tuas respostas já estão a ser guardadas, por isso esta não pôde ser adicionada. Não há mais nada para enviar."
     }
   },
-  "header_facts": "{{total}} pacientes, {{recent}} novos este mês"
+  "header_facts": "{{total}} pacientes, {{recent}} novos este mês",
+  "family": {
+    "heading": "Família",
+    "linked": "Associado",
+    "unlink": "Desassociar",
+    "unlink_title": "Desassociar {{caregiver}} de {{child}}?",
+    "unlink_body": "{{caregiver}} deixa de ver a prática de {{child}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
+    "unlink_confirm": "Desassociar",
+    "unlink_error": "Não foi possível desassociar. Tenta novamente."
+  }
 }

@@ -368,5 +368,14 @@
       "finalizing": "Tus respuestas ya se están guardando, así que esta no se pudo añadir. No queda nada por enviar."
     }
   },
-  "header_facts": "{{total}} pacientes, {{recent}} nuevos este mes"
+  "header_facts": "{{total}} pacientes, {{recent}} nuevos este mes",
+  "family": {
+    "heading": "Familia",
+    "linked": "Vinculado",
+    "unlink": "Desvincular",
+    "unlink_title": "¿Desvincular a {{caregiver}} de {{child}}?",
+    "unlink_body": "{{caregiver}} dejará de ver la práctica de {{child}} y ya no podrá dirigirla. No se borra nada y puedes enviar una nueva solicitud más tarde.",
+    "unlink_confirm": "Desvincular",
+    "unlink_error": "No pudimos desvincular. Inténtalo de nuevo."
+  }
 }
