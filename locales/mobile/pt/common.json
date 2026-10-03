@@ -2252,5 +2252,18 @@
   "first_run_caregiver_reply_child_title": "{{therapist}} ouviu-te, {{child}}",
   "first_run_caregiver_reply_say_hello_again": "Dizer olá outra vez",
   "view_switch_messages_child": "Conversa com o terapeuta de {{child}}",
-  "view_switch_messages_own": "Conversa com o teu terapeuta"
+  "view_switch_messages_own": "Conversa com o teu terapeuta",
+  "caregiver_request_title": "{{therapist}} quer adicionar {{child}} à tua conta",
+  "caregiver_request_body": "Passarias a acompanhar a prática de {{child}} e a orientá-la com o teu próprio acesso. Ficas indicado como {{relationship}}.",
+  "caregiver_request_accept": "Aceitar",
+  "caregiver_request_decline": "Recusar",
+  "caregiver_request_error": "Não foi possível responder a este pedido. Tenta novamente.",
+  "caregiver_request_accepted": "{{child}} já está na tua conta.",
+  "family_heading": "Família",
+  "family_linked": "Associado",
+  "family_unlink": "Desassociar",
+  "family_unlink_title": "Desassociar {{caregiver}} de {{child}}?",
+  "family_unlink_body": "{{caregiver}} deixa de ver a prática de {{child}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
+  "family_unlink_confirm": "Desassociar",
+  "family_unlink_error": "Não foi possível desassociar. Tenta novamente."
 }
