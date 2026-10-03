@@ -489,6 +489,19 @@
         "home_kept_title": "{{child}}'s first recording is waiting.",
         "home_done_cta": "Go to the plan"
       }
+    },
+    "stage": {
+      "progress": "Step {{step}} of {{of}}",
+      "consent_line": "Before we start, there are two things to agree to.",
+      "lumo_hello": "I'm Lumo. I'll be here each time.",
+      "lumo_intro": "I keep {{child}} company when you practise. After your first practice together, {{child}} picks my colour.",
+      "offer_title": "Try {{exercise}} on your own first",
+      "offer_body": "It's {{child}}'s first exercise. Doing it once yourself makes it familiar when you sit down together.",
+      "offer_promise": "A practice run. Nothing is saved, and only you see it.",
+      "offer_now": "Try it now",
+      "offer_later": "Not now",
+      "offer_later_note": "You can still try it from {{child}}'s first step.",
+      "offer_minutes": "{{count}} min"
     }
   }
 }
