@@ -1156,7 +1156,8 @@
         "today": "Today",
         "upcoming": "Planned"
       },
-      "practise_anyway": "Practise anyway"
+      "practise_anyway": "Practise anyway",
+      "set_days_in_settings": "Choose {{child}}'s practice days in Settings"
     },
     "sharing": {
       "exclude": "Keep out of suggestions",

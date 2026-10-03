@@ -2392,5 +2392,6 @@
   "step_voice_real_world_assignment_instructions": "This isn't a recording. {{child}} has one real conversation this week using a technique of their choice, then you come back and report the situation, the technique used, and how it went.",
   "step_voice_generalisation_scenario_description": "A random everyday conversation, like running an errand, meeting a friend for coffee, or handling a day-to-day phone call. {{child}} puts all their skills together naturally.",
   "step_voice_build_toolkit_description": "Pick the techniques that work best for {{child}} and note when they'll reach for each one.",
-  "step_voice_build_toolkit_instructions": "Choose the techniques that have worked best for {{child}} across the journey, and write a short note on when and how they'll use each one. This is their personal toolkit to carry forward."
+  "step_voice_build_toolkit_instructions": "Choose the techniques that have worked best for {{child}} across the journey, and write a short note on when and how they'll use each one. This is their personal toolkit to carry forward.",
+  "today_set_days_in_settings": "Choose {{child}}'s practice days in Settings"
 }

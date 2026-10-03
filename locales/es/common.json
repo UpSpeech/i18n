@@ -1156,7 +1156,8 @@
         "today": "Hoy",
         "upcoming": "Previsto"
       },
-      "practise_anyway": "Practicar de todos modos"
+      "practise_anyway": "Practicar de todos modos",
+      "set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes"
     },
     "sharing": {
       "exclude": "Mantener fuera de las sugerencias",
