@@ -2325,5 +2325,18 @@
   "view_switch_messages_own": "Chat with your therapist",
   "view_switch_back_to_me": "Back to my practice",
   "settings_practice_days_heading": "{{name}}'s practice days",
-  "settings_practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise."
+  "settings_practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise.",
+  "caregiver_request_title": "{{therapist}} would like to add {{child}} to your account",
+  "caregiver_request_body": "You would follow {{child}}'s practice and run it from your own login. You are listed as {{relationship}}.",
+  "caregiver_request_accept": "Accept",
+  "caregiver_request_decline": "Decline",
+  "caregiver_request_error": "We could not answer this request. Try again.",
+  "caregiver_request_accepted": "{{child}} is now on your account.",
+  "family_heading": "Family",
+  "family_linked": "Linked",
+  "family_unlink": "Unlink",
+  "family_unlink_title": "Unlink {{caregiver}} from {{child}}?",
+  "family_unlink_body": "{{caregiver}} will stop seeing {{child}}'s practice and can no longer run it. Nothing is deleted, and you can send a new request later.",
+  "family_unlink_confirm": "Unlink",
+  "family_unlink_error": "We could not unlink. Try again."
 }

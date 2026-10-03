@@ -382,5 +382,14 @@
       "shapes_plan": "Helps shape the plan"
     }
   },
-  "header_facts": "{{total}} patients, {{recent}} new this month"
+  "header_facts": "{{total}} patients, {{recent}} new this month",
+  "family": {
+    "heading": "Family",
+    "linked": "Linked",
+    "unlink": "Unlink",
+    "unlink_title": "Unlink {{caregiver}} from {{child}}?",
+    "unlink_body": "{{caregiver}} will stop seeing {{child}}'s practice and can no longer run it. Nothing is deleted, and you can send a new request later.",
+    "unlink_confirm": "Unlink",
+    "unlink_error": "We could not unlink. Try again."
+  }
 }
