@@ -2339,5 +2339,6 @@
   "family_unlink_body": "{{caregiver}} deixa de ver a prática de {{child}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
   "family_unlink_confirm": "Desassociar",
   "family_unlink_error": "Não foi possível desassociar. Tenta novamente.",
-  "today_set_days_in_settings": "Escolha os dias de prática de {{child}} nas Definições"
+  "today_set_days_in_settings": "Escolha os dias de prática de {{child}} nas Definições",
+  "settings_practice_title": "Prática"
 }

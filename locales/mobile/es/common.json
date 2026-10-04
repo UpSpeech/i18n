@@ -2339,5 +2339,6 @@
   "family_unlink_body": "{{caregiver}} dejará de ver la práctica de {{child}} y ya no podrá dirigirla. No se borra nada y puedes enviar una nueva solicitud más tarde.",
   "family_unlink_confirm": "Desvincular",
   "family_unlink_error": "No pudimos desvincular. Inténtalo de nuevo.",
-  "today_set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes"
+  "today_set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes",
+  "settings_practice_title": "Práctica"
 }

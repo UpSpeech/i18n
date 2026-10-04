@@ -2339,5 +2339,6 @@
   "family_unlink_body": "{{caregiver}} will stop seeing {{child}}'s practice and can no longer run it. Nothing is deleted, and you can send a new request later.",
   "family_unlink_confirm": "Unlink",
   "family_unlink_error": "We could not unlink. Try again.",
-  "today_set_days_in_settings": "Choose {{child}}'s practice days in Settings"
+  "today_set_days_in_settings": "Choose {{child}}'s practice days in Settings",
+  "settings_practice_title": "Practice"
 }
