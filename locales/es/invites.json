@@ -16,6 +16,8 @@
   "status_valid": "Válida",
   "status_used": "Utilizada",
   "status_expired": "Expirada",
+  "status_declined": "Rechazado",
+  "status_unlinked": "Desvinculado",
   "pilot_yes": "Piloto",
   "pilot_header": "Piloto",
   "therapist_header": "Enviado Por",
