@@ -2203,7 +2203,7 @@
   "first_run_patient_send_felt": "It felt: {{feeling}}",
   "first_run_patient_send_privacy": "Only {{therapist}} and {{clinic}} listen. You can delete it whenever you like.",
   "first_run_patient_send_cta": "Send to {{therapist}}",
-  "first_run_patient_send_keep": "Keep it just for me",
+  "first_run_patient_send_later": "Not now",
   "first_run_patient_offline_detail": "There is nothing to repeat.",
   "first_run_patient_offline_ok": "OK",
   "first_run_patient_home_greeting": "Hello, {{name}}.",
