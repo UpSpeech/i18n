@@ -134,6 +134,7 @@
   "navigation": {
     "dashboard": "Dashboard",
     "caregiver_home": "{{name}}'s practice",
+    "caregiver_today": "Today",
     "ask": "Ask",
     "upload": "Upload recording",
     "reports": "Reports",

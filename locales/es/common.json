@@ -127,6 +127,7 @@
   "navigation": {
     "dashboard": "Panel de control",
     "caregiver_home": "La práctica de {{name}}",
+    "caregiver_today": "Hoy",
     "ask": "Preguntar",
     "upload": "Subir grabación",
     "reports": "Informes",
