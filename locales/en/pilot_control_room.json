@@ -16,7 +16,7 @@
   },
   "immediate_risks": {
     "title": "Immediate risks",
-    "subtitle": "Patients inactive for 3+ days, requires attention",
+    "subtitle": "Patients inactive for 3+ days who need attention",
     "patient": "Patient",
     "therapist": "Therapist",
     "days_inactive": "Days inactive",
@@ -25,7 +25,7 @@
     "notify": "Notify therapist",
     "never_active": "Never active",
     "empty": "No patients at risk. All pilot participants are active.",
-    "info": "Patients who have not had any platform activity (recordings, exercises, or completed scenarios) in 3 or more days, or who have never been active. Days Inactive shows how long since their last activity. Use Notify Therapist to alert the assigned therapist about disengaged patients."
+    "info": "Patients who have not had any platform activity (recordings, exercises, or completed scenarios) in 3 or more days, or who have never been active. Days inactive shows how long since their last activity. Use Notify therapist to alert the assigned therapist about disengaged patients."
   },
   "missing_feedback": {
     "title": "Missing feedback",
@@ -50,7 +50,7 @@
     "active": "Active",
     "at_risk": "At risk",
     "dropping": "Dropping",
-    "info": "Weekly engagement status for all pilot patients. A session is a cluster of exercise recordings within 1 hour totaling at least 3 minutes, a completed quiz exercise, or a completed scenario session. Status: Active (2+ sessions), At Risk (1 session), Dropping (0 sessions)."
+    "info": "Weekly engagement status for all pilot patients. A session is a cluster of exercise recordings within 1 hour totaling at least 3 minutes, a completed quiz exercise, or a completed scenario session. Status: Active (2+ sessions), At risk (1 session), Dropping (0 sessions)."
   },
   "high_performers": {
     "title": "High performers",
@@ -77,7 +77,7 @@
     "no_activity": "No activity recorded yet for this tenant.",
     "never_active": "Never",
     "pilot_badge": "Pilot",
-    "info": "Summary of all platform activity for pilot patients (excluding control group). Tracks audio recordings, completed scenario sessions, and completed exercises. Last Active shows the most recent activity across all types. Practice Time is total recording duration in minutes."
+    "info": "Summary of all platform activity for pilot patients (excluding control group). Tracks audio recordings, completed scenario sessions, and completed exercises. Last active shows the most recent activity across all types. Practice time is total recording duration in minutes."
   },
   "enrollment": {
     "title": "Pilot enrolment",
@@ -165,7 +165,7 @@
     "refresh": "Refresh",
     "export": "Export",
     "download_csv": "Download CSV",
-    "copy_text": "Copy as Text",
+    "copy_text": "Copy as text",
     "copied": "Copied to clipboard",
     "copy_failed": "Failed to copy"
   },
@@ -175,7 +175,7 @@
     "group": "Group",
     "unassigned": "Unassigned",
     "control_group": "Control group",
-    "pilot_non_control": "Pilot (Non-Control)",
+    "pilot_non_control": "Pilot (non-control)",
     "clear": "Clear group filter"
   },
   "show_all": "Show all {{count}}",
@@ -244,7 +244,7 @@
     },
     "baseline": {
       "title": "Baseline balance",
-      "info": "Onboarding CBSA severity by arm: the check that the arms started comparable. If baseline severity differs a lot between arms, read later outcome gaps with caution. Shown as mean ± SD (0-60, lower is milder).",
+      "info": "Onboarding CBSA severity by arm, to check that the arms started comparable. If baseline severity differs a lot between arms, read later outcome gaps with caution. Shown as mean ± SD (0-60, lower is milder).",
       "patients": "Patients (n)",
       "severity": "Baseline severity (mean ± SD)",
       "note": "Large baseline gaps between arms can confound the comparison; small, overlapping ranges support it."
@@ -287,7 +287,7 @@
   },
   "dose_response": {
     "title": "Dose-response: practice vs improvement",
-    "info": "Each point is one patient: practice minutes (x) against their CBSA self-severity change (y). A downward cloud, and a negative r, means more practice goes with lower severity, the signal that use drives the change rather than just co-occurring with it. Coloured by arm.",
+    "info": "Each point is one patient: practice minutes (x) against their CBSA self-severity change (y). A downward cloud and a negative r mean more practice goes with lower severity. Coloured by arm.",
     "no_data": "Not enough paired data yet. A point needs both practice time and at least two CBSA submissions.",
     "r_caption": "Correlation r = {{r}} across {{n}} patients. Negative means more practice goes with lower severity (improvement).",
     "r_insufficient": "Only {{n}} paired patient(s); at least 3 are needed to estimate a correlation.",
@@ -378,13 +378,13 @@
       "info": "Number of unique patients who recorded an exercise or completed a quiz exercise on each calendar day. Helps identify usage patterns (weekday vs weekend trends) and spot sudden drops in engagement. Each patient is counted only once per day regardless of how many activities they completed."
     },
     "practices": {
-      "title": "Practices per User",
+      "title": "Practices per user",
       "subtitle": "Average sessions per user per week",
       "y_label": "Avg sessions",
       "info": "Average number of practice sessions per patient per week. A session is defined as a cluster of exercise recordings made within 1 hour that totals at least 3 minutes of audio, or a completed quiz exercise. The target is ≥2 sessions per patient per week to meet the adherence threshold."
     },
     "dropout": {
-      "title": "Time to Dropout",
+      "title": "Time to dropout",
       "subtitle": "Week where user first fails adherence or becomes inactive",
       "y_label": "Users",
       "empty": "No dropouts detected yet.",
@@ -399,19 +399,19 @@
       "info": "Per-patient weekly adherence grid. A filled dot means the patient met the threshold (≥2 sessions AND ≥6 minutes of practice) that week; an empty ring means they missed it. Reveals patterns like consistent high performers, intermittent users, or patients who disengage after a specific week. Scroll horizontally for more weeks."
     },
     "severity": {
-      "title": "Self-Reported severity change",
+      "title": "Self-reported severity change",
       "subtitle": "Final minus baseline severity score (CBSA-SR, lower = improvement)",
       "change": "Change",
       "empty": "No severity data available yet.",
       "info": "Change in self-reported stuttering severity using the CBSA-SR (Communication-Based Self-Assessment of Stuttering, Self-Report) scale. Compares each patient's onboarding baseline score against their most recent weekly assessment. Negative values (green bars) indicate improvement; positive values (red bars) indicate worsening. Patients need both a baseline and at least one follow-up assessment to appear here."
     },
     "kpi": {
-      "retention_week_8": "Retention at Week 8",
+      "retention_week_8": "Retention at week 8",
       "retention_helper": "% of users active in week 8",
       "retention_info": "Percentage of pilot patients who are still actively using the platform in week 8. A patient is considered active if they completed at least 1 practice session that week. This KPI is only available once the pilot has been running for 8+ weeks. Control group patients are excluded.",
       "week1_activation": "Week 1 activation",
       "week1_helper": "% completing ≥2 sessions in first week",
-      "week1_info": "Percentage of pilot patients who completed at least 2 practice sessions during their first week in the programme. A session counts when exercise recordings total ≥3 minutes or a quiz exercise is completed. Target: ≥60%. This is a leading indicator: low activation predicts higher dropout.",
+      "week1_info": "Percentage of pilot patients who completed at least 2 practice sessions during their first week in the programme. A session counts when exercise recordings total ≥3 minutes or a quiz exercise is completed. Target: ≥60%. This is a leading indicator. Low activation predicts higher dropout.",
       "not_available": "N/A"
     },
     "alerts": {

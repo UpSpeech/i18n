@@ -3,7 +3,7 @@
   "page_subtitle": "Otorgar permisos adicionales a terapeutas individuales más allá de su perfil estándar.",
   "permissions": {
     "control_room_access": {
-      "title": "Acceso a Revisión de Grabaciones",
+      "title": "Acceso a revisión de grabaciones",
       "description": "Acceder al panel de Revisión de Grabaciones para revisar grabaciones de pacientes en toda la organización."
     }
   },
@@ -25,8 +25,8 @@
   "select_therapist_label": "Terapeuta",
   "no_therapists_available": "Todos los terapeutas ya tienen este permiso.",
   "success": {
-    "granted": "Acceso otorgado con éxito.",
-    "revoked": "Acceso revocado con éxito."
+    "granted": "Acceso otorgado.",
+    "revoked": "Acceso revocado."
   },
   "confirm_revoke": "¿Estás seguro de que quieres revocar el acceso de {{name}}? Ya no podrá utilizar esta funcionalidad.",
   "inherent_access_note": "Los administradores y propietarios siempre tienen este acceso. Usa esta sección para otorgarlo a terapeutas específicos."

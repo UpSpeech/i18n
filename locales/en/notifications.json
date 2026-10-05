@@ -72,7 +72,7 @@
     "quiet_hours_description": "Pause notifications during specific hours",
     "quiet_hours_start": "Start",
     "quiet_hours_end": "End",
-    "in_app": "In-App",
+    "in_app": "In-app",
     "email": "Email",
     "saved": "Notification settings saved",
     "save": "Save settings",

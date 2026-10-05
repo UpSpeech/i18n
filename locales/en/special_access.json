@@ -25,8 +25,8 @@
   "select_therapist_label": "Therapist",
   "no_therapists_available": "All therapists already have this permission.",
   "success": {
-    "granted": "Access granted successfully.",
-    "revoked": "Access revoked successfully."
+    "granted": "Access granted.",
+    "revoked": "Access revoked."
   },
   "confirm_revoke": "Are you sure you want to revoke access from {{name}}? They will no longer be able to use this feature.",
   "inherent_access_note": "Admins and owners always have this access. Use this section to grant it to specific therapists."

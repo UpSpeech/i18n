@@ -6,7 +6,7 @@
       "processed": "Procesado",
       "failed": "Fallido"
     },
-    "untitled": "Grabación sin Título",
+    "untitled": "Grabación sin título",
     "no_file_available": "Grabación no disponible"
   },
   "delete_recording": "Eliminar grabación de audio",
@@ -46,10 +46,10 @@
     "processing_audio_message": "Transcribiendo la sesión y redactando el informe. Puede tardar unos minutos.",
     "upload_and_analyze": "Subir y redactar informe",
     "clear_recording": "Borrar grabación",
-    "clear_confirmation_title": "¿Borrar Grabación?",
+    "clear_confirmation_title": "¿Borrar grabación?",
     "clear_recording_confirmation_message": "¿Estás seguro de que quieres borrar esta grabación? Esta acción no se puede deshacer.",
     "confirm_clear": "Sí, borrar",
-    "uploading_audio": "📤 Subiendo audio",
+    "uploading_audio": "Subiendo audio",
     "uploading_audio_message": "Subiendo la grabación...",
     "tips_title": "Consejos para mejores resultados:",
     "tips": {
@@ -60,7 +60,7 @@
     "resume": "Reanudar",
     "pause": "Pausar",
     "unsaved_data_warning": "Tienes datos de grabación no guardados. ¿Estás seguro de que quieres salir?",
-    "recording_in_progress_warning": "Grabación en curso. ¡No navegues fuera ni actualices la página!",
+    "recording_in_progress_warning": "Grabación en curso. No salgas de la página ni la actualices.",
     "unsaved_recording_warning": "Tienes una grabación no guardada. Asegúrate de subirla antes de salir de esta página.",
     "errors": {
       "processing_failed": "El procesamiento ha fallado. Por favor inténtalo de nuevo.",

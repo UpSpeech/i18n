@@ -171,7 +171,7 @@
           "Nada, a terapia é puramente mecânica",
           "Os pensamentos e as emoções, como o medo"
         ],
-        "explanation": "A terapia baseada na evidência também trabalha o lado interno: reduzir o medo através da dessensibilização, diminuir o evitamento e a autorrevelação, não apenas a mecânica da fala."
+        "explanation": "A terapia baseada na evidência também trabalha o lado interno: reduzir o medo através da dessensibilização, diminuir o evitamento e a autorrevelação."
       }
     },
     "therapeutic_objectives": {
@@ -224,7 +224,7 @@
         "explanation": "Não. Os objetivos são individuais e mudam ao longo do tempo. Adaptam-se às situações concretas que importam na vida de cada pessoa."
       },
       "q7": {
-        "question": "Porque é que a terapia para adultos aborda muitas vezes a vergonha e a ansiedade social, e não apenas a fala?",
+        "question": "Porque é que a terapia para adultos aborda muitas vezes a vergonha e a ansiedade social, além da fala?",
         "options": [
           "Porque anos de estigma afetam a confiança",
           "Porque é a vergonha que causa a gaguez",
@@ -296,7 +296,7 @@
     }
   },
   "ui": {
-    "title": "Verificação de Conhecimento",
+    "title": "Verificação de conhecimento",
     "progress": "Pergunta {{current}} de {{total}}",
     "true": "Verdadeiro",
     "false": "Falso",
@@ -305,16 +305,16 @@
     "see_results": "Ver resultados",
     "correct": "Correto!",
     "incorrect": "Não está bem",
-    "encouragement": "Leva o teu tempo - isto é sobre aprender, não testar.",
+    "encouragement": "Leva o teu tempo. Isto é para aprender.",
     "results": {
       "title": "Questionário completo!",
       "score": "Acertaste {{correct}} de {{total}}",
-      "passing": "Muito bem! Demonstraste compreensão deste tópico.",
-      "needs_review": "Vamos rever um pouco mais antes de avançar. Não te preocupes - aprender leva tempo.",
+      "passing": "Percebes bem este tópico.",
+      "needs_review": "Vamos rever um pouco mais antes de avançar. Aprender leva tempo.",
       "retry": "Tentar novamente",
       "continue": "Continuar",
       "needs_review_warm": "Alguns tópicos para rever, faz parte da aprendizagem. Revê as explicações abaixo e tenta novamente quando estiveres pronto.",
-      "review_title": "Revisão das Perguntas",
+      "review_title": "Revisão das perguntas",
       "title_passed": "Muito bem!",
       "title_review": "Quase lá!"
     },

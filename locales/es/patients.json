@@ -3,7 +3,7 @@
   "tabs": {
     "overview": "Visión general",
     "intake": "Entrevista",
-    "learning_path": "Ruta de Aprendizaje",
+    "learning_path": "Ruta de aprendizaje",
     "patients": "Pacientes",
     "invites": "Invitaciones",
     "assessments": "Evaluaciones"
@@ -27,9 +27,9 @@
   "delete_patient": "Eliminar paciente",
   "send_invite": "Enviar invitación",
   "stats": {
-    "total_patients": "Total de Pacientes",
-    "assigned_to_me": "Asignados a Mí",
-    "new_this_month": "Nuevos este Mes"
+    "total_patients": "Total de pacientes",
+    "assigned_to_me": "Asignados a mí",
+    "new_this_month": "Nuevos este mes"
   },
   "table": {
     "patient": "Paciente",
@@ -46,8 +46,8 @@
   },
   "needs_attention": "Necesita atención",
   "actions": {
-    "assign_to_me": "Asignar a Mí",
-    "assign_to_therapist": "Asignar a Terapeuta",
+    "assign_to_me": "Asignar a mí",
+    "assign_to_therapist": "Asignar a terapeuta",
     "reassign": "Reasignar",
     "assigning": "Asignando..."
   },
@@ -78,7 +78,7 @@
   },
   "filters": {
     "search_placeholder": "Buscar por nombre o correo...",
-    "patient_type": "Tipo de Paciente",
+    "patient_type": "Tipo de paciente",
     "all_types": "Todos los tipos",
     "status": "Estado",
     "all_statuses": "Todos los estados",
@@ -86,14 +86,14 @@
     "inactive": "Inactivo",
     "pending": "Pendiente",
     "assignment": "Asignación",
-    "all_assignments": "Todas las Asignaciones",
-    "filter_by_therapist": "Filtrar por Terapeuta",
-    "all_therapists": "Todos los Terapeutas",
+    "all_assignments": "Todas las asignaciones",
+    "filter_by_therapist": "Filtrar por terapeuta",
+    "all_therapists": "Todos los terapeutas",
     "unassigned_only": "Solo no asignados",
     "learning_path": "Ruta",
-    "all_paths": "Todas las Rutas",
+    "all_paths": "Todas las rutas",
     "attention": "Atención",
-    "all_patients": "Todos los Pacientes"
+    "all_patients": "Todos los pacientes"
   },
   "form": {
     "first_name": "Nombre",
@@ -104,7 +104,7 @@
   },
   "invite_modal": {
     "title": "Invitar paciente",
-    "email_label": "Correo del Paciente",
+    "email_label": "Correo del paciente",
     "email_placeholder": "paciente@ejemplo.com",
     "email_help": "Le enviaremos un enlace para registrarse.",
     "pending_invites": "Invitaciones pendientes",
@@ -175,7 +175,7 @@
       "journal": "Diario",
       "self_disclosure": "Auto-revelación",
       "observation": "Observación",
-      "technique_rating": "Valoración de Técnica",
+      "technique_rating": "Valoración de técnica",
       "quiz": "Quiz",
       "scenario": "Escenario",
       "standard": "Práctica",
@@ -202,7 +202,7 @@
     "subtitle": "Feedback que tu terapeuta dejó en tus prácticas recientes.",
     "empty_title": "El feedback llega después de una práctica",
     "empty_description": "Tu terapeuta deja notas después de ver una práctica.",
-    "empty_action": "Ir a tu viaje",
+    "empty_action": "Ir a tu recorrido",
     "error_title": "No se pudo cargar el feedback",
     "load_error": "Algo salió mal. Intenta recargar la página.",
     "view_step": "Ver paso",

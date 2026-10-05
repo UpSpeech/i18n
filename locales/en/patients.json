@@ -28,7 +28,7 @@
   "send_invite": "Send invite",
   "stats": {
     "total_patients": "Total patients",
-    "assigned_to_me": "Assigned to Me",
+    "assigned_to_me": "Assigned to me",
     "new_this_month": "New this month"
   },
   "table": {
@@ -49,8 +49,8 @@
   "consistency": "Consistency",
   "joined": "Joined",
   "actions": {
-    "assign_to_me": "Assign to Me",
-    "assign_to_therapist": "Assign to Therapist",
+    "assign_to_me": "Assign to me",
+    "assign_to_therapist": "Assign to therapist",
     "reassign": "Reassign",
     "assigning": "Assigning..."
   },
@@ -90,7 +90,7 @@
     "pending": "Pending",
     "assignment": "Assignment",
     "all_assignments": "All assignments",
-    "filter_by_therapist": "Filter by Therapist",
+    "filter_by_therapist": "Filter by therapist",
     "all_therapists": "All therapists",
     "unassigned_only": "Unassigned only",
     "learning_path": "Learning path",

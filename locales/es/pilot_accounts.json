@@ -1,7 +1,7 @@
 {
   "title": "Cuentas piloto",
   "subtitle": "Generar cuentas anonimizadas para participantes del piloto",
-  "config_title": "Configuración de Cuentas",
+  "config_title": "Configuración de cuentas",
   "tenant": "Clínica",
   "role": "Rol",
   "role_patient": "Paciente",

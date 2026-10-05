@@ -39,7 +39,7 @@
     "record_hint": "Podes pausar e retomar durante a gravação",
     "start_recording": "Iniciar gravação",
     "stop_recording": "Parar gravação",
-    "download_recording": "Descarregar a Gravação",
+    "download_recording": "Descarregar gravação",
     "recorded_audio": "Áudio gravado",
     "ready_for_upload": "Pronta para carregar",
     "processing_audio": "A processar áudio",
@@ -49,7 +49,7 @@
     "clear_confirmation_title": "Apagar gravação?",
     "clear_recording_confirmation_message": "Tens a certeza de que queres apagar esta gravação? Esta ação não pode ser desfeita.",
     "confirm_clear": "Sim, apagar",
-    "uploading_audio": "📤 A carregar áudio",
+    "uploading_audio": "A carregar áudio",
     "uploading_audio_message": "A carregar a gravação...",
     "tips_title": "Dicas para melhores resultados:",
     "tips": {
@@ -60,7 +60,7 @@
     "resume": "Retomar",
     "pause": "Pausar",
     "unsaved_data_warning": "Tens dados de gravação não guardados. Tens a certeza de que queres sair?",
-    "recording_in_progress_warning": "A gravação está em curso. Não mudes de página nem atualizes!",
+    "recording_in_progress_warning": "A gravação está em curso. Não mudes de página nem atualizes.",
     "unsaved_recording_warning": "Tens uma gravação não guardada. Certifica-te de que a carregas antes de saíres desta página.",
     "errors": {
       "processing_failed": "O processamento falhou. Tenta novamente.",

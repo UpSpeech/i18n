@@ -8,7 +8,7 @@
     "organization_slug_placeholder": "mi-organizacion",
     "organization_slug_help": "Usado para identificar la organización (solo letras, números y guiones)",
     "save_settings": "Guardar configuración",
-    "settings_updated": "Configuración actualizada correctamente",
+    "settings_updated": "Configuración actualizada",
     "organization_info": "Información de la organización",
     "organization_id": "ID de organización",
     "created_date": "Fecha de creación",
@@ -27,7 +27,7 @@
     "view_reports": "Ver informes",
     "view_reports_description": "Acceder a los informes de la organización",
     "not_found": "Organización no encontrada",
-    "not_found_description": "No se pudieron cargar los ajustes de la organización. Por favor contacta al soporte.",
+    "not_found_description": "No se pudieron cargar los ajustes de la organización. Contacta con soporte.",
     "logo_alt": "Logo",
     "branding": {
       "section_title": "Personalización y marca",
@@ -69,7 +69,7 @@
       "logo_delete_failed": "Error al eliminar el logo",
       "logo_upload_failed": "Error al subir el logo"
     },
-    "logo_deleted": "Logo eliminado con éxito"
+    "logo_deleted": "Logo eliminado"
   },
   "tenants": {
     "search_placeholder": "Buscar organizaciones...",
@@ -92,10 +92,10 @@
     "create_tenant": "Crear organización",
     "edit_tenant": "Editar organización",
     "update_tenant": "Actualizar organización",
-    "tenant_created": "Organización creada correctamente",
-    "tenant_updated": "Organización actualizada correctamente",
+    "tenant_created": "Organización creada",
+    "tenant_updated": "Organización actualizada",
     "no_tenants": "No se encontraron organizaciones",
-    "no_tenants_description": "Comienza creando tu primera organización para empezar a gestionar tenants.",
+    "no_tenants_description": "Crea tu primera organización para empezar a gestionar tenants.",
     "entity_tenant": "Organización"
   }
 }

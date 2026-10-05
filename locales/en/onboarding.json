@@ -13,7 +13,7 @@
       },
       "therapist": {
         "title": "Welcome to UpSpeech!",
-        "description": "Manage your patients, generate AI-powered reports, and assign exercises all in one place."
+        "description": "Manage your patients, draft reports with AI, and assign exercises."
       },
       "admin": {
         "title": "Welcome to UpSpeech!",
@@ -26,25 +26,25 @@
       "video": {
         "admin": {
           "description": "Learn how to manage your organisation and customise your platform",
-          "title": "Getting Started as an Admin"
+          "title": "Getting started as an admin"
         },
         "default": {
           "description": "Learn how to use the platform",
-          "title": "Getting Started with UpSpeech"
+          "title": "Getting started with UpSpeech"
         },
         "patient": {
           "description": "How to complete the exercises your therapist sets, and record your practice",
-          "title": "Getting Started as a Patient"
+          "title": "Getting started as a patient"
         },
         "therapist": {
           "description": "Learn how to manage patients, generate reports, and assign exercises",
-          "title": "Getting Started as a Therapist"
+          "title": "Getting started as a therapist"
         }
       },
       "dont_show_again": "Don't show this again",
       "skip": "Skip for now",
       "get_started": "Get started",
-      "view_all_videos": "View all videos in Help Centre"
+      "view_all_videos": "View all videos in the help centre"
     },
     "checklist": {
       "title": "Your first steps",
@@ -170,11 +170,11 @@
           "stats_title": "Your progress",
           "stats_content": "Your completion rate and your streak, updated after each practice.",
           "weekly_title": "Weekly comparison",
-          "weekly_content": "See how you're doing compared to last week. Consistency is key!",
+          "weekly_content": "See how you're doing compared to last week.",
           "upcoming_title": "Upcoming exercises",
           "upcoming_content": "Your next exercises from your therapist are listed here.",
           "nav_journey_title": "My journey",
-          "nav_journey_content": "Follow your therapy journey step by step. Each milestone brings you closer to your goals.",
+          "nav_journey_content": "Follow your therapy journey step by step.",
           "nav_exercises_title": "Exercises",
           "nav_exercises_content": "Find your assignments, practice sessions, and history here."
         },
@@ -184,7 +184,7 @@
           "current_step_title": "Current step",
           "current_step_content": "This is where you are now. Tap to start working on it.",
           "indicators_title": "Progress indicators",
-          "indicators_content": "Green means complete. Keep going to open the next steps!"
+          "indicators_content": "Green means complete. Finishing a step opens the next one."
         },
         "exercise": {
           "list_title": "Your assignments",
@@ -223,7 +223,7 @@
           "patient_activity_content": "Every patient, least engaged first, with how much they practised in the window you pick."
         },
         "invite": {
-          "button_title": "Add a Patient",
+          "button_title": "Add a patient",
           "button_content": "Click here to add your first patient. They get an email invite to create their account.",
           "list_title": "Patient list",
           "list_content": "Your patients will appear here once they accept the invitation."
@@ -235,7 +235,7 @@
           "generate_content": "AI will draft the clinical report for you to review and edit."
         },
         "assign": {
-          "row_title": "Select a Patient",
+          "row_title": "Select a patient",
           "row_content": "Click a patient to open their profile and manage their learning path."
         },
         "library": {
@@ -309,7 +309,7 @@
       "patient": {
         "invite_therapist_role": "{{therapist}} · speech and language therapist",
         "invite_bubble": "Welcome to UpSpeech, {{name}}. This is where you'll practise in between our sessions. I'll be listening on the other side!",
-        "invite_title": "Your voice has a place here.",
+        "invite_title": "Your practice space is ready.",
         "invite_lead": "Five minutes: a companion, a question from {{therapist}}, your first recording.",
         "invite_cta": "Come in with {{therapist}}",
         "invite_not_you": "Not {{name}}? Let {{therapist}} know.",
@@ -326,7 +326,7 @@
         "companion_says_lumo": "Let's do this.",
         "companion_cta": "Let's go, {{companion}}",
         "companion_pick": "Choose one",
-        "how_title": "Therapy does not stay in the clinic room.",
+        "how_title": "Practice happens at home, between sessions.",
         "how_lead": "Tap to see the conversation.",
         "how_bubble_practise": "You practise between sessions.",
         "how_bubble_record": "You record when you want to.",
@@ -354,7 +354,7 @@
         "record_restart": "Start again",
         "record_too_short": "That one was too short. Try again whenever you like.",
         "listen_title": "Listen to yourself.",
-        "listen_lead": "Self-observation: just listening is already part of the work. Nobody else hears this for now.",
+        "listen_lead": "Just listening is already part of the work. Nobody else hears this for now.",
         "listen_feel_title": "How did it feel?",
         "listen_feel_easy": "Easier than I expected",
         "listen_feel_usual": "Usual",
@@ -395,7 +395,7 @@
       "caregiver": {
         "invite_therapist_role": "{{therapist}} · speech and language therapist",
         "invite_bubble": "Welcome to UpSpeech, {{caregiver}}. This is where {{child}} will practise in between our sessions, with you beside them. I'll be listening on the other side!",
-        "invite_title": "{{child}}'s voice has a place here.",
+        "invite_title": "{{child}}'s practice space is ready.",
         "invite_body": "Five minutes: a companion for {{child}}, a question from {{therapist}}, {{child}}'s first recording.",
         "invite_continue": "Come in with {{therapist}}",
         "invite_not_responsible": "Not {{child}}'s parent or guardian? Let {{therapist}} know.",
@@ -403,7 +403,7 @@
         "names_title": "Who's who?",
         "names_child_label": "{{child}} likes to be called",
         "names_caregiver_label": "And you",
-        "how_title": "Therapy does not stay in the clinic room.",
+        "how_title": "Practice happens at home, between sessions.",
         "how_child": "{{child}} speaks",
         "how_caregiver": "You send",
         "how_therapist": "{{therapist}} listens",

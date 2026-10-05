@@ -105,7 +105,7 @@
       "today": "Today",
       "week": "Week",
       "month": "Month",
-      "3months": "3 Months",
+      "3months": "3 months",
       "all": "All time"
     },
     "bubble_chart": {
@@ -228,7 +228,7 @@
     "no_recent_activity": "No recent activity"
   },
   "owner_dashboard": {
-    "title": "Owner panel - Global system",
+    "title": "Owner panel, global system",
     "subtitle": "Monitor all tenants, users and UpSpeech system activity.",
     "status": {
       "healthy": "Healthy",
@@ -252,7 +252,7 @@
       "all_reports": "All reports",
       "all_reports_description": "Complete system"
     },
-    "tenant_activity": "Activity by Tenant",
+    "tenant_activity": "Activity by tenant",
     "tenant_activity_description": "Detailed metrics by tenant will appear here.",
     "system_monitoring": "System monitoring",
     "system_monitoring_description": "Service status and performance metrics.",

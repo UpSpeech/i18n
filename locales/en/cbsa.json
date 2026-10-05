@@ -38,7 +38,7 @@
     "q6_start": "None",
     "q6_end": "Extremely severe",
     "q7_start": "Fluent",
-    "q7_end": "Most Severe ever",
+    "q7_end": "Most severe ever",
     "q8_start": "Did not impact",
     "q8_end": "Extremely",
     "q9_start": "Did not impact",
@@ -69,7 +69,7 @@
     "impact_scores": "Impact scores",
     "impact_work": "Work/School",
     "impact_social": "Social life",
-    "impact_quality": "Quality of Life",
+    "impact_quality": "Quality of life",
     "global_impression": "Global impression",
     "question_scores": "Question scores",
     "q1_short": "Severity",
@@ -87,12 +87,12 @@
       "see_all": "See your check-ins",
       "improving": "Down {{points}} points since your last check-in. Keep going.",
       "steady": "Holding steady since your last check-in.",
-      "harder": "This week felt a bit harder, and that is part of the journey."
+      "harder": "This week felt a bit harder. That happens."
     },
     "headline_first": "Here is your first check-in. Come back each week to see how things change.",
     "headline_improving": "You are trending down, {{points}} points lower than your last check-in. Nice work.",
     "headline_steady": "You are holding steady since your last check-in.",
-    "headline_harder": "This week felt a bit harder than last. That happens, and it is part of the journey.",
+    "headline_harder": "This week felt a bit harder than last. That happens.",
     "trend_title": "How speaking has felt over time",
     "trend_series": "Check-in score",
     "lower_is_better": "Lower is calmer. A line that drifts down means things are getting easier.",
@@ -106,6 +106,6 @@
     "empty_title": "No check-ins yet",
     "empty_description": "Once you complete a weekly check-in, your progress will show up here."
   },
-  "submit_success": "Assessment submitted successfully!",
+  "submit_success": "Assessment submitted.",
   "submit_error": "Failed to submit assessment. Please try again."
 }
