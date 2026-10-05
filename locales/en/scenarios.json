@@ -26,10 +26,10 @@
       },
       "jobInterview": {
         "title": "Tell me about yourself",
-        "description": "You're in a job interview and the interviewer asks you to introduce yourself. This is your chance to give a compelling 2-minute summary of your background, skills, and why you're interested in this role. The interviewer may ask follow-up questions."
+        "description": "You're in a job interview and the interviewer asks you to introduce yourself. This is your chance to give a 2-minute summary of your background, skills, and why you're interested in this role. The interviewer may ask follow-up questions."
       },
       "coffeeShop": {
-        "title": "Order at a Coffee Shop",
+        "title": "Order at a coffee shop",
         "description": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customisations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order."
       },
       "newColleague": {
@@ -41,7 +41,7 @@
   "practice": "Scenario practice",
   "quick_start_title": "Quick start",
   "quick_start_subtitle": "Popular scenarios to get you started",
-  "browse_category": "Browse by Category",
+  "browse_category": "Browse by category",
   "custom_scenario": "Custom scenario",
   "history": "History",
   "completed_count": "{{count}} completed",
@@ -53,7 +53,7 @@
   "loading": "Loading scenario...",
   "finalizing": "Wrapping up your session...",
   "unable_to_load": "Unable to load scenario",
-  "back_to_practice": "Back to Practice",
+  "back_to_practice": "Back to practice",
   "view_conversation": "View conversation",
   "view_analysis": "View analysis",
   "session_duration": "Session: {{minutes}}m {{seconds}}s",
@@ -61,7 +61,7 @@
   "objectives_in_call_hint": "Speak naturally. The AI will guide you toward your objectives.",
   "tab": {
     "title": "Scenario practice",
-    "subtitle": "Practise real-world conversations in a safe, supportive environment",
+    "subtitle": "Practise real-world conversations, with no pressure",
     "browseCategories": "Browse categories",
     "quickStart": "Quick start templates",
     "yourSessions": "Your sessions",
@@ -85,11 +85,11 @@
   "categoryDescriptions": {
     "job_interview": "Practise interview questions and professional responses",
     "phone_call": "Build confidence for phone conversations",
-    "social_interaction": "Navigate social situations with ease",
+    "social_interaction": "Practise everyday social situations",
     "ordering_food": "Practise ordering at restaurants and cafes",
     "medical_appointment": "Prepare for healthcare conversations",
     "public_speaking": "Develop presentation and speaking skills",
-    "customer_service": "Handle service interactions confidently",
+    "customer_service": "Practise dealing with service staff",
     "other": "Create your own custom scenarios"
   },
   "templates": {
@@ -208,18 +208,18 @@
     "turns": "turns",
     "inProgress": "In progress",
     "completed": "Completed",
-    "pending": "Ready to Start",
+    "pending": "Ready to start",
     "abandoned": "Abandoned",
     "scenario": "Scenario",
     "objectives": "Objectives",
     "startConversation": "Start the conversation by typing or recording your first message.",
-    "speakNaturally": "Speak naturally - take your time and express yourself clearly.",
+    "speakNaturally": "Take your time and speak naturally.",
     "text": "Text",
     "voice": "Voice",
     "textPlaceholder": "Type your message... (Press Enter to send, Shift+Enter for new line)",
     "send": "Send",
     "recording": "Recording: {{duration}}",
-    "recordingReady": "Recording ready - Click \"Send\" to continue",
+    "recordingReady": "Recording ready. Click \"Send\" to continue",
     "clickToRecord": "Click the microphone to start recording",
     "voiceNote": "Note: Voice transcription coming soon. Use text input for now.",
     "stop": "Stop",
@@ -241,7 +241,7 @@
     "transcribingAudio": "Transcribing your speech",
     "emptyTranscription": "Could not detect speech in the recording. Please try again.",
     "transcriptionError": "Failed to process your recording. Please try again.",
-    "tap_to_speak": "Tap to Speak",
+    "tap_to_speak": "Tap to speak",
     "speak_naturally": "Take your time, speak naturally",
     "tap_to_play_greeting_title": "Can't hear the AI? Tap to play the greeting.",
     "tap_to_play_greeting_button": "Play greeting",
@@ -264,7 +264,7 @@
       "try_again_later": "Want to try again later"
     },
     "sessionSaved": "Session saved",
-    "sessionSavedSubtitle": "You made progress! Review what you accomplished.",
+    "sessionSavedSubtitle": "Review what you did in this session.",
     "endEarlyError": "Failed to save session. Please try again.",
     "endReasonLabel": "Session ended: {{reason}}",
     "leaveSession": "Leave session?",
@@ -275,7 +275,7 @@
     "objectives_met": "goals",
     "recordingTooShort": "Recording too short. Please record for at least 1 second.",
     "session_complete": "Session complete",
-    "session_complete_subtitle": "Great job! Review your performance below.",
+    "session_complete_subtitle": "Review your performance below.",
     "turns_count": "{{count}} turns",
     "ambientMute": "Mute background sound",
     "ambientUnmute": "Unmute background sound",
@@ -306,7 +306,7 @@
     "analysisNotAvailable": "Analysis not available for this session.",
     "noMessages": "No messages in this conversation.",
     "personalReflections": "Personal reflections",
-    "notesHelperText": "Record your thoughts about this session - what went well, what you'd do differently, or any insights.",
+    "notesHelperText": "Note what went well, what you'd do differently, or anything else you noticed.",
     "notesPlaceholder": "What did you learn from this scenario? What would you do differently next time?",
     "clinicalNotes": "Clinical notes",
     "notesHelperTextTherapist": "Add observations, feedback, or follow-up notes for this patient's session.",
@@ -363,9 +363,9 @@
     "customPlaceholder": "Describe your scenario...",
     "examples": {
       "job_interview": [
-        "Practice answering 'Tell me about yourself' in a professional interview setting",
+        "Practise answering 'Tell me about yourself' in a professional interview setting",
         "Prepare for behavioural questions like 'Describe a challenge you overcame'",
-        "Practice negotiating salary and benefits with a hiring manager"
+        "Practise negotiating salary and benefits with a hiring manager"
       ],
       "phone_call": [
         "Call to schedule a doctor's appointment and describe your symptoms",
@@ -398,7 +398,7 @@
         "Complain politely about poor service and request a resolution"
       ],
       "other": [
-        "Practice a conversation that's been on your mind",
+        "Practise a conversation that's been on your mind",
         "Rehearse for an upcoming important discussion",
         "Work through a challenging communication scenario"
       ]
@@ -423,7 +423,7 @@
   "due_date": "Due: {{date}}",
   "empty_description_create": "Practise real-world conversations to build your confidence. Choose a category above or create a custom scenario.",
   "empty_description_wait": "Your therapist hasn't assigned any scenarios yet. Check back soon!",
-  "empty_title": "Ready to Practise?",
+  "empty_title": "Ready to practise?",
   "error_title": "Error loading scenarios",
   "load_details_error": "Failed to load session details. Please try again.",
   "overdue": "Overdue",
@@ -452,7 +452,7 @@
     "previous": "Previous",
     "next": "Next",
     "you": "You",
-    "avatar_settings": "Show AI Avatar",
+    "avatar_settings": "Show AI avatar",
     "ai_assistant": "AI assistant",
     "avatar_loading": "Loading avatar...",
     "avatar_error": "Avatar unavailable",

@@ -1,9 +1,9 @@
 {
-  "title": "Recolha de Amostra de Fala",
+  "title": "Recolha de amostra de fala",
   "greeting": "Olá, {{name}}",
   "progress": "Exercício {{current}} de {{total}}",
   "step_consent": "Consentimento",
-  "step_media": "Câmara e Micro",
+  "step_media": "Câmara e micro",
   "step_reading": "Leitura",
   "step_monologue": "Fala livre",
   "reading": {
@@ -61,7 +61,7 @@
     "contact_hint": "Dúvidas? Fala diretamente com o teu terapeuta."
   },
   "errors": {
-    "load_failed": "Algo correu mal ao carregar a avaliação. Por favor, atualiza a página.",
+    "load_failed": "Algo correu mal ao carregar a avaliação. Atualiza a página.",
     "submit_failed": "Não foi possível guardar o teu progresso. Tenta novamente."
   }
 }

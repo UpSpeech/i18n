@@ -3,7 +3,7 @@
   "tabs": {
     "overview": "Visão geral",
     "intake": "Entrevista",
-    "learning_path": "Percurso de Aprendizagem",
+    "learning_path": "Percurso de aprendizagem",
     "patients": "Pacientes",
     "invites": "Convites",
     "assessments": "Avaliações"
@@ -27,8 +27,8 @@
   "delete_patient": "Eliminar paciente",
   "send_invite": "Enviar convite",
   "stats": {
-    "total_patients": "Total de Pacientes",
-    "assigned_to_me": "Atribuídos a Mim",
+    "total_patients": "Total de pacientes",
+    "assigned_to_me": "Atribuídos a mim",
     "new_this_month": "Novos este mês"
   },
   "table": {
@@ -46,8 +46,8 @@
   },
   "needs_attention": "Precisa de atenção",
   "actions": {
-    "assign_to_me": "Atribuir a Mim",
-    "assign_to_therapist": "Atribuir a Terapeuta",
+    "assign_to_me": "Atribuir a mim",
+    "assign_to_therapist": "Atribuir a terapeuta",
     "reassign": "Reatribuir",
     "assigning": "A atribuir..."
   },
@@ -78,7 +78,7 @@
   },
   "filters": {
     "search_placeholder": "Pesquisar por nome ou email...",
-    "patient_type": "Tipo de Paciente",
+    "patient_type": "Tipo de paciente",
     "all_types": "Todos os tipos",
     "status": "Estado",
     "all_statuses": "Todos os estados",
@@ -86,14 +86,14 @@
     "inactive": "Inativo",
     "pending": "Pendente",
     "assignment": "Atribuição",
-    "all_assignments": "Todas as Atribuições",
-    "filter_by_therapist": "Filtrar por Terapeuta",
-    "all_therapists": "Todos os Terapeutas",
+    "all_assignments": "Todas as atribuições",
+    "filter_by_therapist": "Filtrar por terapeuta",
+    "all_therapists": "Todos os terapeutas",
     "unassigned_only": "Apenas não atribuídos",
     "learning_path": "Percurso",
-    "all_paths": "Todos os Percursos",
+    "all_paths": "Todos os percursos",
     "attention": "Atenção",
-    "all_patients": "Todos os Pacientes"
+    "all_patients": "Todos os pacientes"
   },
   "form": {
     "first_name": "Nome próprio",
@@ -104,7 +104,7 @@
   },
   "invite_modal": {
     "title": "Convidar paciente",
-    "email_label": "Email do Paciente",
+    "email_label": "Email do paciente",
     "email_placeholder": "paciente@exemplo.com",
     "email_help": "Vamos enviar-lhe um link para criar a conta.",
     "pending_invites": "Convites pendentes",
@@ -175,7 +175,7 @@
       "journal": "Diário",
       "self_disclosure": "Auto-revelação",
       "observation": "Observação",
-      "technique_rating": "Avaliação de Técnica",
+      "technique_rating": "Avaliação de técnica",
       "quiz": "Quiz",
       "scenario": "Cenário",
       "standard": "Prática",

@@ -1,9 +1,9 @@
 {
-  "title": "Recogida de Muestra del Habla",
+  "title": "Recogida de muestra del habla",
   "greeting": "Hola, {{name}}",
   "progress": "Ejercicio {{current}} de {{total}}",
   "step_consent": "Consentimiento",
-  "step_media": "Cámara y Micro",
+  "step_media": "Cámara y micro",
   "step_reading": "Lectura",
   "step_monologue": "Habla libre",
   "reading": {
@@ -34,7 +34,7 @@
     "idle_hint": "La vista previa de la cámara aparecerá aquí",
     "start": "Iniciar grabación",
     "stop": "Detener grabación",
-    "delete": "Intentar de Nuevo",
+    "delete": "Intentar de nuevo",
     "continue": "Continuar",
     "submit": "Enviar grabación",
     "uploading": "Enviando...",
@@ -61,7 +61,7 @@
     "contact_hint": "¿Preguntas? Contacta directamente con tu terapeuta."
   },
   "errors": {
-    "load_failed": "Algo salió mal al cargar la evaluación. Por favor, actualice la página.",
+    "load_failed": "Algo salió mal al cargar la evaluación. Actualiza la página.",
     "submit_failed": "No se pudo guardar tu progreso. Inténtalo de nuevo."
   }
 }

@@ -8,7 +8,7 @@
     "organization_slug_placeholder": "my-organisation",
     "organization_slug_help": "Used for organisation identification (letters, numbers, and dashes only)",
     "save_settings": "Save settings",
-    "settings_updated": "Settings updated successfully",
+    "settings_updated": "Settings updated",
     "organization_info": "Organisation info",
     "organization_id": "Organisation ID",
     "created_date": "Created date",
@@ -69,7 +69,7 @@
       "logo_delete_failed": "Failed to delete logo",
       "logo_upload_failed": "Failed to upload logo"
     },
-    "logo_deleted": "Logo deleted successfully"
+    "logo_deleted": "Logo deleted"
   },
   "tenants": {
     "search_placeholder": "Search organisations...",
@@ -92,10 +92,10 @@
     "create_tenant": "Create organisation",
     "edit_tenant": "Edit organisation",
     "update_tenant": "Update organisation",
-    "tenant_created": "Organisation created successfully",
-    "tenant_updated": "Organisation updated successfully",
+    "tenant_created": "Organisation created",
+    "tenant_updated": "Organisation updated",
     "no_tenants": "No organisations found",
-    "no_tenants_description": "Start by creating your first organisation to begin managing tenants.",
+    "no_tenants_description": "Create your first organisation to start managing tenants.",
     "entity_tenant": "Tenant"
   }
 }

@@ -107,7 +107,7 @@
   "faq": {
     "what_is_upspeech": {
       "question": "O que é a UpSpeech e para quem é?",
-      "answer": "A UpSpeech é uma plataforma de terapia da fala construída para terapeutas e os seus pacientes, com foco na terapia da gaguez. Os terapeutas usam-na para atribuir exercícios, gerir percursos de aprendizagem, gerar relatórios clínicos com IA e acompanhar o progresso dos pacientes. Os pacientes usam-na para praticar exercícios diários, seguir jornadas terapêuticas estruturadas e gravar sessões de prática."
+      "answer": "A UpSpeech é uma plataforma de terapia da fala construída para terapeutas e os seus pacientes, com foco na terapia da gaguez. Os terapeutas usam-na para atribuir exercícios, gerir percursos de aprendizagem, gerar relatórios clínicos com IA e acompanhar o progresso dos pacientes. Os pacientes usam-na para praticar exercícios diários, seguir percursos de aprendizagem estruturados e gravar sessões de prática."
     },
     "what_are_learning_paths": {
       "question": "O que são percursos de aprendizagem?",
@@ -115,11 +115,11 @@
     },
     "learning_path_progression": {
       "question": "Como funciona a progressão num percurso de aprendizagem?",
-      "answer": "Os pacientes praticam cada passo quantas vezes quiserem, mas apenas o terapeuta pode marcar um passo como completo ou saltá-lo. Quando um passo é completado, o próximo passo abre automaticamente. Os terapeutas também podem reabrir passos completados ou saltados se necessário. O progresso é acompanhado por marco e no geral."
+      "answer": "Os pacientes praticam cada passo quantas vezes quiserem, mas apenas o terapeuta pode marcar um passo como completo ou saltá-lo. Quando o terapeuta completa um passo, abre-se o seguinte. Os terapeutas também podem reabrir passos completados ou saltados se necessário. A UpSpeech acompanha o progresso por marco e no geral."
     },
     "learning_path_access": {
       "question": "Como acedo ao meu percurso de aprendizagem?",
-      "answer": "Podes aceder ao teu percurso de aprendizagem na página A Minha Jornada na barra lateral. Os terapeutas podem ver e gerir percursos de aprendizagem dos pacientes na página Pacientes, selecionando um paciente e navegando para o separador de percurso de aprendizagem."
+      "answer": "Podes aceder ao teu percurso de aprendizagem na página A Minha Jornada na barra lateral. Os terapeutas podem ver e gerir percursos de aprendizagem dos pacientes na página Pacientes, selecionando um paciente e abrindo o separador de percurso de aprendizagem."
     },
     "exercise_types": {
       "question": "Que tipos de exercícios estão disponíveis?",
@@ -127,15 +127,15 @@
     },
     "complete_daily_exercise": {
       "question": "Como completo um exercício diário?",
-      "answer": "Vai a Atribuições na barra lateral, seleciona um exercício pendente e segue as instruções. Cada atribuição permite uma conclusão por dia. Após completar um exercício, conta para a tua sequência. O teu terapeuta define um prazo e número alvo de conclusões para cada atribuição."
+      "answer": "Vai a Atribuições na barra lateral, seleciona um exercício pendente e segue as instruções. Cada atribuição permite uma conclusão por dia. Um exercício completado conta para a tua sequência. O teu terapeuta define um prazo e número alvo de conclusões para cada atribuição."
     },
     "exercise_streaks": {
       "question": "Como funcionam as sequências de exercícios?",
-      "answer": "As sequências rastreiam dias consecutivos em que completas exercícios. Se faltares um dia, a tua sequência reinicia para zero. Completar exercícios de forma consistente ajuda a construir bons hábitos de prática e mostra ao teu terapeuta o teu compromisso com a terapia."
+      "answer": "As sequências contam os dias consecutivos em que completas exercícios. Se faltares um dia, a tua sequência volta a zero. O teu terapeuta consegue ver a tua sequência."
     },
     "custom_exercises": {
       "question": "Os terapeutas podem criar exercícios personalizados?",
-      "answer": "Sim! Os terapeutas podem criar mini jogos personalizados na Biblioteca de Exercícios. Podes definir uma técnica, nível de dificuldade (1-5), instruções e carregar vídeos de referência."
+      "answer": "Sim. Os terapeutas podem criar mini jogos personalizados na Biblioteca de Exercícios. Podes definir uma técnica, nível de dificuldade (1-5), instruções e carregar vídeos de referência."
     },
     "exercise_assignment": {
       "question": "Como atribuo exercícios aos pacientes?",
@@ -143,15 +143,15 @@
     },
     "what_are_scenarios": {
       "question": "O que são cenários de prática com IA?",
-      "answer": "Os cenários de IA permitem-te praticar conversas da vida real num ambiente seguro. Podes praticar situações como entrevistas de emprego, telefonemas, pedir comida, consultas médicas, falar em público e muito mais. A IA responde naturalmente, ajudando-te a ganhar confiança com as tuas técnicas de fluência."
+      "answer": "Os cenários de IA permitem-te praticar conversas da vida real num ambiente seguro. Podes praticar situações como entrevistas de emprego, telefonemas, pedir comida, consultas médicas, falar em público e muito mais. A IA responde com naturalidade e tu usas as tuas técnicas de fluência enquanto falas."
     },
     "how_scenarios_work": {
       "question": "Como funcionam os cenários de IA?",
-      "answer": "O teu terapeuta atribui um cenário, ou pode fazer parte do teu percurso de aprendizagem. Quando inicias a sessão, a IA abre uma conversa baseada no cenário. Respondes por texto ou áudio e a conversa flui naturalmente. Quando terminares, a IA fornece feedback e análise da tua sessão."
+      "answer": "O teu terapeuta atribui um cenário, ou pode fazer parte do teu percurso de aprendizagem. Quando inicias a sessão, a IA abre uma conversa baseada no cenário. Respondes por texto ou áudio. Quando terminares, a IA dá-te feedback e uma análise da tua sessão."
     },
     "report_generation": {
       "question": "Como funciona a geração de relatórios por IA?",
-      "answer": "Escolhe Gerar um relatório e grava a tua sessão de terapia. A IA transcreve-a e redige um relatório estruturado, que revês e editas antes de o exportar como PDF. Para arquivar o relatório na ficha de um paciente, usa Atribuir Relatório ao Paciente na página do relatório."
+      "answer": "Escolhe Gerar um relatório e grava a tua sessão de terapia. A IA transcreve-a e redige um relatório estruturado, que revês e editas antes de o exportar como PDF. Para arquivar o relatório na ficha de um paciente, usa Atribuir relatório ao paciente na página do relatório."
     },
     "report_types": {
       "question": "Que tipos de relatório estão disponíveis?",
@@ -159,7 +159,7 @@
     },
     "edit_report": {
       "question": "Posso editar um relatório depois de ser gerado?",
-      "answer": "Sim! Podes editar qualquer campo do relatório, adicionar notas e anotar secções específicas. As alterações são guardadas automaticamente. Também podes exportar a versão final como PDF."
+      "answer": "Sim. Podes editar qualquer campo do relatório, adicionar notas e anotar secções específicas. As alterações são guardadas automaticamente. Também podes exportar a versão final como PDF."
     },
     "report_templates": {
       "question": "Como funcionam os modelos de relatórios?",
@@ -167,7 +167,7 @@
     },
     "disfluency_annotations": {
       "question": "O que são anotações de disfluência?",
-      "answer": "As anotações de disfluência marcam momentos específicos numa gravação onde ocorrem perturbações na fala. Podes anotar repetições, prolongamentos, bloqueios, comportamentos de fuga, comportamentos de evitamento e padrões de início/adiamento. Cada anotação tem marcação temporal ao momento exato na gravação, ajudando a rastrear padrões ao longo do tempo."
+      "answer": "As anotações de disfluência marcam momentos específicos numa gravação onde ocorrem perturbações na fala. Podes anotar repetições, prolongamentos, bloqueios, comportamentos de fuga, comportamentos de evitamento e padrões de início/adiamento. Cada anotação tem marcação temporal do momento exato na gravação, por isso os padrões ficam visíveis ao longo do tempo."
     },
     "technique_annotations": {
       "question": "O que são anotações de técnica?",
@@ -175,7 +175,7 @@
     },
     "edit_annotations": {
       "question": "Posso editar anotações depois de guardar?",
-      "answer": "Sim! Podes editar ou eliminar qualquer anotação que criaste. Abre a gravação, encontra a anotação na lista e usa as opções de editar ou eliminar. As alterações são guardadas imediatamente."
+      "answer": "Sim. Podes editar ou eliminar qualquer anotação que criaste. Abre a gravação, encontra a anotação na lista e usa as opções de editar ou eliminar. As alterações são guardadas imediatamente."
     },
     "recording_reviews": {
       "question": "O que é a funcionalidade de Revisão de Gravações?",
@@ -183,7 +183,7 @@
     },
     "accept_invite": {
       "question": "Como me junto à organização do meu terapeuta?",
-      "answer": "O teu terapeuta enviará um convite por email com um link. Clica no link para criares a tua conta e serás automaticamente vinculado ao teu terapeuta. Os links de convite expiram após 7 dias, por isso certifica-te de te registares prontamente."
+      "answer": "O teu terapeuta enviará um convite por email com um link. Clica no link para criares a tua conta e serás automaticamente vinculado ao teu terapeuta. Os links de convite expiram após 7 dias, por isso regista-te antes disso."
     },
     "therapist_add_patient": {
       "question": "Como adiciono pacientes como terapeuta?",
@@ -207,11 +207,11 @@
     },
     "change_language": {
       "question": "Como altero o meu idioma?",
-      "answer": "Vai a Definições de Conta na barra lateral e seleciona o teu idioma preferido. A plataforma suporta Inglês, Português e Espanhol. A tua escolha é guardada e aplica-se a todas as páginas."
+      "answer": "Vai a Definições de Conta na barra lateral e seleciona o teu idioma preferido. A plataforma está disponível em inglês, português e espanhol. A tua escolha é guardada e aplica-se a todas as páginas."
     },
     "dark_mode": {
-      "question": "A UpSpeech suporta modo escuro?",
-      "answer": "Sim! Podes alternar entre modo claro e escuro nas Definições de Conta. A plataforma também respeita a preferência do teu sistema por padrão, por isso se o teu dispositivo estiver configurado para modo escuro, a UpSpeech acompanhará automaticamente."
+      "question": "A UpSpeech tem modo escuro?",
+      "answer": "Sim. Podes alternar entre modo claro e escuro nas Definições de Conta. Por predefinição, a UpSpeech segue a definição do teu dispositivo."
     },
     "user_roles": {
       "question": "Quais são as diferentes funções de utilizador?",
@@ -219,15 +219,15 @@
     },
     "audio_formats": {
       "question": "Que formatos de áudio e vídeo são suportados?",
-      "answer": "A plataforma suporta WAV, MP3, M4A e outros formatos de áudio comuns para gravações de sessões. Também pode gravar áudio diretamente no navegador. Gravações de vídeo (MP4, WebM) são suportadas para vídeos de referência em exercícios e gravações de prática."
+      "answer": "A plataforma aceita WAV, MP3, M4A e outros formatos de áudio comuns para gravações de sessões. Também podes gravar áudio diretamente no navegador. O vídeo (MP4, WebM) funciona para vídeos de referência dos exercícios e gravações de prática."
     },
     "transcription_process": {
       "question": "Como funciona o processo de transcrição?",
-      "answer": "Após carregar uma gravação de sessão, o reconhecimento de fala com IA transcreve automaticamente o teu áudio. O processo leva alguns minutos dependendo da duração da gravação. Podes acompanhar o estado (pendente, a processar, processado) na página do relatório. Uma vez completo, a transcrição é usada para gerar o teu relatório terapêutico."
+      "answer": "Após carregar uma gravação de sessão, o reconhecimento de fala com IA transcreve automaticamente o teu áudio. O processo leva alguns minutos dependendo da duração da gravação. Podes acompanhar o estado (pendente, a processar, processado) na página do relatório. Quando termina, a UpSpeech usa a transcrição para gerar o teu relatório terapêutico."
     },
     "support": {
       "question": "Como contacto o suporte?",
-      "answer": "Envia-nos um email para support@upspeech.com ou usa o botão Enviar Email para Suporte abaixo. Normalmente respondemos em 24 horas."
+      "answer": "Envia-nos um email para support@upspeech.com ou usa o botão Enviar email ao suporte abaixo. Normalmente respondemos em 24 horas."
     },
     "expert_reviews": {
       "question": "O que são as Revisões de gravações?",

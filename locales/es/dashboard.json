@@ -16,7 +16,7 @@
     "greeting_morning": "Buenos días",
     "greeting_afternoon": "Buenas tardes",
     "greeting_evening": "Buenas noches",
-    "todays_exercise": "Ejercicio de Hoy",
+    "todays_exercise": "Ejercicio de hoy",
     "day_streak": "¡Racha de {{count}} días!",
     "streak_zero_title": "Un nuevo comienzo",
     "streak_zero_hint": "Practica hoy para empezar tu racha",
@@ -81,7 +81,7 @@
     "greeting_afternoon": "Buenas tardes",
     "greeting_evening": "Buenas noches",
     "greeting_title_prefix": "Bienvenido de nuevo",
-    "total_patients": "Total de Pacientes",
+    "total_patients": "Total de pacientes",
     "patients_under_care": "Pacientes bajo cuidado",
     "view_all_patients": "Todos los pacientes",
     "view_all_reports": "Todos los informes",
@@ -105,26 +105,26 @@
       "today": "Hoy",
       "week": "Semana",
       "month": "Mes",
-      "3months": "3 Meses",
-      "all": "Todo el Tiempo"
+      "3months": "3 meses",
+      "all": "Todo el tiempo"
     },
     "bubble_chart": {
       "scenarios": "Escenarios",
       "recordings": "Grabaciones",
       "exercises_label": "Ejercicios",
       "quizzes": "Cuestionarios",
-      "total_activities": "Total de Actividades",
-      "activity_breakdown": "Desglose de Actividad",
+      "total_activities": "Total de actividades",
+      "activity_breakdown": "Desglose de actividad",
       "last_activity": "Última actividad",
       "click_for_details": "Haz clic para detalles",
-      "patient_details": "Detalles de Actividad del Paciente",
+      "patient_details": "Detalles de actividad del paciente",
       "view_full_progress": "Ver progreso completo",
-      "total_completions": "Total de Finalizaciones",
+      "total_completions": "Total de finalizaciones",
       "no_recent_activity": "Sin actividad reciente",
       "no_patient_activity": "No se encontró actividad del paciente",
       "exercises": "ejercicios",
       "close": "Cerrar",
-      "engagement_level": "Nivel de Compromiso",
+      "engagement_level": "Nivel de compromiso",
       "engagement": {
         "high": "Alto compromiso",
         "medium": "Compromiso medio",
@@ -187,21 +187,21 @@
     "total_organizations": "Total de organizaciones"
   },
   "admin_dashboard": {
-    "title": "Panel de Administración",
+    "title": "Panel de administración",
     "greeting_morning": "Buenos días",
     "greeting_afternoon": "Buenas tardes",
     "greeting_evening": "Buenas noches",
     "subtitle": "Gestiona usuarios, terapeutas y monitorea la actividad de tu organización.",
     "stats": {
-      "total_users": "Total de Usuarios",
+      "total_users": "Total de usuarios",
       "active_clients": "Pacientes activos",
       "failed_recordings": "Grabaciones fallidas",
       "pending_invites": "Invitaciones pendientes"
     },
-    "all_users": "Todos los Usuarios",
+    "all_users": "Todos los usuarios",
     "recordings_needing_attention": "Grabaciones que no se pudieron procesar",
     "pending_invites_helper": "Enviadas pero aún no aceptadas",
-    "therapist_workload": "Carga de Trabajo de Terapeutas",
+    "therapist_workload": "Carga de trabajo de terapeutas",
     "assigned_patients": "pacientes",
     "assigned_patients_zero": "pacientes",
     "assigned_patients_one": "paciente",
@@ -211,7 +211,7 @@
     "last_30_days": "Últimos 30 días",
     "no_recent_activity_description": "No hay actividad reciente para mostrar",
     "no_recent_users_description": "No hay nuevos usuarios en este período",
-    "system_management": "Gestión del Sistema",
+    "system_management": "Gestión del sistema",
     "actions": {
       "users": "Usuarios",
       "users_description": "Gestionar cuentas",
@@ -220,7 +220,7 @@
       "settings": "Configuración",
       "settings_description": "Organización",
       "reports": "Informes",
-      "reports_description": "Todos los Informes"
+      "reports_description": "Todos los informes"
     },
     "recent_users": "Usuarios recientes",
     "no_recent_users": "No hay usuarios recientes",
@@ -228,7 +228,7 @@
     "no_recent_activity": "No hay actividad reciente"
   },
   "owner_dashboard": {
-    "title": "Panel de propietario - Sistema global",
+    "title": "Panel de propietario, sistema global",
     "subtitle": "Monitorea todas las organizaciones, usuarios y actividad del sistema UpSpeech.",
     "status": {
       "healthy": "Saludable",
@@ -261,7 +261,7 @@
     "storage_usage": "Uso de almacenamiento",
     "no_tenant_activity": "No hay actividad de organización",
     "no_tenant_activity_description": "No hay actividad de organización para mostrar",
-    "system_settings": "Configuración del Sistema",
+    "system_settings": "Configuración del sistema",
     "view_system_details": "Ver detalles del sistema",
     "users": "Usuarios",
     "users_zero": "Usuarios",

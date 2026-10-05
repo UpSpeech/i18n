@@ -8,7 +8,7 @@
     "all": "Todos os grupos",
     "group": "Grupo",
     "unassigned": "Sem grupo",
-    "control_group": "Grupo de Controlo",
+    "control_group": "Grupo de controlo",
     "pilot_non_control": "Piloto (sem controlo)",
     "clear": "Limpar filtro de grupo"
   },
@@ -20,7 +20,7 @@
     "active_pct_helper": "Com 2+ sessões esta semana",
     "at_risk": "Em risco",
     "at_risk_helper": "Zero sessões esta semana",
-    "avg_sessions": "Média de Sessões",
+    "avg_sessions": "Média de sessões",
     "avg_sessions_helper": "Por paciente esta semana",
     "total_patients": "No piloto",
     "total_patients_unit_one": "{{count}} inscrito",
@@ -28,19 +28,19 @@
   },
   "immediate_risks": {
     "title": "Riscos imediatos",
-    "subtitle": "Pacientes inativos há 3+ dias, requer atenção",
+    "subtitle": "Pacientes inativos há 3+ dias que requerem atenção",
     "patient": "Paciente",
     "therapist": "Terapeuta",
-    "days_inactive": "Dias de Inatividade",
+    "days_inactive": "Dias de inatividade",
     "last_activity": "Última atividade",
     "action": "Ação",
     "notify": "Notificar terapeuta",
     "never_active": "Nunca ativo",
     "empty": "Nenhum paciente em risco. Todos os participantes do piloto estão ativos.",
-    "info": "Pacientes sem qualquer atividade na plataforma (gravações, exercícios ou cenários concluídos) há 3 ou mais dias, ou que nunca estiveram ativos. Dias de Inatividade mostra há quanto tempo foi a última atividade. Use Notificar Terapeuta para alertar o terapeuta atribuído sobre pacientes desligados."
+    "info": "Pacientes sem qualquer atividade na plataforma (gravações, exercícios ou cenários concluídos) há 3 ou mais dias, ou que nunca estiveram ativos. Dias de inatividade mostra há quanto tempo foi a última atividade. Usa Notificar terapeuta para alertar o terapeuta atribuído sobre pacientes desligados."
   },
   "missing_feedback": {
-    "title": "Feedback em Falta",
+    "title": "Feedback em falta",
     "subtitle": "Submissões de exercícios sem revisão do terapeuta há 48+ horas",
     "patient": "Paciente",
     "therapist": "Terapeuta",
@@ -62,7 +62,7 @@
     "active": "Ativo",
     "at_risk": "Em risco",
     "dropping": "A desistir",
-    "info": "Estado de envolvimento semanal de todos os pacientes do piloto. Uma sessão é um conjunto de gravações de exercícios numa hora com pelo menos 3 minutos no total, um exercício de questionário concluído, ou uma sessão de cenário concluída. Estado: Ativo (2+ sessões), Em Risco (1 sessão), A Desistir (0 sessões)."
+    "info": "Estado de envolvimento semanal de todos os pacientes do piloto. Uma sessão é um conjunto de gravações de exercícios numa hora com pelo menos 3 minutos no total, um exercício de questionário concluído, ou uma sessão de cenário concluída. Estado: Ativo (2+ sessões), Em risco (1 sessão), A desistir (0 sessões)."
   },
   "high_performers": {
     "title": "Melhores desempenhos",
@@ -79,7 +79,7 @@
     "recordings": "Gravações",
     "scenarios": "Cenários",
     "exercises": "Exercícios",
-    "practice_minutes": "Tempo de Prática",
+    "practice_minutes": "Tempo de prática",
     "user": "Utilizador",
     "role": "Função",
     "last_active": "Última atividade",
@@ -89,10 +89,10 @@
     "no_activity": "Nenhuma atividade registada para esta clínica.",
     "never_active": "Nunca",
     "pilot_badge": "Piloto",
-    "info": "Resumo de toda a atividade na plataforma dos pacientes do piloto (excluindo grupo de controlo). Monitoriza gravações de áudio, sessões de cenário concluídas e exercícios concluídos. Última Atividade mostra a atividade mais recente de qualquer tipo. Tempo de Prática é a duração total das gravações em minutos."
+    "info": "Resumo de toda a atividade na plataforma dos pacientes do piloto (excluindo grupo de controlo). Monitoriza gravações de áudio, sessões de cenário concluídas e exercícios concluídos. Última atividade mostra a atividade mais recente de qualquer tipo. Tempo de prática é a duração total das gravações em minutos."
   },
   "enrollment": {
-    "title": "Inscrição no Piloto",
+    "title": "Inscrição no piloto",
     "subtitle": "Alternar quais utilizadores participam no piloto",
     "name": "Nome",
     "email": "Email",
@@ -123,7 +123,7 @@
     "days_ago": "há {{count}}d"
   },
   "assessments": {
-    "title": "Avaliações de Fala",
+    "title": "Avaliações de fala",
     "subtitle": "Progresso da recolha de amostras de fala pré-piloto",
     "completed": "Concluído",
     "completed_at": "Concluído em",
@@ -177,7 +177,7 @@
     "refresh": "Atualizar",
     "export": "Exportar",
     "download_csv": "Transferir CSV",
-    "copy_text": "Copiar como Texto",
+    "copy_text": "Copiar como texto",
     "copied": "Copiado",
     "copy_failed": "Falha ao copiar"
   },
@@ -190,7 +190,7 @@
     "past_pilots": "Pilotos anteriores"
   },
   "engagement": {
-    "note": "Utilização por grupo. As médias são por paciente inscrito no grupo (pacientes inativos contam como zero), para que grupos de tamanhos diferentes sejam comparáveis. Veja o separador Resultados para o significado de cada grupo.",
+    "note": "Utilização por grupo. As médias são por paciente inscrito no grupo (pacientes inativos contam como zero), para que grupos de tamanhos diferentes sejam comparáveis. Vê o separador Resultados para o significado de cada grupo.",
     "metric": "Métrica",
     "arms": {
       "intervention": "Intervenção",
@@ -244,7 +244,7 @@
     },
     "baseline": {
       "title": "Equilíbrio inicial",
-      "info": "Gravidade CBSA de onboarding por grupo: a verificação de que os grupos começaram comparáveis. Se a gravidade inicial diferir muito entre grupos, interprete diferenças posteriores com cautela. Mostrado como média ± DP (0-60, mais baixo é mais ligeiro).",
+      "info": "Gravidade CBSA de onboarding por grupo, para verificar que os grupos começaram comparáveis. Se a gravidade inicial diferir muito entre grupos, interpreta as diferenças posteriores com cautela. Mostrado como média ± DP (0-60, mais baixo é mais ligeiro).",
       "patients": "Pacientes (n)",
       "severity": "Gravidade inicial (média ± DP)",
       "note": "Grandes diferenças iniciais entre grupos podem enviesar a comparação; intervalos pequenos e sobrepostos sustentam-na."
@@ -282,12 +282,12 @@
       "post": "Pós",
       "delta": "Variação",
       "n": "n",
-      "not_scored": "Ainda não foram avaliadas gravações de avaliação da fala. Conclua as revisões das gravações de avaliação para preencher isto."
+      "not_scored": "Ainda não foram avaliadas gravações de avaliação da fala. Conclui as revisões das gravações de avaliação para preencher isto."
     }
   },
   "dose_response": {
     "title": "Dose-resposta: prática vs melhoria",
-    "info": "Cada ponto é um paciente: minutos de prática (x) face à variação da gravidade autorrelatada CBSA (y). Uma nuvem descendente, e um r negativo, significa que mais prática acompanha menor gravidade, o sinal de que o uso provoca a mudança em vez de apenas coincidir com ela. Cor por grupo.",
+    "info": "Cada ponto é um paciente: minutos de prática (x) face à variação da gravidade autorrelatada CBSA (y). Uma nuvem descendente e um r negativo significam que mais prática acompanha menor gravidade. Cor por grupo.",
     "no_data": "Ainda não há dados emparelhados suficientes. Um ponto precisa de tempo de prática e de pelo menos duas submissões CBSA.",
     "r_caption": "Correlação r = {{r}} em {{n}} pacientes. Negativo significa que mais prática acompanha menor gravidade (melhoria).",
     "r_insufficient": "Apenas {{n}} paciente(s) emparelhado(s); são necessários pelo menos 3 para estimar uma correlação.",
@@ -337,7 +337,7 @@
       "speech_assessments": "Avaliações da fala",
       "recording_reviews": "Revisões de gravação",
       "none": "Ainda nenhuma",
-      "unscored": "{{count}} gravação(ões) de avaliação carregada(s) mas ainda por avaliar. Avalie-as na sala de anotação para preencher a vista de resultado pré/pós.",
+      "unscored": "{{count}} gravação(ões) de avaliação carregada(s) mas ainda por avaliar. Avalia-as na sala de anotação para preencher a vista de resultado pré/pós.",
       "expert_reviews": "Revisões de gravação"
     },
     "statuses": {
@@ -353,20 +353,20 @@
     "load_failed": "Falha ao carregar dados de analítica.",
     "week_label": "Semana {{week}}",
     "adherence": {
-      "title": "Limiar de Adesão",
+      "title": "Limiar de adesão",
       "subtitle": "% de utilizadores com ≥2 sessões/semana E ≥6 minutos no total",
-      "y_label": "% Dentro do Limiar",
+      "y_label": "% dentro do limiar",
       "info": "Percentagem de pacientes do piloto que cumprem o objetivo semanal de adesão: pelo menos 2 sessões de prática E pelo menos 6 minutos de tempo total de gravação por semana. Uma sessão é um conjunto de gravações num intervalo de 1 hora com ≥3 minutos no total, ou um exercício de questionário concluído. A linha tracejada a 60% marca a taxa mínima aceitável. Pacientes do grupo de controlo são excluídos."
     },
     "minutes": {
-      "title": "Tempo de Prática por Semana",
+      "title": "Tempo de prática por semana",
       "subtitle": "Média e mediana de minutos praticados por utilizador por semana",
       "avg_label": "Média",
       "median_label": "Mediana",
       "info": "Média e mediana do tempo de prática de gravação por paciente por semana, em minutos. A mediana ajuda a identificar se alguns utilizadores intensivos estão a distorcer a média. Se a média for muito superior à mediana, um pequeno grupo está a fazer a maior parte da prática. Apenas gravações relacionadas com exercícios (mini-jogos, exercícios do percurso de aprendizagem) contam para o tempo de prática."
     },
     "dropoff": {
-      "title": "Curva de Abandono",
+      "title": "Curva de abandono",
       "subtitle": "% de utilizadores ainda ativos a cada semana (curva de sobrevivência)",
       "y_label": "% Ativos",
       "info": "Curva de sobrevivência que mostra a percentagem de pacientes ainda ativos a cada semana desde o início do piloto. Um paciente conta como ativo se completou pelo menos 1 sessão de prática nessa semana. Uma descida mais acentuada indica desistência mais rápida. Esta métrica inclui apenas pacientes do grupo experimental (grupo de controlo excluído)."
@@ -378,40 +378,40 @@
       "info": "Número de pacientes únicos que gravaram um exercício ou completaram um exercício de questionário em cada dia. Ajuda a identificar padrões de utilização (tendências dia de semana vs fim de semana) e a detetar quedas repentinas no envolvimento. Cada paciente é contado apenas uma vez por dia, independentemente de quantas atividades completou."
     },
     "practices": {
-      "title": "Práticas por Utilizador",
+      "title": "Práticas por utilizador",
       "subtitle": "Média de sessões por utilizador por semana",
-      "y_label": "Média de Sessões",
+      "y_label": "Média de sessões",
       "info": "Número médio de sessões de prática por paciente por semana. Uma sessão é definida como um conjunto de gravações de exercícios feitas num intervalo de 1 hora que totaliza pelo menos 3 minutos de áudio, ou um exercício de questionário concluído. O objetivo é ≥2 sessões por paciente por semana para cumprir o limiar de adesão."
     },
     "dropout": {
-      "title": "Tempo até Abandono",
+      "title": "Tempo até abandono",
       "subtitle": "Semana em que o utilizador falha a adesão pela primeira vez",
       "y_label": "Utilizadores",
       "empty": "Nenhum abandono detetado.",
       "info": "Histograma que mostra a distribuição da semana em que os pacientes falharam a adesão pela primeira vez e nunca recuperaram. Um abandono é definido como a primeira semana em que um paciente não cumpre o limiar de adesão (≥2 sessões E ≥6 min) sem nenhuma semana subsequente a cumpri-lo. Concentração nas primeiras semanas sugere fricção no onboarding; abandono tardio pode indicar fadiga."
     },
     "heatmap": {
-      "title": "Tendência de Adesão",
+      "title": "Tendência de adesão",
       "subtitle": "Adesão semanal por utilizador (ponto preenchido = cumpriu, anel vazio = falhou)",
       "patient": "Paciente",
       "met": "Cumpriu",
       "missed": "Falhou",
-      "info": "Grelha de adesão semanal por paciente. Um ponto preenchido significa que o paciente cumpriu o limiar (≥2 sessões E ≥6 minutos de prática) nessa semana; um anel vazio significa que falhou. Revela padrões como desempenhos consistentes, utilizadores intermitentes ou pacientes que desistem após uma semana específica. Deslize horizontalmente para ver mais semanas."
+      "info": "Grelha de adesão semanal por paciente. Um ponto preenchido significa que o paciente cumpriu o limiar (≥2 sessões E ≥6 minutos de prática) nessa semana; um anel vazio significa que falhou. Revela padrões como desempenhos consistentes, utilizadores intermitentes ou pacientes que desistem após uma semana específica. Desliza horizontalmente para ver mais semanas."
     },
     "severity": {
-      "title": "Mudança na severidade auto-reportada",
+      "title": "Mudança na severidade autorrelatada",
       "subtitle": "Pontuação final menos baseline (CBSA-SR, menor = melhoria)",
       "change": "Mudança",
       "empty": "Sem dados de severidade disponíveis.",
-      "info": "Mudança na severidade da gaguez auto-reportada usando a escala CBSA-SR (Communication-Based Self-Assessment of Stuttering, Self-Report). Compara a pontuação baseline de onboarding de cada paciente com a avaliação semanal mais recente. Valores negativos (barras verdes) indicam melhoria; valores positivos (barras vermelhas) indicam agravamento. Os pacientes precisam de um baseline e pelo menos uma avaliação de seguimento para aparecerem aqui."
+      "info": "Mudança na severidade da gaguez autorrelatada usando a escala CBSA-SR (Communication-Based Self-Assessment of Stuttering, Self-Report). Compara a pontuação baseline de onboarding de cada paciente com a avaliação semanal mais recente. Valores negativos (barras verdes) indicam melhoria; valores positivos (barras vermelhas) indicam agravamento. Os pacientes precisam de um baseline e pelo menos uma avaliação de seguimento para aparecerem aqui."
     },
     "kpi": {
-      "retention_week_8": "Retenção na Semana 8",
+      "retention_week_8": "Retenção na semana 8",
       "retention_helper": "% de utilizadores ativos na semana 8",
       "retention_info": "Percentagem de pacientes do piloto que ainda utilizam ativamente a plataforma na semana 8. Um paciente é considerado ativo se completou pelo menos 1 sessão de prática nessa semana. Este KPI só está disponível após 8+ semanas de piloto. Pacientes do grupo de controlo são excluídos.",
       "week1_activation": "Ativação semana 1",
       "week1_helper": "% com ≥2 sessões na primeira semana",
-      "week1_info": "Percentagem de pacientes do piloto que completaram pelo menos 2 sessões de prática durante a primeira semana no programa. Uma sessão conta quando gravações de exercícios totalizam ≥3 minutos ou um exercício de questionário é concluído. Objetivo: ≥60%. Este é um indicador avançado: baixa ativação prevê maior abandono.",
+      "week1_info": "Percentagem de pacientes do piloto que completaram pelo menos 2 sessões de prática durante a primeira semana no programa. Uma sessão conta quando gravações de exercícios totalizam ≥3 minutos ou um exercício de questionário é concluído. Objetivo: ≥60%. Este é um indicador avançado. Uma baixa ativação prevê maior abandono.",
       "not_available": "N/D"
     },
     "alerts": {
@@ -419,7 +419,7 @@
       "critical": "Crítico",
       "warning": "Aviso",
       "info": "Info",
-      "week1_activation_low": "Ativação da Semana 1 é {{value}}% (abaixo do limiar de 60%)",
+      "week1_activation_low": "A ativação da semana 1 é de {{value}}% (abaixo do limiar de 60%)",
       "usage_drop_30pct": "{{count}} paciente(s) com queda >30% de utilização esta semana",
       "therapist_no_response_48h_one": "{{count}} gravação à espera de feedback há mais de 48h",
       "therapist_no_response_48h_other": "{{count}} gravações à espera de feedback há mais de 48h",
@@ -432,11 +432,11 @@
       "select_date": "Selecionar data do snapshot",
       "clear": "Limpar comparação",
       "patient_count": "{{count}} pacientes",
-      "evolution_title": "Tendências dos KPIs ao Longo do Tempo",
+      "evolution_title": "Tendências dos KPIs ao longo do tempo",
       "evolution_subtitle": "Como as métricas-chave evoluíram nos snapshots diários",
       "show_trends": "Mostrar tendências dos KPIs",
       "hide_trends": "Ocultar tendências dos KPIs",
-      "adherence_label": "Aderência",
+      "adherence_label": "Adesão",
       "joined_week": "Entrou semana {{week}}"
     }
   },
@@ -484,10 +484,10 @@
       "arms_value": "{{intervention}} intervenção · {{control}} controlo",
       "bullet_archive": "Este piloto passa para Pilotos anteriores (apenas leitura).",
       "bullet_freeze": "As métricas congelam neste período; a atividade posterior é excluída.",
-      "bullet_restart": "Pode iniciar um novo piloto depois.",
+      "bullet_restart": "Podes iniciar um novo piloto depois.",
       "cancel": "Cancelar",
       "confirm": "Terminar e arquivar",
-      "date_hint": "Pode ser uma data passada para fechar um piloto que se esqueceu de terminar.",
+      "date_hint": "Pode ser uma data passada, para fechar um piloto que te esqueceste de terminar.",
       "date_label": "Data de fim",
       "ending": "A terminar…",
       "label_label": "Etiqueta (opcional)",

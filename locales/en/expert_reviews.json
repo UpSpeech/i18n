@@ -2,7 +2,7 @@
   "page_title": "Recording reviews",
   "page_subtitle": "Review patient recordings across your organisation",
   "start_reviewing": "Start reviewing",
-  "back_to_list": "Back to List",
+  "back_to_list": "Back to list",
   "stats": {
     "unreviewed": "Pending",
     "in_progress": "In progress",
@@ -135,7 +135,7 @@
     "FG_desc": "Jaw jerking, tongue protruding, lip pressing, jaw muscles tense, eye movements",
     "HM": "Head movements",
     "HM_desc": "Back, forward, turning away",
-    "ME": "Movements of Extremities",
+    "ME": "Movements of extremities",
     "ME_desc": "Arm/hand movement, hands about face, torso movement, leg movement"
   },
   "tension": {
@@ -179,18 +179,18 @@
     "multisyllable_unit_repetition": "Multisyllable unit rep.",
     "escape_behavior": "Escape behaviour",
     "avoidance_behavior": "Avoidance behaviour",
-    "starter_postponement": "Starter/Postponement",
-    "voluntary_stuttering": "Voluntary Stuttering",
+    "starter_postponement": "Starter/postponement",
+    "voluntary_stuttering": "Voluntary stuttering",
     "holding_onto_stuttering": "Holding",
     "pull_out": "Pull-out",
     "cancelling": "Cancelling",
     "secondary_behaviour": "Secondary behaviour",
     "avoidance": "Avoidance",
-    "soft_starts": "Soft Starts",
-    "soft_articulation_contact": "Soft Articulation Contact",
-    "prolonged_speech": "Prolonged Speech",
-    "speech_speed_management": "Speech Speed Management",
-    "pauses": "Strategic Pausing"
+    "soft_starts": "Soft starts",
+    "soft_articulation_contact": "Soft articulation contact",
+    "prolonged_speech": "Prolonged speech",
+    "speech_speed_management": "Speech speed management",
+    "pauses": "Strategic pausing"
   },
   "summary_panel": {
     "disfluencies": "Disfluencies",

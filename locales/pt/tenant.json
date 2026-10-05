@@ -8,7 +8,7 @@
     "organization_slug_placeholder": "minha-organizacao",
     "organization_slug_help": "Usado para identificar a organização (apenas letras, números e traços)",
     "save_settings": "Guardar definições",
-    "settings_updated": "Definições atualizadas com sucesso",
+    "settings_updated": "Definições atualizadas",
     "organization_info": "Informações da organização",
     "organization_id": "ID da organização",
     "created_date": "Data de criação",
@@ -45,7 +45,7 @@
       "report_contact_source_tenant": "Email da organização",
       "report_contact_source_helper": "O email que aparece no fim de cada relatório, no ecrã e no PDF.",
       "report_contact_source_tenant_empty": "Email de contacto vazio. Por agora, usa-se o do terapeuta.",
-      "report_contact_source_tenant_fill": "Preencha o email de contacto acima para usar esta opção.",
+      "report_contact_source_tenant_fill": "Preenche o email de contacto acima para usar esta opção.",
       "report_contact_source_therapist_hint": "{{email}} · varia por terapeuta",
       "contact_phone": "Telefone de contacto",
       "contact_phone_placeholder": "+351 123 456 789",
@@ -69,7 +69,7 @@
       "logo_delete_failed": "Falha ao eliminar logótipo",
       "logo_upload_failed": "Falha ao carregar logótipo"
     },
-    "logo_deleted": "Logótipo eliminado com sucesso"
+    "logo_deleted": "Logótipo eliminado"
   },
   "tenants": {
     "search_placeholder": "Pesquisar organizações...",
@@ -92,8 +92,8 @@
     "create_tenant": "Criar organização",
     "edit_tenant": "Editar organização",
     "update_tenant": "Atualizar organização",
-    "tenant_created": "Organização criada com sucesso",
-    "tenant_updated": "Organização atualizada com sucesso",
+    "tenant_created": "Organização criada",
+    "tenant_updated": "Organização atualizada",
     "no_tenants": "Nenhuma organização encontrada",
     "no_tenants_description": "Cria a tua primeira organização para começares a gerir o sistema.",
     "entity_tenant": "Organização"

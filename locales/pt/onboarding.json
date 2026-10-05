@@ -30,7 +30,7 @@
         },
         "default": {
           "description": "Aprende a utilizar a plataforma",
-          "title": "Primeiros Passos com a UpSpeech"
+          "title": "Primeiros passos com a UpSpeech"
         },
         "patient": {
           "description": "Como completar os exercícios que o teu terapeuta te atribui e gravar a tua prática",
@@ -44,7 +44,7 @@
       "dont_show_again": "Não mostrar novamente",
       "skip": "Ignorar por agora",
       "get_started": "Começar",
-      "view_all_videos": "Ver todos os vídeos no Centro de Ajuda"
+      "view_all_videos": "Ver todos os vídeos no centro de ajuda"
     },
     "checklist": {
       "title": "Os teus primeiros passos",
@@ -95,21 +95,21 @@
       "step_welcome": "Boas-vindas",
       "step_progress": "Progresso da configuração",
       "consent": {
-        "heading": "Antes de Começar",
-        "title": "Consentimento e Privacidade",
+        "heading": "Antes de começar",
+        "title": "Consentimento e privacidade",
         "intro": "A tua privacidade e segurança são a nossa prioridade. Por favor, reserva um momento para reveres as informações abaixo. Explicam como protegemos os teus dados durante o piloto.",
-        "terms_title": "Termos e Condições",
+        "terms_title": "Termos e condições",
         "terms_text": "Ao participares neste programa piloto, concordas em utilizar a UpSpeech de acordo com o seu propósito como ferramenta de apoio à terapia da fala. Os teus dados de utilização podem ser recolhidos de forma anonimizada para melhorar a plataforma. Podes retirar-te do piloto a qualquer momento contactando o teu administrador.",
-        "privacy_title": "Política de Privacidade",
+        "privacy_title": "Política de privacidade",
         "privacy_text": "A UpSpeech recolhe gravações de áudio, dados de exercícios e análises de utilização para fornecer serviços de terapia da fala. Os teus dados são armazenados de forma segura, encriptados em repouso e em trânsito. As tuas gravações são processadas para análise de fala e geração de relatórios clínicos, o que envolve fornecedores de IA terceiros de confiança (a ElevenLabs para transcrição e o Gemini da Google para geração de relatórios) que atuam apenas segundo as nossas instruções. Nunca vendemos os teus dados, nem os partilhamos para qualquer outra finalidade sem o teu consentimento explícito. As tuas gravações só são usadas para treinar modelos de IA se optares por isso separadamente.",
-        "privacy_link": "Ler a nossa Política de Privacidade completa",
-        "accept_terms": "Aceito os Termos e Condições",
-        "accept_privacy": "Aceito a Política de Privacidade",
+        "privacy_link": "Ler a nossa política de privacidade completa",
+        "accept_terms": "Aceito os termos e condições",
+        "accept_privacy": "Aceito a política de privacidade",
         "required_hint": "Por favor, completa este passo para continuares",
         "training_benefit_title": "Ajuda a melhorar a UpSpeech para os outros (opcional)"
       },
       "media": {
-        "heading": "Câmara e Microfone",
+        "heading": "Câmara e microfone",
         "title": "Configura os teus dispositivos",
         "description": "A UpSpeech precisa de acesso ao teu microfone e câmara para exercícios de fala e sessões de prática. Vamos verificar que funcionam.",
         "microphone": "Microfone",
@@ -170,7 +170,7 @@
           "stats_title": "O teu progresso",
           "stats_content": "A tua taxa de conclusão e a tua sequência, atualizadas depois de cada prática.",
           "weekly_title": "Comparação semanal",
-          "weekly_content": "Vê como estás em comparação com a semana passada. A consistência é fundamental!",
+          "weekly_content": "Vê como estás em comparação com a semana passada.",
           "upcoming_title": "Próximos exercícios",
           "upcoming_content": "Os teus próximos exercícios do terapeuta estão listados aqui.",
           "nav_journey_title": "A minha jornada",
@@ -183,23 +183,23 @@
           "progress_content": "Esta é a tua jornada personalizada. Cada passo complementa o anterior.",
           "current_step_title": "Passo atual",
           "current_step_content": "É aqui que estás agora. Toca para começar.",
-          "indicators_title": "Indicadores de Progresso",
-          "indicators_content": "Verde significa completo. Continua para abrires os próximos passos!"
+          "indicators_title": "Indicadores de progresso",
+          "indicators_content": "Verde significa completo. Ao concluíres um passo, abre-se o seguinte."
         },
         "exercise": {
           "list_title": "As tuas tarefas",
           "list_content": "O teu terapeuta atribui exercícios aqui para completares.",
-          "card_title": "Detalhes do Exercício",
+          "card_title": "Detalhes do exercício",
           "card_content": "Clica em qualquer exercício para veres os detalhes e começar a praticar.",
           "filters_title": "Filtrar exercícios",
           "filters_content": "Filtra por estado para encontrares o que precisa da tua atenção."
         },
         "practice": {
-          "library_title": "Biblioteca de Exercícios",
+          "library_title": "Biblioteca de exercícios",
           "library_content": "Escolhe destes exercícios para praticares quando quiseres.",
-          "button_title": "Começar a Praticar",
+          "button_title": "Começar a praticar",
           "button_content": "Carrega no botão de prática para iniciares uma sessão de gravação.",
-          "scenarios_title": "Cenários de Conversa",
+          "scenarios_title": "Cenários de conversa",
           "scenarios_content": "Experimenta cenários de conversa para situações de prática realistas."
         }
       },
@@ -209,7 +209,7 @@
           "stats_content": "Quantos pacientes tens, e quanto praticaram.",
           "activity_title": "Atividade recente",
           "activity_content": "Gravações recentes e atividade dos teus pacientes aparecem aqui.",
-          "bubble_chart_title": "Envolvimento dos Pacientes",
+          "bubble_chart_title": "Envolvimento dos pacientes",
           "bubble_chart_content": "Uma bolha por paciente. Quanto maior, mais praticou.",
           "nav_patients_title": "Os meus pacientes",
           "nav_patients_content": "Gere os teus pacientes, envia convites e vê o progresso deles.",
@@ -223,13 +223,13 @@
           "patient_activity_content": "Todos os pacientes, do menos envolvido ao mais, e quanto praticaram no período que escolheres."
         },
         "invite": {
-          "button_title": "Adicionar um Paciente",
+          "button_title": "Adicionar um paciente",
           "button_content": "Clica aqui para adicionares o teu primeiro paciente. A pessoa recebe um convite por email para criar a conta.",
-          "list_title": "Lista de Pacientes",
+          "list_title": "Lista de pacientes",
           "list_content": "Os teus pacientes aparecerão aqui quando aceitarem o convite."
         },
         "report": {
-          "recording_title": "Gravação da Sessão",
+          "recording_title": "Gravação da sessão",
           "recording_content": "Carrega ou seleciona uma gravação de uma sessão terapêutica.",
           "generate_title": "Gerar um relatório",
           "generate_content": "A IA vai redigir o relatório clínico para reveres e editares."
@@ -239,9 +239,9 @@
           "row_content": "Clica num paciente para abrires o perfil e gerires o percurso de aprendizagem."
         },
         "library": {
-          "grid_title": "Biblioteca de Exercícios",
+          "grid_title": "Biblioteca de exercícios",
           "grid_content": "Jogos e tarefas prontas para os teus pacientes. Tudo o que está aqui pode entrar no percurso de um paciente.",
-          "filters_title": "Filtrar e Pesquisar",
+          "filters_title": "Filtrar e pesquisar",
           "filters_content": "Afina a lista por condição, idade e nível, ou pesquisa uma palavra.",
           "card_title": "Experimenta primeiro",
           "card_content": "A pré-visualização mostra o exercício tal como o paciente o vê, sem guardar nada. Para o dares a um paciente, adiciona-o a partir do percurso dele.",
@@ -259,25 +259,25 @@
           "users_content": "Novos utilizadores que se registaram recentemente na tua organização.",
           "activity_title": "Atividade da plataforma",
           "activity_content": "Atividade recente da plataforma, incluindo gravações falhadas que precisam de atenção.",
-          "workload_title": "Carga de Trabalho dos Terapeutas",
+          "workload_title": "Carga de trabalho dos terapeutas",
           "workload_content": "Vê como os pacientes estão distribuídos entre os teus terapeutas."
         },
         "users": {
-          "list_title": "Diretório de Utilizadores",
+          "list_title": "Diretório de utilizadores",
           "list_content": "Todos os utilizadores da tua organização estão listados aqui.",
-          "roles_title": "Funções e Estado",
+          "roles_title": "Funções e estado",
           "roles_content": "A função e o estado de cada utilizador.",
-          "actions_title": "Ações de Utilizador",
+          "actions_title": "Ações de utilizador",
           "actions_content": "Edita funções, desativa utilizadores ou envia novos convites."
         },
         "settings": {
-          "org_title": "Informação da Organização",
+          "org_title": "Informação da organização",
           "org_content": "O nome e informação básica da tua organização.",
           "sections_title": "Definições",
           "sections_content": "Configura funcionalidades e preferências para a tua organização."
         },
         "analytics": {
-          "dashboard_title": "Painel de Análises",
+          "dashboard_title": "Painel de análises",
           "dashboard_content": "Dados de utilização e envolvimento da plataforma para compreenderes como a tua equipa usa a UpSpeech."
         }
       }
@@ -287,7 +287,7 @@
       "learn_more": "Saber mais",
       "dont_show_again": "Ocultar dicas",
       "recording_controls": {
-        "title": "Controlos de Gravação",
+        "title": "Controlos de gravação",
         "description": "Usa estes controlos para gravares a tua sessão de prática. Podes pausar, retomar e adicionar anotações enquanto praticas."
       }
     },
@@ -354,7 +354,7 @@
         "record_restart": "Recomeçar",
         "record_too_short": "Ficou muito curta. Tenta outra vez quando quiseres.",
         "listen_title": "Ouve-te.",
-        "listen_lead": "Autoobservação: só ouvir já faz parte do trabalho. Ninguém mais ouve isto por agora.",
+        "listen_lead": "Só ouvir já faz parte do trabalho. Ninguém mais ouve isto por agora.",
         "listen_feel_title": "Como te sentiste?",
         "listen_feel_easy": "Mais fácil do que esperava",
         "listen_feel_usual": "Normal",

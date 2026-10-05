@@ -1,5 +1,5 @@
 {
-  "page_title": "Gestão de Funcionalidades",
+  "page_title": "Gestão de funcionalidades",
   "page_description": "Gerir funcionalidades em todas as organizações (Apenas proprietário)",
   "intro": {
     "title": "Como funcionam as funcionalidades",
@@ -47,10 +47,10 @@
   },
   "system_tenant": {
     "title": "Funcionalidades globais",
-    "description": "Estás a visualizar a organização do sistema. Usa os controlos abaixo para definir substituições globais que afetam <strong>todas as organizações</strong> de uma só vez. Isto é útil para ativar ou desativar funcionalidades em toda a plataforma."
+    "description": "Estás a visualizar a organização do sistema. Usa os controlos abaixo para definir substituições globais que afetam <strong>todas as organizações</strong> de uma só vez."
   },
   "global_override": {
-    "title": "Substituição Global (afeta todas as organizações)",
+    "title": "Substituição global (afeta todas as organizações)",
     "no_override": "Sem substituição global - a usar definições por organização",
     "enabled_all": "ATIVADO globalmente para todas as organizações",
     "disabled_all": "DESATIVADO globalmente para todas as organizações",
@@ -67,8 +67,8 @@
     "global_override_description": "Esta funcionalidade está <strong>globalmente {{status}}</strong> para todas as organizações. As definições específicas da organização são ignoradas. Vai para a organização <strong>Sistema (Proprietários da Plataforma)</strong> para alterar a substituição global."
   },
   "success": {
-    "flag_enabled": "Funcionalidade \"{{key}}\" ativada com sucesso",
-    "flag_disabled": "Funcionalidade \"{{key}}\" desativada com sucesso",
+    "flag_enabled": "Funcionalidade \"{{key}}\" ativada",
+    "flag_disabled": "Funcionalidade \"{{key}}\" desativada",
     "global_override_cleared": "Substituição global removida",
     "global_enabled_all": "Ativado globalmente para todas as organizações",
     "global_disabled_all": "Desativado globalmente para todas as organizações"

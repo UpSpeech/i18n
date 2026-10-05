@@ -1,8 +1,8 @@
 {
-  "patient_progress": "Progresso do Paciente",
+  "patient_progress": "Progresso do paciente",
   "view_patient_metrics": "Visualizar métricas e tendências do paciente",
   "time_range": {
-    "label": "Intervalo de Tempo",
+    "label": "Intervalo de tempo",
     "7_days": "Últimos 7 dias",
     "30_days": "Últimos 30 dias",
     "90_days": "Últimos 90 dias",
@@ -11,10 +11,10 @@
     "all_time": "Todo o período"
   },
   "error": {
-    "message": "Ocorreu um problema ao carregar o progresso do paciente. Por favor, tenta novamente."
+    "message": "Não conseguimos carregar o progresso do paciente. Por favor, tenta novamente."
   },
   "learning_path": {
-    "title": "Progresso do Percurso de Aprendizagem",
+    "title": "Progresso do percurso de aprendizagem",
     "view_details": "Ver detalhes",
     "no_path_title": "Ainda não há percurso de aprendizagem",
     "no_path_description": "Este paciente ainda não tem percurso. Começa um de raiz, com um modelo ou com uma sugestão.",
@@ -34,7 +34,7 @@
       "observation": "Observação"
     }
   },
-  "back_to_patients": "Voltar aos Pacientes",
+  "back_to_patients": "Voltar aos pacientes",
   "habit": {
     "weekly_volume_title": "Esta semana",
     "sessions_this_week": "Práticas",

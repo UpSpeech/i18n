@@ -9,7 +9,7 @@
     "all_time": "All time"
   },
   "error": {
-    "message": "We encountered an issue loading the patient's progress. Please try again."
+    "message": "We could not load the patient's progress. Please try again."
   },
   "patient_progress": "Patient progress",
   "view_patient_metrics": "View patient metrics and trends",
@@ -34,7 +34,7 @@
       "observation": "Observation"
     }
   },
-  "back_to_patients": "Back to Patients",
+  "back_to_patients": "Back to patients",
   "habit": {
     "weekly_volume_title": "This week",
     "sessions_this_week": "Practices",

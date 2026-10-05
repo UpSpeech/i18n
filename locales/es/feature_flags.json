@@ -1,5 +1,5 @@
 {
-  "page_title": "Gestión de Funcionalidades",
+  "page_title": "Gestión de funcionalidades",
   "page_description": "Gestionar funcionalidades en todas las organizaciones (Solo propietario)",
   "intro": {
     "title": "Cómo funcionan las funcionalidades",
@@ -47,10 +47,10 @@
   },
   "system_tenant": {
     "title": "Funcionalidades globales",
-    "description": "Estás viendo la organización del sistema. Usa los controles a continuación para establecer anulaciones globales que afectan a <strong>todas las organizaciones</strong> a la vez. Esto es útil para activar o desactivar funcionalidades en toda la plataforma."
+    "description": "Estás viendo la organización del sistema. Usa los controles a continuación para establecer anulaciones globales que afectan a <strong>todas las organizaciones</strong> a la vez."
   },
   "global_override": {
-    "title": "Anulación Global (afecta a todas las organizaciones)",
+    "title": "Anulación global (afecta a todas las organizaciones)",
     "no_override": "Sin anulación global - usando configuración por organización",
     "enabled_all": "ACTIVADO globalmente para todas las organizaciones",
     "disabled_all": "DESACTIVADO globalmente para todas las organizaciones",
@@ -64,11 +64,11 @@
   },
   "warning": {
     "global_override_active": "Anulación global activa",
-    "global_override_description": "Esta funcionalidad está <strong>globalmente {{status}}</strong> para todas las organizaciones. Las configuraciones específicas de la organización se ignoran. Vaya a la organización <strong>Sistema (Propietarios de la Plataforma)</strong> para cambiar la anulación global."
+    "global_override_description": "Esta funcionalidad está <strong>globalmente {{status}}</strong> para todas las organizaciones. Las configuraciones específicas de la organización se ignoran. Ve a la organización <strong>Sistema (Propietarios de la Plataforma)</strong> para cambiar la anulación global."
   },
   "success": {
-    "flag_enabled": "Funcionalidad \"{{key}}\" activada con éxito",
-    "flag_disabled": "Funcionalidad \"{{key}}\" desactivada con éxito",
+    "flag_enabled": "Funcionalidad \"{{key}}\" activada",
+    "flag_disabled": "Funcionalidad \"{{key}}\" desactivada",
     "global_override_cleared": "Anulación global eliminada",
     "global_enabled_all": "Activado globalmente para todas las organizaciones",
     "global_disabled_all": "Desactivado globalmente para todas las organizaciones"

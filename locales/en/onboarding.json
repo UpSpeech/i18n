@@ -13,7 +13,7 @@
       },
       "therapist": {
         "title": "Welcome to UpSpeech!",
-        "description": "Manage your patients, generate AI-powered reports, and assign exercises all in one place."
+        "description": "Manage your patients, draft reports with AI, and assign exercises."
       },
       "admin": {
         "title": "Welcome to UpSpeech!",
@@ -26,25 +26,25 @@
       "video": {
         "admin": {
           "description": "Learn how to manage your organisation and customise your platform",
-          "title": "Getting Started as an Admin"
+          "title": "Getting started as an admin"
         },
         "default": {
           "description": "Learn how to use the platform",
-          "title": "Getting Started with UpSpeech"
+          "title": "Getting started with UpSpeech"
         },
         "patient": {
           "description": "How to complete the exercises your therapist sets, and record your practice",
-          "title": "Getting Started as a Patient"
+          "title": "Getting started as a patient"
         },
         "therapist": {
           "description": "Learn how to manage patients, generate reports, and assign exercises",
-          "title": "Getting Started as a Therapist"
+          "title": "Getting started as a therapist"
         }
       },
       "dont_show_again": "Don't show this again",
       "skip": "Skip for now",
       "get_started": "Get started",
-      "view_all_videos": "View all videos in Help Centre"
+      "view_all_videos": "View all videos in the help centre"
     },
     "checklist": {
       "title": "Your first steps",
@@ -170,11 +170,11 @@
           "stats_title": "Your progress",
           "stats_content": "Your completion rate and your streak, updated after each practice.",
           "weekly_title": "Weekly comparison",
-          "weekly_content": "See how you're doing compared to last week. Consistency is key!",
+          "weekly_content": "See how you're doing compared to last week.",
           "upcoming_title": "Upcoming exercises",
           "upcoming_content": "Your next exercises from your therapist are listed here.",
           "nav_journey_title": "My journey",
-          "nav_journey_content": "Follow your therapy journey step by step. Each milestone brings you closer to your goals.",
+          "nav_journey_content": "Follow your therapy journey step by step.",
           "nav_exercises_title": "Exercises",
           "nav_exercises_content": "Find your assignments, practice sessions, and history here."
         },
@@ -184,7 +184,7 @@
           "current_step_title": "Current step",
           "current_step_content": "This is where you are now. Tap to start working on it.",
           "indicators_title": "Progress indicators",
-          "indicators_content": "Green means complete. Keep going to open the next steps!"
+          "indicators_content": "Green means complete. Finishing a step opens the next one."
         },
         "exercise": {
           "list_title": "Your assignments",
@@ -223,7 +223,7 @@
           "patient_activity_content": "Every patient, least engaged first, with how much they practised in the window you pick."
         },
         "invite": {
-          "button_title": "Add a Patient",
+          "button_title": "Add a patient",
           "button_content": "Click here to add your first patient. They get an email invite to create their account.",
           "list_title": "Patient list",
           "list_content": "Your patients will appear here once they accept the invitation."
@@ -235,7 +235,7 @@
           "generate_content": "AI will draft the clinical report for you to review and edit."
         },
         "assign": {
-          "row_title": "Select a Patient",
+          "row_title": "Select a patient",
           "row_content": "Click a patient to open their profile and manage their learning path."
         },
         "library": {
@@ -354,7 +354,7 @@
         "record_restart": "Start again",
         "record_too_short": "That one was too short. Try again whenever you like.",
         "listen_title": "Listen to yourself.",
-        "listen_lead": "Self-observation: just listening is already part of the work. Nobody else hears this for now.",
+        "listen_lead": "Just listening is already part of the work. Nobody else hears this for now.",
         "listen_feel_title": "How did it feel?",
         "listen_feel_easy": "Easier than I expected",
         "listen_feel_usual": "Usual",

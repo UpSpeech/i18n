@@ -57,7 +57,7 @@
     },
     "generate_report": {
       "title": "Generating an AI report",
-      "description": "Upload a recording and generate an AI-powered therapy report"
+      "description": "Upload a recording and generate a therapy report with AI"
     },
     "edit_report": {
       "title": "Editing a report",
@@ -107,7 +107,7 @@
   "faq": {
     "what_is_upspeech": {
       "question": "What is UpSpeech and who is it for?",
-      "answer": "UpSpeech is a speech therapy platform built for therapists and their patients, with a focus on stuttering therapy. Therapists use it to assign exercises, manage learning paths, generate AI-powered clinical reports, and track patient progress. Patients use it to practise daily exercises, follow structured therapy journeys, and record practice sessions."
+      "answer": "UpSpeech is a speech therapy platform built for therapists and their patients, with a focus on stuttering therapy. Therapists use it to assign exercises, manage learning paths, generate clinical reports with AI, and track patient progress. Patients use it to practise daily exercises, follow structured learning paths, and record practice sessions."
     },
     "what_are_learning_paths": {
       "question": "What are learning paths?",
@@ -115,11 +115,11 @@
     },
     "learning_path_progression": {
       "question": "How does progression through a learning path work?",
-      "answer": "Patients practise each step as many times as they like, but only the therapist can mark a step as complete or skip it. When a step is completed, the next step opens automatically. Therapists can also reopen completed or skipped steps if needed. Progress is tracked per milestone and overall."
+      "answer": "Patients practise each step as many times as they like, but only the therapist can mark a step as complete or skip it. When the therapist completes a step, the next one opens. Therapists can also reopen completed or skipped steps if needed. UpSpeech tracks progress per milestone and overall."
     },
     "learning_path_access": {
       "question": "How do I access my learning path?",
-      "answer": "Patients can access their learning path from the My Journey page in the sidebar. Therapists can view and manage patient learning paths from the Patients page by selecting a patient and navigating to their learning path tab."
+      "answer": "Patients can access their learning path from the My Journey page in the sidebar. Therapists can view and manage patient learning paths from the Patients page by selecting a patient and opening their learning path tab."
     },
     "exercise_types": {
       "question": "What types of exercises are available?",
@@ -127,15 +127,15 @@
     },
     "complete_daily_exercise": {
       "question": "How do I complete a daily exercise?",
-      "answer": "Go to Assignments in the sidebar, select a pending exercise, and follow the instructions. Each assignment allows one completion per day. After completing an exercise, it counts toward your streak. Your therapist sets a deadline and target number of completions for each assignment."
+      "answer": "Go to Assignments in the sidebar, select a pending exercise, and follow the instructions. Each assignment allows one completion per day. A completed exercise counts toward your streak. Your therapist sets a deadline and target number of completions for each assignment."
     },
     "exercise_streaks": {
       "question": "How do exercise streaks work?",
-      "answer": "Streaks track consecutive days you complete exercises. If you miss a day, your streak resets to zero. Completing exercises consistently helps build good practice habits and shows your therapist your commitment to therapy."
+      "answer": "Streaks track consecutive days you complete exercises. If you miss a day, your streak resets to zero. Your therapist can see your streak."
     },
     "custom_exercises": {
       "question": "Can therapists create custom exercises?",
-      "answer": "Yes! Therapists can create custom mini games in the Exercise Library. You can set a technique, difficulty level (1-5), instructions, and upload reference videos."
+      "answer": "Yes. Therapists can create custom mini games in the Exercise Library. You can set a technique, difficulty level (1-5), instructions, and upload reference videos."
     },
     "exercise_assignment": {
       "question": "How do I assign exercises to patients?",
@@ -143,15 +143,15 @@
     },
     "what_are_scenarios": {
       "question": "What are AI practice scenarios?",
-      "answer": "AI scenarios let you practise real-life conversations in a safe environment. You can practise situations like job interviews, phone calls, ordering food, medical appointments, public speaking, and more. The AI responds naturally, helping you build confidence with your fluency techniques."
+      "answer": "AI scenarios let you practise real-life conversations in a safe environment. You can practise situations like job interviews, phone calls, ordering food, medical appointments, public speaking, and more. The AI responds naturally, and you use your fluency techniques as you go."
     },
     "how_scenarios_work": {
       "question": "How do AI scenarios work?",
-      "answer": "Your therapist assigns a scenario, or it may be part of your learning path. When you start the session, the AI opens a conversation based on the scenario. You respond by text or audio, and the conversation flows naturally. When you're done, the AI provides feedback and analysis of your session."
+      "answer": "Your therapist assigns a scenario, or it may be part of your learning path. When you start the session, the AI opens a conversation based on the scenario. You respond by text or audio. When you're done, the AI gives you feedback and an analysis of your session."
     },
     "report_generation": {
       "question": "How does AI report generation work?",
-      "answer": "Choose Generate a report and record your therapy session. The AI transcribes it and drafts a structured report, which you review and edit before exporting it as a PDF. To file the report under a patient, use Assign Report to Patient on the report page."
+      "answer": "Choose Generate a report and record your therapy session. The AI transcribes it and drafts a structured report, which you review and edit before exporting it as a PDF. To file the report under a patient, use Assign report to patient on the report page."
     },
     "report_types": {
       "question": "What report types are available?",
@@ -159,7 +159,7 @@
     },
     "edit_report": {
       "question": "Can I edit a report after it's generated?",
-      "answer": "Yes! You can edit any report field, add notes, and annotate specific sections. Changes save automatically. You can also export the final version as a PDF."
+      "answer": "Yes. You can edit any report field, add notes, and annotate specific sections. Changes save automatically. You can also export the final version as a PDF."
     },
     "report_templates": {
       "question": "How do report templates work?",
@@ -167,7 +167,7 @@
     },
     "disfluency_annotations": {
       "question": "What are disfluency annotations?",
-      "answer": "Disfluency annotations mark specific moments in a recording where speech disruptions occur. You can annotate repetitions, prolongations, blocks, escape behaviours, avoidance behaviours, and starter/postponement patterns. Each annotation is timestamped to the exact moment in the recording, helping track patterns over time."
+      "answer": "Disfluency annotations mark specific moments in a recording where speech disruptions occur. You can annotate repetitions, prolongations, blocks, escape behaviours, avoidance behaviours, and starter/postponement patterns. Each annotation is timestamped to the exact moment in the recording, so patterns show up over time."
     },
     "technique_annotations": {
       "question": "What are technique annotations?",
@@ -175,7 +175,7 @@
     },
     "edit_annotations": {
       "question": "Can I edit annotations after saving?",
-      "answer": "Yes! You can edit or delete any annotation you've created. Open the recording, find the annotation in the list, and use the edit or delete options. Changes are saved immediately."
+      "answer": "Yes. You can edit or delete any annotation you've created. Open the recording, find the annotation in the list, and use the edit or delete options. Changes save immediately."
     },
     "recording_reviews": {
       "question": "What is the Recording Reviews feature?",
@@ -183,7 +183,7 @@
     },
     "accept_invite": {
       "question": "How do I join my therapist's organisation?",
-      "answer": "Your therapist will send you an email invitation with a link. Click the link to create your account and you'll be automatically linked to your therapist. Invite links expire after 7 days, so make sure to sign up promptly."
+      "answer": "Your therapist will send you an email invitation with a link. Click the link to create your account and you'll be automatically linked to your therapist. Invite links expire after 7 days, so sign up before then."
     },
     "therapist_add_patient": {
       "question": "How do I add patients as a therapist?",
@@ -207,11 +207,11 @@
     },
     "change_language": {
       "question": "How do I change my language?",
-      "answer": "Go to Account Settings in the sidebar and select your preferred language. The platform supports English, Portuguese, and Spanish. Your choice is saved and applies across all pages."
+      "answer": "Go to Account Settings in the sidebar and select your preferred language. The platform is available in English, Portuguese, and Spanish. Your choice is saved and applies across all pages."
     },
     "dark_mode": {
       "question": "Does UpSpeech support dark mode?",
-      "answer": "Yes! You can toggle between light and dark mode in Account Settings. The platform also respects your system preference by default, so if your device is set to dark mode, UpSpeech will match automatically."
+      "answer": "Yes. You can switch between light and dark mode in Account Settings. By default, UpSpeech follows your device setting."
     },
     "user_roles": {
       "question": "What are the different user roles?",
@@ -219,15 +219,15 @@
     },
     "audio_formats": {
       "question": "What audio and video formats are supported?",
-      "answer": "The platform supports WAV, MP3, M4A, and other common audio formats for session recordings. You can also record audio directly in the browser. Video recordings (MP4, WebM) are supported for exercise reference videos and practice recordings."
+      "answer": "The platform accepts WAV, MP3, M4A, and other common audio formats for session recordings. You can also record audio directly in the browser. Video (MP4, WebM) works for exercise reference videos and practice recordings."
     },
     "transcription_process": {
       "question": "How does the transcription process work?",
-      "answer": "After uploading a session recording, AI speech recognition automatically transcribes your audio. The process takes a few minutes depending on the recording length. You can track the status (pending, processing, processed) on the report page. Once complete, the transcription is used to generate your therapy report."
+      "answer": "After uploading a session recording, AI speech recognition automatically transcribes your audio. The process takes a few minutes depending on the recording length. You can track the status (pending, processing, processed) on the report page. When it finishes, UpSpeech uses the transcription to generate your therapy report."
     },
     "support": {
       "question": "How do I contact support?",
-      "answer": "Email us at support@upspeech.com or use the Email Support button below. We typically respond within 24 hours."
+      "answer": "Email us at support@upspeech.com or use the Email support button below. We typically respond within 24 hours."
     },
     "expert_reviews": {
       "question": "What is the Recording Reviews feature?",

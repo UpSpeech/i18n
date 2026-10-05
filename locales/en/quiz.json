@@ -161,7 +161,7 @@
           "Because clinic practice does not matter",
           "To make the person anxious on purpose"
         ],
-        "explanation": "Skills have to generalize. Therapy works up a hierarchy of real situations so that gains carry over into everyday life."
+        "explanation": "Skills have to generalise. Therapy works up a hierarchy of real situations so that gains carry over into everyday life."
       },
       "q7": {
         "question": "Besides speech techniques, what else does good therapy address?",
@@ -171,7 +171,7 @@
           "Nothing, therapy is purely mechanical",
           "Thoughts and feelings, such as fear and avoidance"
         ],
-        "explanation": "Best-practice therapy also targets the internal side: reducing fear through desensitization, cutting avoidance, and self-disclosure, not just speech mechanics."
+        "explanation": "Best-practice therapy also targets the internal side: reducing fear through desensitization, cutting avoidance, and self-disclosure."
       }
     },
     "therapeutic_objectives": {
@@ -224,7 +224,7 @@
         "explanation": "No. Goals are individual and change over time. They are shaped around the specific situations that matter in each person's life."
       },
       "q7": {
-        "question": "Why does therapy for adults often address shame and social anxiety, not just speech?",
+        "question": "Why does therapy for adults often address shame and social anxiety as well as speech?",
         "options": [
           "Because years of stigma affect confidence",
           "Because shame is what causes stuttering",
@@ -305,12 +305,12 @@
     "see_results": "See results",
     "correct": "Correct!",
     "incorrect": "Not quite right",
-    "encouragement": "Take your time - this is about learning, not testing.",
+    "encouragement": "Take your time. This is about learning.",
     "results": {
       "title": "Quiz complete!",
       "score": "You got {{correct}} out of {{total}} correct",
-      "passing": "Great job! You've demonstrated understanding of this topic.",
-      "needs_review": "Let's review a bit more before moving on. Don't worry - learning takes time.",
+      "passing": "You know this topic well.",
+      "needs_review": "Let's review a bit more before moving on. Learning takes time.",
       "retry": "Try again",
       "continue": "Continue",
       "needs_review_warm": "A few topics to revisit. That is part of learning. Review the explanations below and try again when you're ready.",

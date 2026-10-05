@@ -171,7 +171,7 @@
           "Nada, la terapia es puramente mecánica",
           "Los pensamientos y las emociones, como el miedo"
         ],
-        "explanation": "La terapia basada en la evidencia también trabaja la parte interna: reducir el miedo mediante la desensibilización, disminuir la evitación y la autodivulgación, no solo la mecánica del habla."
+        "explanation": "La terapia basada en la evidencia también trabaja la parte interna: reducir el miedo mediante la desensibilización, disminuir la evitación y la autodivulgación."
       }
     },
     "therapeutic_objectives": {
@@ -224,7 +224,7 @@
         "explanation": "No. Los objetivos son individuales y cambian con el tiempo. Se adaptan a las situaciones concretas que importan en la vida de cada persona."
       },
       "q7": {
-        "question": "¿Por qué la terapia para adultos suele abordar la vergüenza y la ansiedad social, y no solo el habla?",
+        "question": "¿Por qué la terapia para adultos suele abordar la vergüenza y la ansiedad social, además del habla?",
         "options": [
           "Porque años de estigma afectan a la confianza",
           "Porque la vergüenza causa la tartamudez",
@@ -296,7 +296,7 @@
     }
   },
   "ui": {
-    "title": "Verificación de Conocimiento",
+    "title": "Verificación de conocimiento",
     "progress": "Pregunta {{current}} de {{total}}",
     "true": "Verdadero",
     "false": "Falso",
@@ -305,16 +305,16 @@
     "see_results": "Ver resultados",
     "correct": "¡Correcto!",
     "incorrect": "No está bien",
-    "encouragement": "Tómate tu tiempo - esto es sobre aprender, no evaluar.",
+    "encouragement": "Tómate tu tiempo. Esto es para aprender.",
     "results": {
-      "title": "¡Cuestionario Completo!",
+      "title": "¡Cuestionario completo!",
       "score": "Acertaste {{correct}} de {{total}}",
-      "passing": "¡Muy bien! Has demostrado comprensión de este tema.",
-      "needs_review": "Revisemos un poco más antes de continuar. No te preocupes - aprender toma tiempo.",
-      "retry": "Intentar de Nuevo",
+      "passing": "Entiendes bien este tema.",
+      "needs_review": "Revisemos un poco más antes de continuar. Aprender lleva tiempo.",
+      "retry": "Intentar de nuevo",
       "continue": "Continuar",
       "needs_review_warm": "Algunos temas para repasar, es parte del aprendizaje. Revisa las explicaciones a continuación e inténtalo de nuevo cuando estés listo.",
-      "review_title": "Revisión de Preguntas",
+      "review_title": "Revisión de preguntas",
       "title_passed": "¡Muy bien!",
       "title_review": "¡Casi lo logras!"
     },
