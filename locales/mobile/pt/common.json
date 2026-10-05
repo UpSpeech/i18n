@@ -1797,7 +1797,7 @@
   "today_rest_next": "A seguir: {{day}}",
   "caregiver_rehearsal_banner": "Só para ti. Nada é guardado nem enviado.",
   "caregiver_rehearsal_done": "Já experimentei",
-  "caregiver_rehearsal_done_hint": "Só para ti, nada é guardado. «Já experimentei» leva-te para a prática; voltar não.",
+  "caregiver_rehearsal_done_hint": "Nada do que fazes aqui é guardado ou enviado. Quando quiseres, «Já experimentei» passa para a prática em conjunto.",
   "caregiver_rehearsal_tag": "Experiência",
   "caregiver_rehearsal_start": "Experimentar",
   "caregiver_rehearsal_cue": "Nada é guardado nem enviado.",

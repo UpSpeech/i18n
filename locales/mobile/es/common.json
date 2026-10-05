@@ -1797,7 +1797,7 @@
   "today_rest_next": "Lo siguiente: {{day}}",
   "caregiver_rehearsal_banner": "Solo para ti. No se guarda ni se envía nada.",
   "caregiver_rehearsal_done": "Ya lo he probado",
-  "caregiver_rehearsal_done_hint": "Solo para ti, no se guarda nada. «Ya lo he probado» te lleva a la práctica; volver, no.",
+  "caregiver_rehearsal_done_hint": "Nada de lo que haces aquí se guarda ni se envía. Cuando quieras, «Ya lo he probado» pasa a la práctica juntos.",
   "caregiver_rehearsal_tag": "Prueba",
   "caregiver_rehearsal_start": "Probar",
   "caregiver_rehearsal_cue": "No se guarda ni se envía nada.",
