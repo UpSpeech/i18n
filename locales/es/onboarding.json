@@ -61,7 +61,7 @@
         "watch_video": "Conoce UpSpeech",
         "watch_video_description": "Un recorrido rápido para sentirte como en casa",
         "view_learning_path": "Ve lo que te espera",
-        "view_learning_path_description": "Explora tu camino terapéutico y objetivos",
+        "view_learning_path_description": "Explora tu recorrido terapéutico y objetivos",
         "complete_exercise": "Prueba tu primer ejercicio",
         "complete_exercise_description": "Mira lo que tu terapeuta ha preparado para ti",
         "record_session": "Practica y graba",
@@ -83,7 +83,7 @@
         "create_report": "Crea tu primer informe",
         "create_report_description": "Genera un informe clínico asistido por IA",
         "assign_exercise": "Asigna una ruta de aprendizaje",
-        "assign_exercise_description": "Define el camino terapéutico de tu paciente",
+        "assign_exercise_description": "Define el recorrido terapéutico de tu paciente",
         "explore_library": "Descubre ejercicios",
         "explore_library_description": "Encuentra juegos y tareas preparadas, y las imágenes que los acompañan"
       }
@@ -173,14 +173,14 @@
           "weekly_content": "Mira cómo vas en comparación con la semana pasada.",
           "upcoming_title": "Próximos ejercicios",
           "upcoming_content": "Tus próximos ejercicios del terapeuta están listados aquí.",
-          "nav_journey_title": "Mi camino",
-          "nav_journey_content": "Sigue tu camino terapéutico paso a paso.",
+          "nav_journey_title": "Mi recorrido",
+          "nav_journey_content": "Sigue tu recorrido terapéutico paso a paso.",
           "nav_exercises_title": "Ejercicios",
           "nav_exercises_content": "Encuentra tus tareas, sesiones de práctica e historial aquí."
         },
         "journey": {
           "progress_title": "Tu ruta terapéutica",
-          "progress_content": "Este es tu camino personalizado. Cada paso complementa el anterior.",
+          "progress_content": "Este es tu recorrido personalizado. Cada paso complementa el anterior.",
           "current_step_title": "Paso actual",
           "current_step_content": "Aquí es donde estás ahora. Toca para empezar.",
           "indicators_title": "Indicadores de progreso",
