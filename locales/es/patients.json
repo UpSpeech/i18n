@@ -202,7 +202,7 @@
     "subtitle": "Feedback que tu terapeuta dejó en tus prácticas recientes.",
     "empty_title": "El feedback llega después de una práctica",
     "empty_description": "Tu terapeuta deja notas después de ver una práctica.",
-    "empty_action": "Ir a tu viaje",
+    "empty_action": "Ir a tu camino",
     "error_title": "No se pudo cargar el feedback",
     "load_error": "Algo salió mal. Intenta recargar la página.",
     "view_step": "Ver paso",

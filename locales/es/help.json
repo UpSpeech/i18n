@@ -36,7 +36,7 @@
       "description": "Lo que puedes cambiar en tu cuenta, y dónde"
     },
     "my_journey": {
-      "title": "Tu jornada terapéutica",
+      "title": "Tu recorrido terapéutico",
       "description": "Cómo está montada tu ruta, y cómo abrir un paso"
     },
     "complete_exercise": {
@@ -119,7 +119,7 @@
     },
     "learning_path_access": {
       "question": "¿Cómo accedo a mi ruta de aprendizaje?",
-      "answer": "Los pacientes pueden acceder a su ruta de aprendizaje desde la página Mi Jornada en la barra lateral. Los terapeutas pueden ver y gestionar las rutas de aprendizaje de los pacientes desde la página Pacientes, seleccionando un paciente y abriendo la pestaña de ruta de aprendizaje."
+      "answer": "Los pacientes pueden acceder a su ruta de aprendizaje desde la página Mi recorrido en la barra lateral. Los terapeutas pueden ver y gestionar las rutas de aprendizaje de los pacientes desde la página Pacientes, seleccionando un paciente y abriendo la pestaña de ruta de aprendizaje."
     },
     "exercise_types": {
       "question": "¿Qué tipos de ejercicios están disponibles?",
