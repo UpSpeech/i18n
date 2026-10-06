@@ -424,6 +424,8 @@
     "note_saved": "Nota guardada",
     "previous_attempt": "Da última vez: {{result}}, {{date}}",
     "save_and_next": "Guardar e seguinte",
-    "position": "{{current}} de {{total}}"
+    "position": "{{current}} de {{total}}",
+    "this_week": "Esta semana",
+    "last_week": "Semana passada"
   }
 }
