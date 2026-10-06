@@ -1568,6 +1568,7 @@
   "caregiver_child_card_eyebrow": "Practising with",
   "caregiver_child_age_one": "{{count}} year old",
   "caregiver_child_age_other": "{{count}} years old",
+  "caregiver_plan_step": "{{child}}'s plan · Step {{current}} of {{total}}",
   "caregiver_relationship_parent": "Parent",
   "caregiver_relationship_guardian": "Guardian",
   "caregiver_relationship_grandparent": "Grandparent",
