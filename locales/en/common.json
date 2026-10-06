@@ -1118,6 +1118,11 @@
     "practice_days_title": "Which days suit you?",
     "practice_days_any": "Pick the days that suit you.",
     "practice_days_target": "{{chosen}} of {{target}} chosen. Your therapist asked for {{target}} a week.",
+    "practice_days_dialog_description_one": "Your therapist asked for 1 day a week. Pick the one that suits you.",
+    "practice_days_dialog_description_other": "Your therapist asked for {{count}} days a week. Pick the ones that suit you.",
+    "practice_days_submit": "Submit",
+    "practice_days_edit": "Edit chosen days",
+    "practice_days_choose": "Choose practice days",
     "practice_day_label": "Practise on {{day}}",
     "today": {
       "week_label": "This week",

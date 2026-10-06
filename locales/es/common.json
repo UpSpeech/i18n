@@ -1118,6 +1118,11 @@
     "practice_days_title": "¿Qué días te vienen bien?",
     "practice_days_any": "Elige los días que te vengan bien.",
     "practice_days_target": "{{chosen}} de {{target}} elegidos. Tu terapeuta pidió {{target}} por semana.",
+    "practice_days_dialog_description_one": "Tu terapeuta pidió 1 día por semana. Elige el que te venga bien.",
+    "practice_days_dialog_description_other": "Tu terapeuta pidió {{count}} días por semana. Elige los que te vengan bien.",
+    "practice_days_submit": "Confirmar",
+    "practice_days_edit": "Editar días elegidos",
+    "practice_days_choose": "Elegir días de práctica",
     "practice_day_label": "Practicar el {{day}}",
     "today": {
       "week_label": "Esta semana",
