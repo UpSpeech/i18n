@@ -1569,6 +1569,7 @@
   "caregiver_child_age_one": "{{count}} ano",
   "caregiver_child_age_other": "{{count}} anos",
   "caregiver_plan_step": "Plano de {{child}} · Passo {{current}} de {{total}}",
+  "caregiver_no_days": "Sem dias de prática planeados",
   "caregiver_relationship_parent": "Pai ou mãe",
   "caregiver_relationship_guardian": "Tutor",
   "caregiver_relationship_grandparent": "Avô ou avó",

@@ -1569,6 +1569,7 @@
   "caregiver_child_age_one": "{{count}} year old",
   "caregiver_child_age_other": "{{count}} years old",
   "caregiver_plan_step": "{{child}}'s plan · Step {{current}} of {{total}}",
+  "caregiver_no_days": "No practice days planned",
   "caregiver_relationship_parent": "Parent",
   "caregiver_relationship_guardian": "Guardian",
   "caregiver_relationship_grandparent": "Grandparent",
