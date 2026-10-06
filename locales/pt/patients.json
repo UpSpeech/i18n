@@ -6,7 +6,8 @@
     "learning_path": "Percurso de aprendizagem",
     "patients": "Pacientes",
     "invites": "Convites",
-    "assessments": "Avaliações"
+    "assessments": "Avaliações",
+    "history": "Histórico"
   },
   "invites_tab": {
     "no_invites": "Nenhum convite enviado",
@@ -394,5 +395,33 @@
     "unlink_body": "{{caregiver}} deixa de ver a prática de {{child}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
     "unlink_confirm": "Desassociar",
     "unlink_error": "Não foi possível desassociar. Tenta novamente."
+  },
+  "history": {
+    "empty_title": "Ainda sem prática",
+    "empty_description": "Tudo o que este paciente pratica aparece aqui, do mais recente para o mais antigo.",
+    "error": "Não foi possível carregar o histórico. Tenta novamente daqui a pouco.",
+    "all": "Tudo",
+    "recording": "Gravações",
+    "text": "Trabalho escrito",
+    "scenario": "Cenários",
+    "quiz": "Questionários",
+    "game_play": "Jogos",
+    "needs_note": "Precisa de nota",
+    "load_more": "Carregar mais",
+    "noted": "Com nota",
+    "kind_recording": "Gravação",
+    "kind_text": "Trabalho escrito",
+    "kind_scenario": "Cenário",
+    "kind_quiz": "Questionário",
+    "kind_game_play": "Jogo",
+    "quiz_score": "{{correct}} de {{total}} certas",
+    "quiz_percent": "{{score}}%",
+    "passed": "Aprovado",
+    "not_passed": "Não aprovado",
+    "patient_note": "Nota do paciente",
+    "no_patient_note": "Sem nota do paciente.",
+    "view_only": "As notas são para gravações, trabalho escrito e cenários.",
+    "save_note": "Guardar nota",
+    "note_saved": "Nota guardada"
   }
 }
