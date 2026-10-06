@@ -869,6 +869,8 @@
   "messages_composer_own": "Write to your therapist",
   "messages_composer_child": "Write to {{child}}'s therapist",
   "messages_composer_patient": "Write to {{name}}",
+  "undo": "Undo",
+  "path_step_moved_named": "Moved \"{{name}}\"",
   "messages_unread_count_one": "{{count}} unread message",
   "messages_unread_count_other": "{{count}} unread messages",
   "tab_ask": "Ask",

@@ -869,6 +869,8 @@
   "messages_composer_own": "Escreve ao teu terapeuta",
   "messages_composer_child": "Escreve ao terapeuta de {{child}}",
   "messages_composer_patient": "Escreve a {{name}}",
+  "undo": "Anular",
+  "path_step_moved_named": "\"{{name}}\" movido",
   "messages_unread_count_one": "{{count}} mensagem por ler",
   "messages_unread_count_other": "{{count}} mensagens por ler",
   "tab_ask": "Perguntar",

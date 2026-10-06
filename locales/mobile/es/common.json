@@ -869,6 +869,8 @@
   "messages_composer_own": "Escribe a tu terapeuta",
   "messages_composer_child": "Escribe al terapeuta de {{child}}",
   "messages_composer_patient": "Escribe a {{name}}",
+  "undo": "Deshacer",
+  "path_step_moved_named": "\"{{name}}\" movido",
   "messages_unread_count_one": "{{count}} mensaje sin leer",
   "messages_unread_count_other": "{{count}} mensajes sin leer",
   "tab_ask": "Preguntar",
