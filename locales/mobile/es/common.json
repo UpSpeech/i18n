@@ -1568,6 +1568,8 @@
   "caregiver_child_card_eyebrow": "Practicando con",
   "caregiver_child_age_one": "{{count}} año",
   "caregiver_child_age_other": "{{count}} años",
+  "caregiver_plan_step": "Plan de {{child}} · Paso {{current}} de {{total}}",
+  "caregiver_no_days": "Sin días de práctica planificados",
   "caregiver_relationship_parent": "Padre o madre",
   "caregiver_relationship_guardian": "Tutor",
   "caregiver_relationship_grandparent": "Abuelo o abuela",

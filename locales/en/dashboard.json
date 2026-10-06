@@ -293,6 +293,7 @@
   "caregiver": {
     "practising_with": "Practising with",
     "child_age": "{{name}}, {{count}} years old",
+    "plan_step": "{{child}}'s plan · Step {{current}} of {{total}}",
     "reminder_title": "Daily reminder",
     "reminder_change": "Change",
     "reminder_at_hour": "at {{hour}}:00",
