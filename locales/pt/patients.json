@@ -426,6 +426,10 @@
     "save_and_next": "Guardar e seguinte",
     "position": "{{current}} de {{total}}",
     "this_week": "Esta semana",
-    "last_week": "Semana passada"
+    "last_week": "Semana passada",
+    "up_from": "mais do que {{result}}",
+    "down_from": "menos do que {{result}}",
+    "same_as_before": "igual à última vez",
+    "every_attempt": "Todas as tentativas"
   }
 }
