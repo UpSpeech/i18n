@@ -420,8 +420,8 @@
     "not_passed": "No aprobado",
     "patient_note": "Nota del paciente",
     "no_patient_note": "Sin nota del paciente.",
-    "view_only": "Las notas son para grabaciones, trabajo escrito y escenarios.",
     "save_note": "Guardar nota",
-    "note_saved": "Nota guardada"
+    "note_saved": "Nota guardada",
+    "previous_attempt": "La última vez: {{result}}, {{date}}"
   }
 }

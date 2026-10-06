@@ -420,8 +420,8 @@
     "not_passed": "Not passed",
     "patient_note": "The patient's note",
     "no_patient_note": "No note from the patient.",
-    "view_only": "Notes are for recordings, written work and scenarios.",
     "save_note": "Save note",
-    "note_saved": "Note saved"
+    "note_saved": "Note saved",
+    "previous_attempt": "Last time: {{result}}, {{date}}"
   }
 }
