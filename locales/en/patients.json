@@ -422,6 +422,8 @@
     "no_patient_note": "No note from the patient.",
     "save_note": "Save note",
     "note_saved": "Note saved",
-    "previous_attempt": "Last time: {{result}}, {{date}}"
+    "previous_attempt": "Last time: {{result}}, {{date}}",
+    "save_and_next": "Save and next",
+    "position": "{{current}} of {{total}}"
   }
 }

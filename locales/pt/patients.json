@@ -422,6 +422,8 @@
     "no_patient_note": "Sem nota do paciente.",
     "save_note": "Guardar nota",
     "note_saved": "Nota guardada",
-    "previous_attempt": "Da última vez: {{result}}, {{date}}"
+    "previous_attempt": "Da última vez: {{result}}, {{date}}",
+    "save_and_next": "Guardar e seguinte",
+    "position": "{{current}} de {{total}}"
   }
 }
