@@ -237,7 +237,7 @@
   "journey_paused_child": "O terapeuta do {{name}} colocou a jornada dele em pausa. Uma pausa curta faz parte do processo.",
   "journey_paused_reassurance": "O teu progresso está guardado à tua espera.",
   "journey_current": "Atual",
-  "journey_step_occurrence": "Tentativa {{n}} de {{total}}",
+  "journey_step_occurrence": "Atribuição {{n}} de {{total}}",
   "journey_up_next": "A seguir",
   "journey_start_practice": "Iniciar prática",
   "journey_continue_practice": "Continuar prática",
