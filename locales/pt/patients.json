@@ -431,13 +431,6 @@
     "down_from": "menos do que {{result}}",
     "same_as_before": "igual à última vez",
     "every_attempt": "Todas as tentativas",
-    "position_to_note": "{{current}} de {{total}} por anotar",
-    "view": "Como listar o histórico",
-    "by_exercise": "Por exercício",
-    "newest_first": "Mais recentes primeiro",
-    "attempts": "{{count}} tentativas",
-    "to_note": "{{count}} por anotar",
-    "marks_label": "{{count}} tentativas, {{noted}} com nota, de {{from}} a {{to}}",
-    "scores_label": "Resultados, do mais antigo ao mais recente: {{scores}}"
+    "position_to_note": "{{current}} de {{total}} por anotar"
   }
 }
