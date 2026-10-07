@@ -1168,7 +1168,6 @@
         "coach_breath": "hhh",
         "coach_pause": "Pausar a gravação de {{therapist}}",
         "coach_play": "Ouvir a gravação de {{therapist}}",
-        "coach_player_label": "{{therapist}}, {{duration}}",
         "coach_recorded": "{{therapist}} gravou como deve soar",
         "coach_say_it": "Diz assim. O primeiro som começa como um sopro.",
         "coach_title": "Um minuto para ti, antes de {{child}} começar",

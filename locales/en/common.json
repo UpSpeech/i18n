@@ -1168,7 +1168,6 @@
         "coach_breath": "hhh",
         "coach_pause": "Pause {{therapist}}'s recording",
         "coach_play": "Play {{therapist}}'s recording",
-        "coach_player_label": "{{therapist}}, {{duration}}",
         "coach_recorded": "{{therapist}} recorded how it should sound",
         "coach_say_it": "Say it like this. The first sound starts as a breath.",
         "coach_title": "One minute for you, before {{child}} starts",
