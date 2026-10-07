@@ -1165,10 +1165,15 @@
       "practise_anyway": "Practicar de todos modos",
       "set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes",
       "redesign": {
-        "coach_breath": "hhh…",
+        "coach_breath": "hhh",
+        "coach_pause": "Pausar la grabación de {{therapist}}",
+        "coach_play": "Escuchar la grabación de {{therapist}}",
+        "coach_player_label": "{{therapist}}, {{duration}}",
         "coach_recorded": "{{therapist}} grabó cómo debe sonar",
         "coach_say_it": "Dilo así. El primer sonido empieza como un soplo.",
-        "coach_title": "Antes de empezar: un minuto para ti",
+        "coach_title": "Un minuto para ti, antes de que {{child}} empiece",
+        "coach_you": "Grabación",
+        "done_sticker": "La pegatina de hoy de {{child}} ya está.",
         "goal_almost": "Casi lo tienes",
         "goal_more": "{{count}} más",
         "goal_one_step": "Un paso",
@@ -1203,6 +1208,7 @@
         "week_none": "Aún sin práctica esta semana",
         "week_planned": "Previsto",
         "week_rest": "Descanso",
+        "week_target": "{{count}} min previstos",
         "week_today": "Hoy"
       }
     },
