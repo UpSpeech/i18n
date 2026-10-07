@@ -180,7 +180,12 @@
     "activity_axis_volume": "Practices in this window",
     "activity_quadrant_hint": "Top left is a patient who was practising and has stopped.",
     "today_queue": {
+      "active_days_one": "active {{count}} day ago",
+      "active_days_other": "active {{count}} days ago",
+      "active_today": "active today",
+      "active_yesterday": "active yesterday",
       "also_today": "Also today:",
+      "back": "Back to the list",
       "caught_up": "You are caught up",
       "check_in": "Check-in",
       "keyboard_hint": "J and K to move · Space to play · R to reply",
@@ -212,9 +217,6 @@
       "trend_better": "better",
       "trend_steady": "steady",
       "trend_worse": "worse",
-      "waiting_days_one": "{{count}} day",
-      "waiting_days_other": "{{count}} days",
-      "waiting_today": "today",
       "week_current_label": "{{done}} of {{planned}} so far this week",
       "week_past_label": "{{done}} of {{planned}}",
       "working_on": "Working on"

@@ -180,7 +180,12 @@
     "activity_axis_volume": "Prácticas en este periodo",
     "activity_quadrant_hint": "Arriba a la izquierda está quien practicaba y ha parado.",
     "today_queue": {
+      "active_days_one": "activo hace {{count}} día",
+      "active_days_other": "activo hace {{count}} días",
+      "active_today": "activo hoy",
+      "active_yesterday": "activo ayer",
       "also_today": "También hoy:",
+      "back": "Volver a la lista",
       "caught_up": "Estás al día",
       "check_in": "Evaluación semanal",
       "keyboard_hint": "J y K para moverte · Espacio para escuchar · R para responder",
@@ -212,9 +217,6 @@
       "trend_better": "mejor",
       "trend_steady": "estable",
       "trend_worse": "peor",
-      "waiting_days_one": "{{count}} día",
-      "waiting_days_other": "{{count}} días",
-      "waiting_today": "hoy",
       "week_current_label": "{{done}} de {{planned}} de momento esta semana",
       "week_past_label": "{{done}} de {{planned}}",
       "working_on": "Trabajando en"
