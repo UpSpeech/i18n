@@ -6,7 +6,8 @@
     "learning_path": "Ruta de aprendizaje",
     "patients": "Pacientes",
     "invites": "Invitaciones",
-    "assessments": "Evaluaciones"
+    "assessments": "Evaluaciones",
+    "history": "Historial"
   },
   "invites_tab": {
     "no_invites": "No se han enviado invitaciones",
@@ -394,5 +395,42 @@
     "unlink_body": "{{caregiver}} dejará de ver la práctica de {{child}} y ya no podrá dirigirla. No se borra nada y puedes enviar una nueva solicitud más tarde.",
     "unlink_confirm": "Desvincular",
     "unlink_error": "No pudimos desvincular. Inténtalo de nuevo."
+  },
+  "history": {
+    "empty_title": "Todavía sin práctica",
+    "empty_description": "Todo lo que practica este paciente aparece aquí, de lo más reciente a lo más antiguo.",
+    "error": "No se pudo cargar el historial. Inténtalo de nuevo en un momento.",
+    "all": "Todo",
+    "recording": "Grabaciones",
+    "text": "Trabajo escrito",
+    "scenario": "Escenarios",
+    "quiz": "Cuestionarios",
+    "game_play": "Juegos",
+    "needs_note": "Necesita nota",
+    "load_more": "Cargar más",
+    "noted": "Con nota",
+    "kind_recording": "Grabación",
+    "kind_text": "Trabajo escrito",
+    "kind_scenario": "Escenario",
+    "kind_quiz": "Cuestionario",
+    "kind_game_play": "Juego",
+    "quiz_score": "{{correct}} de {{total}} correctas",
+    "quiz_percent": "{{score}}%",
+    "passed": "Aprobado",
+    "not_passed": "No aprobado",
+    "patient_note": "Nota del paciente",
+    "no_patient_note": "Sin nota del paciente.",
+    "save_note": "Guardar nota",
+    "note_saved": "Nota guardada",
+    "previous_attempt": "La última vez: {{result}}, {{date}}",
+    "save_and_next": "Guardar y siguiente",
+    "position": "{{current}} de {{total}}",
+    "this_week": "Esta semana",
+    "last_week": "La semana pasada",
+    "up_from": "más que {{result}}",
+    "down_from": "menos que {{result}}",
+    "same_as_before": "igual que la última vez",
+    "every_attempt": "Todos los intentos",
+    "position_to_note": "{{current}} de {{total}} por anotar"
   }
 }

@@ -6,7 +6,8 @@
     "learning_path": "Learning path",
     "patients": "Patients",
     "invites": "Invites",
-    "assessments": "Assessments"
+    "assessments": "Assessments",
+    "history": "History"
   },
   "invites_tab": {
     "no_invites": "No invites sent",
@@ -394,5 +395,42 @@
     "unlink_body": "{{caregiver}} will stop seeing {{child}}'s practice and can no longer run it. Nothing is deleted, and you can send a new request later.",
     "unlink_confirm": "Unlink",
     "unlink_error": "We could not unlink. Try again."
+  },
+  "history": {
+    "empty_title": "Nothing practised yet",
+    "empty_description": "Everything this patient practises shows up here, newest first.",
+    "error": "The history didn't load. Try again in a moment.",
+    "all": "All",
+    "recording": "Recordings",
+    "text": "Written work",
+    "scenario": "Scenarios",
+    "quiz": "Quizzes",
+    "game_play": "Game plays",
+    "needs_note": "Needs a note",
+    "load_more": "Load more",
+    "noted": "Noted",
+    "kind_recording": "Recording",
+    "kind_text": "Written work",
+    "kind_scenario": "Scenario",
+    "kind_quiz": "Quiz",
+    "kind_game_play": "Game play",
+    "quiz_score": "{{correct}} of {{total}} correct",
+    "quiz_percent": "{{score}}%",
+    "passed": "Passed",
+    "not_passed": "Not passed",
+    "patient_note": "The patient's note",
+    "no_patient_note": "No note from the patient.",
+    "save_note": "Save note",
+    "note_saved": "Note saved",
+    "previous_attempt": "Last time: {{result}}, {{date}}",
+    "save_and_next": "Save and next",
+    "position": "{{current}} of {{total}}",
+    "this_week": "This week",
+    "last_week": "Last week",
+    "up_from": "up from {{result}}",
+    "down_from": "down from {{result}}",
+    "same_as_before": "same as last time",
+    "every_attempt": "Every attempt",
+    "position_to_note": "{{current}} of {{total}} to note"
   }
 }
