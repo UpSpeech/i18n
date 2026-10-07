@@ -210,7 +210,6 @@
       "region": "Patients who need you",
       "reply_label": "Reply to {{name}}",
       "reply_placeholder": "What you heard, and what to try next",
-      "scale_note": "Higher is worse",
       "see_all": "See all patients",
       "send_reply": "Send reply",
       "so_far": "so far",
