@@ -430,6 +430,14 @@
     "up_from": "up from {{result}}",
     "down_from": "down from {{result}}",
     "same_as_before": "same as last time",
-    "every_attempt": "Every attempt"
+    "every_attempt": "Every attempt",
+    "position_to_note": "{{current}} of {{total}} to note",
+    "view": "How to list the history",
+    "by_exercise": "By exercise",
+    "newest_first": "Newest first",
+    "attempts": "{{count}} attempts",
+    "to_note": "{{count}} to note",
+    "marks_label": "{{count}} attempts, {{noted}} with a note, {{from}} to {{to}}",
+    "scores_label": "Scores, oldest to newest: {{scores}}"
   }
 }
