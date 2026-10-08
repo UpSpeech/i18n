@@ -230,7 +230,9 @@
       "waiting": "Pendiente",
       "recordings_waiting_one": "{{count}} grabación por revisar",
       "recordings_waiting_other": "{{count}} grabaciones por revisar",
-      "nothing_waiting": "Nada por revisar"
+      "nothing_waiting": "Nada por revisar",
+      "no_activity_yet": "aún sin actividad",
+      "reason_no_practice_yet": "Aún sin práctica."
     }
   },
   "owner": {

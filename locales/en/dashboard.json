@@ -230,7 +230,9 @@
       "waiting": "Waiting",
       "recordings_waiting_one": "{{count}} recording to review",
       "recordings_waiting_other": "{{count}} recordings to review",
-      "nothing_waiting": "Nothing to review"
+      "nothing_waiting": "Nothing to review",
+      "no_activity_yet": "no activity yet",
+      "reason_no_practice_yet": "No practice yet."
     }
   },
   "owner": {

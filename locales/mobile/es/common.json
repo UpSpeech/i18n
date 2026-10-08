@@ -2491,5 +2491,11 @@
   "redesign_practise_anyway": "Practicar de todos modos",
   "redesign_about_minutes": "unos {{count}} min",
   "redesign_no_days": "Sin días de práctica planificados",
-  "redesign_aid_image_alt": "{{title}}, imagen"
+  "redesign_aid_image_alt": "{{title}}, imagen",
+  "redesign_see_child_path": "Ver el camino de {{child}}",
+  "redesign_overdue_line_one": "{{count}} ejercicio está atrasado.",
+  "redesign_overdue_line_other": "{{count}} ejercicios están atrasados.",
+  "redesign_overdue_open": "Abrirlos",
+  "today_queue_no_activity_yet": "aún sin actividad",
+  "today_queue_reason_no_practice_yet": "Aún sin práctica."
 }
