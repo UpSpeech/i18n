@@ -899,7 +899,7 @@
   "messages_starter_therapist_next": "Vemos o próximo passo em conjunto?",
   "messages_starter_caregiver_question": "Tenho uma dúvida sobre a prática {{child, de}}",
   "messages_starter_caregiver_went": "Foi assim a prática {{child, de}}",
-  "messages_starter_caregiver_hard": "Gostava de ajuda com um passo do {{child}}",
+  "messages_starter_caregiver_hard": "Gostava de ajuda com um passo {{child, de}}",
   "messages_starter_patient_question": "Tenho uma dúvida sobre a prática desta semana",
   "messages_starter_patient_went": "Foi assim a minha prática",
   "messages_starter_patient_hard": "Gostava de ajuda com um passo",
