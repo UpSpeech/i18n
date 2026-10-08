@@ -230,7 +230,9 @@
       "waiting": "À espera",
       "recordings_waiting_one": "{{count}} gravação para rever",
       "recordings_waiting_other": "{{count}} gravações para rever",
-      "nothing_waiting": "Nada para rever"
+      "nothing_waiting": "Nada para rever",
+      "no_activity_yet": "ainda sem atividade",
+      "reason_no_practice_yet": "Ainda sem prática."
     }
   },
   "owner": {
