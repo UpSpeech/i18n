@@ -1184,6 +1184,8 @@
         "practice_log": "Registo da prática",
         "record": "Gravar",
         "start_with": "Começar com {{child}}",
+        "step_number": "Passo {{current}}",
+        "step_number_minutes": "Passo {{current}} · cerca de {{count}} min",
         "step_of": "Passo {{current}} de {{total}}",
         "step_of_minutes": "Passo {{current}} de {{total}} · cerca de {{count}} min",
         "stickers_count": "{{done}} de {{planned}} autocolantes",
@@ -1262,6 +1264,9 @@
         "path_goals_title": "Os objetivos de {{child}}",
         "path_goal_of": "Objetivo {{current}} de {{total}}",
         "path_goal_steps": "{{done}} de {{total}} passos",
+        "path_goal_steps_done_zero": "Ainda sem passos concluídos",
+        "path_goal_steps_done_one": "{{count}} passo concluído",
+        "path_goal_steps_done_other": "{{count}} passos concluídos",
         "path_goal_done": "Feito",
         "path_goal_later": "Mais tarde"
       }
