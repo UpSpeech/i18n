@@ -188,7 +188,6 @@
       "back": "Back to the list",
       "caught_up": "You are caught up",
       "check_in": "Check-in",
-      "keyboard_hint": "J and K to move · Space to play · R to reply",
       "next_recording": "Skip to next recording",
       "no_check_in": "None yet",
       "open_profile": "Open profile",
@@ -222,15 +221,16 @@
       "week_current_label": "{{done}} of {{planned}} so far this week",
       "week_past_label": "{{done}} of {{planned}}",
       "working_on": "Working on",
-      "last_practice_days_one": "Last practice {{count}} day ago",
-      "last_practice_days_other": "Last practice {{count}} days ago",
       "no_path": "No path yet",
-      "no_practice_yet": "No practice yet",
       "path_steps": "Step {{done}} of {{total}} on their path",
-      "practised_today": "Practised today",
       "reply_failed": "The reply did not send",
       "reply_sent": "Reply sent",
-      "this_week_label": "This week"
+      "this_week_label": "This week",
+      "keyboard_hint_move": "J and K to move",
+      "waiting": "Waiting",
+      "recordings_waiting_one": "{{count}} recording to review",
+      "recordings_waiting_other": "{{count}} recordings to review",
+      "nothing_waiting": "Nothing to review"
     }
   },
   "owner": {

@@ -188,7 +188,6 @@
       "back": "Voltar à lista",
       "caught_up": "Está tudo em dia",
       "check_in": "Avaliação semanal",
-      "keyboard_hint": "J e K para mover · Espaço para ouvir · R para responder",
       "next_recording": "Passar à gravação seguinte",
       "no_check_in": "Ainda nenhuma",
       "open_profile": "Abrir perfil",
@@ -222,15 +221,16 @@
       "week_current_label": "{{done}} de {{planned}} até agora esta semana",
       "week_past_label": "{{done}} de {{planned}}",
       "working_on": "A trabalhar em",
-      "last_practice_days_one": "Última prática há {{count}} dia",
-      "last_practice_days_other": "Última prática há {{count}} dias",
       "no_path": "Ainda sem percurso",
-      "no_practice_yet": "Ainda sem prática",
       "path_steps": "Passo {{done}} de {{total}} no percurso",
-      "practised_today": "Praticou hoje",
       "reply_failed": "A resposta não foi enviada",
       "reply_sent": "Resposta enviada",
-      "this_week_label": "Esta semana"
+      "this_week_label": "Esta semana",
+      "keyboard_hint_move": "J e K para mudar",
+      "waiting": "À espera",
+      "recordings_waiting_one": "{{count}} gravação para rever",
+      "recordings_waiting_other": "{{count}} gravações para rever",
+      "nothing_waiting": "Nada para rever"
     }
   },
   "owner": {
