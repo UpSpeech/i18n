@@ -1249,7 +1249,8 @@
         "days_day_detail_other": "{{day}}: {{minutes}} min across {{count}} sessions",
         "overdue_line_one": "{{count}} exercise is overdue.",
         "overdue_line_other": "{{count}} exercises are overdue.",
-        "overdue_open": "Open them"
+        "overdue_open": "Open them",
+        "patient_meta_untitled": "{{weekday}} · about {{count}} min"
       }
     },
     "sharing": {

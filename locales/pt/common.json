@@ -1249,7 +1249,8 @@
         "days_day_detail_other": "{{day}}: {{minutes}} min em {{count}} sessões",
         "overdue_line_one": "{{count}} exercício está em atraso.",
         "overdue_line_other": "{{count}} exercícios estão em atraso.",
-        "overdue_open": "Abrir"
+        "overdue_open": "Abrir",
+        "patient_meta_untitled": "{{weekday}} · cerca de {{count}} min"
       }
     },
     "sharing": {
