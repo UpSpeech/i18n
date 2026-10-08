@@ -2333,7 +2333,7 @@
   "first_run_caregiver_send_note_label": "Uma nota para {{therapist, o}} · opcional",
   "first_run_caregiver_send_note_placeholder": "ex.: Depois da escola custa mais; de manhã é mais fácil.",
   "first_run_caregiver_send_hint": "Só {{therapist, o}} e {{clinic}} ouvem. {{clinic}} costuma responder em 2 dias úteis.",
-  "first_run_caregiver_send_confirm": "Enviar a {{therapist}}",
+  "first_run_caregiver_send_confirm": "Enviar {{therapist, a}}",
   "first_run_caregiver_send_skip": "Esta não",
   "first_run_caregiver_send_sent": "Enviada. {{therapist, o_start}} vai ouvir e responder aqui.",
   "first_run_caregiver_home_recording_title": "{{child, o_start}} e {{companion}}",
