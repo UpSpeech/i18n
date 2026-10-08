@@ -1199,8 +1199,6 @@
         "week_rest": "Descanso",
         "week_target": "{{count}} min previstos",
         "week_today": "Hoy",
-        "sticker_new": "Pegatina nueva para {{child}}: {{sticker}}",
-        "sticker_new_shiny": "¡{{child}} ha encontrado una pegatina brillante: {{sticker}}!",
         "sticker": {
           "star": "Estrellita",
           "frog": "Rana Saltarina",
@@ -1230,7 +1228,15 @@
         "coach_pause_aid": "Pausar {{title}}",
         "goal_your_step": "Tu paso ahora",
         "child_path_title": "El camino de {{child}}",
-        "child_path_here": "Ahora: {{step}}"
+        "child_path_here": "Ahora: {{step}}",
+        "sticker_got": "¡{{child}} ha conseguido: {{sticker}}!",
+        "sticker_got_shiny": "¡{{child}} ha conseguido una pegatina brillante: {{sticker}}!",
+        "stickers_all": "¡Todas las pegatinas de esta semana!",
+        "days_none_planned": "Aún sin días de práctica elegidos",
+        "days_done_of": "{{done}} de {{planned}} días esta semana",
+        "days_all_done": "Todos los días planificados hechos.",
+        "days_today": "Hoy es día de práctica.",
+        "week_not_done": "Sin hacer"
       }
     },
     "sharing": {

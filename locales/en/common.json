@@ -1199,8 +1199,6 @@
         "week_rest": "Rest",
         "week_target": "{{count}} min planned",
         "week_today": "Today",
-        "sticker_new": "New sticker for {{child}}: {{sticker}}",
-        "sticker_new_shiny": "{{child}} found a shiny sticker: {{sticker}}!",
         "sticker": {
           "star": "Starry",
           "frog": "Hoppy the frog",
@@ -1230,7 +1228,15 @@
         "coach_pause_aid": "Pause {{title}}",
         "goal_your_step": "Your step now",
         "child_path_title": "{{child}}'s path",
-        "child_path_here": "Now: {{step}}"
+        "child_path_here": "Now: {{step}}",
+        "sticker_got": "{{child}} got {{sticker}}!",
+        "sticker_got_shiny": "{{child}} got a shiny {{sticker}}!",
+        "stickers_all": "Every sticker this week!",
+        "days_none_planned": "No practice days chosen yet",
+        "days_done_of": "{{done}} of {{planned}} days this week",
+        "days_all_done": "Every planned day done.",
+        "days_today": "Today is a practice day.",
+        "week_not_done": "Not done"
       }
     },
     "sharing": {
