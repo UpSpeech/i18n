@@ -2497,5 +2497,18 @@
   "redesign_overdue_line_other": "{{count}} exercícios estão em atraso.",
   "redesign_overdue_open": "Abrir",
   "today_queue_no_activity_yet": "ainda sem atividade",
-  "today_queue_reason_no_practice_yet": "Ainda sem prática."
+  "today_queue_reason_no_practice_yet": "Ainda sem prática.",
+  "redesign_path_steps_title": "Os passos de {{goal}}",
+  "redesign_path_step_now": "O passo de {{child}} agora",
+  "redesign_path_step_next": "A seguir",
+  "redesign_path_step_finished": "Terminado a {{date}}",
+  "redesign_path_step_done": "Feito",
+  "redesign_path_step_sessions_one": "{{count}} sessão até agora",
+  "redesign_path_step_sessions_other": "{{count}} sessões até agora",
+  "redesign_path_step_days": "Dias de prática: {{days}}",
+  "redesign_path_goals_title": "Os objetivos de {{child}}",
+  "redesign_path_goal_of": "Objetivo {{current}} de {{total}}",
+  "redesign_path_goal_steps": "{{done}} de {{total}} passos",
+  "redesign_path_goal_done": "Feito",
+  "redesign_path_goal_later": "Mais tarde"
 }
