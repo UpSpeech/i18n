@@ -1184,6 +1184,8 @@
         "practice_log": "Practice log",
         "record": "Record",
         "start_with": "Start with {{child}}",
+        "step_number": "Step {{current}}",
+        "step_number_minutes": "Step {{current}} · about {{count}} min",
         "step_of": "Step {{current}} of {{total}}",
         "step_of_minutes": "Step {{current}} of {{total}} · about {{count}} min",
         "stickers_count": "{{done}} of {{planned}} stickers",
@@ -1262,6 +1264,9 @@
         "path_goals_title": "{{child}}'s goals",
         "path_goal_of": "Goal {{current}} of {{total}}",
         "path_goal_steps": "{{done}} of {{total}} steps",
+        "path_goal_steps_done_zero": "No steps done yet",
+        "path_goal_steps_done_one": "{{count}} step done",
+        "path_goal_steps_done_other": "{{count}} steps done",
         "path_goal_done": "Done",
         "path_goal_later": "Later"
       }

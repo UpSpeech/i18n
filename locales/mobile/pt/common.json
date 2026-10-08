@@ -2510,5 +2510,8 @@
   "redesign_path_goal_of": "Objetivo {{current}} de {{total}}",
   "redesign_path_goal_steps": "{{done}} de {{total}} passos",
   "redesign_path_goal_done": "Feito",
-  "redesign_path_goal_later": "Mais tarde"
+  "redesign_path_goal_later": "Mais tarde",
+  "redesign_path_goal_steps_done_zero": "Ainda sem passos concluídos",
+  "redesign_path_goal_steps_done_one": "{{count}} passo concluído",
+  "redesign_path_goal_steps_done_other": "{{count}} passos concluídos"
 }
