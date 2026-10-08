@@ -2497,5 +2497,18 @@
   "redesign_overdue_line_other": "{{count}} exercises are overdue.",
   "redesign_overdue_open": "Open them",
   "today_queue_no_activity_yet": "no activity yet",
-  "today_queue_reason_no_practice_yet": "No practice yet."
+  "today_queue_reason_no_practice_yet": "No practice yet.",
+  "redesign_path_steps_title": "The steps of {{goal}}",
+  "redesign_path_step_now": "{{child}}'s step now",
+  "redesign_path_step_next": "Next",
+  "redesign_path_step_finished": "Finished {{date}}",
+  "redesign_path_step_done": "Done",
+  "redesign_path_step_sessions_one": "{{count}} session so far",
+  "redesign_path_step_sessions_other": "{{count}} sessions so far",
+  "redesign_path_step_days": "Practises on {{days}}",
+  "redesign_path_goals_title": "{{child}}'s goals",
+  "redesign_path_goal_of": "Goal {{current}} of {{total}}",
+  "redesign_path_goal_steps": "{{done}} of {{total}} steps",
+  "redesign_path_goal_done": "Done",
+  "redesign_path_goal_later": "Later"
 }

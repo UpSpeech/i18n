@@ -1250,7 +1250,20 @@
         "overdue_line_one": "{{count}} ejercicio está atrasado.",
         "overdue_line_other": "{{count}} ejercicios están atrasados.",
         "overdue_open": "Abrirlos",
-        "patient_meta_untitled": "{{weekday}} · unos {{count}} min"
+        "patient_meta_untitled": "{{weekday}} · unos {{count}} min",
+        "path_steps_title": "Los pasos de {{goal}}",
+        "path_step_now": "El paso de {{child}} ahora",
+        "path_step_next": "Siguiente",
+        "path_step_finished": "Terminado el {{date}}",
+        "path_step_done": "Hecho",
+        "path_step_sessions_one": "{{count}} sesión hasta ahora",
+        "path_step_sessions_other": "{{count}} sesiones hasta ahora",
+        "path_step_days": "Practica los {{days}}",
+        "path_goals_title": "Los objetivos de {{child}}",
+        "path_goal_of": "Objetivo {{current}} de {{total}}",
+        "path_goal_steps": "{{done}} de {{total}} pasos",
+        "path_goal_done": "Hecho",
+        "path_goal_later": "Más adelante"
       }
     },
     "sharing": {

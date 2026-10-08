@@ -1250,7 +1250,20 @@
         "overdue_line_one": "{{count}} exercise is overdue.",
         "overdue_line_other": "{{count}} exercises are overdue.",
         "overdue_open": "Open them",
-        "patient_meta_untitled": "{{weekday}} · about {{count}} min"
+        "patient_meta_untitled": "{{weekday}} · about {{count}} min",
+        "path_steps_title": "The steps of {{goal}}",
+        "path_step_now": "{{child}}'s step now",
+        "path_step_next": "Next",
+        "path_step_finished": "Finished {{date}}",
+        "path_step_done": "Done",
+        "path_step_sessions_one": "{{count}} session so far",
+        "path_step_sessions_other": "{{count}} sessions so far",
+        "path_step_days": "Practises on {{days}}",
+        "path_goals_title": "{{child}}'s goals",
+        "path_goal_of": "Goal {{current}} of {{total}}",
+        "path_goal_steps": "{{done}} of {{total}} steps",
+        "path_goal_done": "Done",
+        "path_goal_later": "Later"
       }
     },
     "sharing": {
