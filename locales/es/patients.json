@@ -43,7 +43,8 @@
     "activity_help": "Cuántos días practicó el paciente en los últimos 7 días. Mide la actividad reciente.",
     "consistency_help": "Con qué regularidad practicó el paciente durante los últimos 30 días, contando el tiempo desde su última sesión. Los intervalos más cortos puntúan más alto, así que la puntuación baja mientras el paciente está parado.",
     "activity_days": "{{days}}/7 días",
-    "learning_path": "Ruta"
+    "learning_path": "Ruta",
+    "weekly_sessions": "Sesiones planificadas hechas"
   },
   "needs_attention": "Necesita atención",
   "actions": {
