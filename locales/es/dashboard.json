@@ -221,7 +221,16 @@
       "trend_worse": "peor",
       "week_current_label": "{{done}} de {{planned}} de momento esta semana",
       "week_past_label": "{{done}} de {{planned}}",
-      "working_on": "Trabajando en"
+      "working_on": "Trabajando en",
+      "last_practice_days_one": "Última práctica hace {{count}} día",
+      "last_practice_days_other": "Última práctica hace {{count}} días",
+      "no_path": "Aún sin recorrido",
+      "no_practice_yet": "Aún sin práctica",
+      "path_steps": "Paso {{done}} de {{total}} en su recorrido",
+      "practised_today": "Practicó hoy",
+      "reply_failed": "La respuesta no se envió",
+      "reply_sent": "Respuesta enviada",
+      "this_week_label": "Esta semana"
     }
   },
   "owner": {
