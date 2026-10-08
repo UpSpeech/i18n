@@ -1165,11 +1165,7 @@
       "practise_anyway": "Practise anyway",
       "set_days_in_settings": "Choose {{child}}'s practice days in Settings",
       "redesign": {
-        "coach_pause": "Pause {{therapist}}'s recording",
-        "coach_play": "Play {{therapist}}'s recording",
-        "coach_recorded": "{{therapist}} recorded how it should sound",
         "coach_title": "One minute for you, before {{child}} starts",
-        "coach_you": "Recording",
         "goal_almost": "Almost there",
         "goal_more": "{{count}} more",
         "goal_one_step": "One step",
@@ -1193,9 +1189,6 @@
         "stickers_count": "{{done}} of {{planned}} stickers",
         "stickers_none_planned": "No practice days chosen yet",
         "stickers_title": "{{child}}'s sticker chart",
-        "tip_first": "First",
-        "tip_if_hard": "If it's hard",
-        "tip_then": "Then",
         "today": "Today",
         "week_day_done": "Done",
         "week_done_of": "{{done}} of {{planned}} planned days done",
@@ -1231,7 +1224,13 @@
           "bear": "Bear",
           "fish": "Goldfish",
           "zap": "Zap"
-        }
+        },
+        "coach_from": "From {{therapist}}",
+        "coach_play_aid": "Play {{title}}",
+        "coach_pause_aid": "Pause {{title}}",
+        "goal_your_step": "Your step now",
+        "child_path_title": "{{child}}'s path",
+        "child_path_here": "Now: {{step}}"
       }
     },
     "sharing": {

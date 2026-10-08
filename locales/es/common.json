@@ -1165,11 +1165,7 @@
       "practise_anyway": "Practicar de todos modos",
       "set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes",
       "redesign": {
-        "coach_pause": "Pausar la grabación de {{therapist}}",
-        "coach_play": "Escuchar la grabación de {{therapist}}",
-        "coach_recorded": "{{therapist}} grabó cómo debe sonar",
         "coach_title": "Un minuto para ti, antes de que {{child}} empiece",
-        "coach_you": "Grabación",
         "goal_almost": "Casi lo tienes",
         "goal_more": "{{count}} más",
         "goal_one_step": "Un paso",
@@ -1193,9 +1189,6 @@
         "stickers_count": "{{done}} de {{planned}} pegatinas",
         "stickers_none_planned": "Aún no has elegido días de práctica",
         "stickers_title": "Las pegatinas de {{child}}",
-        "tip_first": "Primero",
-        "tip_if_hard": "Si cuesta",
-        "tip_then": "Después",
         "today": "Hoy",
         "week_day_done": "Hecho",
         "week_done_of": "{{done}} de {{planned}} días previstos hechos",
@@ -1231,7 +1224,13 @@
           "bear": "Oso",
           "fish": "Pececito dorado",
           "zap": "Rayo"
-        }
+        },
+        "coach_from": "De {{therapist}}",
+        "coach_play_aid": "Escuchar {{title}}",
+        "coach_pause_aid": "Pausar {{title}}",
+        "goal_your_step": "Tu paso ahora",
+        "child_path_title": "El camino de {{child}}",
+        "child_path_here": "Ahora: {{step}}"
       }
     },
     "sharing": {
