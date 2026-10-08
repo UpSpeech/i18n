@@ -221,7 +221,16 @@
       "trend_worse": "worse",
       "week_current_label": "{{done}} of {{planned}} so far this week",
       "week_past_label": "{{done}} of {{planned}}",
-      "working_on": "Working on"
+      "working_on": "Working on",
+      "last_practice_days_one": "Last practice {{count}} day ago",
+      "last_practice_days_other": "Last practice {{count}} days ago",
+      "no_path": "No path yet",
+      "no_practice_yet": "No practice yet",
+      "path_steps": "Step {{done}} of {{total}} on their path",
+      "practised_today": "Practised today",
+      "reply_failed": "The reply did not send",
+      "reply_sent": "Reply sent",
+      "this_week_label": "This week"
     }
   },
   "owner": {

@@ -1236,7 +1236,13 @@
         "days_done_of": "{{done}} de {{planned}} días esta semana",
         "days_all_done": "Todos los días planificados hechos.",
         "days_today": "Hoy es día de práctica.",
-        "week_not_done": "Sin hacer"
+        "week_not_done": "Sin hacer",
+        "goal_sessions_one": "{{count}} sesión hasta ahora",
+        "goal_sessions_other": "{{count}} sesiones hasta ahora",
+        "hear_example_first": "Escuchar el ejemplo primero",
+        "patient_goes_to": "Tu grabación va directamente a {{therapist}}.",
+        "patient_goes_to_therapist": "Tu grabación va directamente a tu terapeuta.",
+        "patient_meta_no_minutes": "{{weekday}} · {{title}}"
       }
     },
     "sharing": {
