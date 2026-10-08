@@ -223,7 +223,6 @@
       "week_past_label": "{{done}} of {{planned}}",
       "working_on": "Working on",
       "no_path": "No path yet",
-      "path_steps": "Step {{done}} of {{total}} on their path",
       "path_steps_done_zero": "No steps done yet on their path",
       "path_steps_done_one": "{{count}} step done on their path",
       "path_steps_done_other": "{{count}} steps done on their path",
