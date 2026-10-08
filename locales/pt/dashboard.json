@@ -223,7 +223,6 @@
       "week_past_label": "{{done}} de {{planned}}",
       "working_on": "A trabalhar em",
       "no_path": "Ainda sem percurso",
-      "path_steps": "Passo {{done}} de {{total}} no percurso",
       "path_steps_done_zero": "Ainda sem passos concluídos no percurso",
       "path_steps_done_one": "{{count}} passo concluído no percurso",
       "path_steps_done_other": "{{count}} passos concluídos no percurso",
