@@ -374,7 +374,7 @@
   "caregiver": {
     "practising_with": "A praticar com",
     "child_age": "{{name}}, {{count}} anos",
-    "plan_step": "Plano de {{child}} · Passo {{current}} de {{total}}",
+    "plan_step": "Plano {{child, de}} · Passo {{current}} de {{total}}",
     "reminder_title": "Lembrete diário",
     "reminder_change": "Mudar",
     "reminder_at_hour": "às {{hour}}:00",
@@ -384,8 +384,8 @@
     "reminder_bedtime": "Hora de dormir · 20:00",
     "reminder_save_failed": "Não conseguimos guardar o lembrete. Tenta de novo, ou muda-o mais tarde nas Definições.",
     "switch_label": "A acompanhar {{name}}",
-    "therapist_note_title": "De {{therapist}}",
-    "practice_title": "A prática de {{child}}",
+    "therapist_note_title": "{{therapist, de_start}}",
+    "practice_title": "A prática {{child, de}}",
     "practice_sessions_one": "sessão",
     "practice_sessions_other": "sessões",
     "practice_reported_by": "Registado por {{name}}"
@@ -395,17 +395,17 @@
     "me": "Eu",
     "child": "O meu filho ou filha",
     "children": "Os meus filhos",
-    "messages_child": "Conversa com o terapeuta de {{child}}",
+    "messages_child": "Conversa com o terapeuta {{child, de}}",
     "dashboard_me": "A tua prática",
     "signed_in_as": "Sessão iniciada como {{name}}",
     "back_to_me": "Voltar à minha prática"
   },
   "caregiver_requests": {
-    "title": "{{therapist}} quer adicionar {{child}} à tua conta",
-    "body": "Passarias a acompanhar a prática de {{child}} e a orientá-la com o teu próprio acesso. Ficas indicado como {{relationship}}.",
+    "title": "{{therapist, o_start}} quer adicionar {{child, o}} à tua conta",
+    "body": "Passarias a acompanhar a prática {{child, de}} e a orientá-la com o teu próprio acesso. Ficas indicado como {{relationship}}.",
     "accept": "Aceitar",
     "decline": "Recusar",
     "error": "Não foi possível responder a este pedido. Tenta novamente.",
-    "accepted": "{{child}} já está na tua conta."
+    "accepted": "{{child, o_start}} já está na tua conta."
   }
 }

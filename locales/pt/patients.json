@@ -213,7 +213,7 @@
     "view_step": "Ver passo",
     "message_from": "Mensagem de {{name}}",
     "first_recording": "A tua primeira gravação",
-    "first_recording_child": "A primeira gravação de {{child}}"
+    "first_recording_child": "A primeira gravação {{child, de}}"
   },
   "scenarioSettings": {
     "title": "Definições de cenário",
@@ -307,9 +307,9 @@
   "guardian_responsibility_pending": "Ainda não aceite",
   "intake": {
     "gate": {
-      "title": "Umas perguntas sobre {{child}}",
+      "title": "Umas perguntas sobre {{child, o}}",
       "title_self": "Umas perguntas antes da primeira sessão",
-      "subtitle_child": "{{therapist}} lê as tuas respostas antes da primeira sessão.",
+      "subtitle_child": "{{therapist, o_start}} lê as tuas respostas antes da primeira sessão.",
       "subtitle_self": "O teu terapeuta lê as tuas respostas antes da primeira sessão.",
       "progress": "Criança {{current}} de {{total}}"
     },
@@ -392,8 +392,8 @@
     "heading": "Família",
     "linked": "Associado",
     "unlink": "Desassociar",
-    "unlink_title": "Desassociar {{caregiver}} de {{child}}?",
-    "unlink_body": "{{caregiver}} deixa de ver a prática de {{child}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
+    "unlink_title": "Desassociar {{caregiver}} {{child, de}}?",
+    "unlink_body": "{{caregiver}} deixa de ver a prática {{child, de}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
     "unlink_confirm": "Desassociar",
     "unlink_error": "Não foi possível desassociar. Tenta novamente."
   },
