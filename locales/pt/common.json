@@ -1199,8 +1199,6 @@
         "week_rest": "Descanso",
         "week_target": "{{count}} min planeados",
         "week_today": "Hoje",
-        "sticker_new": "Autocolante novo para {{child}}: {{sticker}}",
-        "sticker_new_shiny": "{{child}} encontrou um autocolante brilhante: {{sticker}}!",
         "sticker": {
           "star": "Estrelinha",
           "frog": "Sapo Saltitão",
@@ -1230,7 +1228,15 @@
         "coach_pause_aid": "Pausar {{title}}",
         "goal_your_step": "O teu passo agora",
         "child_path_title": "O caminho de {{child}}",
-        "child_path_here": "Agora: {{step}}"
+        "child_path_here": "Agora: {{step}}",
+        "sticker_got": "{{child}} ganhou: {{sticker}}!",
+        "sticker_got_shiny": "{{child}} ganhou um autocolante brilhante: {{sticker}}!",
+        "stickers_all": "Todos os autocolantes desta semana!",
+        "days_none_planned": "Ainda sem dias de prática escolhidos",
+        "days_done_of": "{{done}} de {{planned}} dias esta semana",
+        "days_all_done": "Todos os dias planeados feitos.",
+        "days_today": "Hoje é dia de prática.",
+        "week_not_done": "Não feito"
       }
     },
     "sharing": {
