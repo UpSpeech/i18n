@@ -1242,7 +1242,14 @@
         "hear_example_first": "Escuchar el ejemplo primero",
         "patient_goes_to": "Tu grabación va directamente a {{therapist}}.",
         "patient_goes_to_therapist": "Tu grabación va directamente a tu terapeuta.",
-        "patient_meta_no_minutes": "{{weekday}} · {{title}}"
+        "patient_meta_no_minutes": "{{weekday}} · {{title}}",
+        "see_child_path": "Ver el camino de {{child}}",
+        "days_open_day": "Lo que hiciste el {{day}}",
+        "days_day_detail_one": "{{day}}: {{minutes}} min en {{count}} sesión",
+        "days_day_detail_other": "{{day}}: {{minutes}} min en {{count}} sesiones",
+        "overdue_line_one": "{{count}} ejercicio está atrasado.",
+        "overdue_line_other": "{{count}} ejercicios están atrasados.",
+        "overdue_open": "Abrirlos"
       }
     },
     "sharing": {
