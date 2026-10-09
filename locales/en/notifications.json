@@ -75,6 +75,7 @@
     "quiet_hours_end": "End",
     "in_app": "In-app",
     "email": "Email",
+    "push": "Phone",
     "saved": "Notification settings saved",
     "save": "Save settings",
     "type_labels": {

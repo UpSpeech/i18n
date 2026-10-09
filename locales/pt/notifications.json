@@ -75,6 +75,7 @@
     "quiet_hours_end": "Fim",
     "in_app": "Na app",
     "email": "Email",
+    "push": "Telemóvel",
     "saved": "Definições de notificações guardadas",
     "save": "Guardar definições",
     "type_labels": {
