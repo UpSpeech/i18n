@@ -78,16 +78,13 @@
     "state": {
       "message": "Message your therapist",
       "message_named": "Message {{therapist}}",
-      "paused_eyebrow": "Plan paused",
       "paused_title": "Your therapist has paused your plan",
       "paused_title_named": "{{therapist}} has paused your plan",
       "paused_goal": "Practice on {{goal}} is paused for now. Your progress is saved.",
       "paused_body": "Practice is paused for now. Your progress is saved.",
-      "finished_eyebrow": "Plan finished",
       "finished_title": "You finished your plan",
       "finished_goals": "You completed: {{goals}}",
       "finished_goals_more": "You completed: {{goals}} and {{count}} more",
-      "finished_body": "You completed every step your therapist set.",
       "see_journey": "See your journey",
       "empty_title": "Your plan is on its way",
       "empty_body": "Your therapist is putting your steps together. They show up here as soon as they are ready."
