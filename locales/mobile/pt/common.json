@@ -840,7 +840,7 @@
   "notification_type_inactive_patient": "Paciente inativo",
   "notification_type_missing_feedback": "Feedback pendente",
   "notification_type_practice_reminder": "Lembrete de prática",
-  "notification_type_therapist_feedback": "Feedback do terapeuta",
+  "notification_type_therapist_feedback": "Feedback recebido",
   "notification_type_milestone_unlocked": "Marco desbloqueado",
   "notification_type_goal_completed": "Objetivo concluído",
   "notification_type_path_work_assigned": "Nova prática",
