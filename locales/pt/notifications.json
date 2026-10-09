@@ -76,6 +76,7 @@
     "in_app": "Na app",
     "email": "Email",
     "push": "Telemóvel",
+    "push_off_note": "As notificações no telemóvel estão desligadas na tua conta, por isso estes interruptores só funcionam depois de as ligares na app.",
     "saved": "Definições de notificações guardadas",
     "save": "Guardar definições",
     "type_labels": {

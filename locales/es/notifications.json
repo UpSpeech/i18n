@@ -76,6 +76,7 @@
     "in_app": "En app",
     "email": "Email",
     "push": "Móvil",
+    "push_off_note": "Las notificaciones en el móvil están desactivadas en tu cuenta, así que estos interruptores no tienen efecto hasta que las actives en la app.",
     "saved": "Configuración de notificaciones guardada",
     "save": "Guardar configuración",
     "type_labels": {
