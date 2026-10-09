@@ -25,9 +25,10 @@
     "therapist_feedback": "{{therapist_name}} dejó comentarios en tu envío de {{exercise_name}}",
     "therapist_feedback_batch": "{{therapist_name}} dejó comentarios sobre tu práctica reciente",
     "milestone_unlocked": "Llegaste al Hito {{milestone_position}}. Tu próximo paso ya está disponible.",
-    "goal_completed": "Has terminado {{goal_title}}. Tu siguiente paso está listo.",
+    "goal_completed": "Has terminado {{goal_title}}.",
     "path_work_assigned": "{{therapist_name}} ha añadido nueva práctica a {{goal_title}}.",
-    "direct_message": "Tienes un mensaje nuevo"
+    "direct_message": "Tienes un mensaje nuevo",
+    "unknown": "Tienes una notificación nueva"
   },
   "filters": {
     "all_types": "Todas",
@@ -74,6 +75,8 @@
     "quiet_hours_end": "Fin",
     "in_app": "En app",
     "email": "Email",
+    "push": "Móvil",
+    "push_off_note": "Las notificaciones en el móvil están desactivadas en tu cuenta, así que estos interruptores no tienen efecto hasta que las actives en la app.",
     "saved": "Configuración de notificaciones guardada",
     "save": "Guardar configuración",
     "type_labels": {

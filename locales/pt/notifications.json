@@ -9,7 +9,7 @@
   "empty_unread": "Sem notificações por ler",
   "empty_filtered": "Sem notificações de {{type}}",
   "all_caught_up": "Está tudo em dia!",
-  "empty_what": "Aqui aparecem os comentários, mensagens e lembretes do teu terapeuta.",
+  "empty_what": "Aqui aparecem os comentários, mensagens e lembretes que recebes.",
   "actions": {
     "practice_now": "Praticar agora",
     "read_feedback": "Ler o comentário",
@@ -25,9 +25,10 @@
     "therapist_feedback": "{{therapist_name}} deixou feedback na tua submissão de {{exercise_name}}",
     "therapist_feedback_batch": "{{therapist_name}} deixou feedback sobre o teu treino recente",
     "milestone_unlocked": "Chegaste ao Marco {{milestone_position}}. O teu próximo passo já está disponível.",
-    "goal_completed": "Terminaste {{goal_title}}. O teu próximo passo está pronto.",
+    "goal_completed": "Terminaste {{goal_title}}.",
     "path_work_assigned": "{{therapist_name}} acrescentou nova prática a {{goal_title}}.",
-    "direct_message": "Tens uma nova mensagem"
+    "direct_message": "Tens uma nova mensagem",
+    "unknown": "Tens uma notificação nova"
   },
   "filters": {
     "all_types": "Todas",
@@ -74,6 +75,8 @@
     "quiet_hours_end": "Fim",
     "in_app": "Na app",
     "email": "Email",
+    "push": "Telemóvel",
+    "push_off_note": "As notificações no telemóvel estão desligadas na tua conta, por isso estes interruptores só funcionam depois de as ligares na app.",
     "saved": "Definições de notificações guardadas",
     "save": "Guardar definições",
     "type_labels": {
@@ -83,14 +86,14 @@
       "missing_feedback_desc": "Quando um paciente tem gravações à espera de revisão",
       "practice_reminder": "Lembretes de prática",
       "practice_reminder_desc": "Lembretes para completar os exercícios diários",
-      "therapist_feedback": "Feedback do terapeuta",
-      "therapist_feedback_desc": "Quando o teu terapeuta dá feedback nas tuas submissões",
+      "therapist_feedback": "Feedback recebido",
+      "therapist_feedback_desc": "Quando recebes feedback nas tuas submissões",
       "milestone_unlocked": "Marco desbloqueado",
       "milestone_unlocked_desc": "Quando completas um marco e um novo é desbloqueado",
       "goal_completed": "Objetivo concluído",
       "goal_completed_desc": "Quando terminas todos os passos de um objetivo",
       "path_work_assigned": "Nova prática",
-      "path_work_assigned_desc": "Quando o teu terapeuta acrescenta um passo ao teu plano",
+      "path_work_assigned_desc": "Quando o teu plano ganha um passo novo",
       "direct_message": "Mensagens diretas",
       "direct_message_desc": "Quando alguém te envia uma nova mensagem"
     }

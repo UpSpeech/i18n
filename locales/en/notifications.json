@@ -25,9 +25,10 @@
     "therapist_feedback": "{{therapist_name}} left feedback on your {{exercise_name}} submission",
     "therapist_feedback_batch": "{{therapist_name}} left feedback on your recent practice",
     "milestone_unlocked": "You reached Milestone {{milestone_position}}. Your next step is ready.",
-    "goal_completed": "You finished {{goal_title}}. Your next step is ready.",
+    "goal_completed": "You finished {{goal_title}}.",
     "path_work_assigned": "{{therapist_name}} added new practice to {{goal_title}}.",
-    "direct_message": "You have a new message"
+    "direct_message": "You have a new message",
+    "unknown": "You have a new notification"
   },
   "filters": {
     "all_types": "All",
@@ -74,6 +75,8 @@
     "quiet_hours_end": "End",
     "in_app": "In-app",
     "email": "Email",
+    "push": "Phone",
+    "push_off_note": "Phone notifications are turned off for your account, so these switches have no effect until you turn them on in the app.",
     "saved": "Notification settings saved",
     "save": "Save settings",
     "type_labels": {
