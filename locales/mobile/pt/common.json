@@ -2435,6 +2435,8 @@
   "redesign_rest_title": "Nada planeado para hoje",
   "redesign_practise_again": "Praticar outra vez",
   "redesign_practise_anyway": "Praticar na mesma",
+  "patient_day_done_title": "Hoje já está feito",
+  "patient_day_rest_title": "Hoje é dia de descanso",
   "redesign_about_minutes": "cerca de {{count}} min",
   "redesign_aid_image_alt": "{{title}}, imagem",
   "redesign_see_child_path": "Ver o caminho de {{child}}",

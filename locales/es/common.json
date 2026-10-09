@@ -1196,6 +1196,8 @@
         "hear_example_first": "Escuchar el ejemplo primero",
         "patient_goes_to": "Tu grabación va directamente a {{therapist}}.",
         "patient_goes_to_therapist": "Tu grabación va directamente a tu terapeuta.",
+        "patient_done_title": "Por hoy has terminado",
+        "patient_rest_title": "Hoy es día de descanso",
         "patient_meta_no_minutes": "{{weekday}} · {{title}}",
         "see_child_path": "Ver el camino de {{child}}",
         "overdue_line_one": "{{count}} ejercicio está atrasado.",
