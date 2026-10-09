@@ -85,8 +85,8 @@
       "paused_body": "Your progress is saved and waiting for you.",
       "finished_eyebrow": "Plan complete",
       "finished_title": "You finished your plan",
-      "finished_goals_one": "You completed your goal.",
-      "finished_goals_other": "You completed all {{count}} of your goals.",
+      "finished_goals": "You completed: {{goals}}",
+      "finished_goals_more": "You completed: {{goals}} and {{count}} more",
       "finished_body": "You completed every step your therapist set.",
       "see_journey": "See your journey"
     }

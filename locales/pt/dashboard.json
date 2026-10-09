@@ -85,8 +85,8 @@
       "paused_body": "O teu progresso está guardado à tua espera.",
       "finished_eyebrow": "Plano concluído",
       "finished_title": "Concluíste o teu plano",
-      "finished_goals_one": "Concluíste o teu objetivo.",
-      "finished_goals_other": "Concluíste todos os {{count}} objetivos.",
+      "finished_goals": "Concluíste: {{goals}}",
+      "finished_goals_more": "Concluíste: {{goals}} e mais {{count}}",
       "finished_body": "Concluíste todos os passos que o teu terapeuta definiu.",
       "see_journey": "Ver o teu percurso"
     }
