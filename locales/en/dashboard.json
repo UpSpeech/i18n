@@ -206,7 +206,7 @@
       "path_steps_done_one": "{{count}} step done on their path",
       "path_steps_done_other": "{{count}} steps done on their path",
       "reply_failed": "The reply did not send",
-      "reply_sent": "Reply sent",
+      "reply_sent": "Message sent",
       "this_week_label": "This week",
       "keyboard_hint_move": "J and K to move",
       "waiting": "Waiting",

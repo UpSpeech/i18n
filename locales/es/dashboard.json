@@ -206,7 +206,7 @@
       "path_steps_done_one": "{{count}} paso completado en su recorrido",
       "path_steps_done_other": "{{count}} pasos completados en su recorrido",
       "reply_failed": "La respuesta no se envió",
-      "reply_sent": "Respuesta enviada",
+      "reply_sent": "Mensaje enviado",
       "this_week_label": "Esta semana",
       "keyboard_hint_move": "J y K para moverte",
       "waiting": "Pendiente",
