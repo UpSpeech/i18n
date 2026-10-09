@@ -2467,5 +2467,16 @@
   "patient_home_finished_meta": "Plan finished",
   "patient_home_finished_title": "You finished your plan",
   "patient_home_finished_goals": "You completed: {{goals}}",
-  "patient_home_finished_action": "See your journey"
+  "patient_home_finished_action": "See your journey",
+  "caregiver_home_paused_title": "A short break",
+  "caregiver_home_failed_title": "The plan did not load",
+  "caregiver_home_failed_hint": "Check your connection, then try again.",
+  "caregiver_home_no_child_title": "No child linked yet",
+  "caregiver_home_no_child_hint": "Once a therapist links a child to your account, their practice appears here.",
+  "caregiver_home_no_child_action": "Open settings",
+  "caregiver_therapist_note_row_title": "Message from your therapist",
+  "redesign_stickers_peek_next": "Practise on a chosen day to win {{sticker}}",
+  "redesign_stickers_peek_choose": "Choose practice days to win {{sticker}}",
+  "redesign_stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
+  "redesign_stickers_peek_label": "Stickers to win: {{list}}"
 }

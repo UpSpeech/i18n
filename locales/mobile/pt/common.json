@@ -2467,5 +2467,16 @@
   "patient_home_finished_meta": "Plano concluído",
   "patient_home_finished_title": "Concluíste o teu plano",
   "patient_home_finished_goals": "Concluíste: {{goals}}",
-  "patient_home_finished_action": "Ver a tua jornada"
+  "patient_home_finished_action": "Ver a tua jornada",
+  "caregiver_home_paused_title": "Uma pequena pausa",
+  "caregiver_home_failed_title": "O plano não carregou",
+  "caregiver_home_failed_hint": "Verifica a ligação e tenta outra vez.",
+  "caregiver_home_no_child_title": "Ainda não há nenhuma criança associada",
+  "caregiver_home_no_child_hint": "Quando um terapeuta associar uma criança à tua conta, a prática dela aparece aqui.",
+  "caregiver_home_no_child_action": "Abrir definições",
+  "caregiver_therapist_note_row_title": "Mensagem do teu terapeuta",
+  "redesign_stickers_peek_next": "Pratica num dia escolhido para ganhar {{sticker}}",
+  "redesign_stickers_peek_choose": "Escolhe os dias de prática para ganhar {{sticker}}",
+  "redesign_stickers_peek_therapist": "Os autocolantes começam quando o terapeuta de {{child}} definir os dias de prática",
+  "redesign_stickers_peek_label": "Autocolantes para ganhar: {{list}}"
 }

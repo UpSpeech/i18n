@@ -2467,5 +2467,16 @@
   "patient_home_finished_meta": "Plan terminado",
   "patient_home_finished_title": "Has terminado tu plan",
   "patient_home_finished_goals": "Has completado: {{goals}}",
-  "patient_home_finished_action": "Ver tu camino"
+  "patient_home_finished_action": "Ver tu camino",
+  "caregiver_home_paused_title": "Una pausa breve",
+  "caregiver_home_failed_title": "El plan no cargó",
+  "caregiver_home_failed_hint": "Comprueba tu conexión e inténtalo de nuevo.",
+  "caregiver_home_no_child_title": "Todavía no hay ningún niño vinculado",
+  "caregiver_home_no_child_hint": "Cuando un terapeuta vincule a un niño a tu cuenta, su práctica aparecerá aquí.",
+  "caregiver_home_no_child_action": "Abrir ajustes",
+  "caregiver_therapist_note_row_title": "Mensaje de tu terapeuta",
+  "redesign_stickers_peek_next": "Practica un día elegido para ganar {{sticker}}",
+  "redesign_stickers_peek_choose": "Elige los días de práctica para ganar {{sticker}}",
+  "redesign_stickers_peek_therapist": "Las pegatinas empiezan cuando el terapeuta de {{child}} fije los días de práctica",
+  "redesign_stickers_peek_label": "Pegatinas por ganar: {{list}}"
 }
