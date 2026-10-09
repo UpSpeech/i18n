@@ -74,6 +74,21 @@
       "completed": "Percurso concluído!",
       "milestone_label": "Marco {{number}}",
       "current_step": "Passo {{number}}: {{title}}"
+    },
+    "state": {
+      "message": "Enviar mensagem ao teu terapeuta",
+      "message_named": "Enviar mensagem a {{therapist}}",
+      "paused_eyebrow": "Plano em pausa",
+      "paused_title": "O teu terapeuta pôs o teu plano em pausa",
+      "paused_title_named": "{{therapist}} pôs o teu plano em pausa",
+      "paused_goal": "O teu objetivo, {{goal}}, está guardado à tua espera.",
+      "paused_body": "O teu progresso está guardado à tua espera.",
+      "finished_eyebrow": "Plano concluído",
+      "finished_title": "Concluíste o teu plano",
+      "finished_goals_one": "Concluíste o teu objetivo.",
+      "finished_goals_other": "Concluíste todos os {{count}} objetivos.",
+      "finished_body": "Concluíste todos os passos que o teu terapeuta definiu.",
+      "see_journey": "Ver o teu percurso"
     }
   },
   "therapist": {

@@ -74,6 +74,21 @@
       "completed": "Journey complete!",
       "milestone_label": "Milestone {{number}}",
       "current_step": "Step {{number}}: {{title}}"
+    },
+    "state": {
+      "message": "Message your therapist",
+      "message_named": "Message {{therapist}}",
+      "paused_eyebrow": "Plan paused",
+      "paused_title": "Your therapist has paused your plan",
+      "paused_title_named": "{{therapist}} has paused your plan",
+      "paused_goal": "Your goal, {{goal}}, is saved and waiting for you.",
+      "paused_body": "Your progress is saved and waiting for you.",
+      "finished_eyebrow": "Plan complete",
+      "finished_title": "You finished your plan",
+      "finished_goals_one": "You completed your goal.",
+      "finished_goals_other": "You completed all {{count}} of your goals.",
+      "finished_body": "You completed every step your therapist set.",
+      "see_journey": "See your journey"
     }
   },
   "therapist": {
