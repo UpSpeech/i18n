@@ -1552,6 +1552,8 @@
   "biometric_sign_in_devices_this_device": "Este dispositivo",
   "biometric_sign_in_devices_last_used": "Usado por última vez el {{date}}",
   "biometric_sign_in_devices_remove": "Quitar",
+  "biometric_sign_in_devices_remove_title": "¿Quitar este dispositivo?",
+  "biometric_sign_in_devices_remove_message": "Necesitará tu contraseña cuando termine su sesión.",
   "biometric_sign_in_devices_empty": "Ningún dispositivo usa este acceso.",
   "celebration_intensity_label": "Celebración",
   "celebration_calm": "Tranquila",
