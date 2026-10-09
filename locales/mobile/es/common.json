@@ -1544,6 +1544,8 @@
   "biometric_sign_in_button": "Entrar con Face ID",
   "biometric_sign_in_button_fingerprint": "Entrar con huella",
   "biometric_sign_in_failed": "No ha funcionado. Entra con tu contraseña.",
+  "biometric_sign_in_welcome_back": "Hola de nuevo, {{name}}",
+  "biometric_sign_in_use_password": "Usar la contraseña",
   "biometric_sign_in_enrol_failed": "No hemos podido activarlo. Inténtalo de nuevo.",
   "biometric_sign_in_setting_label": "Entrar con Face ID",
   "biometric_sign_in_setting_label_fingerprint": "Entrar con huella",

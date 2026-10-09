@@ -1544,6 +1544,8 @@
   "biometric_sign_in_button": "Entrar com Face ID",
   "biometric_sign_in_button_fingerprint": "Entrar com impressão digital",
   "biometric_sign_in_failed": "Não funcionou. Entra com a tua palavra-passe.",
+  "biometric_sign_in_welcome_back": "Olá de novo, {{name}}",
+  "biometric_sign_in_use_password": "Usar a palavra-passe",
   "biometric_sign_in_enrol_failed": "Não conseguimos ativar isto. Tenta outra vez.",
   "biometric_sign_in_setting_label": "Entrar com Face ID",
   "biometric_sign_in_setting_label_fingerprint": "Entrar com impressão digital",

@@ -1544,6 +1544,8 @@
   "biometric_sign_in_button": "Sign in with Face ID",
   "biometric_sign_in_button_fingerprint": "Sign in with your fingerprint",
   "biometric_sign_in_failed": "That did not work. Sign in with your password.",
+  "biometric_sign_in_welcome_back": "Welcome back, {{name}}",
+  "biometric_sign_in_use_password": "Use password instead",
   "biometric_sign_in_enrol_failed": "We could not turn this on. Please try again.",
   "biometric_sign_in_setting_label": "Sign in with Face ID",
   "biometric_sign_in_setting_label_fingerprint": "Sign in with your fingerprint",
