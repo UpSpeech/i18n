@@ -2478,5 +2478,6 @@
   "redesign_stickers_peek_next": "Pratica num dia escolhido para ganhar {{sticker}}",
   "redesign_stickers_peek_choose": "Escolhe os dias de prática para ganhar {{sticker}}",
   "redesign_stickers_peek_therapist": "Os autocolantes começam quando o terapeuta de {{child}} definir os dias de prática",
-  "redesign_stickers_peek_label": "Autocolantes para ganhar: {{list}}"
+  "redesign_stickers_peek_label": "Autocolantes para ganhar: {{list}}",
+  "patient_home_finished_goals_more": "Concluíste: {{goals}} e mais {{count}}"
 }

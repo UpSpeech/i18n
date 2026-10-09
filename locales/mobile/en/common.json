@@ -2478,5 +2478,6 @@
   "redesign_stickers_peek_next": "Practise on a chosen day to win {{sticker}}",
   "redesign_stickers_peek_choose": "Choose practice days to win {{sticker}}",
   "redesign_stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
-  "redesign_stickers_peek_label": "Stickers to win: {{list}}"
+  "redesign_stickers_peek_label": "Stickers to win: {{list}}",
+  "patient_home_finished_goals_more": "You completed: {{goals}} and {{count}} more"
 }

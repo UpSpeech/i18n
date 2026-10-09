@@ -2478,5 +2478,6 @@
   "redesign_stickers_peek_next": "Practica un día elegido para ganar {{sticker}}",
   "redesign_stickers_peek_choose": "Elige los días de práctica para ganar {{sticker}}",
   "redesign_stickers_peek_therapist": "Las pegatinas empiezan cuando el terapeuta de {{child}} fije los días de práctica",
-  "redesign_stickers_peek_label": "Pegatinas por ganar: {{list}}"
+  "redesign_stickers_peek_label": "Pegatinas por ganar: {{list}}",
+  "patient_home_finished_goals_more": "Has completado: {{goals}} y {{count}} más"
 }
