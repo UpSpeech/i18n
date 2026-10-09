@@ -7,7 +7,8 @@
     "patients": "Pacientes",
     "invites": "Invitaciones",
     "assessments": "Evaluaciones",
-    "history": "Historial"
+    "history": "Historial",
+    "reports": "Informes"
   },
   "invites_tab": {
     "no_invites": "No se han enviado invitaciones",
