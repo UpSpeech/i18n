@@ -1345,7 +1345,7 @@
         "school": "Escola",
         "toys": "Brinquedos",
         "music": "Música",
-        "places": "Lugares",
+        "places": "Passeios",
         "gv_cards": "Cartões de gaguez voluntária",
         "which_speech_pre": "Que fala, pré-escolar",
         "feather_rock": "Pena ou rocha",
@@ -1356,7 +1356,11 @@
         "pirates": "Piratas",
         "dinosaurs": "Dinossauros",
         "space": "Espaço",
-        "superheroes": "Super-heróis"
+        "superheroes": "Super-heróis",
+        "princesses": "Princesas",
+        "sea": "Mar",
+        "jobs": "Profissões",
+        "dress_up": "Disfarces"
       },
       "section": "Imagens",
       "required": "Escolhe pelo menos uma imagem para este passo.",
