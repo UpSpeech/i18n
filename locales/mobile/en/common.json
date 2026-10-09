@@ -1553,7 +1553,7 @@
   "biometric_sign_in_devices_last_used": "Last used {{date}}",
   "biometric_sign_in_devices_remove": "Remove",
   "biometric_sign_in_devices_remove_title": "Remove this device?",
-  "biometric_sign_in_devices_remove_message": "It will need your password the next time its session ends.",
+  "biometric_sign_in_devices_remove_message": "Signing in on that device will need your password again.",
   "biometric_sign_in_devices_empty": "No devices use this sign-in.",
   "celebration_intensity_label": "Celebration",
   "celebration_calm": "Calm",
