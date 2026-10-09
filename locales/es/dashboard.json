@@ -79,16 +79,18 @@
       "message": "Escribir a tu terapeuta",
       "message_named": "Escribir a {{therapist}}",
       "paused_eyebrow": "Plan en pausa",
-      "paused_title": "Tu terapeuta ha puesto tu plan en pausa",
-      "paused_title_named": "{{therapist}} ha puesto tu plan en pausa",
-      "paused_goal": "Tu objetivo, {{goal}}, está guardado y te espera.",
-      "paused_body": "Tu progreso está guardado y te espera.",
-      "finished_eyebrow": "Plan completado",
+      "paused_title": "Tu terapeuta ha pausado tu plan",
+      "paused_title_named": "{{therapist}} ha pausado tu plan",
+      "paused_goal": "La práctica de {{goal}} está en pausa por ahora. Tu progreso está guardado.",
+      "paused_body": "La práctica está en pausa por ahora. Tu progreso está guardado.",
+      "finished_eyebrow": "Plan terminado",
       "finished_title": "Has terminado tu plan",
       "finished_goals": "Has completado: {{goals}}",
       "finished_goals_more": "Has completado: {{goals}} y {{count}} más",
       "finished_body": "Has completado todos los pasos que fijó tu terapeuta.",
-      "see_journey": "Ver tu recorrido"
+      "see_journey": "Ver tu recorrido",
+      "empty_title": "Tu plan está en camino",
+      "empty_body": "Tu terapeuta está preparando tus pasos. Aparecen aquí en cuanto estén listos."
     }
   },
   "therapist": {

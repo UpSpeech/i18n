@@ -81,14 +81,16 @@
       "paused_eyebrow": "Plano em pausa",
       "paused_title": "O teu terapeuta pôs o teu plano em pausa",
       "paused_title_named": "{{therapist}} pôs o teu plano em pausa",
-      "paused_goal": "O teu objetivo, {{goal}}, está guardado à tua espera.",
-      "paused_body": "O teu progresso está guardado à tua espera.",
+      "paused_goal": "A prática de {{goal}} está em pausa por agora. O teu progresso está guardado.",
+      "paused_body": "A prática está em pausa por agora. O teu progresso está guardado.",
       "finished_eyebrow": "Plano concluído",
       "finished_title": "Concluíste o teu plano",
       "finished_goals": "Concluíste: {{goals}}",
       "finished_goals_more": "Concluíste: {{goals}} e mais {{count}}",
       "finished_body": "Concluíste todos os passos que o teu terapeuta definiu.",
-      "see_journey": "Ver o teu percurso"
+      "see_journey": "Ver a tua jornada",
+      "empty_title": "O teu plano está a caminho",
+      "empty_body": "O teu terapeuta está a montar os teus passos. Aparecem aqui assim que estiverem prontos."
     }
   },
   "therapist": {
