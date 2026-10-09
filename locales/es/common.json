@@ -1345,7 +1345,7 @@
         "school": "Colegio",
         "toys": "Juguetes",
         "music": "Música",
-        "places": "Lugares",
+        "places": "Paseos",
         "gv_cards": "Cartas de tartamudeo voluntario",
         "which_speech_pre": "Qué habla, preescolar",
         "feather_rock": "Pluma o roca",
@@ -1356,7 +1356,11 @@
         "pirates": "Piratas",
         "dinosaurs": "Dinosaurios",
         "space": "Espacio",
-        "superheroes": "Superhéroes"
+        "superheroes": "Superhéroes",
+        "princesses": "Princesas",
+        "sea": "Mar",
+        "jobs": "Profesiones",
+        "dress_up": "Disfraces"
       },
       "section": "Imágenes",
       "required": "Elige al menos una imagen para este paso.",

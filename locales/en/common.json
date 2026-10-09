@@ -1345,7 +1345,7 @@
         "school": "School",
         "toys": "Toys",
         "music": "Music",
-        "places": "Places",
+        "places": "Outings",
         "gv_cards": "Voluntary stuttering cards",
         "which_speech_pre": "Which speech, pre-school",
         "feather_rock": "Feather or rock",
@@ -1356,7 +1356,11 @@
         "pirates": "Pirates",
         "dinosaurs": "Dinosaurs",
         "space": "Space",
-        "superheroes": "Superheroes"
+        "superheroes": "Superheroes",
+        "princesses": "Princesses",
+        "sea": "Sea",
+        "jobs": "Jobs",
+        "dress_up": "Dress-up"
       },
       "section": "Pictures",
       "required": "Pick at least one picture for this step.",
