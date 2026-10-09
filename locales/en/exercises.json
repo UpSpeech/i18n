@@ -888,7 +888,6 @@
   },
   "recording_duration_hint": "Longer recordings (3+ minutes) help your therapist give better feedback.",
   "difficulty_level": "Difficulty: {{level}}",
-  "entity_mini_game": "Mini game",
   "not_found": "Exercise not found",
   "retry_reason": {
     "title": "No problem, let's try again",

@@ -89,17 +89,6 @@
     "assign_exercises": "Atribuir um exercício",
     "create_report_description": "Criar novo relatório",
     "unknown_patient": "Paciente desconhecido",
-    "filter": {
-      "all": "Todos",
-      "sessions": "Sessões",
-      "exercises": "Exercícios"
-    },
-    "recent_activity": "Atividade recente",
-    "last_14_days": "Últimos 14 dias",
-    "no_recent_activity": "Sem atividade recente",
-    "no_recent_sessions": "Sem sessões de fala nos últimos 14 dias",
-    "no_recent_exercises": "Sem atividade de exercícios nos últimos 14 dias",
-    "no_activity_yet": "Sem atividade nos últimos 14 dias",
     "patient_activity_overview": "Atividade dos pacientes",
     "patient_activity_description": "Uma bolha por paciente. Quanto maior, mais praticou.",
     "time_filter": {
@@ -146,7 +135,6 @@
     "needs_attention": "Requer atenção",
     "never_active": "Sem atividade ainda",
     "attention_queue_title": "Fila de atenção",
-    "attention_queue_description": "Pacientes que precisam da tua ação hoje, os mais urgentes primeiro.",
     "attention_queue_sublabel": "Precisam de ação hoje",
     "attention_queue_state": {
       "needs_attention": "Precisa de atenção",
@@ -164,18 +152,9 @@
       "first_recording_waiting": "Primeira gravação à espera de resposta"
     },
     "attention_queue_action_review": "Rever agora",
-    "attention_queue_action_review_count": "Rever ({{count}})",
-    "attention_queue_action_remind": "Lembrar",
-    "attention_queue_empty_title": "Estás em dia",
-    "attention_queue_empty_body": "Os pacientes aparecem aqui quando ficam em silêncio, falham uma verificação ou deixam trabalho para ti.",
-    "attention_queue_empty_action": "Ver todos os pacientes",
     "attention_queue_milestone": "Marco {{position}} / {{total}}",
-    "attention_queue_path_progress": "Percurso {{percentage}}%",
     "last_active_days_ago_one": "Última atividade há 1 dia",
     "last_active_days_ago_other": "Última atividade há {{count}} dias",
-    "attention_queue_action_dismiss": "Dispensar",
-    "review_queue_action": "Fila de revisão ({{count}})",
-    "header_facts": "{{patients}} pacientes",
     "patient_activity_list_description": "Quanto cada paciente praticou, e há quanto tempo o fez pela última vez.",
     "activity_axis_recency": "Dias desde a última prática",
     "activity_axis_volume": "Práticas neste período",
@@ -360,7 +339,6 @@
     "pending": "Pendente",
     "total_storage_label": "Uso de armazenamento",
     "avg_file_size": "Tamanho médio de arquivo",
-    "complete": "Completo",
     "inactive_tenants": "Organizações inativas",
     "inactive_tenants_description": "Organizações sem gravações no período atual"
   },
@@ -374,7 +352,6 @@
   "caregiver": {
     "practising_with": "A praticar com",
     "child_age": "{{name}}, {{count}} anos",
-    "plan_step": "Plano {{child, de}} · Passo {{current}} de {{total}}",
     "reminder_title": "Lembrete diário",
     "reminder_change": "Mudar",
     "reminder_at_hour": "às {{hour}}:00",
@@ -385,10 +362,8 @@
     "reminder_save_failed": "Não conseguimos guardar o lembrete. Tenta de novo, ou muda-o mais tarde nas Definições.",
     "switch_label": "A acompanhar {{name}}",
     "therapist_note_title": "{{therapist, de_start}}",
-    "practice_title": "A prática {{child, de}}",
     "practice_sessions_one": "sessão",
-    "practice_sessions_other": "sessões",
-    "practice_reported_by": "Registado por {{name}}"
+    "practice_sessions_other": "sessões"
   },
   "view_switch": {
     "label": "Mudar de vista",

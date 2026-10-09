@@ -888,7 +888,6 @@
   },
   "recording_duration_hint": "Gravações mais longas (3+ minutos) ajudam o teu terapeuta a dar melhor feedback.",
   "difficulty_level": "Dificuldade: {{level}}",
-  "entity_mini_game": "Mini jogo",
   "not_found": "Exercício não encontrado",
   "retry_reason": {
     "title": "Sem problema, vamos tentar de novo",
