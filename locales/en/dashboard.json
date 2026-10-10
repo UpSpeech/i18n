@@ -89,17 +89,6 @@
     "assign_exercises": "Assign an exercise",
     "create_report_description": "Create new report",
     "unknown_patient": "Unknown patient",
-    "filter": {
-      "all": "All",
-      "sessions": "Sessions",
-      "exercises": "Exercises"
-    },
-    "recent_activity": "Recent activity",
-    "last_14_days": "Last 14 days",
-    "no_recent_activity": "No recent activity",
-    "no_recent_sessions": "No speech sessions in the last 14 days",
-    "no_recent_exercises": "No exercise activity in the last 14 days",
-    "no_activity_yet": "No activity in the last 14 days",
     "patient_activity_overview": "Patient activity",
     "patient_activity_description": "One bubble per patient. The bigger it is, the more they practised.",
     "time_filter": {
@@ -146,7 +135,6 @@
     "needs_attention": "Needs attention",
     "never_active": "No activity yet",
     "attention_queue_title": "Attention queue",
-    "attention_queue_description": "Patients needing your action today, most urgent first.",
     "attention_queue_sublabel": "Need action today",
     "attention_queue_state": {
       "needs_attention": "Needs attention",
@@ -164,18 +152,9 @@
       "first_recording_waiting": "First recording waiting for a reply"
     },
     "attention_queue_action_review": "Review now",
-    "attention_queue_action_review_count": "Review ({{count}})",
-    "attention_queue_action_remind": "Remind",
-    "attention_queue_empty_title": "You are caught up",
-    "attention_queue_empty_body": "Patients appear here when they have gone quiet, missed a check-in, or left work for you.",
-    "attention_queue_empty_action": "See all patients",
     "attention_queue_milestone": "Milestone {{position}} / {{total}}",
-    "attention_queue_path_progress": "Path {{percentage}}%",
     "last_active_days_ago_one": "Last active 1 day ago",
     "last_active_days_ago_other": "Last active {{count}} days ago",
-    "attention_queue_action_dismiss": "Dismiss",
-    "review_queue_action": "Review queue ({{count}})",
-    "header_facts": "{{patients}} patients",
     "patient_activity_list_description": "How much each patient practised, and how long since they last did.",
     "activity_axis_recency": "Days since last practice",
     "activity_axis_volume": "Practices in this window",
@@ -360,7 +339,6 @@
     "pending": "Pending",
     "total_storage_label": "Total storage",
     "avg_file_size": "Avg file size",
-    "complete": "complete",
     "inactive_tenants": "Inactive organisations",
     "inactive_tenants_description": "Organisations with no recordings in the current period"
   },
@@ -374,7 +352,6 @@
   "caregiver": {
     "practising_with": "Practising with",
     "child_age": "{{name}}, {{count}} years old",
-    "plan_step": "{{child}}'s plan · Step {{current}} of {{total}}",
     "reminder_title": "Daily reminder",
     "reminder_change": "Change",
     "reminder_at_hour": "at {{hour}}:00",
@@ -385,10 +362,8 @@
     "reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings.",
     "switch_label": "Acting for {{name}}",
     "therapist_note_title": "From {{therapist}}",
-    "practice_title": "{{child}}'s practice",
     "practice_sessions_one": "session",
-    "practice_sessions_other": "sessions",
-    "practice_reported_by": "Reported by {{name}}"
+    "practice_sessions_other": "sessions"
   },
   "view_switch": {
     "label": "Switch view",

@@ -207,8 +207,6 @@
         "dashboard": {
           "stats_title": "Visão geral da prática",
           "stats_content": "Quantos pacientes tens, e quanto praticaram.",
-          "activity_title": "Atividade recente",
-          "activity_content": "Gravações recentes e atividade dos teus pacientes aparecem aqui.",
           "bubble_chart_title": "Envolvimento dos pacientes",
           "bubble_chart_content": "Uma bolha por paciente. Quanto maior, mais praticou.",
           "nav_patients_title": "Os meus pacientes",
@@ -218,9 +216,7 @@
           "nav_exercises_title": "Exercícios",
           "nav_exercises_content": "Navega pelas bibliotecas de exercícios e atribui aos teus pacientes.",
           "attention_title": "Quem precisa de ti hoje",
-          "attention_content": "Os pacientes que ficaram calados, falharam um check-in ou deixaram trabalho para ti, os mais urgentes primeiro.",
-          "patient_activity_title": "Envolvimento dos pacientes",
-          "patient_activity_content": "Todos os pacientes, do menos envolvido ao mais, e quanto praticaram no período que escolheres."
+          "attention_content": "Os pacientes que ficaram calados, falharam um check-in ou deixaram trabalho para ti, os mais urgentes primeiro."
         },
         "invite": {
           "button_title": "Adicionar um paciente",
