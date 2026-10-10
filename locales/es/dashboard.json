@@ -74,6 +74,20 @@
       "completed": "¡Recorrido completado!",
       "milestone_label": "Hito {{number}}",
       "current_step": "Paso {{number}}: {{title}}"
+    },
+    "state": {
+      "message": "Escribir a tu terapeuta",
+      "message_named": "Escribir a {{therapist}}",
+      "paused_title": "Tu terapeuta ha pausado tu plan",
+      "paused_title_named": "{{therapist}} ha pausado tu plan",
+      "paused_goal": "La práctica de {{goal}} está en pausa por ahora. Tu progreso está guardado.",
+      "paused_body": "La práctica está en pausa por ahora. Tu progreso está guardado.",
+      "finished_title": "Has terminado tu plan",
+      "finished_goals": "Has completado: {{goals}}",
+      "finished_goals_more": "Has completado: {{goals}} y {{count}} más",
+      "see_journey": "Ver tu recorrido",
+      "empty_title": "Tu plan está en camino",
+      "empty_body": "Tu terapeuta está preparando tus pasos. Aparecen aquí en cuanto estén listos."
     }
   },
   "therapist": {
@@ -206,7 +220,7 @@
       "path_steps_done_one": "{{count}} paso completado en su recorrido",
       "path_steps_done_other": "{{count}} pasos completados en su recorrido",
       "reply_failed": "La respuesta no se envió",
-      "reply_sent": "Respuesta enviada",
+      "reply_sent": "Mensaje enviado",
       "this_week_label": "Esta semana",
       "keyboard_hint_move": "J y K para moverte",
       "waiting": "Pendiente",

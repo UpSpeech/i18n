@@ -74,6 +74,20 @@
       "completed": "Journey complete!",
       "milestone_label": "Milestone {{number}}",
       "current_step": "Step {{number}}: {{title}}"
+    },
+    "state": {
+      "message": "Message your therapist",
+      "message_named": "Message {{therapist}}",
+      "paused_title": "Your therapist has paused your plan",
+      "paused_title_named": "{{therapist}} has paused your plan",
+      "paused_goal": "Practice on {{goal}} is paused for now. Your progress is saved.",
+      "paused_body": "Practice is paused for now. Your progress is saved.",
+      "finished_title": "You finished your plan",
+      "finished_goals": "You completed: {{goals}}",
+      "finished_goals_more": "You completed: {{goals}} and {{count}} more",
+      "see_journey": "See your journey",
+      "empty_title": "Your plan is on its way",
+      "empty_body": "Your therapist is putting your steps together. They show up here as soon as they are ready."
     }
   },
   "therapist": {
@@ -206,7 +220,7 @@
       "path_steps_done_one": "{{count}} step done on their path",
       "path_steps_done_other": "{{count}} steps done on their path",
       "reply_failed": "The reply did not send",
-      "reply_sent": "Reply sent",
+      "reply_sent": "Message sent",
       "this_week_label": "This week",
       "keyboard_hint_move": "J and K to move",
       "waiting": "Waiting",

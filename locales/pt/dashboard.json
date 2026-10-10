@@ -74,6 +74,20 @@
       "completed": "Percurso concluído!",
       "milestone_label": "Marco {{number}}",
       "current_step": "Passo {{number}}: {{title}}"
+    },
+    "state": {
+      "message": "Enviar mensagem ao teu terapeuta",
+      "message_named": "Enviar mensagem a {{therapist}}",
+      "paused_title": "O teu terapeuta pôs o teu plano em pausa",
+      "paused_title_named": "{{therapist}} pôs o teu plano em pausa",
+      "paused_goal": "A prática de {{goal}} está em pausa por agora. O teu progresso está guardado.",
+      "paused_body": "A prática está em pausa por agora. O teu progresso está guardado.",
+      "finished_title": "Concluíste o teu plano",
+      "finished_goals": "Concluíste: {{goals}}",
+      "finished_goals_more": "Concluíste: {{goals}} e mais {{count}}",
+      "see_journey": "Ver a tua jornada",
+      "empty_title": "O teu plano está a caminho",
+      "empty_body": "O teu terapeuta está a montar os teus passos. Aparecem aqui assim que estiverem prontos."
     }
   },
   "therapist": {
@@ -206,7 +220,7 @@
       "path_steps_done_one": "{{count}} passo concluído no percurso",
       "path_steps_done_other": "{{count}} passos concluídos no percurso",
       "reply_failed": "A resposta não foi enviada",
-      "reply_sent": "Resposta enviada",
+      "reply_sent": "Mensagem enviada",
       "this_week_label": "Esta semana",
       "keyboard_hint_move": "J e K para mudar",
       "waiting": "À espera",
