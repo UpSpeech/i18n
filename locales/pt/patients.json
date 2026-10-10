@@ -434,5 +434,57 @@
     "same_as_before": "igual à última vez",
     "every_attempt": "Todas as tentativas",
     "position_to_note": "{{current}} de {{total}} por anotar"
+  },
+  "overview": {
+    "stats": {
+      "this_week": "Esta semana",
+      "sessions": "sessões",
+      "of_sessions_one": "de {{count}} sessão",
+      "of_sessions_other": "de {{count}} sessões",
+      "last_weeks": "Últimas {{weeks}} semanas",
+      "of_done": "de {{planned}} feitas",
+      "submissions_one": "submissão",
+      "submissions_other": "submissões",
+      "cbsa": "CBSA semanal",
+      "check_ins": "Registos diários, últimos {{window}}",
+      "of_days": "de {{days}} dias",
+      "with_change": "{{unit}}, {{change}}",
+      "up": "subiu {{amount}}",
+      "down": "desceu {{amount}}",
+      "no_change": "sem alteração"
+    },
+    "to_review": {
+      "title": "Por rever",
+      "count": "{{count}} à espera",
+      "empty": "Nada à espera de uma nota.",
+      "more": "e mais {{count}}"
+    },
+    "notes": {
+      "title": "As tuas notas",
+      "empty": "As notas que deixas em gravações, registos diários e passos aparecem aqui.",
+      "messages": "Abrir mensagens",
+      "source_check_in": "Registo diário",
+      "source_review": "Revisão",
+      "source_step": "Nota do passo"
+    },
+    "homework": {
+      "title": "Trabalho de casa, semana a semana",
+      "caption_one": "{{step}}, uma vez por semana. As semanas anteriores contam com a dose de hoje.",
+      "caption_other": "{{step}}, {{count}} vezes por semana. As semanas anteriores contam com a dose de hoje.",
+      "ratio": "{{done}}/{{planned}}",
+      "this_week": "Esta semana",
+      "done": "Feito",
+      "planned": "Planeado, por fazer"
+    },
+    "family": {
+      "ran": "Orientou {{count}} de {{total}} sessões",
+      "ran_none": "Ainda sem sessões registadas",
+      "quote": "“{{note}}”",
+      "guardian_accepted": "Responsabilidade parental aceite a {{date}}",
+      "guardian_pending": "Responsabilidade parental ainda por aceitar"
+    },
+    "path": {
+      "step_figures": "Passo atual. {{attempts}} tentativas, {{minutes}} min."
+    }
   }
 }
