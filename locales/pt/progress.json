@@ -32,7 +32,10 @@
       "reflection": "Reflexão",
       "modeling": "Modelação",
       "observation": "Observação"
-    }
+    },
+    "finished_named": "{{name}} terminou o percurso de aprendizagem",
+    "load_failed": "Não foi possível carregar o percurso de aprendizagem de {{name}}. Tenta outra vez.",
+    "no_open_step": "Não há nenhum passo aberto neste momento"
   },
   "back_to_patients": "Voltar aos pacientes",
   "habit": {

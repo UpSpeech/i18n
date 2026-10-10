@@ -32,7 +32,10 @@
       "reflection": "Reflexión",
       "modeling": "Modelado",
       "observation": "Observación"
-    }
+    },
+    "finished_named": "{{name}} terminó la ruta de aprendizaje",
+    "load_failed": "No pudimos cargar la ruta de aprendizaje de {{name}}. Inténtalo de nuevo.",
+    "no_open_step": "No hay ningún paso abierto ahora"
   },
   "back_to_patients": "Volver a pacientes",
   "habit": {

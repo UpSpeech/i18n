@@ -216,7 +216,9 @@
     "frozen_placeholder": "You can't send messages in a closed conversation",
     "unread_count_one": "{{count}} unread message",
     "unread_count_other": "{{count}} unread messages",
-    "born_on": "Born {{date}}"
+    "born_on": "Born {{date}}",
+    "no_therapist_title": "No therapist yet",
+    "no_therapist_description": "Messages go to the therapist assigned to the account, and nobody is assigned yet. Your clinic can set that up."
   },
   "practice": {
     "title": "Practice mini-games",
@@ -1201,7 +1203,11 @@
         "path_step_done": "Done",
         "path_step_sessions_one": "{{count}} session so far",
         "path_step_sessions_other": "{{count}} sessions so far",
-        "path_step_days": "Practises on {{days}}"
+        "path_step_days": "Practises on {{days}}",
+        "empty_finished_title": "{{child}} finished the plan",
+        "empty_finished_hint": "Every step is done. Chat with their therapist about what comes next.",
+        "empty_no_open_step_title": "No step is open for {{child}} right now",
+        "empty_no_open_step_hint": "The plan is in place, but there is nothing to practise today. Chat with their therapist if you expected a step."
       }
     },
     "sharing": {

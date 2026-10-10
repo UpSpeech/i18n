@@ -2470,5 +2470,22 @@
   "redesign_stickers_peek_choose": "Escolhe os dias de prática para ganhar {{sticker}}",
   "redesign_stickers_peek_therapist": "Os autocolantes começam quando o terapeuta de {{child}} definir os dias de prática",
   "redesign_stickers_peek_label": "Autocolantes para ganhar: {{list}}",
-  "patient_home_finished_goals_more": "Concluíste: {{goals}} e mais {{count}}"
+  "patient_home_finished_goals_more": "Concluíste: {{goals}} e mais {{count}}",
+  "caregiver_home_finished_title": "{{name}} terminou o plano",
+  "caregiver_home_finished_hint": "O terapeuta define o que vem a seguir. Entretanto, podes enviar-lhe uma mensagem.",
+  "patient_home_waiting_title": "O teu próximo passo ainda não está aberto",
+  "patient_home_waiting_hint": "É o teu terapeuta que o abre. Escreve-lhe se quiseres saber quando.",
+  "therapist_path_none_hint": "Cria o percurso de aprendizagem na aplicação web. Aparece aqui assim que existir.",
+  "therapist_path_paused_title": "O plano de {{name}} está em pausa",
+  "therapist_path_paused_hint": "A prática está fechada até o retomares. Retoma-o na aplicação web.",
+  "therapist_path_finished_title": "{{name}} terminou o plano",
+  "therapist_path_waiting_title": "Nenhum passo está aberto para {{name}}",
+  "therapist_path_waiting_hint": "Inicia o seguinte no separador Percurso.",
+  "chat_history_load_failed": "As mensagens anteriores não carregaram.",
+  "reminder_card_load_failed": "O teu lembrete diário não carregou.",
+  "messages_no_patients_hint": "Assim que tiveres pacientes, podes enviar-lhes mensagens aqui.",
+  "no_patients_added_by_therapist": "Os pacientes são adicionados por um terapeuta.",
+  "patients_empty_what_admin": "Os pacientes são adicionados por um terapeuta. Cada um tem uma página com as gravações e o progresso.",
+  "notifications_empty_description_therapist": "As novas submissões e mensagens dos teus pacientes aparecerão aqui.",
+  "notifications_empty_description_caregiver": "As atualizações do terapeuta do teu filho e sobre a prática dele aparecerão aqui."
 }
