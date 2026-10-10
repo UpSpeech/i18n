@@ -2469,5 +2469,7 @@
   "redesign_sleeve_rest": "Día de descanso. Practicar también cuenta, y la próxima pegatina es el {{day}}.",
   "redesign_sleeve_today": "Hay una pegatina esperando a {{child}} hoy.",
   "redesign_sleeve_today_hint": "Practica con {{child}} para descubrir cuál es.",
+  "redesign_reveal_hint": "Rasga por la línea de puntos",
+  "redesign_reveal_open": "Abrir el sobre",
   "patient_home_finished_goals_more": "Has completado: {{goals}} y {{count}} más"
 }

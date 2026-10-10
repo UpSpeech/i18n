@@ -2469,5 +2469,7 @@
   "redesign_sleeve_rest": "Rest day. Practice still counts, and the next sticker is on {{day}}.",
   "redesign_sleeve_today": "A sticker is waiting for {{child}} today.",
   "redesign_sleeve_today_hint": "Practise together to see which one.",
+  "redesign_reveal_hint": "Tear along the dotted line",
+  "redesign_reveal_open": "Open the pack",
   "patient_home_finished_goals_more": "You completed: {{goals}} and {{count}} more"
 }
