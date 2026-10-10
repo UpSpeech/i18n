@@ -447,7 +447,6 @@
       "submissions_other": "envíos",
       "cbsa": "CBSA semanal",
       "check_ins": "Registros diarios, últimos {{window}}",
-      "of_days": "de {{days}} días",
       "with_change": "{{unit}}, {{change}}",
       "up": "subió {{amount}}",
       "down": "bajó {{amount}}",

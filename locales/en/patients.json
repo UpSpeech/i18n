@@ -447,7 +447,6 @@
       "submissions_other": "submissions",
       "cbsa": "Weekly CBSA",
       "check_ins": "Check-ins, last {{window}}",
-      "of_days": "of {{days}} days",
       "with_change": "{{unit}}, {{change}}",
       "up": "up {{amount}}",
       "down": "down {{amount}}",
