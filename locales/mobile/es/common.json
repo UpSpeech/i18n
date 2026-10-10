@@ -2480,5 +2480,12 @@
   "therapist_path_paused_hint": "La práctica está cerrada hasta que lo reanudes. Reanúdalo desde la aplicación web.",
   "therapist_path_finished_title": "{{name}} ha terminado el plan",
   "therapist_path_waiting_title": "No hay ningún paso abierto para {{name}}",
-  "therapist_path_waiting_hint": "Inicia el siguiente desde la pestaña Ruta."
+  "therapist_path_waiting_hint": "Inicia el siguiente desde la pestaña Ruta.",
+  "chat_history_load_failed": "Los mensajes anteriores no cargaron.",
+  "reminder_card_load_failed": "Tu recordatorio diario no cargó.",
+  "messages_no_patients_hint": "Cuando tengas pacientes, podrás escribirles aquí.",
+  "no_patients_added_by_therapist": "Los pacientes los añade un terapeuta.",
+  "patients_empty_what_admin": "Los pacientes los añade un terapeuta. Cada uno tiene una página con sus grabaciones y su progreso.",
+  "notifications_empty_description_therapist": "Las nuevas entregas y mensajes de tus pacientes aparecerán aquí.",
+  "notifications_empty_description_caregiver": "Las actualizaciones del terapeuta de tu hijo y sobre su práctica aparecerán aquí."
 }

@@ -2480,5 +2480,12 @@
   "therapist_path_paused_hint": "Practice is closed until you resume it. Resume it from the web app.",
   "therapist_path_finished_title": "{{name}} has finished the plan",
   "therapist_path_waiting_title": "No step is open for {{name}}",
-  "therapist_path_waiting_hint": "Start the next one from the Learning path tab."
+  "therapist_path_waiting_hint": "Start the next one from the Learning path tab.",
+  "chat_history_load_failed": "Earlier messages did not load.",
+  "reminder_card_load_failed": "Your daily reminder did not load.",
+  "messages_no_patients_hint": "Once you have patients, you can message them here.",
+  "no_patients_added_by_therapist": "Patients are added by a therapist.",
+  "patients_empty_what_admin": "Patients are added by a therapist. Each one gets a page for their recordings and progress.",
+  "notifications_empty_description_therapist": "New submissions and messages from your patients will appear here.",
+  "notifications_empty_description_caregiver": "Updates from your child's therapist and about their practice will appear here."
 }
