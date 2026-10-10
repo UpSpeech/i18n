@@ -1196,8 +1196,6 @@
         "hear_example_first": "Hear the example first",
         "patient_goes_to": "Your recording goes straight to {{therapist}}.",
         "patient_goes_to_therapist": "Your recording goes straight to your therapist.",
-        "patient_done_title": "You're done for today",
-        "patient_rest_title": "Today is a rest day",
         "patient_meta_no_minutes": "{{weekday}} · {{title}}",
         "see_child_path": "See {{child}}'s path",
         "overdue_line_one": "{{count}} exercise is overdue.",
