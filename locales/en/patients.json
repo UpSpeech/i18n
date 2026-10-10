@@ -434,5 +434,56 @@
     "same_as_before": "same as last time",
     "every_attempt": "Every attempt",
     "position_to_note": "{{current}} of {{total}} to note"
+  },
+  "overview": {
+    "stats": {
+      "this_week": "This week",
+      "sessions": "sessions",
+      "of_sessions_one": "of {{count}} session",
+      "of_sessions_other": "of {{count}} sessions",
+      "last_weeks": "Last {{weeks}} weeks",
+      "of_done": "of {{planned}} done",
+      "submissions_one": "submission",
+      "submissions_other": "submissions",
+      "cbsa": "Weekly CBSA",
+      "check_ins": "Check-ins, last {{window}}",
+      "with_change": "{{unit}}, {{change}}",
+      "up": "up {{amount}}",
+      "down": "down {{amount}}",
+      "no_change": "no change"
+    },
+    "to_review": {
+      "title": "To review",
+      "count": "{{count}} waiting",
+      "empty": "Nothing is waiting for a note.",
+      "more": "and {{count}} more"
+    },
+    "notes": {
+      "title": "Your notes",
+      "empty": "Notes you leave on recordings, check-ins and steps show here.",
+      "messages": "Open messages",
+      "source_check_in": "Check-in",
+      "source_review": "Review",
+      "source_step": "Step note"
+    },
+    "homework": {
+      "title": "Homework, week by week",
+      "caption_one": "{{step}}, once a week. Earlier weeks are counted against today's dose.",
+      "caption_other": "{{step}}, {{count}} times a week. Earlier weeks are counted against today's dose.",
+      "ratio": "{{done}}/{{planned}}",
+      "this_week": "This week",
+      "done": "Done",
+      "planned": "Planned, not done"
+    },
+    "family": {
+      "ran": "Ran {{count}} of {{total}} sessions",
+      "ran_none": "No sessions reported yet",
+      "quote": "“{{note}}”",
+      "guardian_accepted": "Guardian responsibility accepted {{date}}",
+      "guardian_pending": "Guardian responsibility not yet accepted"
+    },
+    "path": {
+      "step_figures": "Current step. {{attempts}} attempts, {{minutes}} min."
+    }
   }
 }

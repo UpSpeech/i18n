@@ -434,5 +434,56 @@
     "same_as_before": "igual que la última vez",
     "every_attempt": "Todos los intentos",
     "position_to_note": "{{current}} de {{total}} por anotar"
+  },
+  "overview": {
+    "stats": {
+      "this_week": "Esta semana",
+      "sessions": "sesiones",
+      "of_sessions_one": "de {{count}} sesión",
+      "of_sessions_other": "de {{count}} sesiones",
+      "last_weeks": "Últimas {{weeks}} semanas",
+      "of_done": "de {{planned}} hechas",
+      "submissions_one": "envío",
+      "submissions_other": "envíos",
+      "cbsa": "CBSA semanal",
+      "check_ins": "Registros diarios, últimos {{window}}",
+      "with_change": "{{unit}}, {{change}}",
+      "up": "subió {{amount}}",
+      "down": "bajó {{amount}}",
+      "no_change": "sin cambios"
+    },
+    "to_review": {
+      "title": "Por revisar",
+      "count": "{{count}} en espera",
+      "empty": "Nada espera una nota.",
+      "more": "y {{count}} más"
+    },
+    "notes": {
+      "title": "Tus notas",
+      "empty": "Las notas que dejas en grabaciones, registros diarios y pasos aparecen aquí.",
+      "messages": "Abrir mensajes",
+      "source_check_in": "Registro diario",
+      "source_review": "Revisión",
+      "source_step": "Nota del paso"
+    },
+    "homework": {
+      "title": "Tareas, semana a semana",
+      "caption_one": "{{step}}, una vez por semana. Las semanas anteriores se cuentan con la dosis de hoy.",
+      "caption_other": "{{step}}, {{count}} veces por semana. Las semanas anteriores se cuentan con la dosis de hoy.",
+      "ratio": "{{done}}/{{planned}}",
+      "this_week": "Esta semana",
+      "done": "Hecho",
+      "planned": "Planificado, sin hacer"
+    },
+    "family": {
+      "ran": "Dirigió {{count}} de {{total}} sesiones",
+      "ran_none": "Aún no hay sesiones registradas",
+      "quote": "“{{note}}”",
+      "guardian_accepted": "Responsabilidad parental aceptada el {{date}}",
+      "guardian_pending": "Responsabilidad parental aún sin aceptar"
+    },
+    "path": {
+      "step_figures": "Paso actual. {{attempts}} intentos, {{minutes}} min."
+    }
   }
 }
