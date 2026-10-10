@@ -1107,7 +1107,6 @@
       "caregiver_start": "Start with {{child}}",
       "no_schedule_eyebrow": "No weekly plan yet",
       "load_failed": "The plan did not load.",
-      "paused_child": "{{name}}'s therapist has paused their journey. A short break is a normal part of the process.",
       "day_state": {
         "done": "done",
         "missed": "missed",
@@ -1124,7 +1123,6 @@
       "practise_anyway": "Practise anyway",
       "set_days_in_settings": "Choose {{child}}'s practice days in Settings",
       "redesign": {
-        "coach_title": "One minute for you, before {{child}} starts",
         "goal_almost": "Almost there",
         "goal_more": "{{count}} more",
         "goal_one_step": "One step",
@@ -1152,8 +1150,6 @@
         "step_number": "Step {{current}}",
         "step_number_minutes": "Step {{current}} · about {{count}} min",
         "stickers_choose_days": "Choose the days {{child}} practises to start winning stickers like these.",
-        "stickers_count": "{{done}} of {{planned}} stickers",
-        "stickers_none_planned": "No practice days chosen yet",
         "stickers_next_win": "Practise on a chosen day to win {{sticker}}",
         "stickers_title": "{{child}}'s sticker chart",
         "today": "Today",
@@ -1184,9 +1180,6 @@
           "fish": "Goldfish",
           "zap": "Zap"
         },
-        "coach_from": "From {{therapist}}",
-        "coach_play_aid": "Play {{title}}",
-        "coach_pause_aid": "Pause {{title}}",
         "goal_your_step": "Your step now",
         "child_path_title": "{{child}}'s path",
         "child_path_here": "Now: {{step}}",
@@ -1202,21 +1195,13 @@
         "overdue_line_other": "{{count}} exercises are overdue.",
         "overdue_open": "Open them",
         "patient_meta_untitled": "{{weekday}} · about {{count}} min",
-        "path_steps_title": "The steps of {{goal}}",
         "path_step_now": "{{child}}'s step now",
         "path_step_next": "Next",
         "path_step_finished": "Finished {{date}}",
         "path_step_done": "Done",
         "path_step_sessions_one": "{{count}} session so far",
         "path_step_sessions_other": "{{count}} sessions so far",
-        "path_step_days": "Practises on {{days}}",
-        "path_goals_title": "{{child}}'s goals",
-        "path_goal_of": "Goal {{current}} of {{total}}",
-        "path_goal_steps_done_zero": "No steps done yet",
-        "path_goal_steps_done_one": "{{count}} step done",
-        "path_goal_steps_done_other": "{{count}} steps done",
-        "path_goal_done": "Done",
-        "path_goal_later": "Later"
+        "path_step_days": "Practises on {{days}}"
       }
     },
     "sharing": {
