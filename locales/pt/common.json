@@ -1146,6 +1146,8 @@
         "picture_alt": "Imagem {{n}}",
         "practice_log": "Registo da prática",
         "record": "Gravar",
+        "reveal_hint": "Rasga pela linha tracejada",
+        "reveal_open": "Abrir o pacote",
         "sleeve_label": "Autocolante {{child, de}}",
         "sleeve_none": "Escolhe os dias de prática para começar a coleção.",
         "sleeve_none_hint": "Cada dia de prática traz um autocolante surpresa.",

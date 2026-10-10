@@ -1146,6 +1146,8 @@
         "picture_alt": "Picture {{n}}",
         "practice_log": "Practice log",
         "record": "Record",
+        "reveal_hint": "Tear along the dotted line",
+        "reveal_open": "Open the pack",
         "sleeve_label": "{{child}}’s sticker",
         "sleeve_none": "Choose practice days to start collecting.",
         "sleeve_none_hint": "Each practice day brings a surprise sticker.",

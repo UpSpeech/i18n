@@ -1146,6 +1146,8 @@
         "picture_alt": "Imagen {{n}}",
         "practice_log": "Registro de práctica",
         "record": "Grabar",
+        "reveal_hint": "Rasga por la línea de puntos",
+        "reveal_open": "Abrir el sobre",
         "sleeve_label": "Pegatina de {{child}}",
         "sleeve_none": "Elige los días de práctica para empezar a coleccionar.",
         "sleeve_none_hint": "Cada día de práctica trae una pegatina sorpresa.",
