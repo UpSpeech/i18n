@@ -209,7 +209,9 @@
     "frozen_placeholder": "Não podes enviar mensagens numa conversa fechada",
     "unread_count_one": "{{count}} mensagem por ler",
     "unread_count_other": "{{count}} mensagens por ler",
-    "born_on": "Data de nascimento: {{date}}"
+    "born_on": "Data de nascimento: {{date}}",
+    "no_therapist_title": "Ainda não tens terapeuta",
+    "no_therapist_description": "As mensagens vão para o terapeuta atribuído à conta, e ainda não há nenhum. A clínica pode tratar disso."
   },
   "practice": {
     "title": "Praticar mini jogos",
@@ -1201,7 +1203,11 @@
         "path_step_done": "Feito",
         "path_step_sessions_one": "{{count}} sessão até agora",
         "path_step_sessions_other": "{{count}} sessões até agora",
-        "path_step_days": "Dias de prática: {{days}}"
+        "path_step_days": "Dias de prática: {{days}}",
+        "empty_finished_title": "{{child, o_start}} terminou o plano",
+        "empty_finished_hint": "Todos os passos estão feitos. Fala com o terapeuta sobre o que vem a seguir.",
+        "empty_no_open_step_title": "Não há nenhum passo aberto para {{child, o}} neste momento",
+        "empty_no_open_step_hint": "O plano está definido, mas hoje não há nada para praticar. Fala com o terapeuta se estavas à espera de um passo."
       }
     },
     "sharing": {

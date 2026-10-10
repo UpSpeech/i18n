@@ -2470,5 +2470,15 @@
   "redesign_stickers_peek_choose": "Choose practice days to win {{sticker}}",
   "redesign_stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
   "redesign_stickers_peek_label": "Stickers to win: {{list}}",
-  "patient_home_finished_goals_more": "You completed: {{goals}} and {{count}} more"
+  "patient_home_finished_goals_more": "You completed: {{goals}} and {{count}} more",
+  "caregiver_home_finished_title": "{{name}} has finished the plan",
+  "caregiver_home_finished_hint": "Their therapist sets what comes next. You can chat with them in the meantime.",
+  "patient_home_waiting_title": "Your next step is not open yet",
+  "patient_home_waiting_hint": "Your therapist opens it for you. Message them if you want to know when.",
+  "therapist_path_none_hint": "Set up the learning path from the web app. It appears here once it exists.",
+  "therapist_path_paused_title": "{{name}}'s plan is paused",
+  "therapist_path_paused_hint": "Practice is closed until you resume it. Resume it from the web app.",
+  "therapist_path_finished_title": "{{name}} has finished the plan",
+  "therapist_path_waiting_title": "No step is open for {{name}}",
+  "therapist_path_waiting_hint": "Start the next one from the Learning path tab."
 }

@@ -2470,5 +2470,15 @@
   "redesign_stickers_peek_choose": "Elige los días de práctica para ganar {{sticker}}",
   "redesign_stickers_peek_therapist": "Las pegatinas empiezan cuando el terapeuta de {{child}} fije los días de práctica",
   "redesign_stickers_peek_label": "Pegatinas por ganar: {{list}}",
-  "patient_home_finished_goals_more": "Has completado: {{goals}} y {{count}} más"
+  "patient_home_finished_goals_more": "Has completado: {{goals}} y {{count}} más",
+  "caregiver_home_finished_title": "{{name}} ha terminado el plan",
+  "caregiver_home_finished_hint": "Su terapeuta define lo que viene después. Mientras tanto, puedes escribirle.",
+  "patient_home_waiting_title": "Tu próximo paso aún no está abierto",
+  "patient_home_waiting_hint": "Tu terapeuta lo abre. Escríbele si quieres saber cuándo.",
+  "therapist_path_none_hint": "Crea la ruta de aprendizaje desde la aplicación web. Aparece aquí en cuanto exista.",
+  "therapist_path_paused_title": "El plan de {{name}} está en pausa",
+  "therapist_path_paused_hint": "La práctica está cerrada hasta que lo reanudes. Reanúdalo desde la aplicación web.",
+  "therapist_path_finished_title": "{{name}} ha terminado el plan",
+  "therapist_path_waiting_title": "No hay ningún paso abierto para {{name}}",
+  "therapist_path_waiting_hint": "Inicia el siguiente desde la pestaña Ruta."
 }

@@ -78,6 +78,8 @@
     "duplicate_file_no_report": "Este archivo ya ha sido subido.",
     "configuration": "Configuración",
     "entity_audio_file": "Archivo de audio",
-    "select_patient_placeholder": "Selecciona un paciente..."
+    "select_patient_placeholder": "Selecciona un paciente...",
+    "no_patients_title": "Añade primero un paciente",
+    "no_patients_description": "Una grabación se guarda en el historial de un paciente, y todavía no tienes pacientes asignados."
   }
 }
