@@ -1107,7 +1107,6 @@
       "caregiver_start": "Empezar con {{child}}",
       "no_schedule_eyebrow": "Aún sin plan semanal",
       "load_failed": "El plan no cargó.",
-      "paused_child": "El terapeuta de {{name}} ha puesto su recorrido en pausa. Una pausa corta forma parte del proceso.",
       "day_state": {
         "done": "hecho",
         "missed": "perdido",
@@ -1124,7 +1123,6 @@
       "practise_anyway": "Practicar de todos modos",
       "set_days_in_settings": "Elige los días de práctica de {{child}} en Ajustes",
       "redesign": {
-        "coach_title": "Un minuto para ti, antes de que {{child}} empiece",
         "goal_almost": "Casi lo tienes",
         "goal_more": "{{count}} más",
         "goal_one_step": "Un paso",
@@ -1152,8 +1150,6 @@
         "step_number": "Paso {{current}}",
         "step_number_minutes": "Paso {{current}} · unos {{count}} min",
         "stickers_choose_days": "Elige los días en que {{child}} practica para empezar a ganar pegatinas como estas.",
-        "stickers_count": "{{done}} de {{planned}} pegatinas",
-        "stickers_none_planned": "Aún no has elegido días de práctica",
         "stickers_next_win": "Practica en uno de los días elegidos para ganar {{sticker}}",
         "stickers_title": "Las pegatinas de {{child}}",
         "today": "Hoy",
@@ -1184,9 +1180,6 @@
           "fish": "Pececito dorado",
           "zap": "Rayo"
         },
-        "coach_from": "De {{therapist}}",
-        "coach_play_aid": "Escuchar {{title}}",
-        "coach_pause_aid": "Pausar {{title}}",
         "goal_your_step": "Tu paso ahora",
         "child_path_title": "El camino de {{child}}",
         "child_path_here": "Ahora: {{step}}",
@@ -1202,21 +1195,13 @@
         "overdue_line_other": "{{count}} ejercicios están atrasados.",
         "overdue_open": "Abrirlos",
         "patient_meta_untitled": "{{weekday}} · unos {{count}} min",
-        "path_steps_title": "Los pasos de {{goal}}",
         "path_step_now": "El paso de {{child}} ahora",
         "path_step_next": "Siguiente",
         "path_step_finished": "Terminado el {{date}}",
         "path_step_done": "Hecho",
         "path_step_sessions_one": "{{count}} sesión hasta ahora",
         "path_step_sessions_other": "{{count}} sesiones hasta ahora",
-        "path_step_days": "Practica los {{days}}",
-        "path_goals_title": "Los objetivos de {{child}}",
-        "path_goal_of": "Objetivo {{current}} de {{total}}",
-        "path_goal_steps_done_zero": "Aún no hay pasos completados",
-        "path_goal_steps_done_one": "{{count}} paso completado",
-        "path_goal_steps_done_other": "{{count}} pasos completados",
-        "path_goal_done": "Hecho",
-        "path_goal_later": "Más adelante"
+        "path_step_days": "Practica los {{days}}"
       }
     },
     "sharing": {
