@@ -1627,6 +1627,7 @@
   "caregiver_try_first_note": "Prueba. No se guarda ni se envía nada.",
   "caregiver_try_first_reason": "Prueba uno tú primero, para que te resulte familiar cuando te sientes con {{child}}.",
   "caregiver_home_empty_title": "Todavía no hay nada que practicar",
+  "caregiver_home_empty_hint": "El terapeuta de {{name}} define el primer ejercicio. Aparece aquí en cuanto lo haga.",
   "caregiver_home_empty_hint_rehearsal": "El terapeuta de {{name}} define el primer ejercicio. Puedes probarlo tú primero, antes de practicar juntos.",
   "caregiver_companion_step_title": "Conoce a {{companion}}",
   "caregiver_companion_step_body": "{{companion}} hace compañía a {{child}} cuando practicáis. Después de vuestra primera práctica juntos, {{child}} elige el color de {{companion}}.",
