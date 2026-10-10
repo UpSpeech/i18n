@@ -2463,5 +2463,11 @@
   "redesign_stickers_peek_choose": "Escolhe os dias de prática para ganhar {{sticker}}",
   "redesign_stickers_peek_therapist": "Os autocolantes começam quando o terapeuta de {{child}} definir os dias de prática",
   "redesign_stickers_peek_label": "Autocolantes para ganhar: {{list}}",
+  "redesign_sleeve_label": "Autocolante de {{child}}",
+  "redesign_sleeve_none": "Escolhe os dias de prática para começar a coleção.",
+  "redesign_sleeve_none_hint": "Cada dia de prática traz um autocolante surpresa.",
+  "redesign_sleeve_rest": "Dia de descanso. Praticar também conta, e o próximo autocolante é {{day}}.",
+  "redesign_sleeve_today": "Há um autocolante à espera de {{child}} hoje.",
+  "redesign_sleeve_today_hint": "Pratica com {{child}} para descobrir qual é.",
   "patient_home_finished_goals_more": "Concluíste: {{goals}} e mais {{count}}"
 }

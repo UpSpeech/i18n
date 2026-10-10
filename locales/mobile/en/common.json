@@ -2463,5 +2463,11 @@
   "redesign_stickers_peek_choose": "Choose practice days to win {{sticker}}",
   "redesign_stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
   "redesign_stickers_peek_label": "Stickers to win: {{list}}",
+  "redesign_sleeve_label": "{{child}}’s sticker",
+  "redesign_sleeve_none": "Choose practice days to start collecting.",
+  "redesign_sleeve_none_hint": "Each practice day brings a surprise sticker.",
+  "redesign_sleeve_rest": "Rest day. Practice still counts, and the next sticker is on {{day}}.",
+  "redesign_sleeve_today": "A sticker is waiting for {{child}} today.",
+  "redesign_sleeve_today_hint": "Practise together to see which one.",
   "patient_home_finished_goals_more": "You completed: {{goals}} and {{count}} more"
 }
