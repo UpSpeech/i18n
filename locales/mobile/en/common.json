@@ -1627,7 +1627,6 @@
   "caregiver_try_first_note": "Try-run. Nothing is saved or sent.",
   "caregiver_try_first_reason": "Try one on your own first, so it feels familiar when you sit down with {{child}}.",
   "caregiver_home_empty_title": "Nothing to practise yet",
-  "caregiver_home_empty_hint": "{{name}}'s therapist sets the first exercise. It appears here as soon as they do.",
   "caregiver_home_empty_hint_rehearsal": "{{name}}'s therapist sets the first exercise. You can try it yourself first, before you practise together.",
   "caregiver_companion_step_title": "Meet {{companion}}",
   "caregiver_companion_step_body": "{{companion}} keeps {{child}} company when you practise. After your first practice together, {{child}} picks {{companion}}'s colour.",
