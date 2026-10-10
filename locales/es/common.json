@@ -1146,6 +1146,7 @@
         "picture_alt": "Imagen {{n}}",
         "practice_log": "Registro de práctica",
         "record": "Grabar",
+        "sleeve_label": "Pegatina de {{child}}",
         "sleeve_none": "Elige los días de práctica para empezar a coleccionar.",
         "sleeve_none_hint": "Cada día de práctica trae una pegatina sorpresa.",
         "sleeve_rest": "Día de descanso. Practicar también cuenta, y la próxima pegatina es el {{day}}.",

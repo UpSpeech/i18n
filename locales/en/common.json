@@ -1146,6 +1146,7 @@
         "picture_alt": "Picture {{n}}",
         "practice_log": "Practice log",
         "record": "Record",
+        "sleeve_label": "{{child}}’s sticker",
         "sleeve_none": "Choose practice days to start collecting.",
         "sleeve_none_hint": "Each practice day brings a surprise sticker.",
         "sleeve_rest": "Rest day. Practice still counts, and the next sticker is on {{day}}.",
