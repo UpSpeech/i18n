@@ -34,7 +34,8 @@
     "note_saved": "Nota guardada",
     "note_deleted": "Nota eliminada",
     "note_save_error": "Error al guardar nota. Por favor intenta de nuevo.",
-    "note_hint": "Haz clic en un día para añadir una nota"
+    "note_hint": "Haz clic en un día para añadir una nota",
+    "load_failed": "Las valoraciones diarias no se cargaron."
   },
   "patient_trend": {
     "title": "Día a día",

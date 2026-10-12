@@ -386,7 +386,9 @@
     "switch_label": "A acompanhar {{name}}",
     "therapist_note_title": "{{therapist, de_start}}",
     "practice_sessions_one": "sessão",
-    "practice_sessions_other": "sessões"
+    "practice_sessions_other": "sessões",
+    "reminder_load_failed": "O lembrete diário não carregou.",
+    "feedback_load_failed": "O feedback recente não carregou."
   },
   "view_switch": {
     "label": "Mudar de vista",

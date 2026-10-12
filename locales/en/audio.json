@@ -78,6 +78,8 @@
     "duplicate_file_no_report": "This file has already been uploaded.",
     "configuration": "Configuration",
     "entity_audio_file": "Audio file",
-    "select_patient_placeholder": "Select a patient..."
+    "select_patient_placeholder": "Select a patient...",
+    "no_patients_title": "Add a patient first",
+    "no_patients_description": "A recording is saved to a patient's record, and you have no patients assigned yet."
   }
 }

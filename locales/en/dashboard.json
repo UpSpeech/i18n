@@ -386,7 +386,9 @@
     "switch_label": "Acting for {{name}}",
     "therapist_note_title": "From {{therapist}}",
     "practice_sessions_one": "session",
-    "practice_sessions_other": "sessions"
+    "practice_sessions_other": "sessions",
+    "reminder_load_failed": "The daily reminder did not load.",
+    "feedback_load_failed": "Recent feedback did not load."
   },
   "view_switch": {
     "label": "Switch view",

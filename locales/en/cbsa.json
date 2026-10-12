@@ -77,7 +77,8 @@
     "q3_short": "Tension",
     "q4_short": "Energy",
     "q5_short": "Conversation avoidance",
-    "q6_short": "Anxiety"
+    "q6_short": "Anxiety",
+    "load_failed": "The CBSA history did not load."
   },
   "patient_progress": {
     "page_title": "Your check-ins",

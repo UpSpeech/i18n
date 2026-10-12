@@ -386,7 +386,9 @@
     "switch_label": "Acompañando a {{name}}",
     "therapist_note_title": "De {{therapist}}",
     "practice_sessions_one": "sesión",
-    "practice_sessions_other": "sesiones"
+    "practice_sessions_other": "sesiones",
+    "reminder_load_failed": "El recordatorio diario no se cargó.",
+    "feedback_load_failed": "El feedback reciente no se cargó."
   },
   "view_switch": {
     "label": "Cambiar de vista",

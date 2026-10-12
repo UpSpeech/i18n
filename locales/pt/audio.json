@@ -78,6 +78,8 @@
     "duplicate_file_no_report": "Este ficheiro já foi carregado.",
     "configuration": "Configuração",
     "entity_audio_file": "Ficheiro de áudio",
-    "select_patient_placeholder": "Seleciona um paciente..."
+    "select_patient_placeholder": "Seleciona um paciente...",
+    "no_patients_title": "Adiciona primeiro um paciente",
+    "no_patients_description": "Uma gravação fica guardada no registo de um paciente, e ainda não tens pacientes atribuídos."
   }
 }

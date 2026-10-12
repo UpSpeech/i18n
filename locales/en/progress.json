@@ -32,7 +32,10 @@
       "reflection": "Reflection",
       "modeling": "Modelling",
       "observation": "Observation"
-    }
+    },
+    "finished_named": "{{name}} finished the learning path",
+    "load_failed": "We could not load {{name}}'s learning path. Please try again.",
+    "no_open_step": "No step is open right now"
   },
   "back_to_patients": "Back to patients",
   "habit": {
