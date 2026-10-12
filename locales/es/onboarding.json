@@ -151,7 +151,14 @@
       "your_control": "Puedes pedirle a {{therapist}} que borre todo lo de {{child}} cuando quieras, y la clínica tiene que hacerlo.",
       "statement": "Tengo la responsabilidad parental sobre {{child}}, o cuento con la autorización de quien la ejerce para actuar en su nombre.",
       "continue": "Continuar",
-      "error": "No hemos podido registrarlo. Inténtalo de nuevo."
+      "error": "No hemos podido registrarlo. Inténtalo de nuevo.",
+      "note_label": "Tu nota para la clínica",
+      "note_send": "Enviar",
+      "note_send_again": "Enviar otra vez",
+      "note_sent_title": "Tu nota se ha enviado.",
+      "note_sent_body": "La clínica se pondrá en contacto contigo.",
+      "note_failed": "No hemos podido enviar tu nota. El texto sigue aquí, así que puedes intentarlo de nuevo.",
+      "note_no_therapist": "No hemos podido enviar tu nota, porque {{child}} todavía no tiene terapeuta en la clínica. Ponte en contacto directamente con la clínica."
     },
     "tour": {
       "companion_alt": "Tu compañero",

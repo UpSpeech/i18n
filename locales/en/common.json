@@ -1372,7 +1372,9 @@
       "more_to_come": "{{count}} more when they get there",
       "empty_title": "Nothing set out yet",
       "empty_hint": "Their therapist builds this. It appears here as soon as they do.",
-      "load_failed": "The plan did not load. Try again in a moment."
+      "load_failed": "The plan did not load. Try again in a moment.",
+      "practise_again": "Practise a step again",
+      "practise_again_hint": "Pick a step below to practise it again."
     },
     "caregiver_guide_step": "Step {{n}} of {{total}}",
     "caregiver_practice_with": "Practise with {{child}}",
@@ -1557,7 +1559,8 @@
       "start_done": "Step {{number}} is open now.",
       "start_group_opens": "Will open",
       "keep_only_done": "Step {{number}} is the only open step now."
-    }
+    },
+    "keep_practising": "Keep practising"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",

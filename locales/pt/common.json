@@ -1372,7 +1372,9 @@
       "more_to_come": "Mais {{count}} quando lá chegar",
       "empty_title": "Ainda não há nada definido",
       "empty_hint": "É o terapeuta que constrói isto. Aparece aqui assim que o fizer.",
-      "load_failed": "O plano não carregou. Tenta outra vez daqui a pouco."
+      "load_failed": "O plano não carregou. Tenta outra vez daqui a pouco.",
+      "practise_again": "Praticar um passo outra vez",
+      "practise_again_hint": "Escolhe um passo abaixo para o praticarem outra vez."
     },
     "caregiver_guide_step": "Passo {{n}} de {{total}}",
     "caregiver_practice_with": "Praticar com {{child, o}}",
@@ -1557,7 +1559,8 @@
       "start_done": "O passo {{number}} está aberto agora.",
       "start_group_opens": "Vai abrir",
       "keep_only_done": "O passo {{number}} é agora o único aberto."
-    }
+    },
+    "keep_practising": "Continuar a praticar"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

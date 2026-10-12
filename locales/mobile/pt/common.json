@@ -2495,5 +2495,10 @@
   "no_patients_added_by_therapist": "Os pacientes são adicionados por um terapeuta.",
   "patients_empty_what_admin": "Os pacientes são adicionados por um terapeuta. Cada um tem uma página com as gravações e o progresso.",
   "notifications_empty_description_therapist": "As novas submissões e mensagens dos teus pacientes aparecerão aqui.",
-  "notifications_empty_description_caregiver": "As atualizações do terapeuta do teu filho e sobre a prática dele aparecerão aqui."
+  "notifications_empty_description_caregiver": "As atualizações do terapeuta do teu filho e sobre a prática dele aparecerão aqui.",
+  "patient_home_finished_practise": "Continuar a praticar",
+  "messages_empty_patient_hello": "Diz olá a {{name}}.",
+  "messages_empty_caregiver_hello": "Diz olá {{therapist, a}} ou faz uma pergunta sobre {{child, o}}.",
+  "coach_empty_no_patients": "Pergunta como funciona a UpSpeech.",
+  "coach_empty_no_patients_description": "Obtém respostas sobre como adicionar um paciente, montar um plano ou qualquer outra coisa na app. Quando tiveres pacientes, também podes perguntar pela prática deles."
 }

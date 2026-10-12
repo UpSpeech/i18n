@@ -151,7 +151,14 @@
       "your_control": "Podes pedir {{therapist, a}} que apague tudo sobre {{child, o}} quando quiseres, e a clínica tem de o fazer.",
       "statement": "Tenho responsabilidade parental sobre {{child, o}}, ou tenho autorização de quem a exerce para agir em nome desta criança.",
       "continue": "Continuar",
-      "error": "Não conseguimos registar isso. Tenta outra vez."
+      "error": "Não conseguimos registar isso. Tenta outra vez.",
+      "note_label": "A tua nota para a clínica",
+      "note_send": "Enviar",
+      "note_send_again": "Enviar outra vez",
+      "note_sent_title": "A tua nota foi enviada.",
+      "note_sent_body": "A clínica vai entrar em contacto contigo.",
+      "note_failed": "Não conseguimos enviar a tua nota. O texto continua aqui, por isso podes tentar outra vez.",
+      "note_no_therapist": "Não conseguimos enviar a tua nota, porque {{child, o}} ainda não tem terapeuta na clínica. Contacta a clínica diretamente."
     },
     "tour": {
       "companion_alt": "O teu companheiro",

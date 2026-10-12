@@ -2495,5 +2495,10 @@
   "no_patients_added_by_therapist": "Patients are added by a therapist.",
   "patients_empty_what_admin": "Patients are added by a therapist. Each one gets a page for their recordings and progress.",
   "notifications_empty_description_therapist": "New submissions and messages from your patients will appear here.",
-  "notifications_empty_description_caregiver": "Updates from your child's therapist and about their practice will appear here."
+  "notifications_empty_description_caregiver": "Updates from your child's therapist and about their practice will appear here.",
+  "patient_home_finished_practise": "Keep practising",
+  "messages_empty_patient_hello": "Say hello to {{name}}.",
+  "messages_empty_caregiver_hello": "Say hello to {{name}}, or ask a question about {{child}}.",
+  "coach_empty_no_patients": "Ask how UpSpeech works.",
+  "coach_empty_no_patients_description": "Get answers about adding a patient, building a plan or anything else in the app. Once you have patients, you can ask about their practice too."
 }
