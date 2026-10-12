@@ -385,6 +385,7 @@
     "reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes.",
     "switch_label": "Acompañando a {{name}}",
     "therapist_note_title": "De {{therapist}}",
+    "therapist_note_reply": "Responder",
     "practice_sessions_one": "sesión",
     "practice_sessions_other": "sesiones",
     "reminder_load_failed": "El recordatorio diario no se cargó.",
