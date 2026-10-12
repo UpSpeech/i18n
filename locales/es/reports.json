@@ -180,5 +180,7 @@
   "recording_restarted": "Procesamiento de la grabación reiniciado",
   "regenerated_success": "Informe regenerado",
   "report_number": "Informe #{{id}}",
-  "status_failed": "Fallido"
+  "status_failed": "Fallido",
+  "no_reports_no_patients_description": "Un informe nace de la grabación de un paciente. Añade un paciente para empezar.",
+  "no_reports_description_therapist": "Un informe aparece aquí cuando grabas o subes una sesión de un paciente."
 }

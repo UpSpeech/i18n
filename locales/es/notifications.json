@@ -95,8 +95,16 @@
       "path_work_assigned": "Nueva práctica",
       "path_work_assigned_desc": "Cuando tu terapeuta añade un paso a tu plan",
       "direct_message": "Mensajes directos",
-      "direct_message_desc": "Cuando alguien te envía un mensaje nuevo"
-    }
+      "direct_message_desc": "Cuando alguien te envía un mensaje nuevo",
+      "practice_reminder_desc_caregiver": "Recordatorios para practicar con tu hijo",
+      "therapist_feedback_desc_caregiver": "Cuando el terapeuta de tu hijo deja feedback sobre su práctica",
+      "goal_completed_desc_caregiver": "Cuando tu hijo termina todos los pasos de un objetivo",
+      "path_work_assigned_desc_caregiver": "Cuando el terapeuta de tu hijo añade un paso a su plan"
+    },
+    "your_practice_caregiver": "La práctica de tu hijo",
+    "your_practice_description_caregiver": "Notificaciones sobre los ejercicios y el progreso de tu hijo en la terapia"
   },
-  "rate_limited": "Notificado hace {{hours}}h"
+  "rate_limited": "Notificado hace {{hours}}h",
+  "empty_what_therapist": "Los mensajes de tus pacientes y los recordatorios sobre su práctica aparecen aquí.",
+  "empty_what_caregiver": "Los mensajes del terapeuta de tu hijo y los recordatorios sobre su práctica aparecen aquí."
 }

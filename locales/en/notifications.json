@@ -95,8 +95,16 @@
       "path_work_assigned": "New practice",
       "path_work_assigned_desc": "When your therapist adds a step to your plan",
       "direct_message": "Direct messages",
-      "direct_message_desc": "When someone sends you a new message"
-    }
+      "direct_message_desc": "When someone sends you a new message",
+      "practice_reminder_desc_caregiver": "Reminders to practise with your child",
+      "therapist_feedback_desc_caregiver": "When your child's therapist leaves feedback on their practice",
+      "goal_completed_desc_caregiver": "When your child finishes every step in a goal",
+      "path_work_assigned_desc_caregiver": "When your child's therapist adds a step to their plan"
+    },
+    "your_practice_caregiver": "Your child's practice",
+    "your_practice_description_caregiver": "Notifications about your child's exercises and progress in therapy"
   },
-  "rate_limited": "Notified {{hours}}h ago"
+  "rate_limited": "Notified {{hours}}h ago",
+  "empty_what_therapist": "Messages from your patients and reminders about their practice appear here.",
+  "empty_what_caregiver": "Messages from your child's therapist and reminders about their practice appear here."
 }
