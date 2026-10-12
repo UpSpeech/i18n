@@ -2466,6 +2466,7 @@
   "caregiver_home_no_child_hint": "Once a therapist links a child to your account, their practice appears here.",
   "caregiver_home_no_child_action": "Open settings",
   "caregiver_therapist_note_row_title": "Message from your therapist",
+  "caregiver_therapist_note_reply": "Reply",
   "redesign_stickers_peek_next": "Practise on a chosen day to win {{sticker}}",
   "redesign_stickers_peek_choose": "Choose practice days to win {{sticker}}",
   "redesign_stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
