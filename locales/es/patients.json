@@ -214,7 +214,12 @@
     "view_step": "Ver paso",
     "message_from": "Mensaje de {{name}}",
     "first_recording": "Tu primera grabación",
-    "first_recording_child": "La primera grabación de {{child}}"
+    "first_recording_child": "La primera grabación de {{child}}",
+    "page_title_caregiver": "Feedback sobre la práctica de {{child}}",
+    "subtitle_caregiver": "Notas que el terapeuta de {{child}} dejó en las prácticas recientes.",
+    "empty_title_caregiver": "El feedback llega después de que {{child}} practique",
+    "empty_description_caregiver": "El terapeuta de {{child}} deja notas después de ver una práctica.",
+    "empty_action_caregiver": "Ir al plan"
   },
   "scenarioSettings": {
     "title": "Ajustes de escenario",
