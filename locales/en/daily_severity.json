@@ -34,7 +34,8 @@
     "note_saved": "Note saved",
     "note_deleted": "Note deleted",
     "note_save_error": "Failed to save note. Please try again.",
-    "note_hint": "Click on a day to add a note"
+    "note_hint": "Click on a day to add a note",
+    "load_failed": "The daily check-ins did not load."
   },
   "patient_trend": {
     "title": "Day by day",

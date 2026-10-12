@@ -77,7 +77,8 @@
     "q3_short": "Tensão",
     "q4_short": "Energia",
     "q5_short": "Evitar conversa",
-    "q6_short": "Ansiedade"
+    "q6_short": "Ansiedade",
+    "load_failed": "O histórico do CBSA não carregou."
   },
   "patient_progress": {
     "page_title": "Os teus registos",
