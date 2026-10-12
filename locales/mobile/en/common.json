@@ -2500,5 +2500,12 @@
   "messages_empty_patient_hello": "Say hello to {{name}}.",
   "messages_empty_caregiver_hello": "Say hello to {{name}}, or ask a question about {{child}}.",
   "coach_empty_no_patients": "Ask how UpSpeech works.",
-  "coach_empty_no_patients_description": "Get answers about adding a patient, building a plan or anything else in the app. Once you have patients, you can ask about their practice too."
+  "coach_empty_no_patients_description": "Get answers about adding a patient, building a plan or anything else in the app. Once you have patients, you can ask about their practice too.",
+  "guardian_note_label": "Your note to the clinic",
+  "guardian_note_send": "Send",
+  "guardian_note_send_again": "Send again",
+  "guardian_note_sent_title": "Your note has been sent.",
+  "guardian_note_sent_body": "The clinic will be in touch.",
+  "guardian_note_failed": "We could not send your note. Your text is still here, so you can try again.",
+  "guardian_note_no_therapist": "We could not send your note, because {{child}} has no therapist at the clinic yet. Please contact the clinic directly."
 }

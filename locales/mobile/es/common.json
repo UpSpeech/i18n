@@ -2500,5 +2500,12 @@
   "messages_empty_patient_hello": "Saluda a {{name}}.",
   "messages_empty_caregiver_hello": "Saluda a {{name}} o haz una pregunta sobre {{child}}.",
   "coach_empty_no_patients": "Pregunta cómo funciona UpSpeech.",
-  "coach_empty_no_patients_description": "Obtén respuestas sobre cómo añadir un paciente, crear un plan o cualquier otra cosa de la app. Cuando tengas pacientes, también podrás preguntar por su práctica."
+  "coach_empty_no_patients_description": "Obtén respuestas sobre cómo añadir un paciente, crear un plan o cualquier otra cosa de la app. Cuando tengas pacientes, también podrás preguntar por su práctica.",
+  "guardian_note_label": "Tu nota para la clínica",
+  "guardian_note_send": "Enviar",
+  "guardian_note_send_again": "Enviar otra vez",
+  "guardian_note_sent_title": "Tu nota se ha enviado.",
+  "guardian_note_sent_body": "La clínica se pondrá en contacto contigo.",
+  "guardian_note_failed": "No hemos podido enviar tu nota. El texto sigue aquí, así que puedes intentarlo de nuevo.",
+  "guardian_note_no_therapist": "No hemos podido enviar tu nota, porque {{child}} todavía no tiene terapeuta en la clínica. Ponte en contacto directamente con la clínica."
 }
