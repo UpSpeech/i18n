@@ -385,6 +385,7 @@
     "reminder_save_failed": "Não conseguimos guardar o lembrete. Tenta de novo, ou muda-o mais tarde nas Definições.",
     "switch_label": "A acompanhar {{name}}",
     "therapist_note_title": "{{therapist, de_start}}",
+    "therapist_note_reply": "Responder",
     "practice_sessions_one": "sessão",
     "practice_sessions_other": "sessões",
     "reminder_load_failed": "O lembrete diário não carregou.",

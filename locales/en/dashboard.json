@@ -385,6 +385,7 @@
     "reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings.",
     "switch_label": "Acting for {{name}}",
     "therapist_note_title": "From {{therapist}}",
+    "therapist_note_reply": "Reply",
     "practice_sessions_one": "session",
     "practice_sessions_other": "sessions",
     "reminder_load_failed": "The daily reminder did not load.",
