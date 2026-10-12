@@ -151,7 +151,14 @@
       "your_control": "You can ask {{therapist}} to delete everything about {{child}} at any time, and the clinic has to do it.",
       "statement": "I hold parental responsibility for {{child}}, or I have the guardian's authority to act for them.",
       "continue": "Continue",
-      "error": "We could not record that. Try again."
+      "error": "We could not record that. Try again.",
+      "note_label": "Your note to the clinic",
+      "note_send": "Send",
+      "note_send_again": "Send again",
+      "note_sent_title": "Your note has been sent.",
+      "note_sent_body": "The clinic will be in touch.",
+      "note_failed": "We could not send your note. Your text is still here, so you can try again.",
+      "note_no_therapist": "We could not send your note, because {{child}} has no therapist at the clinic yet. Please contact the clinic directly."
     },
     "tour": {
       "companion_alt": "Your companion",

@@ -1372,7 +1372,9 @@
       "more_to_come": "{{count}} más cuando llegue",
       "empty_title": "Aún no hay nada definido",
       "empty_hint": "Lo construye su terapeuta. Aparece aquí en cuanto lo haga.",
-      "load_failed": "El plan no cargó. Inténtalo de nuevo en un momento."
+      "load_failed": "El plan no cargó. Inténtalo de nuevo en un momento.",
+      "practise_again": "Practicar un paso otra vez",
+      "practise_again_hint": "Elige un paso de abajo para practicarlo otra vez."
     },
     "caregiver_guide_step": "Paso {{n}} de {{total}}",
     "caregiver_practice_with": "Practicar con {{child}}",
@@ -1557,7 +1559,8 @@
       "start_done": "El paso {{number}} ya está abierto.",
       "start_group_opens": "Se abrirá",
       "keep_only_done": "El paso {{number}} es ahora el único abierto."
-    }
+    },
+    "keep_practising": "Seguir practicando"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
