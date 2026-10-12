@@ -490,5 +490,22 @@
     "path": {
       "step_figures": "Passo atual. {{attempts}} tentativas, {{minutes}} min."
     }
+  },
+  "caregiver_demo": {
+    "launch": "Mostrar a app do cuidador",
+    "title": "Demonstração para o cuidador",
+    "description": "A app do cuidador, com sessão iniciada numa família inventada. Nada daqui chega a uma criança real.",
+    "frame_title": "A app do cuidador",
+    "starting_point": "Ponto de partida",
+    "normal_day": "Um dia normal",
+    "first_time": "Primeira vez",
+    "start_again": "Recomeçar",
+    "try_again": "Tentar novamente",
+    "preparing": "A preparar a demonstração",
+    "no_answer": "A app do cuidador não respondeu. Verifica a ligação e tenta novamente.",
+    "refused": "A demonstração para o cuidador não está ativa na tua clínica.",
+    "rate_limited": "Iniciaste a demonstração muitas vezes na última hora. Espera um pouco e tenta novamente.",
+    "unavailable": "Não foi possível preparar a demonstração agora. Tenta novamente dentro de alguns minutos.",
+    "failed": "A demonstração não abriu. Tenta novamente."
   }
 }

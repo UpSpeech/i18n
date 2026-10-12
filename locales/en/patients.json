@@ -490,5 +490,22 @@
     "path": {
       "step_figures": "Current step. {{attempts}} attempts, {{minutes}} min."
     }
+  },
+  "caregiver_demo": {
+    "launch": "Show the caregiver app",
+    "title": "Caregiver demo",
+    "description": "The caregiver app, signed in as a made-up family. Nothing here reaches a real child.",
+    "frame_title": "The caregiver app",
+    "starting_point": "Starting point",
+    "normal_day": "A normal day",
+    "first_time": "First time",
+    "start_again": "Start again",
+    "try_again": "Try again",
+    "preparing": "Getting the demo ready",
+    "no_answer": "The caregiver app did not answer. Check your connection and try again.",
+    "refused": "The caregiver demo is not switched on for your clinic.",
+    "rate_limited": "You have started the demo many times in the last hour. Wait a little, then try again.",
+    "unavailable": "The demo cannot be prepared just now. Try again in a few minutes.",
+    "failed": "The demo did not open. Try again."
   }
 }
