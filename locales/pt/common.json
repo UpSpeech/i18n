@@ -1516,6 +1516,8 @@
       "paused_title": "O percurso está em pausa",
       "paused_body": "Não avança, e {{name}} não tem sessões planeadas até o retomares.",
       "now_in": "Agora · {{goal}}",
+      "more_open_one": "Há mais {{count}} passo aberto. Escolhe-o na lista para o veres aqui.",
+      "more_open_other": "Há mais {{count}} passos abertos. Escolhe um na lista para o veres aqui.",
       "step_kind": "Passo {{number}} · {{kind}}",
       "step_number": "Passo {{number}}",
       "attempts_one": "{{count}} tentativa",

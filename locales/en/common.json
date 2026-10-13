@@ -1516,6 +1516,8 @@
       "paused_title": "The path is paused",
       "paused_body": "It does not advance, and {{name}} has no planned sessions until you resume it.",
       "now_in": "Now · {{goal}}",
+      "more_open_one": "{{count}} more step is open. Pick it in the list to see it here.",
+      "more_open_other": "{{count}} more steps are open. Pick one in the list to see it here.",
       "step_kind": "Step {{number}} · {{kind}}",
       "step_number": "Step {{number}}",
       "attempts_one": "{{count}} attempt",
