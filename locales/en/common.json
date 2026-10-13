@@ -222,27 +222,19 @@
   },
   "practice": {
     "title": "Practice mini-games",
-    "subtitle": "Practise on your own, whenever you like. None of this is assigned.",
-    "search_placeholder": "Search mini-games...",
     "no_history": "You haven't completed any practice sessions yet.",
     "no_history_title": "No practice history",
     "no_history_what": "Each session you record shows up here, ready to play back.",
     "start_practicing": "Start practising now",
     "annotate": "Annotate",
-    "library": "Library",
     "history_title": "Practice history",
     "history_subtitle": "View your practice session recordings",
     "scenarios": "Scenarios",
-    "from_your_journey": "From your journey",
-    "view_step": "View step",
-    "journey_exercises_hint": "Exercises from {{stepTitle}} (Step {{stepNumber}})",
-    "all_exercises": "All exercises",
     "history_subtitle_scenarios": "View your completed scenario sessions",
     "mini_game_recordings": "Mini game recordings",
     "scenario_sessions": "Scenario sessions",
     "scenarios_subtitle": "Practise conversations in realistic scenarios.",
-    "scenarios_title": "Scenarios",
-    "library_empty": "No mini-games in the library yet"
+    "scenarios_title": "Scenarios"
   },
   "settings": {
     "manage_account_info": "Your email, your name and your companion.",
@@ -731,8 +723,6 @@
       "queue_counter": "{{current}} of {{total}} achievements",
       "tap_hint_dynamic": "Press {{label}} to continue"
     },
-    "practicing_from_journey": "Practising from your journey",
-    "back_to_step": "Back to step",
     "step_subtitle": "Step {{number}}",
     "back_to_journey": "Back to journey",
     "step_not_found_title": "Step not found",

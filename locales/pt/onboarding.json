@@ -202,10 +202,6 @@
           "filters_content": "Filtra por estado para encontrares o que precisa da tua atenção."
         },
         "practice": {
-          "library_title": "Biblioteca de exercícios",
-          "library_content": "Escolhe destes exercícios para praticares quando quiseres.",
-          "button_title": "Começar a praticar",
-          "button_content": "Carrega no botão de prática para iniciares uma sessão de gravação.",
           "scenarios_title": "Cenários de conversa",
           "scenarios_content": "Experimenta cenários de conversa para situações de prática realistas."
         }
