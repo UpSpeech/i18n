@@ -202,10 +202,6 @@
           "filters_content": "Filter by status to find what needs your attention."
         },
         "practice": {
-          "library_title": "Exercise library",
-          "library_content": "Choose from these exercises to practise anytime you want.",
-          "button_title": "Start practising",
-          "button_content": "Hit the practice button to start a recording session.",
           "scenarios_title": "Conversation scenarios",
           "scenarios_content": "Try conversation scenarios for realistic practice situations."
         }

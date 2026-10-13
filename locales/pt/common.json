@@ -215,27 +215,19 @@
   },
   "practice": {
     "title": "Praticar mini jogos",
-    "subtitle": "Pratica por conta própria, quando quiseres. Nada disto está atribuído.",
-    "search_placeholder": "Pesquisar mini jogos...",
     "no_history": "Ainda não completaste sessões de prática.",
     "no_history_title": "Sem histórico de prática",
     "no_history_what": "Cada sessão que gravares aparece aqui, pronta para voltares a ver.",
     "start_practicing": "Começar a praticar agora",
     "annotate": "Anotar",
-    "library": "Biblioteca",
     "history_title": "Histórico de prática",
     "history_subtitle": "Visualiza as tuas gravações de sessões de prática",
     "scenarios": "Cenários",
-    "from_your_journey": "Da tua jornada",
-    "view_step": "Ver passo",
-    "journey_exercises_hint": "Exercícios de {{stepTitle}} (Passo {{stepNumber}})",
-    "all_exercises": "Todos os exercícios",
     "history_subtitle_scenarios": "Ver as tuas sessões de cenário concluídas",
     "mini_game_recordings": "Gravações de mini jogos",
     "scenario_sessions": "Sessões de cenário",
     "scenarios_subtitle": "Pratica conversas em cenários realistas.",
-    "scenarios_title": "Cenários",
-    "library_empty": "Ainda não há mini jogos na biblioteca"
+    "scenarios_title": "Cenários"
   },
   "settings": {
     "manage_account_info": "O teu email, o teu nome e o teu companheiro.",
@@ -731,8 +723,6 @@
       "queue_counter": "{{current}} de {{total}} conquistas",
       "tap_hint_dynamic": "Prime {{label}} para continuares"
     },
-    "practicing_from_journey": "A praticar da tua jornada",
-    "back_to_step": "Voltar ao passo",
     "step_subtitle": "Passo {{number}}",
     "back_to_journey": "Voltar à jornada",
     "step_not_found_title": "Passo não encontrado",
