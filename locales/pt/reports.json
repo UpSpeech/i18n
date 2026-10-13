@@ -182,5 +182,9 @@
   "report_number": "Relatório #{{id}}",
   "status_failed": "Falhou",
   "no_reports_no_patients_description": "Um relatório nasce da gravação de um paciente. Adiciona um paciente para começar.",
-  "no_reports_description_therapist": "Um relatório aparece aqui depois de gravares ou enviares uma sessão de um paciente."
+  "no_reports_description_therapist": "Um relatório aparece aqui depois de gravares ou enviares uma sessão de um paciente.",
+  "table": {
+    "date": "Data",
+    "summary": "Resumo da sessão"
+  }
 }

@@ -182,5 +182,9 @@
   "report_number": "Report #{{id}}",
   "status_failed": "Failed",
   "no_reports_no_patients_description": "A report comes from a patient's recording. Add a patient to get started.",
-  "no_reports_description_therapist": "A report appears here once you record or upload a session for a patient."
+  "no_reports_description_therapist": "A report appears here once you record or upload a session for a patient.",
+  "table": {
+    "date": "Date",
+    "summary": "Session summary"
+  }
 }
