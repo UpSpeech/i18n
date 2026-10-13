@@ -973,6 +973,8 @@
     "exercise_visible": "Visible to patient",
     "exercise_visible_hint": "When off, this exercise is hidden from the patient",
     "exercises_built_in": "Exercises for this step are built into the curriculum.",
+    "exercises_when_step_opens": "The patient gets these exercises when the step opens.",
+    "exercises_editable_when_open": "You can add or change exercises once the step opens.",
     "has_therapist_feedback": "Therapist feedback available",
     "hidden": "Hidden",
     "intro_video": "Introduction",

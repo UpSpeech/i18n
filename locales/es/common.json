@@ -973,6 +973,8 @@
     "exercise_visible": "Visible para el paciente",
     "exercise_visible_hint": "Cuando está desactivado, este ejercicio queda oculto para el paciente",
     "exercises_built_in": "Los ejercicios para este paso forman parte del currículo.",
+    "exercises_when_step_opens": "El paciente recibe estos ejercicios cuando se abra el paso.",
+    "exercises_editable_when_open": "Puedes añadir o cambiar ejercicios cuando se abra el paso.",
     "has_therapist_feedback": "Feedback del terapeuta disponible",
     "hidden": "Oculto",
     "intro_video": "Introducción",
