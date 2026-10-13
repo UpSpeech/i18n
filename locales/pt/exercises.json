@@ -1128,7 +1128,7 @@
       "long_hop_hint": "muitos saltos"
     },
     "pause_road": {
-      "to_the_flag": "O jogo acaba quando o carro chega à bandeira.",
+      "to_the_flag": "O jogo acaba quando o carro chega à meta.",
       "instructions_picture": "Descreve a imagem. Quando parares, segura o botão.",
       "instructions_free": "Conta o que quiseres. Quando parares, segura o botão.",
       "mode_picture": "Descrever uma imagem",
