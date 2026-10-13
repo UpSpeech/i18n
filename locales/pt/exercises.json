@@ -1055,6 +1055,7 @@
     "child_moment_button": "Falar com {{name}}"
   },
   "parameter": {
+    "road_length": "Estrada · {{count}}s",
     "hold_target": "Manter · {{count}}s",
     "exit": "Saída: {{speed}}",
     "exit_timed": "Saída: {{speed}} · {{count}}s",
@@ -1066,6 +1067,8 @@
       "natural": "natural"
     },
     "fields": {
+      "road_length": "Duração da estrada",
+      "road_no_end": "Sem fim",
       "hold_time": "Duração da retenção",
       "no_target": "Sem alvo",
       "seconds": "{{seconds}} segundos",
@@ -1125,6 +1128,7 @@
       "long_hop_hint": "muitos saltos"
     },
     "pause_road": {
+      "to_the_flag": "O jogo acaba quando o carro chega à meta.",
       "instructions_picture": "Descreve a imagem. Quando parares, segura o botão.",
       "instructions_free": "Conta o que quiseres. Quando parares, segura o botão.",
       "mode_picture": "Descrever uma imagem",
