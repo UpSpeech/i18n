@@ -1055,6 +1055,7 @@
     "child_moment_button": "Contárselo a {{name}}"
   },
   "parameter": {
+    "road_length": "Carretera · {{count}}s",
     "hold_target": "Mantener · {{count}}s",
     "exit": "Salida: {{speed}}",
     "exit_timed": "Salida: {{speed}} · {{count}}s",
@@ -1066,6 +1067,8 @@
       "natural": "natural"
     },
     "fields": {
+      "road_length": "Duración de la carretera",
+      "road_no_end": "Sin fin",
       "hold_time": "Duración de la retención",
       "no_target": "Sin objetivo",
       "seconds": "{{seconds}} segundos",
@@ -1125,6 +1128,7 @@
       "long_hop_hint": "muchos saltos"
     },
     "pause_road": {
+      "to_the_flag": "El juego termina cuando el coche llega a la bandera.",
       "instructions_picture": "Describe la imagen. Cuando pares, mantén pulsado el botón.",
       "instructions_free": "Cuenta lo que quieras. Cuando pares, mantén pulsado el botón.",
       "mode_picture": "Describir una imagen",

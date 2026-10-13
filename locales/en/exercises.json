@@ -1055,6 +1055,7 @@
     "child_moment_button": "Tell {{name}}"
   },
   "parameter": {
+    "road_length": "Road · {{count}}s",
     "hold_target": "Hold target · {{count}}s",
     "exit": "Exit: {{speed}}",
     "exit_timed": "Exit: {{speed}} · {{count}}s",
@@ -1066,6 +1067,8 @@
       "natural": "natural"
     },
     "fields": {
+      "road_length": "Road length",
+      "road_no_end": "No end",
       "hold_time": "Hold time",
       "no_target": "No target",
       "seconds": "{{seconds}} seconds",
@@ -1125,6 +1128,7 @@
       "long_hop_hint": "lots of hops"
     },
     "pause_road": {
+      "to_the_flag": "The game ends when the car reaches the flag.",
       "instructions_picture": "Describe the picture. When you pause, hold the button.",
       "instructions_free": "Talk about anything. When you pause, hold the button.",
       "mode_picture": "Describe a picture",
