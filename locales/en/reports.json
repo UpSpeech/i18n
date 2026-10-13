@@ -186,5 +186,17 @@
   "table": {
     "date": "Date",
     "summary": "Session summary"
+  },
+  "confirmation": {
+    "recording_expires_one": "This recording is deleted in {{count}} hour, or as soon as you confirm the report.",
+    "recording_expires_other": "This recording is deleted in {{count}} hours, or as soon as you confirm the report.",
+    "recording_deleted": "The recording was deleted. The transcript is kept.",
+    "confirm": "Confirm report",
+    "confirm_title": "Confirm this report?",
+    "confirm_body": "You are confirming you have reviewed this report. The recording is deleted now and cannot be recovered.",
+    "confirm_action": "Confirm and delete recording",
+    "confirmed_by": "Confirmed by {{name}} on {{date}}",
+    "confirm_success": "Report confirmed",
+    "confirm_failed": "The report could not be confirmed. Try again."
   }
 }

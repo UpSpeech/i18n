@@ -186,5 +186,17 @@
   "table": {
     "date": "Fecha",
     "summary": "Resumen de la sesión"
+  },
+  "confirmation": {
+    "recording_expires_one": "Esta grabación se elimina en {{count}} hora, o en cuanto confirmes el informe.",
+    "recording_expires_other": "Esta grabación se elimina en {{count}} horas, o en cuanto confirmes el informe.",
+    "recording_deleted": "La grabación se ha eliminado. La transcripción se conserva.",
+    "confirm": "Confirmar informe",
+    "confirm_title": "¿Confirmar este informe?",
+    "confirm_body": "Estás confirmando que has revisado este informe. La grabación se elimina ahora y no se puede recuperar.",
+    "confirm_action": "Confirmar y eliminar grabación",
+    "confirmed_by": "Confirmado por {{name}} el {{date}}",
+    "confirm_success": "Informe confirmado",
+    "confirm_failed": "No se pudo confirmar el informe. Inténtalo de nuevo."
   }
 }
