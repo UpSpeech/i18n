@@ -182,5 +182,9 @@
   "report_number": "Informe #{{id}}",
   "status_failed": "Fallido",
   "no_reports_no_patients_description": "Un informe nace de la grabación de un paciente. Añade un paciente para empezar.",
-  "no_reports_description_therapist": "Un informe aparece aquí cuando grabas o subes una sesión de un paciente."
+  "no_reports_description_therapist": "Un informe aparece aquí cuando grabas o subes una sesión de un paciente.",
+  "table": {
+    "date": "Fecha",
+    "summary": "Resumen de la sesión"
+  }
 }
