@@ -1516,6 +1516,8 @@
       "paused_title": "La ruta está en pausa",
       "paused_body": "No avanza, y {{name}} no tiene sesiones planificadas hasta que la reanudes.",
       "now_in": "Ahora · {{goal}}",
+      "more_open_one": "Hay {{count}} paso más abierto. Elígelo en la lista para verlo aquí.",
+      "more_open_other": "Hay {{count}} pasos más abiertos. Elige uno en la lista para verlo aquí.",
       "step_kind": "Paso {{number}} · {{kind}}",
       "step_number": "Paso {{number}}",
       "attempts_one": "{{count}} intento",
