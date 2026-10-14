@@ -1309,7 +1309,7 @@
   "recent_feedback_empty_hint": "O feedback do teu terapeuta aparece aqui depois de as tuas sessões de prática serem revistas.",
   "recent_feedback_empty_hint_he": "O feedback do teu terapeuta aparece aqui depois de ele rever as tuas sessões de prática.",
   "recent_feedback_empty_hint_she": "O feedback do teu terapeuta aparece aqui depois de ela rever as tuas sessões de prática.",
-  "recent_feedback_empty_hint_named": "Quando {{therapist, o}} rever as tuas sessões de prática, o feedback aparece aqui.",
+  "recent_feedback_empty_hint_named": "Quando {{therapist, o}} revir as tuas sessões de prática, o feedback aparece aqui.",
   "recent_feedback_type_recording": "Gravação de prática",
   "recent_feedback_type_mini_game": "Mini-jogo",
   "recent_feedback_type_scenario": "Cenário de conversa",
