@@ -1415,6 +1415,7 @@
       "filter_image": "Images",
       "filter_video": "Videos",
       "filter_audio": "Audio",
+      "filter_document": "Documents",
       "search": "Search aids",
       "record_video": "Record video",
       "record_audio": "Record audio",
@@ -1437,6 +1438,8 @@
       "select": "Select {{title}}",
       "patient_heading": "How to do it",
       "image_alt": "{{title}}, image",
+      "document_label": "{{title}}, document",
+      "open_document": "Open the document",
       "saved": "Aids saved",
       "processing_badge": "Preparing",
       "retire_confirm": "Remove"

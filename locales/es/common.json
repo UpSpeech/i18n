@@ -1415,6 +1415,7 @@
       "filter_image": "Imágenes",
       "filter_video": "Vídeos",
       "filter_audio": "Audio",
+      "filter_document": "Documentos",
       "search": "Buscar ayudas",
       "record_video": "Grabar vídeo",
       "record_audio": "Grabar audio",
@@ -1437,6 +1438,8 @@
       "select": "Seleccionar {{title}}",
       "patient_heading": "Cómo hacerlo",
       "image_alt": "{{title}}, imagen",
+      "document_label": "{{title}}, documento",
+      "open_document": "Abrir el documento",
       "saved": "Ayudas guardadas",
       "processing_badge": "Preparando",
       "retire_confirm": "Quitar"
