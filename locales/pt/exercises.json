@@ -38,6 +38,7 @@
   "assign_exercise": "Atribuir exercício",
   "my_exercises": {
     "subtitle": "Pratica exercícios atribuídos pelo teu terapeuta",
+    "subtitle_named": "Pratica exercícios atribuídos {{therapist, por}}",
     "subtitle_therapist": "Acompanha os exercícios que atribuíste aos teus pacientes",
     "subtitle_admin": "Monitoriza todas as atribuições de exercícios na tua organização",
     "no_exercises": "Ainda sem exercícios atribuídos",
@@ -74,9 +75,12 @@
       "patient_notes": "Notas do paciente",
       "patient_notes_placeholder": "Sem notas do paciente",
       "advice_from_therapist": "Conselho do teu terapeuta",
+      "advice_from_therapist_named": "Conselho {{therapist, de}}",
       "therapist_instructions": "Instruções do teu terapeuta",
+      "therapist_instructions_named": "Instruções {{therapist, de}}",
       "additional_instructions": "Instruções adicionais",
-      "reference_video": "Vídeo de referência do teu terapeuta"
+      "reference_video": "Vídeo de referência do teu terapeuta",
+      "reference_video_named": "Vídeo de referência {{therapist, de}}"
     },
     "actions": {
       "start": "Iniciar",
@@ -137,6 +141,7 @@
       "target_reached_message": "Meta atingida",
       "overdue": "Atrasado",
       "overdue_encouragement": "O prazo passou, mas ainda podes concluir os exercícios restantes. O teu terapeuta pode ver o teu progresso.",
+      "overdue_encouragement_named": "O prazo passou, mas ainda podes concluir os exercícios restantes. {{therapist, o_start}} pode ver o teu progresso.",
       "day_streak": "Sequência de {{count}} dias",
       "completion_history": "Histórico de conclusões",
       "no_completions": "Ainda sem conclusões. Começa o teu primeiro exercício!",
@@ -896,11 +901,13 @@
     "submit": "Continuar"
   },
   "recording_duration_hint": "Gravações mais longas (3+ minutos) ajudam o teu terapeuta a dar melhor feedback.",
+  "recording_duration_hint_named": "Gravações mais longas (3+ minutos) ajudam {{therapist, o}} a dar melhor feedback.",
   "difficulty_level": "Dificuldade: {{level}}",
   "not_found": "Exercício não encontrado",
   "retry_reason": {
     "title": "Sem problema, vamos tentar de novo",
     "description": "Se quiseres, diz-nos o que aconteceu. O teu terapeuta lê isso nesta tentativa.",
+    "description_named": "Se quiseres, diz-nos o que aconteceu. {{therapist, o_start}} lê isso nesta tentativa.",
     "reasons": {
       "background_noise": "Demasiado ruído de fundo",
       "wanted_practice": "Queria praticar mais primeiro",

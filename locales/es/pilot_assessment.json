@@ -50,6 +50,7 @@
   "thank_you": {
     "title": "¡Gracias, {{name}}!",
     "message": "Hemos recibido ambas grabaciones. Tu terapeuta las revisará y se pondrá en contacto pronto.",
+    "message_named": "Hemos recibido ambas grabaciones. {{therapist}} las revisará y se pondrá en contacto pronto.",
     "stay_message": "Puedes cerrar esta página. Te avisaremos cuando tu acceso a la plataforma esté listo.",
     "logout": "Cerrar sesión",
     "go_to_app": "Ir a la aplicación"
@@ -57,8 +58,10 @@
   "control_group": {
     "title": "Tu inscripción está confirmada, {{name}}",
     "message": "Hemos recibido tus grabaciones. ¡Gracias por participar en este estudio! Tu terapeuta se pondrá en contacto sobre tu plan de práctica.",
+    "message_named": "Hemos recibido tus grabaciones. ¡Gracias por participar en este estudio! {{therapist}} se pondrá en contacto sobre tu plan de práctica.",
     "practice_hint": "No necesitas hacer nada más aquí por ahora. Nos pondremos en contacto cuando el período del estudio haya concluido.",
-    "contact_hint": "¿Preguntas? Contacta directamente con tu terapeuta."
+    "contact_hint": "¿Preguntas? Contacta directamente con tu terapeuta.",
+    "contact_hint_named": "¿Preguntas? Contacta directamente con {{therapist}}."
   },
   "errors": {
     "load_failed": "Algo salió mal al cargar la evaluación. Actualiza la página.",

@@ -5,6 +5,7 @@
     "greeting_evening": "Boa noite, {{name}}",
     "question": "Qual foi a gravidade da tua gaguez hoje?",
     "helper": "Demora um momento. Tu e o teu terapeuta podem rever as tuas respostas por data.",
+    "helper_named": "Demora um momento. Tu e {{therapist, o}} podem rever as tuas respostas por data.",
     "label_start": "Sem gaguez",
     "label_end": "Extremamente grave",
     "choose_value": "Escolhe um valor para continuar",

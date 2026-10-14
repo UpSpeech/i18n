@@ -5,7 +5,8 @@
         "title": "Boas-vindas à UpSpeech!",
         "title_he": "Bem-vindo à UpSpeech!",
         "title_she": "Bem-vinda à UpSpeech!",
-        "description": "Isto é para a prática entre as tuas sessões. O teu terapeuta atribui os exercícios, tu gravas a tua prática, e o teu terapeuta ouve como correu."
+        "description": "Isto é para a prática entre as tuas sessões. O teu terapeuta atribui os exercícios, tu gravas a tua prática, e o teu terapeuta ouve como correu.",
+        "description_named": "Isto é para a prática entre as tuas sessões. {{therapist, o_start}} atribui os exercícios, tu gravas a tua prática, e {{therapist, o}} ouve como correu."
       },
       "caregiver": {
         "title": "Olá, {{name}}",
@@ -42,6 +43,7 @@
         },
         "patient": {
           "description": "Como completar os exercícios que o teu terapeuta te atribui e gravar a tua prática",
+          "description_named": "Como completar os exercícios que {{therapist, o}} te atribui e gravar a tua prática",
           "title": "Primeiros passos como paciente"
         },
         "therapist": {
@@ -204,6 +206,7 @@
         "exercise": {
           "list_title": "As tuas tarefas",
           "list_content": "O teu terapeuta atribui exercícios aqui para completares.",
+          "list_content_named": "{{therapist, o_start}} atribui exercícios aqui para completares.",
           "card_title": "Detalhes do exercício",
           "card_content": "Clica em qualquer exercício para veres os detalhes e começar a praticar.",
           "filters_title": "Filtrar exercícios",

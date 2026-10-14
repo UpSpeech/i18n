@@ -50,6 +50,7 @@
   "thank_you": {
     "title": "Thank you, {{name}}!",
     "message": "We've received both of your recordings. Your therapist will review them and get back to you soon.",
+    "message_named": "We've received both of your recordings. {{therapist}} will review them and get back to you soon.",
     "stay_message": "You can close this page now. We'll let you know when your full platform access is ready.",
     "logout": "Log out",
     "go_to_app": "Go to the app"
@@ -57,8 +58,10 @@
   "control_group": {
     "title": "You're enrolled, {{name}}",
     "message": "We've received your recordings. Thank you for participating in this study! Your therapist will be in touch about your practice plan.",
+    "message_named": "We've received your recordings. Thank you for participating in this study! {{therapist}} will be in touch about your practice plan.",
     "practice_hint": "There's nothing else you need to do here for now. We'll reach out when the study period is complete.",
-    "contact_hint": "Questions? Reach out to your therapist directly."
+    "contact_hint": "Questions? Reach out to your therapist directly.",
+    "contact_hint_named": "Questions? Reach out to {{therapist}} directly."
   },
   "errors": {
     "load_failed": "Something went wrong loading the assessment. Please refresh the page.",

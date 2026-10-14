@@ -39,6 +39,7 @@
   "my_exercises": {
     "active_days": "Active days",
     "subtitle": "Practice exercises assigned by your therapist",
+    "subtitle_named": "Practice exercises assigned by {{therapist}}",
     "subtitle_therapist": "Track exercises you've assigned to your patients",
     "subtitle_admin": "Monitor all exercise assignments across your organisation",
     "no_exercises": "No exercises found",
@@ -75,9 +76,12 @@
       "patient_notes": "Patient notes",
       "patient_notes_placeholder": "No notes from patient",
       "advice_from_therapist": "Advice from your therapist",
+      "advice_from_therapist_named": "Advice from {{therapist}}",
       "therapist_instructions": "Instructions from your therapist",
+      "therapist_instructions_named": "Instructions from {{therapist}}",
       "additional_instructions": "Additional instructions",
-      "reference_video": "Reference video from your therapist"
+      "reference_video": "Reference video from your therapist",
+      "reference_video_named": "Reference video from {{therapist}}"
     },
     "actions": {
       "start": "Start",
@@ -160,6 +164,7 @@
       "target_reached_message": "Target reached",
       "overdue": "Overdue",
       "overdue_encouragement": "The deadline has passed, but you can still complete the remaining exercises. Your therapist can see your progress.",
+      "overdue_encouragement_named": "The deadline has passed, but you can still complete the remaining exercises. {{therapist}} can see your progress.",
       "day_streak": "{{count}} day streak",
       "completion_history": "Completion history",
       "no_completions": "No completions yet. Start your first exercise!",
@@ -896,11 +901,13 @@
     "submit": "Continue"
   },
   "recording_duration_hint": "Longer recordings (3+ minutes) help your therapist give better feedback.",
+  "recording_duration_hint_named": "Longer recordings (3+ minutes) help {{therapist}} give better feedback.",
   "difficulty_level": "Difficulty: {{level}}",
   "not_found": "Exercise not found",
   "retry_reason": {
     "title": "No problem, let's try again",
     "description": "If you'd like, let us know what happened. Your therapist reads it next to this attempt.",
+    "description_named": "If you'd like, let us know what happened. {{therapist}} reads it next to this attempt.",
     "reasons": {
       "background_noise": "Too much background noise",
       "wanted_practice": "Wanted to practise more first",

@@ -1,6 +1,7 @@
 {
   "overview": "Overview of your speech analysis progress",
   "overview_patient": "What your therapist has set for you this week.",
+  "overview_patient_named": "What {{therapist}} has set for you this week.",
   "overview_therapist": "Your caseload, and what is waiting for you.",
   "overview_admin": "Your organisation's users, patients and activity.",
   "overview_owner": "Every organisation, and the activity across the platform.",
@@ -25,6 +26,7 @@
     "your_progress": "Your progress",
     "no_path_title": "Your plan is not ready yet",
     "no_path_description": "Your therapist is putting your steps together. This screen fills in as soon as they do.",
+    "no_path_description_named": "{{therapist}} is putting your steps together. This screen fills in as soon as they do.",
     "start_exercise": "Start exercise",
     "current_streak": "Current streak, today",
     "consecutive_days": "days",
@@ -87,7 +89,8 @@
       "finished_goals_more": "You completed: {{goals}} and {{count}} more",
       "see_journey": "See your journey",
       "empty_title": "Your plan is on its way",
-      "empty_body": "Your therapist is putting your steps together. They show up here as soon as they are ready."
+      "empty_body": "Your therapist is putting your steps together. They show up here as soon as they are ready.",
+      "empty_body_named": "{{therapist}} is putting your steps together. They show up here as soon as they are ready."
     }
   },
   "therapist": {

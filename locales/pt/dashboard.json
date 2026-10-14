@@ -1,6 +1,7 @@
 {
   "overview": "Visão geral do teu progresso na análise da fala",
   "overview_patient": "O que o teu terapeuta marcou para ti esta semana.",
+  "overview_patient_named": "O que {{therapist, o}} marcou para ti esta semana.",
   "overview_therapist": "Os teus pacientes, e o que está à tua espera.",
   "overview_admin": "Os utilizadores, pacientes e a atividade da tua organização.",
   "overview_owner": "Todas as organizações, e a atividade em toda a plataforma.",
@@ -25,6 +26,7 @@
     "your_progress": "O teu progresso",
     "no_path_title": "O teu plano ainda não está pronto",
     "no_path_description": "O teu terapeuta está a montar os teus passos. Este ecrã preenche-se assim que estiver.",
+    "no_path_description_named": "{{therapist, o_start}} está a montar os teus passos. Este ecrã preenche-se assim que estiver.",
     "start_exercise": "Iniciar exercício",
     "current_streak": "Sequência atual, hoje",
     "consecutive_days": "dias",
@@ -77,9 +79,9 @@
     },
     "state": {
       "message": "Enviar mensagem ao teu terapeuta",
-      "message_named": "Enviar mensagem a {{therapist}}",
+      "message_named": "Enviar mensagem {{therapist, a}}",
       "paused_title": "O teu terapeuta pôs o teu plano em pausa",
-      "paused_title_named": "{{therapist}} pôs o teu plano em pausa",
+      "paused_title_named": "{{therapist, o_start}} pôs o teu plano em pausa",
       "paused_goal": "A prática de {{goal}} está em pausa por agora. O teu progresso está guardado.",
       "paused_body": "A prática está em pausa por agora. O teu progresso está guardado.",
       "finished_title": "Concluíste o teu plano",
@@ -87,7 +89,8 @@
       "finished_goals_more": "Concluíste: {{goals}} e mais {{count}}",
       "see_journey": "Ver a tua jornada",
       "empty_title": "O teu plano está a caminho",
-      "empty_body": "O teu terapeuta está a montar os teus passos. Aparecem aqui assim que estiverem prontos."
+      "empty_body": "O teu terapeuta está a montar os teus passos. Aparecem aqui assim que estiverem prontos.",
+      "empty_body_named": "{{therapist, o_start}} está a montar os teus passos. Aparecem aqui assim que estiverem prontos."
     }
   },
   "therapist": {

@@ -5,7 +5,8 @@
         "title": "Welcome to UpSpeech!",
         "title_he": "Welcome to UpSpeech!",
         "title_she": "Welcome to UpSpeech!",
-        "description": "This is for the practice between your sessions. Your therapist sets the exercises, you record them, and they hear how it went."
+        "description": "This is for the practice between your sessions. Your therapist sets the exercises, you record them, and they hear how it went.",
+        "description_named": "This is for the practice between your sessions. {{therapist}} sets the exercises, you record them, and hears how it went."
       },
       "caregiver": {
         "title": "Hello, {{name}}",
@@ -42,6 +43,7 @@
         },
         "patient": {
           "description": "How to complete the exercises your therapist sets, and record your practice",
+          "description_named": "How to complete the exercises {{therapist}} sets, and record your practice",
           "title": "Getting started as a patient"
         },
         "therapist": {
@@ -204,6 +206,7 @@
         "exercise": {
           "list_title": "Your assignments",
           "list_content": "Your therapist assigns exercises here for you to complete.",
+          "list_content_named": "{{therapist}} assigns exercises here for you to complete.",
           "card_title": "Exercise details",
           "card_content": "Click any exercise to see the details and start practising.",
           "filters_title": "Filter exercises",
