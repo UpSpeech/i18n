@@ -1123,9 +1123,9 @@
     "two_choice": {
       "instructions": "Di la palabra en voz alta. ¿Cómo ha salido?",
       "feather": "Pluma",
-      "feather_hint": "suave y ligera",
+      "feather_hint": "suave",
       "rock": "Roca",
-      "rock_hint": "pesada y fuerte",
+      "rock_hint": "pesada",
       "short_hop": "Corta",
       "short_hop_hint": "pocos saltos",
       "long_hop": "Larga",

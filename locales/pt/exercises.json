@@ -1123,9 +1123,9 @@
     "two_choice": {
       "instructions": "Diz a palavra em voz alta. Como é que saiu?",
       "feather": "Pena",
-      "feather_hint": "suave e leve",
+      "feather_hint": "suave",
       "rock": "Rocha",
-      "rock_hint": "pesada e forte",
+      "rock_hint": "pesada",
       "short_hop": "Curta",
       "short_hop_hint": "poucos saltos",
       "long_hop": "Longa",
