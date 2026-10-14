@@ -1560,7 +1560,29 @@
       "start_group_opens": "Will open",
       "keep_only_done": "Step {{number}} is the only open step now."
     },
-    "keep_practising": "Keep practising"
+    "keep_practising": "Keep practising",
+    "draft": {
+      "title": "An unfinished path",
+      "body_one": "You left it on {{date}} with {{count}} step written. It was not assigned.",
+      "body_other": "You left it on {{date}} with {{count}} steps written. It was not assigned.",
+      "continue": "Keep building",
+      "discard": "Discard",
+      "discard_title": "Discard this path?",
+      "discard_message": "This deletes the goals and steps you wrote. You cannot undo it."
+    },
+    "save_template": {
+      "action": "Save as template",
+      "title": "Save as a template",
+      "description": "Anyone in your clinic can start a new patient from it. We take the patient's name out.",
+      "name": "Name",
+      "notes": "What it is for (optional)",
+      "submit": "Save template",
+      "saved": "Saved as {{name}}",
+      "in_goal": "Goal {{goal}}",
+      "in_step": "Goal {{goal}}, step {{step}}",
+      "name_found": "{{where}} mentions {{name}}",
+      "in_name": "The template name"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
