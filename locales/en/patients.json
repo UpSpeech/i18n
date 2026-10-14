@@ -510,5 +510,15 @@
     "rate_limited": "You have started the demo many times in the last hour. Wait a little, then try again.",
     "unavailable": "The demo cannot be prepared just now. Try again in a few minutes.",
     "failed": "The demo did not open. Try again."
+  },
+  "adult_demo": {
+    "launch": "Show the patient app",
+    "title": "Adult demo",
+    "description": "The patient app, signed in as a made-up adult. Nothing here reaches a real patient.",
+    "frame_title": "The patient app",
+    "card_title": "The patient's app",
+    "card_body": "Open the app as a made-up patient and show what practising at home looks like.",
+    "no_answer": "The patient app did not answer. Check your connection and try again.",
+    "refused": "The demo is not switched on for your clinic."
   }
 }

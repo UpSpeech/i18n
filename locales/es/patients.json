@@ -510,5 +510,15 @@
     "rate_limited": "Has iniciado la demostración muchas veces en la última hora. Espera un poco e inténtalo de nuevo.",
     "unavailable": "No se ha podido preparar la demostración ahora. Inténtalo de nuevo en unos minutos.",
     "failed": "La demostración no se abrió. Inténtalo de nuevo."
+  },
+  "adult_demo": {
+    "launch": "Mostrar la app del paciente",
+    "title": "Demostración para adultos",
+    "description": "La app del paciente, con la sesión iniciada en un adulto inventado. Nada de esto llega a un paciente real.",
+    "frame_title": "La app del paciente",
+    "card_title": "La app del paciente",
+    "card_body": "Abre la app como un paciente inventado y muestra cómo es practicar en casa.",
+    "no_answer": "La app del paciente no respondió. Comprueba la conexión e inténtalo de nuevo.",
+    "refused": "La demostración no está activada en tu clínica."
   }
 }
