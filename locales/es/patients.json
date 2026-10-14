@@ -201,7 +201,12 @@
     "recap_row_reviewed": "Revisado",
     "recap_row_unreviewed": "Sin revisar",
     "recap_row_hint": "Haz clic en una práctica para volver a ella.",
-    "recap_no_note": "Sin nota escrita"
+    "recap_no_note": "Sin nota escrita",
+    "mark_seen": "Marcar como visto",
+    "mark_rest_seen": "Marcar el resto como visto ({{count}})",
+    "recap_row_seen": "Visto",
+    "seen_error": "No se pudo marcar como visto. Inténtalo de nuevo.",
+    "done": "Hecho"
   },
   "recent_feedback": {
     "page_title": "Feedback de tu terapeuta",

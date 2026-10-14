@@ -201,7 +201,12 @@
     "recap_row_reviewed": "Reviewed",
     "recap_row_unreviewed": "Not reviewed",
     "recap_row_hint": "Click a practice to go back to it.",
-    "recap_no_note": "No note written"
+    "recap_no_note": "No note written",
+    "mark_seen": "Mark as seen",
+    "mark_rest_seen": "Mark the rest as seen ({{count}})",
+    "recap_row_seen": "Seen",
+    "seen_error": "Couldn't mark as seen. Try again.",
+    "done": "Done"
   },
   "recent_feedback": {
     "page_title": "Feedback from your therapist",

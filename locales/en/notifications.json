@@ -18,7 +18,9 @@
   },
   "types": {
     "inactive_patient": "{{patient_name}} has been inactive for {{days_inactive}} days",
-    "missing_feedback": "{{patient_name}} has recordings waiting for review ({{hours_since_submission}}h)",
+    "missing_feedback": "{{patient_name}} has {{count}} recordings waiting for your review, the oldest for {{days}} days",
+    "missing_feedback_one": "{{patient_name}} has a recording waiting for your review for {{days}} days",
+    "missing_feedback_other": "{{patient_name}} has {{count}} recordings waiting for your review, the oldest for {{days}} days",
     "practice_reminder": "Time to practise. Your next step is waiting.",
     "practice_reminder_days_one": "It has been a day since you last practised.",
     "practice_reminder_days_other": "It has been {{count}} days since you last practised.",

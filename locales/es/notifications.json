@@ -18,7 +18,9 @@
   },
   "types": {
     "inactive_patient": "{{patient_name}} lleva {{days_inactive}} días sin actividad",
-    "missing_feedback": "{{patient_name}} tiene grabaciones pendientes de revisión ({{hours_since_submission}}h)",
+    "missing_feedback": "{{patient_name}} tiene {{count}} grabaciones por revisar, la más antigua desde hace {{days}} días",
+    "missing_feedback_one": "{{patient_name}} tiene una grabación por revisar desde hace {{days}} días",
+    "missing_feedback_other": "{{patient_name}} tiene {{count}} grabaciones por revisar, la más antigua desde hace {{days}} días",
     "practice_reminder": "Hora de practicar. Tu próximo paso te está esperando.",
     "practice_reminder_days_one": "Ha pasado un día desde tu última práctica.",
     "practice_reminder_days_other": "Han pasado {{count}} días desde tu última práctica.",
