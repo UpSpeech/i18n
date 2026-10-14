@@ -595,7 +595,6 @@
       "voluntary_with_force_desc": "Exagera a tensão. Prime o botão Tensão quando começares a aumentar a tensão, e Libertar quando soltares.",
       "voluntary_without_force_desc": "Os mesmos momentos de gaguez, mas agora suaves e controlados. Marca os momentos para mostrar o teu controlo."
     },
-    "ready_title": "Pronto para praticar",
     "ready_desc": "Inicia a gravação e pratica gaguez voluntária. Usa o botão para marcar os teus momentos.",
     "ready_force_desc": "Inicia a gravação e usa os botões abaixo para marcar quando estás a aumentar a tensão e quando libertas.",
     "completed": "Prática concluída!",
@@ -626,7 +625,6 @@
       "medium_desc": "Mantém o momento e sai a um ritmo moderado e confortável",
       "natural_desc": "Mantém o momento e sai a um ritmo natural de fala"
     },
-    "ready_title": "Pronto para praticar",
     "start_practice": "Iniciar prática",
     "completed_partial": "Prática gravada.",
     "duration_recorded": "Duração: {{duration}}s",
@@ -687,7 +685,6 @@
       "medium_desc": "Uma pausa confortável de 2 segundos. Sente a tranquilidade.",
       "short_desc": "Uma breve pausa de 1 segundo. Rápida e natural."
     },
-    "ready_title": "Pronto para praticar pausas",
     "progress_label": "Pausas completadas",
     "target_reached": "Objetivo alcançado!",
     "completed_full": "Todas as pausas concluídas.",
@@ -722,7 +719,6 @@
     },
     "choose_prompt": "Escolhe uma frase de divulgação para praticar:",
     "level": "Nível {{level}}",
-    "ready_title": "Pronto para praticar",
     "ready_description": "Respira fundo e depois grava-te a dizer a frase de divulgação com confiança.",
     "start_recording": "Iniciar gravação",
     "recording": "A gravar...",
@@ -743,7 +739,6 @@
   },
   "generalisation": {
     "scenario_label": "O teu cenário",
-    "ready_title": "Pronto para a prática final",
     "completed": "Prática concluída!",
     "summary": "Duração: {{duration}}s • {{count}} técnicas usadas",
     "self_rating": "Como te sentes em relação a esta prática?",
@@ -1017,7 +1012,6 @@
     "days_note": "Quem cuida escolhe os dias. Tu defines a frequência e o limite; a família encaixa-o na semana.",
     "preview_label": "Como quem cuida vai ver isto",
     "preview_eyebrow": "Como quem cuida {{child, de}} vai ver isto",
-    "preview_new": "Novo do teu terapeuta",
     "preview_untitled": "Exercício sem título",
     "preview_no_description": "A descrição aparece aqui.",
     "pill_times": "{{count}}× por semana",
@@ -1095,7 +1089,6 @@
   },
   "practice": {
     "unavailable_title": "A prática ainda não está configurada na tua clínica",
-    "unavailable_description": "O teu terapeuta ainda não ativou a biblioteca de prática. A tua jornada tem o que fazer a seguir.",
     "unavailable_action": "Ir para a minha jornada"
   },
   "games": {

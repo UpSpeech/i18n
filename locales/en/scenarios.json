@@ -420,11 +420,9 @@
     "review": "Review"
   },
   "assigned": "Assigned",
-  "assigned_title": "Assigned by your therapist",
   "create_first": "Create your first scenario",
   "due_date": "Due: {{date}}",
   "empty_description_create": "Practise real-world conversations to build your confidence. Choose a category above or create a custom scenario.",
-  "empty_description_wait": "Your therapist hasn't assigned any scenarios yet. Check back soon!",
   "empty_title": "Ready to practise?",
   "empty_title_he": "Ready to practise?",
   "empty_title_she": "Ready to practise?",
