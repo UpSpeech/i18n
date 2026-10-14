@@ -420,11 +420,9 @@
     "review": "Revisar"
   },
   "assigned": "Asignado",
-  "assigned_title": "Asignado por tu terapeuta",
   "create_first": "Crea tu primer escenario",
   "due_date": "Plazo: {{date}}",
   "empty_description_create": "Practica conversaciones del mundo real para ganar confianza. Elige una categoría arriba o crea un escenario personalizado.",
-  "empty_description_wait": "Tu terapeuta aún no ha asignado escenarios. ¡Vuelve pronto!",
   "empty_title": "¿Practicamos?",
   "empty_title_he": "¿Listo para practicar?",
   "empty_title_she": "¿Lista para practicar?",

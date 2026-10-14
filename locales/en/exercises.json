@@ -595,7 +595,6 @@
       "medium_desc": "Hold the moment and exit at a moderate, comfortable pace",
       "natural_desc": "Hold the moment and exit at a natural speaking pace"
     },
-    "ready_title": "Ready to practise",
     "start_practice": "Start practice",
     "completed_partial": "Practice recorded.",
     "duration_recorded": "Duration: {{duration}}s",
@@ -631,7 +630,6 @@
       "voluntary_with_force_desc": "Exaggerate the tension. Press the Tension button when you start adding tension, and Release when you let go.",
       "voluntary_without_force_desc": "Same stuttering moments, but now soft and controlled. Mark the moments to show your control."
     },
-    "ready_title": "Ready to practise",
     "ready_desc": "Start recording and practise voluntary stuttering. Use the button to mark your moments.",
     "ready_force_desc": "Start recording and use the buttons below to mark when you're adding tension and when you release.",
     "completed": "Practice completed!",
@@ -687,7 +685,6 @@
       "medium_desc": "A comfortable 2-second pause. Feel the stillness.",
       "short_desc": "A brief 1-second pause. Quick and natural."
     },
-    "ready_title": "Ready to practise pauses",
     "progress_label": "Pauses completed",
     "target_reached": "Target reached!",
     "completed_full": "All pauses completed.",
@@ -722,7 +719,6 @@
     },
     "choose_prompt": "Choose a disclosure prompt to practise:",
     "level": "Level {{level}}",
-    "ready_title": "Ready to practise",
     "ready_description": "Take a breath, then record yourself saying the disclosure phrase with confidence.",
     "start_recording": "Start recording",
     "recording": "Recording...",
@@ -743,7 +739,6 @@
   },
   "generalisation": {
     "scenario_label": "Your scenario",
-    "ready_title": "Ready for final practice",
     "completed": "Practice complete!",
     "summary": "Duration: {{duration}}s • {{count}} techniques used",
     "self_rating": "How do you feel about this practice?",
@@ -1017,7 +1012,6 @@
     "days_note": "The caregiver chooses which days. You set the frequency and the ceiling; they fit it into the week.",
     "preview_label": "How the caregiver will see it",
     "preview_eyebrow": "How {{child}}'s caregiver will see it",
-    "preview_new": "New from your therapist",
     "preview_untitled": "Untitled exercise",
     "preview_no_description": "The description goes here.",
     "pill_times": "{{count}}× a week",
@@ -1095,7 +1089,6 @@
   },
   "practice": {
     "unavailable_title": "Practice is not set up for your clinic yet",
-    "unavailable_description": "Your therapist has not switched on the practice library. Your journey has what to work on next.",
     "unavailable_action": "Go to my journey"
   },
   "games": {

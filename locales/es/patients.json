@@ -319,7 +319,6 @@
       "title": "Unas preguntas sobre {{child}}",
       "title_self": "Unas preguntas antes de la primera sesión",
       "subtitle_child": "{{therapist}} lee tus respuestas antes de la primera sesión.",
-      "subtitle_self": "Tu logopeda lee tus respuestas antes de la primera sesión.",
       "progress": "Menor {{current}} de {{total}}"
     },
     "empty": {

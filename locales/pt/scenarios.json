@@ -420,11 +420,9 @@
     "review": "Rever"
   },
   "assigned": "Atribuído",
-  "assigned_title": "Atribuído pelo teu terapeuta",
   "create_first": "Cria o teu primeiro cenário",
   "due_date": "Prazo: {{date}}",
   "empty_description_create": "Pratica conversas do dia a dia para ganhar confiança. Escolhe uma categoria acima ou cria um cenário personalizado.",
-  "empty_description_wait": "O teu terapeuta ainda não atribuiu cenários. Volta em breve!",
   "empty_title": "Vamos praticar?",
   "empty_title_he": "Pronto para praticar?",
   "empty_title_she": "Pronta para praticar?",
