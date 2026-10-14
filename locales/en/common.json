@@ -1529,7 +1529,9 @@
       "goal_removed": "Goal removed",
       "goal_kept_title": "{{title}} stays on the path",
       "goal_kept_started": "{{name}} has already started or finished a step in it. A goal stays once anything in it has started, so what {{name}} has done keeps its place. You can still add steps to it.",
-      "goal_kept_curriculum": "This goal comes from the curriculum, so it cannot be removed. You can still add steps to it."
+      "goal_kept_curriculum": "This goal comes from the curriculum, so it cannot be removed. You can still add steps to it.",
+      "goal_name_kept_title": "{{title}} keeps its name",
+      "goal_name_kept_started": "{{name}} has already started or finished a step in it, so the goal keeps the name {{name}} has seen. You can still add steps to it."
     },
     "view": {
       "title": "Path",

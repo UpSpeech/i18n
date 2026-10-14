@@ -36,6 +36,8 @@
   "path_editor_goal_kept_title": "{{title}} se queda en la ruta",
   "path_editor_goal_kept_started": "{{name}} ya empezó o terminó un paso de este objetivo. Un objetivo no se puede quitar una vez que algo en él ha empezado, para que lo que {{name}} ha hecho conserve su lugar. Aún puedes añadirle pasos.",
   "path_editor_goal_kept_curriculum": "Este objetivo viene del currículo, así que no se puede quitar. Aún puedes añadirle pasos.",
+  "path_editor_goal_name_kept_title": "{{title}} conserva su nombre",
+  "path_editor_goal_name_kept_started": "{{name}} ya empezó o terminó un paso de este objetivo, así que el objetivo conserva el nombre que {{name}} ya ha visto. Aún puedes añadirle pasos.",
   "path_editor_rename_save": "Guardar",
   "path_editor_start_now": "Empezar ya",
   "path_editor_start_now_title": "¿Empezar ya este paso?",

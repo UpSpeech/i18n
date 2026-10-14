@@ -36,6 +36,8 @@
   "path_editor_goal_kept_title": "{{title}} stays on the path",
   "path_editor_goal_kept_started": "{{name}} has already started or finished a step in it. A goal stays once anything in it has started, so what {{name}} has done keeps its place. You can still add steps to it.",
   "path_editor_goal_kept_curriculum": "This goal comes from the curriculum, so it cannot be removed. You can still add steps to it.",
+  "path_editor_goal_name_kept_title": "{{title}} keeps its name",
+  "path_editor_goal_name_kept_started": "{{name}} has already started or finished a step in it, so the goal keeps the name {{name}} has seen. You can still add steps to it.",
   "path_editor_rename_save": "Save",
   "path_editor_start_now": "Start this now",
   "path_editor_start_now_title": "Start this step now?",
