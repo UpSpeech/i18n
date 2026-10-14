@@ -5,6 +5,7 @@
   "no_reports_yet": "Ainda sem relatórios",
   "no_reports_description_admin": "Ainda não há relatórios na tua organização.",
   "no_reports_description_client": "O teu terapeuta ainda não criou nenhum relatório. Volta mais tarde.",
+  "no_reports_description_client_named": "{{therapist, o_start}} ainda não criou nenhum relatório. Volta mais tarde.",
   "upload_recording": "Gerar um relatório",
   "type_assessment": "Relatório de avaliação",
   "type_session": "Relatório de sessão",

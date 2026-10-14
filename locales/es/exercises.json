@@ -38,6 +38,7 @@
   "assign_exercise": "Asignar ejercicio",
   "my_exercises": {
     "subtitle": "Practica ejercicios asignados por tu terapeuta",
+    "subtitle_named": "Practica ejercicios asignados por {{therapist}}",
     "subtitle_therapist": "Rastrea ejercicios que has asignado a tus pacientes",
     "subtitle_admin": "Monitorea todas las asignaciones de ejercicios en tu organización",
     "no_exercises": "Aún no hay ejercicios asignados",
@@ -74,9 +75,12 @@
       "patient_notes": "Notas del paciente",
       "patient_notes_placeholder": "Sin notas del paciente",
       "advice_from_therapist": "Consejo de tu terapeuta",
+      "advice_from_therapist_named": "Consejo de {{therapist}}",
       "therapist_instructions": "Instrucciones de tu terapeuta",
+      "therapist_instructions_named": "Instrucciones de {{therapist}}",
       "additional_instructions": "Instrucciones adicionales",
-      "reference_video": "Video de referencia de tu terapeuta"
+      "reference_video": "Video de referencia de tu terapeuta",
+      "reference_video_named": "Video de referencia de {{therapist}}"
     },
     "actions": {
       "start": "Iniciar",
@@ -137,6 +141,7 @@
       "target_reached_message": "Meta alcanzada",
       "overdue": "Atrasado",
       "overdue_encouragement": "La fecha límite ha pasado, pero aún puedes completar los ejercicios restantes. Tu terapeuta puede ver tu progreso.",
+      "overdue_encouragement_named": "La fecha límite ha pasado, pero aún puedes completar los ejercicios restantes. {{therapist}} puede ver tu progreso.",
       "day_streak": "Racha de {{count}} días",
       "completion_history": "Historial de finalizaciones",
       "no_completions": "Aún no hay finalizaciones. ¡Comienza tu primer ejercicio!",
@@ -896,11 +901,13 @@
     "submit": "Continuar"
   },
   "recording_duration_hint": "Las grabaciones más largas (3+ minutos) ayudan a tu terapeuta a darte mejor retroalimentación.",
+  "recording_duration_hint_named": "Las grabaciones más largas (3+ minutos) ayudan a {{therapist}} a darte mejor retroalimentación.",
   "difficulty_level": "Dificultad: {{level}}",
   "not_found": "Ejercicio no encontrado",
   "retry_reason": {
     "title": "Sin problema, intentemos de nuevo",
     "description": "Si quieres, cuéntanos qué pasó. Tu terapeuta lo lee en este intento.",
+    "description_named": "Si quieres, cuéntanos qué pasó. {{therapist}} lo lee en este intento.",
     "reasons": {
       "background_noise": "Demasiado ruido de fondo",
       "wanted_practice": "Quería practicar más primero",

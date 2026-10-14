@@ -5,6 +5,7 @@
   "no_reports_yet": "Aún no hay informes",
   "no_reports_description_admin": "Todavía no hay informes en tu organización.",
   "no_reports_description_client": "Sube una grabación de audio para generar tu primer informe de análisis.",
+  "no_reports_description_client_named": "{{therapist}} aún no ha creado ningún informe. Vuelve más tarde.",
   "upload_recording": "Generar un informe",
   "type_assessment": "Informe de evaluación",
   "type_session": "Informe de sesión",

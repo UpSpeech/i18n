@@ -1,6 +1,7 @@
 {
   "overview": "Resumen de tu progreso en análisis del habla",
   "overview_patient": "Lo que tu terapeuta te ha marcado esta semana.",
+  "overview_patient_named": "Lo que {{therapist}} te ha marcado esta semana.",
   "overview_therapist": "Tus pacientes, y lo que te está esperando.",
   "overview_admin": "Los usuarios, pacientes y la actividad de tu organización.",
   "overview_owner": "Todas las organizaciones, y la actividad en toda la plataforma.",
@@ -25,6 +26,7 @@
     "your_progress": "Tu progreso",
     "no_path_title": "Tu plan aún no está listo",
     "no_path_description": "Tu terapeuta está preparando tus pasos. Esta pantalla se completa en cuanto lo haga.",
+    "no_path_description_named": "{{therapist}} está preparando tus pasos. Esta pantalla se completa en cuanto lo haga.",
     "start_exercise": "Iniciar ejercicio",
     "current_streak": "Racha actual, hoy",
     "consecutive_days": "días",
@@ -87,7 +89,8 @@
       "finished_goals_more": "Has completado: {{goals}} y {{count}} más",
       "see_journey": "Ver tu recorrido",
       "empty_title": "Tu plan está en camino",
-      "empty_body": "Tu terapeuta está preparando tus pasos. Aparecen aquí en cuanto estén listos."
+      "empty_body": "Tu terapeuta está preparando tus pasos. Aparecen aquí en cuanto estén listos.",
+      "empty_body_named": "{{therapist}} está preparando tus pasos. Aparecen aquí en cuanto estén listos."
     }
   },
   "therapist": {

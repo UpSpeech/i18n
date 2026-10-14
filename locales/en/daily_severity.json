@@ -5,6 +5,7 @@
     "greeting_evening": "Good evening, {{name}}",
     "question": "How severe was your stuttering today?",
     "helper": "This takes a moment. You and your therapist can look back at your answers by date.",
+    "helper_named": "This takes a moment. You and {{therapist}} can look back at your answers by date.",
     "label_start": "No stuttering",
     "label_end": "Extremely severe",
     "choose_value": "Choose a value to continue",

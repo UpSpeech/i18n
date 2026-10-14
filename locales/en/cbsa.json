@@ -3,6 +3,7 @@
   "title_weekly": "Weekly check-in",
   "description_onboarding": "Answer based on your experience over the past week. There are no right or wrong answers.",
   "description_weekly": "How has your speech been this past week? You and your therapist can compare your answers week to week.",
+  "description_weekly_named": "How has your speech been this past week? You and {{therapist}} can compare your answers week to week.",
   "onboarding_gate": {
     "title": "One quick step before we begin",
     "description": "These 10 questions are your starting point. Later check-ins compare against them. Takes about 3 minutes.",
