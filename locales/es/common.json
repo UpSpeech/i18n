@@ -1520,7 +1520,16 @@
       "discard_edits_title": "¿Descartar los cambios en este paso?",
       "discard_edits_body": "El paso se queda como estaba guardado.",
       "all_saved": "Todos los cambios guardados",
-      "aids_not_saved": "El texto se guardó y las ayudas no: {{reason}}"
+      "aids_not_saved": "El texto se guardó y las ayudas no: {{reason}}",
+      "remove_goal": "Eliminar objetivo",
+      "remove_goal_title": "¿Eliminar {{title}}?",
+      "remove_goal_body_steps_one": "Su paso sale de la ruta de {{name}} con él. {{name}} aún no lo ha abierto.",
+      "remove_goal_body_steps_other": "Sus {{count}} pasos salen de la ruta de {{name}} con él. {{name}} aún no ha abierto ninguno.",
+      "remove_goal_body_empty": "Sale de la ruta de {{name}}.",
+      "goal_removed": "Objetivo eliminado",
+      "goal_kept_title": "{{title}} se queda en la ruta",
+      "goal_kept_started": "{{name}} ya empezó o terminó un paso de este objetivo. Un objetivo se queda en cuanto algo en él empieza, para que lo que {{name}} ha hecho conserve su lugar. Aún puedes añadirle pasos.",
+      "goal_kept_curriculum": "Este objetivo viene del currículo, así que no se puede eliminar. Aún puedes añadirle pasos."
     },
     "view": {
       "title": "Ruta",
