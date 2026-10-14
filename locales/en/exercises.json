@@ -1123,9 +1123,9 @@
     "two_choice": {
       "instructions": "Say the word out loud. How did it come out?",
       "feather": "Feather",
-      "feather_hint": "soft and light",
+      "feather_hint": "soft",
       "rock": "Rock",
-      "rock_hint": "heavy and strong",
+      "rock_hint": "heavy",
       "short_hop": "Short",
       "short_hop_hint": "a few hops",
       "long_hop": "Long",
