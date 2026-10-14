@@ -1440,6 +1440,7 @@
       "image_alt": "{{title}}, image",
       "document_label": "{{title}}, document",
       "open_document": "Open the document",
+      "document_failed": "This document cannot be shown here.",
       "saved": "Aids saved",
       "processing_badge": "Preparing",
       "retire_confirm": "Remove"

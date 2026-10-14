@@ -2080,6 +2080,7 @@
   "aids_image_alt": "{{title}}, image",
   "aids_document_label": "{{title}}, document",
   "aids_open_document": "Open the document",
+  "aids_document_failed": "This document cannot be shown here.",
   "aids_saving": "Saving",
   "aids_saved": "Aids saved",
   "aids_processing_badge": "Preparing",
