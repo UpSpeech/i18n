@@ -17,7 +17,7 @@
     "collapsed_other": "{{count}} más como este"
   },
   "types": {
-    "inactive_patient": "{{patient_name}} lleva {{days_inactive}} días inactivo/a",
+    "inactive_patient": "{{patient_name}} lleva {{days_inactive}} días sin actividad",
     "missing_feedback": "{{patient_name}} tiene grabaciones pendientes de revisión ({{hours_since_submission}}h)",
     "practice_reminder": "Hora de practicar. Tu próximo paso te está esperando.",
     "practice_reminder_days_one": "Ha pasado un día desde tu última práctica.",
@@ -97,14 +97,14 @@
       "direct_message": "Mensajes directos",
       "direct_message_desc": "Cuando alguien te envía un mensaje nuevo",
       "practice_reminder_desc_caregiver": "Recordatorios para practicar con tu hijo",
-      "therapist_feedback_desc_caregiver": "Cuando el terapeuta de tu hijo deja feedback sobre su práctica",
+      "therapist_feedback_desc_caregiver": "Cuando el terapeuta de tu hijo o hija deja feedback sobre su práctica",
       "goal_completed_desc_caregiver": "Cuando tu hijo termina todos los pasos de un objetivo",
-      "path_work_assigned_desc_caregiver": "Cuando el terapeuta de tu hijo añade un paso a su plan"
+      "path_work_assigned_desc_caregiver": "Cuando el terapeuta de tu hijo o hija añade un paso a su plan"
     },
     "your_practice_caregiver": "La práctica de tu hijo",
     "your_practice_description_caregiver": "Notificaciones sobre los ejercicios y el progreso de tu hijo en la terapia"
   },
   "rate_limited": "Notificado hace {{hours}}h",
   "empty_what_therapist": "Los mensajes de tus pacientes y los recordatorios sobre su práctica aparecen aquí.",
-  "empty_what_caregiver": "Los mensajes del terapeuta de tu hijo y los recordatorios sobre su práctica aparecen aquí."
+  "empty_what_caregiver": "Los mensajes del terapeuta y los recordatorios sobre la práctica de tu hijo o hija aparecen aquí."
 }

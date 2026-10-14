@@ -3,6 +3,8 @@
     "welcome": {
       "patient": {
         "title": "Welcome to UpSpeech!",
+        "title_he": "Welcome to UpSpeech!",
+        "title_she": "Welcome to UpSpeech!",
         "description": "This is for the practice between your sessions. Your therapist sets the exercises, you record them, and they hear how it went."
       },
       "caregiver": {
@@ -13,14 +15,20 @@
       },
       "therapist": {
         "title": "Welcome to UpSpeech!",
+        "title_he": "Welcome to UpSpeech!",
+        "title_she": "Welcome to UpSpeech!",
         "description": "Manage your patients, draft reports with AI, and assign exercises."
       },
       "admin": {
         "title": "Welcome to UpSpeech!",
+        "title_he": "Welcome to UpSpeech!",
+        "title_she": "Welcome to UpSpeech!",
         "description": "Manage your organisation, customise branding, and oversee platform usage."
       },
       "default": {
         "title": "Welcome to UpSpeech!",
+        "title_he": "Welcome to UpSpeech!",
+        "title_she": "Welcome to UpSpeech!",
         "description": "Your speech therapy platform is ready to use."
       },
       "video": {

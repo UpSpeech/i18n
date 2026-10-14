@@ -95,7 +95,6 @@
     "greeting_morning": "Bom dia",
     "greeting_afternoon": "Boa tarde",
     "greeting_evening": "Boa noite",
-    "greeting_title_prefix": "Bem-vindo de volta",
     "total_patients": "Total de pacientes",
     "patients_under_care": "Pacientes sob cuidados",
     "view_all_patients": "Todos os pacientes",
@@ -403,7 +402,7 @@
   },
   "caregiver_requests": {
     "title": "{{therapist, o_start}} quer adicionar {{child, o}} à tua conta",
-    "body": "Passarias a acompanhar a prática {{child, de}} e a orientá-la com o teu próprio acesso. Ficas indicado como {{relationship}}.",
+    "body": "Passarias a acompanhar a prática {{child, de}} e a orientá-la com o teu próprio acesso. Passas a constar como {{relationship}}.",
     "accept": "Aceitar",
     "decline": "Recusar",
     "error": "Não foi possível responder a este pedido. Tenta novamente.",

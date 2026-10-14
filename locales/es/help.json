@@ -92,15 +92,21 @@
       "description": "Revisar grabaciones y ver la estación de anotaciones"
     },
     "welcome_patient": {
-      "title": "Bienvenido a UpSpeech",
+      "title": "Te damos la bienvenida a UpSpeech",
+      "title_he": "Bienvenido a UpSpeech",
+      "title_she": "Bienvenida a UpSpeech",
       "description": "Un recorrido rápido por la plataforma y lo que puedes hacer como paciente"
     },
     "welcome_therapist": {
-      "title": "Bienvenido a UpSpeech",
+      "title": "Te damos la bienvenida a UpSpeech",
+      "title_he": "Bienvenido a UpSpeech",
+      "title_she": "Bienvenida a UpSpeech",
       "description": "Un recorrido rápido por la plataforma y lo que puedes hacer como terapeuta"
     },
     "welcome_admin": {
-      "title": "Bienvenido a UpSpeech",
+      "title": "Te damos la bienvenida a UpSpeech",
+      "title_he": "Bienvenido a UpSpeech",
+      "title_she": "Bienvenida a UpSpeech",
       "description": "Un recorrido rápido por la plataforma y lo que puedes hacer como administrador"
     }
   },

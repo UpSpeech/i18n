@@ -30,7 +30,9 @@
       },
       "coffeeShop": {
         "title": "Order at a coffee shop",
-        "description": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customisations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order."
+        "description": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customisations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order.",
+        "description_he": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customisations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order.",
+        "description_she": "You're at a busy coffee shop and ready to order. The barista is friendly but the line is moving quickly. Order your preferred drink with any customisations (size, milk type, extras) and perhaps a pastry. Handle any questions about your order."
       },
       "newColleague": {
         "title": "Meet a new colleague",
@@ -424,6 +426,8 @@
   "empty_description_create": "Practise real-world conversations to build your confidence. Choose a category above or create a custom scenario.",
   "empty_description_wait": "Your therapist hasn't assigned any scenarios yet. Check back soon!",
   "empty_title": "Ready to practise?",
+  "empty_title_he": "Ready to practise?",
+  "empty_title_she": "Ready to practise?",
   "error_title": "Error loading scenarios",
   "load_details_error": "Failed to load session details. Please try again.",
   "overdue": "Overdue",

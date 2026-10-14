@@ -15,7 +15,7 @@
   "copy_link": "Copiar enlace",
   "revoke": "Revocar",
   "revoke_title": "Revocar invitación",
-  "revoke_confirmation": "¿Estás seguro de que deseas revocar la invitación para {{email}}? Esta acción no se puede deshacer.",
+  "revoke_confirmation": "¿Seguro que deseas revocar la invitación para {{email}}? Esta acción no se puede deshacer.",
   "status": "Estado",
   "status_valid": "Válida",
   "status_used": "Utilizada",

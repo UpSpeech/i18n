@@ -40,7 +40,7 @@
   "recording_failed": "Fallido",
   "report": "informe",
   "delete_report": "Eliminar informe",
-  "delete_confirmation": "¿Estás seguro de que quieres eliminar {{title}}? Esta acción no se puede deshacer.",
+  "delete_confirmation": "¿Seguro que quieres eliminar {{title}}? Esta acción no se puede deshacer.",
   "template": {
     "subtitle": "Informe de logopedia",
     "clinical_analysis": "Informe",
@@ -111,7 +111,7 @@
     "failed_to_create": "Error al crear nota",
     "failed_to_update": "Error al actualizar nota",
     "failed_to_delete": "Error al eliminar nota",
-    "delete_note_confirm": "¿Estás seguro de que deseas eliminar esta nota?",
+    "delete_note_confirm": "¿Seguro que deseas eliminar esta nota?",
     "loading_notes": "Cargando notas...",
     "adding": "Agregando...",
     "add_note": "Agregar nota",
@@ -126,7 +126,7 @@
     "title_placeholder": "Ingresa el título del informe",
     "status_label": "Estado",
     "content_placeholder": "Escribe tu informe clínico aquí...",
-    "unsaved_changes_warning": "Tienes cambios sin guardar. ¿Estás seguro de que deseas salir?",
+    "unsaved_changes_warning": "Tienes cambios sin guardar. ¿Seguro que deseas salir?",
     "unsaved_changes": "Cambios sin guardar",
     "save_and_exit": "Guardar y salir"
   },

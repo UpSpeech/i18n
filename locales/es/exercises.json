@@ -245,7 +245,7 @@
     "step_2_title": "Paso 2: Agregar videos de referencia (opcional)",
     "step_3_title": "Paso 3: Revisar y confirmar",
     "video_upload_success": "Video de referencia subido",
-    "confirm_remove_video": "¿Estás seguro de que quieres eliminar este video de referencia?",
+    "confirm_remove_video": "¿Seguro que quieres eliminar este video de referencia?",
     "video_remove_success": "Video de referencia eliminado",
     "video_record_success": "Video de referencia grabado y subido",
     "record_reference_video": "Grabar video de referencia",
@@ -329,7 +329,7 @@
       "update_button": "Actualizar mini juego",
       "create_button": "Crear mini juego",
       "delete_title": "Eliminar mini juego",
-      "delete_confirmation_message": "¿Estás seguro de que quieres eliminar \"{{title}}\"? Esta acción no se puede deshacer."
+      "delete_confirmation_message": "¿Seguro que quieres eliminar \"{{title}}\"? Esta acción no se puede deshacer."
     },
     "empty_state": {
       "create_first": "Crea tu primer mini juego",
@@ -493,7 +493,9 @@
     "phases": {
       "watch": {
         "description": "Mira este video de principio a fin. Observa cómo fluye el habla naturalmente y cómo aparecen momentos de tartamudeo. No hay nada que hacer todavía, solo observa con curiosidad.",
-        "continue": "Estoy listo para continuar",
+        "continue": "Continuar",
+        "continue_he": "Estoy listo para continuar",
+        "continue_she": "Estoy lista para continuar",
         "revisit_hint": "Puedes volver a ver en cualquier momento."
       },
       "identify_primary": {
@@ -508,7 +510,7 @@
         "progress": "{{completed}} de {{total}} momentos clasificados",
         "all_done": "Todos los momentos clasificados. Buen trabajo.",
         "continue": "Continuar a comportamientos secundarios",
-        "nothing_to_classify": "No hay disfluencias principales que clasificar. Continúa cuando estés listo."
+        "nothing_to_classify": "No hay disfluencias principales que clasificar. Continúa cuando quieras."
       },
       "identify_secondary": {
         "description": "Mira el video una vez más y busca comportamientos secundarios: movimientos o estrategias que acompañan el tartamudeo.",
@@ -563,7 +565,9 @@
     "video": "Vídeo",
     "text": "Texto",
     "think_about": "Piensa en...",
-    "ready_to_record": "Listo para grabar",
+    "ready_to_record": "A grabar",
+    "ready_to_record_he": "Listo para grabar",
+    "ready_to_record_she": "Lista para grabar",
     "start_recording": "Iniciar grabación",
     "stop_recording": "Detener grabación",
     "delete_recording": "Eliminar y regrabar",
@@ -720,13 +724,13 @@
     "stop_recording": "Detener grabación",
     "recorded": "¡Grabación completada!",
     "duration": "Duración: {{duration}}s",
-    "confidence_label": "¿Qué tan seguro te sentiste?",
+    "confidence_label": "¿Cuánta confianza sentiste?",
     "confidence": {
-      "1": "Nada seguro",
-      "2": "Un poco nervioso",
+      "1": "Ninguna confianza",
+      "2": "Algo de nervios",
       "3": "Bien",
-      "4": "Bastante seguro",
-      "5": "Muy seguro"
+      "4": "Bastante confianza",
+      "5": "Mucha confianza"
     },
     "try_again": "Intentar de nuevo",
     "submit": "Enviar práctica",
@@ -901,7 +905,7 @@
       "background_noise": "Demasiado ruido de fondo",
       "wanted_practice": "Quería practicar más primero",
       "mistake": "Cometí un error",
-      "not_ready": "No me sentía preparado/a",
+      "not_ready": "Me faltaba preparación",
       "poor_quality": "Mala calidad de audio/vídeo",
       "other": "Otro motivo"
     },

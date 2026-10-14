@@ -494,6 +494,8 @@
       "watch": {
         "description": "Watch this video from beginning to end. Notice how speech flows naturally, and how moments of stuttering appear. There is nothing to do yet, just observe with curiosity.",
         "continue": "I'm ready to continue",
+        "continue_he": "I'm ready to continue",
+        "continue_she": "I'm ready to continue",
         "revisit_hint": "You can return to re-watch at any point."
       },
       "identify_primary": {
@@ -564,6 +566,8 @@
     "text": "Text",
     "think_about": "Think about...",
     "ready_to_record": "Ready to record",
+    "ready_to_record_he": "Ready to record",
+    "ready_to_record_she": "Ready to record",
     "start_recording": "Start recording",
     "stop_recording": "Stop recording",
     "delete_recording": "Delete & re-record",

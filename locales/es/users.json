@@ -16,7 +16,7 @@
     "delete_user": "Eliminar usuario",
     "update_user": "Actualizar usuario",
     "no_users_description": "Comienza creando tu primer usuario.",
-    "delete_confirmation": "¿Estás seguro de que deseas eliminar a {{name}}? Esta acción no se puede deshacer.",
+    "delete_confirmation": "¿Seguro que deseas eliminar a {{name}}? Esta acción no se puede deshacer.",
     "invite_user": "Invitar usuario",
     "add_user": "Agregar usuario",
     "total_users": "Total de usuarios",

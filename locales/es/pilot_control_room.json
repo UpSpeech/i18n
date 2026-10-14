@@ -303,7 +303,7 @@
       "title": "Motivos de salida temprana de escenarios",
       "info": "Por qué las sesiones de escenario terminaron antes, por grupo. 'Se sintió abrumado' apunta a carga emocional; 'problema técnico' apunta a fricción del producto.",
       "done_for_now": "Por ahora basta",
-      "feeling_overwhelmed": "Se sintió abrumado",
+      "feeling_overwhelmed": "Terminó por agobio",
       "technical_issue": "Problema técnico",
       "try_again_later": "Intentar más tarde"
     },
