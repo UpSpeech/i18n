@@ -1546,7 +1546,18 @@
       "discard_edits_title": "Descartar as alterações a este passo?",
       "discard_edits_body": "O passo fica como estava guardado.",
       "all_saved": "Todas as alterações guardadas",
-      "aids_not_saved": "O texto foi guardado e as ajudas não: {{reason}}"
+      "aids_not_saved": "O texto foi guardado e as ajudas não: {{reason}}",
+      "remove_goal": "Remover objetivo",
+      "remove_goal_title": "Remover {{title}}?",
+      "remove_goal_body_steps_one": "O passo também sai do percurso {{name, de}}. {{name, o_start}} ainda não o começou.",
+      "remove_goal_body_steps_other": "Os {{count}} passos também saem do percurso {{name, de}}. {{name, o_start}} ainda não começou nenhum.",
+      "remove_goal_body_empty": "Sai do percurso {{name, de}}.",
+      "goal_removed": "Objetivo removido",
+      "goal_kept_title": "{{title}} fica no percurso",
+      "goal_kept_started": "{{name, o_start}} já começou ou terminou um passo deste objetivo. Um objetivo fica assim que algo nele começa, para que o que {{name, o}} já fez mantenha o seu lugar. Podes continuar a adicionar-lhe passos.",
+      "goal_kept_curriculum": "Este objetivo vem do currículo, por isso não pode ser removido. Podes continuar a adicionar-lhe passos.",
+      "goal_name_kept_title": "{{title}} mantém o nome",
+      "goal_name_kept_started": "{{name, o_start}} já começou ou terminou um passo deste objetivo, por isso o objetivo mantém o nome que {{name, o}} já viu. Podes continuar a adicionar-lhe passos."
     },
     "view": {
       "title": "Percurso",
