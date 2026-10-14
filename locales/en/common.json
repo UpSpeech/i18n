@@ -1568,19 +1568,20 @@
       "continue": "Keep building",
       "discard": "Discard",
       "discard_title": "Discard this path?",
-      "discard_message": "The goals and steps you wrote are deleted. This cannot be undone."
+      "discard_message": "This deletes the goals and steps you wrote. You cannot undo it."
     },
     "save_template": {
       "action": "Save as template",
       "title": "Save as a template",
-      "description": "Anyone in your clinic can start a new patient from it. The patient's name is taken out.",
+      "description": "Anyone in your clinic can start a new patient from it. We take the patient's name out.",
       "name": "Name",
       "notes": "What it is for (optional)",
       "submit": "Save template",
       "saved": "Saved as {{name}}",
       "in_goal": "Goal {{goal}}",
       "in_step": "Goal {{goal}}, step {{step}}",
-      "name_found": "{{where}} mentions {{name}}"
+      "name_found": "{{where}} mentions {{name}}",
+      "in_name": "The template name"
     }
   },
   "questionnaire": {

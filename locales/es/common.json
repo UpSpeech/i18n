@@ -1568,19 +1568,20 @@
       "continue": "Seguir construyendo",
       "discard": "Descartar",
       "discard_title": "¿Descartar esta ruta?",
-      "discard_message": "Los objetivos y pasos que escribiste se borran. No se puede deshacer."
+      "discard_message": "Esto borra los objetivos y pasos que escribiste. No puedes deshacerlo."
     },
     "save_template": {
       "action": "Guardar como plantilla",
       "title": "Guardar como plantilla",
-      "description": "Cualquiera en tu clínica puede empezar un paciente nuevo a partir de ella. Se quita el nombre del paciente.",
+      "description": "Cualquiera en tu clínica puede empezar un paciente nuevo a partir de ella. Quitamos el nombre del paciente.",
       "name": "Nombre",
       "notes": "Para qué sirve (opcional)",
       "submit": "Guardar plantilla",
       "saved": "Guardada como {{name}}",
       "in_goal": "Objetivo {{goal}}",
       "in_step": "Objetivo {{goal}}, paso {{step}}",
-      "name_found": "{{where}} menciona a {{name}}"
+      "name_found": "{{where}} menciona a {{name}}",
+      "in_name": "El nombre de la plantilla"
     }
   },
   "questionnaire": {

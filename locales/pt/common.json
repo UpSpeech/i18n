@@ -1568,19 +1568,20 @@
       "continue": "Continuar a construir",
       "discard": "Descartar",
       "discard_title": "Descartar este percurso?",
-      "discard_message": "Os objetivos e passos que escreveste são apagados. Não é possível desfazer."
+      "discard_message": "Isto apaga os objetivos e passos que escreveste. Não podes desfazer isto."
     },
     "save_template": {
       "action": "Guardar como modelo",
       "title": "Guardar como modelo",
-      "description": "Qualquer pessoa da tua clínica pode começar um novo paciente a partir dele. O nome do paciente é retirado.",
+      "description": "Qualquer pessoa da tua clínica pode começar um novo paciente a partir dele. Tiramos o nome do paciente.",
       "name": "Nome",
       "notes": "Para que serve (opcional)",
       "submit": "Guardar modelo",
       "saved": "Guardado como {{name}}",
       "in_goal": "Objetivo {{goal}}",
       "in_step": "Objetivo {{goal}}, passo {{step}}",
-      "name_found": "{{where}} menciona {{name}}"
+      "name_found": "{{where}} menciona {{name}}",
+      "in_name": "O nome do modelo"
     }
   },
   "questionnaire": {
