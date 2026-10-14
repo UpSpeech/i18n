@@ -97,14 +97,14 @@
       "direct_message": "Mensagens diretas",
       "direct_message_desc": "Quando alguém te envia uma nova mensagem",
       "practice_reminder_desc_caregiver": "Lembretes para praticares com a tua criança",
-      "therapist_feedback_desc_caregiver": "Quando o terapeuta da tua criança deixa feedback nos treinos dela",
+      "therapist_feedback_desc_caregiver": "Quando o terapeuta da tua criança deixa feedback nos treinos",
       "goal_completed_desc_caregiver": "Quando a tua criança termina todos os passos de um objetivo",
-      "path_work_assigned_desc_caregiver": "Quando o terapeuta da tua criança acrescenta um passo ao plano dela"
+      "path_work_assigned_desc_caregiver": "Quando o terapeuta da tua criança acrescenta um passo ao plano"
     },
     "your_practice_caregiver": "A prática da tua criança",
     "your_practice_description_caregiver": "Notificações sobre os exercícios e o progresso da tua criança na terapia"
   },
   "rate_limited": "Notificado há {{hours}}h",
   "empty_what_therapist": "As mensagens dos teus pacientes e os lembretes sobre a prática deles aparecem aqui.",
-  "empty_what_caregiver": "As mensagens do terapeuta da tua criança e os lembretes sobre a prática dela aparecem aqui."
+  "empty_what_caregiver": "As mensagens do terapeuta e os lembretes sobre a prática da tua criança aparecem aqui."
 }

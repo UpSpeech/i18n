@@ -93,14 +93,20 @@
     },
     "welcome_patient": {
       "title": "Welcome to UpSpeech",
+      "title_he": "Welcome to UpSpeech",
+      "title_she": "Welcome to UpSpeech",
       "description": "A quick tour of the platform and what you can do as a patient"
     },
     "welcome_therapist": {
       "title": "Welcome to UpSpeech",
+      "title_he": "Welcome to UpSpeech",
+      "title_she": "Welcome to UpSpeech",
       "description": "A quick tour of the platform and what you can do as a therapist"
     },
     "welcome_admin": {
       "title": "Welcome to UpSpeech",
+      "title_he": "Welcome to UpSpeech",
+      "title_she": "Welcome to UpSpeech",
       "description": "A quick tour of the platform and what you can do as an admin"
     }
   },

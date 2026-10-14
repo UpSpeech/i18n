@@ -28,6 +28,6 @@
     "granted": "Acceso otorgado.",
     "revoked": "Acceso revocado."
   },
-  "confirm_revoke": "¿Estás seguro de que quieres revocar el acceso de {{name}}? Ya no podrá utilizar esta funcionalidad.",
+  "confirm_revoke": "¿Seguro que quieres revocar el acceso de {{name}}? Ya no podrá utilizar esta funcionalidad.",
   "inherent_access_note": "Los administradores y propietarios siempre tienen este acceso. Usa esta sección para otorgarlo a terapeutas específicos."
 }

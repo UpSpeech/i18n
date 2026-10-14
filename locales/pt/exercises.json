@@ -223,7 +223,7 @@
   },
   "mini_games": {
     "assign_moved_lead": "Atribuir mudou de sítio.",
-    "assign_moved": "Abre um paciente e acrescenta prática ao plano dele.",
+    "assign_moved": "Abre um paciente e acrescenta prática ao respetivo plano.",
     "assign_moved_action": "Ir para os meus pacientes",
     "mini_game": "Mini jogo",
     "mini_game_placeholder": "Seleciona um mini jogo",
@@ -493,7 +493,9 @@
     "phases": {
       "watch": {
         "description": "Assiste a este vídeo do início ao fim. Repara como a fala flui naturalmente e como surgem momentos de gaguez. Não há nada para fazer ainda, apenas observa com curiosidade.",
-        "continue": "Estou pronto para continuar",
+        "continue": "Continuar",
+        "continue_he": "Estou pronto para continuar",
+        "continue_she": "Estou pronta para continuar",
         "revisit_hint": "Podes voltar a rever a qualquer momento."
       },
       "identify_primary": {
@@ -508,7 +510,7 @@
         "progress": "{{completed}} de {{total}} momentos classificados",
         "all_done": "Todos os momentos classificados. Bom trabalho.",
         "continue": "Continuar para comportamentos secundários",
-        "nothing_to_classify": "Não há disfluências principais para classificar. Continua quando estiveres pronto."
+        "nothing_to_classify": "Não há disfluências principais para classificar. Continua quando quiseres."
       },
       "identify_secondary": {
         "description": "Assiste ao vídeo mais uma vez e procura comportamentos secundários: movimentos ou estratégias que acompanham a gaguez.",
@@ -563,7 +565,9 @@
     "video": "Vídeo",
     "text": "Texto",
     "think_about": "Pensa sobre...",
-    "ready_to_record": "Pronto para gravar",
+    "ready_to_record": "Vamos gravar",
+    "ready_to_record_he": "Pronto para gravar",
+    "ready_to_record_she": "Pronta para gravar",
     "start_recording": "Iniciar gravação",
     "stop_recording": "Parar gravação",
     "delete_recording": "Apagar e regravar",
@@ -723,7 +727,7 @@
     "confidence_label": "Quão confiante te sentiste?",
     "confidence": {
       "1": "Nada confiante",
-      "2": "Um pouco nervoso",
+      "2": "Com algum nervosismo",
       "3": "Razoável",
       "4": "Bastante confiante",
       "5": "Muito confiante"
@@ -789,8 +793,8 @@
     "reflect": "Reflete sobre a tua prática"
   },
   "submissions": {
-    "truncated_no_counts": "Alguns dos teus pacientes não estão nesta lista. Escolhe um paciente para veres tudo o que é dele.",
-    "truncated": "A mostrar {{scanned}} dos teus pacientes. {{missing}} não estão nesta lista. Escolhe um paciente para veres tudo o que é dele.",
+    "truncated_no_counts": "Alguns dos teus pacientes não estão nesta lista. Escolhe um paciente para veres tudo o que lhe diz respeito.",
+    "truncated": "A mostrar {{scanned}} dos teus pacientes. {{missing}} não estão nesta lista. Escolhe um paciente para veres tudo o que lhe diz respeito.",
     "all_patients": "Todos os pacientes",
     "page_title": "Submissões",
     "page_subtitle": "Revê todas as submissões dos pacientes em exercícios, cenários e avaliações",

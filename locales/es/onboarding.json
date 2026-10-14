@@ -2,7 +2,9 @@
   "onboarding": {
     "welcome": {
       "patient": {
-        "title": "¡Bienvenido a UpSpeech!",
+        "title": "¡Te damos la bienvenida a UpSpeech!",
+        "title_he": "¡Bienvenido a UpSpeech!",
+        "title_she": "¡Bienvenida a UpSpeech!",
         "description": "Esto es para la práctica entre tus sesiones. Tu terapeuta asigna los ejercicios, tú los grabas, y tu terapeuta escucha cómo fue."
       },
       "caregiver": {
@@ -12,15 +14,21 @@
         "description_she": "Vas a guiar la práctica en casa de {{child}}. Los ejercicios que asigne el terapeuta aparecerán aquí, para hacerlos con {{child}} unos minutos cada vez."
       },
       "therapist": {
-        "title": "¡Bienvenido a UpSpeech!",
+        "title": "¡Te damos la bienvenida a UpSpeech!",
+        "title_he": "¡Bienvenido a UpSpeech!",
+        "title_she": "¡Bienvenida a UpSpeech!",
         "description": "Gestiona tus pacientes, genera informes con IA y asigna ejercicios en un solo lugar."
       },
       "admin": {
-        "title": "¡Bienvenido a UpSpeech!",
+        "title": "¡Te damos la bienvenida a UpSpeech!",
+        "title_he": "¡Bienvenido a UpSpeech!",
+        "title_she": "¡Bienvenida a UpSpeech!",
         "description": "Gestiona tu organización, personaliza la marca y supervisa el uso de la plataforma."
       },
       "default": {
-        "title": "¡Bienvenido a UpSpeech!",
+        "title": "¡Te damos la bienvenida a UpSpeech!",
+        "title_he": "¡Bienvenido a UpSpeech!",
+        "title_she": "¡Bienvenida a UpSpeech!",
         "description": "Tu plataforma de logopedia está lista para usar."
       },
       "video": {

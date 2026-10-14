@@ -2,7 +2,9 @@
   "onboarding": {
     "welcome": {
       "patient": {
-        "title": "Bem-vindo à UpSpeech!",
+        "title": "Boas-vindas à UpSpeech!",
+        "title_he": "Bem-vindo à UpSpeech!",
+        "title_she": "Bem-vinda à UpSpeech!",
         "description": "Isto é para a prática entre as tuas sessões. O teu terapeuta atribui os exercícios, tu gravas a tua prática, e o teu terapeuta ouve como correu."
       },
       "caregiver": {
@@ -12,15 +14,21 @@
         "description_she": "Vais orientar a prática em casa da {{child}}. Os exercícios que o terapeuta atribuir aparecem aqui, para fazeres com a {{child}} uns minutos de cada vez."
       },
       "therapist": {
-        "title": "Bem-vindo à UpSpeech!",
+        "title": "Boas-vindas à UpSpeech!",
+        "title_he": "Bem-vindo à UpSpeech!",
+        "title_she": "Bem-vinda à UpSpeech!",
         "description": "Gere os teus pacientes, gera relatórios com IA e atribui exercícios num só local."
       },
       "admin": {
-        "title": "Bem-vindo à UpSpeech!",
+        "title": "Boas-vindas à UpSpeech!",
+        "title_he": "Bem-vindo à UpSpeech!",
+        "title_she": "Bem-vinda à UpSpeech!",
         "description": "Gere a tua organização, personaliza a marca e acompanha a utilização da plataforma."
       },
       "default": {
-        "title": "Bem-vindo à UpSpeech!",
+        "title": "Boas-vindas à UpSpeech!",
+        "title_he": "Bem-vindo à UpSpeech!",
+        "title_she": "Bem-vinda à UpSpeech!",
         "description": "A tua plataforma de terapia da fala está pronta a usar."
       },
       "video": {
@@ -243,7 +251,7 @@
           "filters_title": "Filtrar e pesquisar",
           "filters_content": "Afina a lista por condição, idade e nível, ou pesquisa uma palavra.",
           "card_title": "Experimenta primeiro",
-          "card_content": "A pré-visualização mostra o exercício tal como o paciente o vê, sem guardar nada. Para o dares a um paciente, adiciona-o a partir do percurso dele.",
+          "card_content": "A pré-visualização mostra o exercício tal como o paciente o vê, sem guardar nada. Para o dares a um paciente, adiciona-o a partir do percurso do paciente.",
           "resources_title": "Biblioteca de recursos",
           "resources_content": "As imagens que dão contexto a um exercício, como uma paisagem que o paciente descreve enquanto usa uma técnica. Carrega as tuas ou escolhe entre as que a UpSpeech disponibiliza."
         }

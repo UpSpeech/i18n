@@ -30,7 +30,9 @@
       },
       "coffeeShop": {
         "title": "Pedir en una cafetería",
-        "description": "Estás en una cafetería concurrida y listo para pedir. El barista es amable pero la fila avanza rápido. Pide tu bebida preferida con las personalizaciones deseadas (tamaño, tipo de leche, extras) y quizás un pastel. Responde a cualquier pregunta sobre tu pedido."
+        "description": "Estás en una cafetería concurrida y a punto de pedir. El barista es amable pero la fila avanza rápido. Pide tu bebida preferida con las personalizaciones deseadas (tamaño, tipo de leche, extras) y quizás un pastel. Responde a cualquier pregunta sobre tu pedido.",
+        "description_he": "Estás en una cafetería concurrida y listo para pedir. El barista es amable pero la fila avanza rápido. Pide tu bebida preferida con las personalizaciones deseadas (tamaño, tipo de leche, extras) y quizás un pastel. Responde a cualquier pregunta sobre tu pedido.",
+        "description_she": "Estás en una cafetería concurrida y lista para pedir. El barista es amable pero la fila avanza rápido. Pide tu bebida preferida con las personalizaciones deseadas (tamaño, tipo de leche, extras) y quizás un pastel. Responde a cualquier pregunta sobre tu pedido."
       },
       "newColleague": {
         "title": "Conocer a un nuevo compañero",
@@ -131,7 +133,7 @@
     "modeGuided": {
       "label": "Guiado",
       "description": "Empiezas y paras cuando quieras. Tú controlas el ritmo.",
-      "tooltip": "El micrófono espera por ti. Empieza cuando estés listo y termina cuando quieras. Nada te interrumpe."
+      "tooltip": "El micrófono espera por ti. Empieza cuando quieras y termina a tu ritmo. Nada te interrumpe."
     },
     "modeRealistic": {
       "label": "Realista",
@@ -143,7 +145,7 @@
     "modeInfoLabel": "{{label}}, más información"
   },
   "ready": {
-    "title": "Cuando estés listo/a",
+    "title": "Cuando quieras",
     "description": "Repasa los objetivos antes de empezar. La conversación arranca cuando pulses Iniciar.",
     "start": "Iniciar conversación",
     "tipsTitle": "Prepara el ambiente",
@@ -259,7 +261,7 @@
     "deleteSession": "Eliminar sesión",
     "endReasons": {
       "done_for_now": "Ya terminé por ahora",
-      "feeling_overwhelmed": "Me siento abrumado/a",
+      "feeling_overwhelmed": "Siento que es demasiado",
       "technical_issue": "Problema técnico",
       "try_again_later": "Quiero intentar más tarde"
     },
@@ -423,7 +425,9 @@
   "due_date": "Plazo: {{date}}",
   "empty_description_create": "Practica conversaciones del mundo real para ganar confianza. Elige una categoría arriba o crea un escenario personalizado.",
   "empty_description_wait": "Tu terapeuta aún no ha asignado escenarios. ¡Vuelve pronto!",
-  "empty_title": "¿Listo para practicar?",
+  "empty_title": "¿Practicamos?",
+  "empty_title_he": "¿Listo para practicar?",
+  "empty_title_she": "¿Lista para practicar?",
   "error_title": "Error al cargar escenarios",
   "load_details_error": "Error al cargar los detalles de la sesión. Por favor, inténtalo de nuevo.",
   "overdue": "Atrasado",

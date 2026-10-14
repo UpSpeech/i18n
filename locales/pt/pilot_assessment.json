@@ -55,7 +55,7 @@
     "go_to_app": "Ir para a aplicação"
   },
   "control_group": {
-    "title": "Estás inscrito, {{name}}",
+    "title": "A tua inscrição está confirmada, {{name}}",
     "message": "Recebemos as tuas gravações. Obrigado por participares neste estudo! O teu terapeuta vai entrar em contacto contigo sobre o teu plano de prática.",
     "practice_hint": "Não precisas de fazer mais nada aqui por agora. Entraremos em contacto quando o período do estudo estiver concluído.",
     "contact_hint": "Dúvidas? Fala diretamente com o teu terapeuta."

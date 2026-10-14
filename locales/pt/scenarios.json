@@ -30,7 +30,9 @@
       },
       "coffeeShop": {
         "title": "Pedir num café",
-        "description": "Estás num café movimentado e pronto para pedir. O barista é simpático mas a fila está a andar rapidamente. Pede a tua bebida preferida com as personalizações desejadas (tamanho, tipo de leite, extras) e talvez um pastel. Responde a quaisquer perguntas sobre o teu pedido."
+        "description": "Estás num café movimentado, na hora de pedir. O barista é simpático mas a fila está a andar rapidamente. Pede a tua bebida preferida com as personalizações desejadas (tamanho, tipo de leite, extras) e talvez um pastel. Responde a quaisquer perguntas sobre o teu pedido.",
+        "description_he": "Estás num café movimentado e pronto para pedir. O barista é simpático mas a fila está a andar rapidamente. Pede a tua bebida preferida com as personalizações desejadas (tamanho, tipo de leite, extras) e talvez um pastel. Responde a quaisquer perguntas sobre o teu pedido.",
+        "description_she": "Estás num café movimentado e pronta para pedir. O barista é simpático mas a fila está a andar rapidamente. Pede a tua bebida preferida com as personalizações desejadas (tamanho, tipo de leite, extras) e talvez um pastel. Responde a quaisquer perguntas sobre o teu pedido."
       },
       "newColleague": {
         "title": "Conhecer um novo colega",
@@ -131,7 +133,7 @@
     "modeGuided": {
       "label": "Guiado",
       "description": "Começas e páras quando quiseres. Tu controlas o ritmo.",
-      "tooltip": "O microfone espera por ti. Começa a falar quando estiveres pronto e termina quando quiseres. Nada te interrompe."
+      "tooltip": "O microfone espera por ti. Começa a falar quando quiseres e termina ao teu ritmo. Nada te interrompe."
     },
     "modeRealistic": {
       "label": "Realista",
@@ -423,7 +425,9 @@
   "due_date": "Prazo: {{date}}",
   "empty_description_create": "Pratica conversas do dia a dia para ganhar confiança. Escolhe uma categoria acima ou cria um cenário personalizado.",
   "empty_description_wait": "O teu terapeuta ainda não atribuiu cenários. Volta em breve!",
-  "empty_title": "Pronto para praticar?",
+  "empty_title": "Vamos praticar?",
+  "empty_title_he": "Pronto para praticar?",
+  "empty_title_she": "Pronta para praticar?",
   "error_title": "Erro ao carregar cenários",
   "load_details_error": "Falha ao carregar os detalhes da sessão. Por favor, tenta novamente.",
   "overdue": "Em atraso",

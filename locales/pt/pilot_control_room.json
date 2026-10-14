@@ -303,7 +303,7 @@
       "title": "Motivos de saída antecipada de cenários",
       "info": "Porque é que as sessões de cenário terminaram cedo, por grupo. 'Sentiu-se sobrecarregado' aponta para carga emocional; 'problema técnico' aponta para atrito do produto.",
       "done_for_now": "Por agora chega",
-      "feeling_overwhelmed": "Sentiu-se sobrecarregado",
+      "feeling_overwhelmed": "Terminou por sobrecarga",
       "technical_issue": "Problema técnico",
       "try_again_later": "Tentar mais tarde"
     },
