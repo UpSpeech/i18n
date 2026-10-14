@@ -1560,7 +1560,28 @@
       "start_group_opens": "Vai abrir",
       "keep_only_done": "O passo {{number}} é agora o único aberto."
     },
-    "keep_practising": "Continuar a praticar"
+    "keep_practising": "Continuar a praticar",
+    "draft": {
+      "title": "Um percurso por terminar",
+      "body_one": "Deixaste-o a {{date}} com {{count}} passo escrito. Ainda não foi atribuído.",
+      "body_other": "Deixaste-o a {{date}} com {{count}} passos escritos. Ainda não foi atribuído.",
+      "continue": "Continuar a construir",
+      "discard": "Descartar",
+      "discard_title": "Descartar este percurso?",
+      "discard_message": "Os objetivos e passos que escreveste são apagados. Não é possível desfazer."
+    },
+    "save_template": {
+      "action": "Guardar como modelo",
+      "title": "Guardar como modelo",
+      "description": "Qualquer pessoa da tua clínica pode começar um novo paciente a partir dele. O nome do paciente é retirado.",
+      "name": "Nome",
+      "notes": "Para que serve (opcional)",
+      "submit": "Guardar modelo",
+      "saved": "Guardado como {{name}}",
+      "in_goal": "Objetivo {{goal}}",
+      "in_step": "Objetivo {{goal}}, passo {{step}}",
+      "name_found": "{{where}} menciona {{name}}"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",

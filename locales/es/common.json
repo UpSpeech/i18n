@@ -1560,7 +1560,28 @@
       "start_group_opens": "Se abrirá",
       "keep_only_done": "El paso {{number}} es ahora el único abierto."
     },
-    "keep_practising": "Seguir practicando"
+    "keep_practising": "Seguir practicando",
+    "draft": {
+      "title": "Una ruta sin terminar",
+      "body_one": "La dejaste el {{date}} con {{count}} paso escrito. No se ha asignado.",
+      "body_other": "La dejaste el {{date}} con {{count}} pasos escritos. No se ha asignado.",
+      "continue": "Seguir construyendo",
+      "discard": "Descartar",
+      "discard_title": "¿Descartar esta ruta?",
+      "discard_message": "Los objetivos y pasos que escribiste se borran. No se puede deshacer."
+    },
+    "save_template": {
+      "action": "Guardar como plantilla",
+      "title": "Guardar como plantilla",
+      "description": "Cualquiera en tu clínica puede empezar un paciente nuevo a partir de ella. Se quita el nombre del paciente.",
+      "name": "Nombre",
+      "notes": "Para qué sirve (opcional)",
+      "submit": "Guardar plantilla",
+      "saved": "Guardada como {{name}}",
+      "in_goal": "Objetivo {{goal}}",
+      "in_step": "Objetivo {{goal}}, paso {{step}}",
+      "name_found": "{{where}} menciona a {{name}}"
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
