@@ -6,7 +6,7 @@
         "title_he": "Bem-vindo à UpSpeech!",
         "title_she": "Bem-vinda à UpSpeech!",
         "description": "Isto é para a prática entre as tuas sessões. O teu terapeuta atribui os exercícios, tu gravas a tua prática, e o teu terapeuta ouve como correu.",
-        "description_named": "Isto é para a prática entre as tuas sessões. {{therapist, o_start}} atribui os exercícios, tu gravas a tua prática, e ouve como correu."
+        "description_named": "Isto é para a prática entre as tuas sessões. {{therapist, o_start}} atribui os exercícios, tu gravas a tua prática, e {{therapist, o}} ouve como correu."
       },
       "caregiver": {
         "title": "Olá, {{name}}",
