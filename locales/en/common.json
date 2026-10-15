@@ -348,7 +348,14 @@
     "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on.",
     "practice_title": "Practice",
     "practice_days_heading": "{{name}}'s practice days",
-    "practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise."
+    "practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise.",
+    "ai_improvement_consent": {
+      "title": "AI conversations",
+      "body": "Your conversations with UpSpeech's AI assistants are deleted after 14 days. You can let us keep them to improve the assistants.",
+      "give": "Keep my AI conversations",
+      "withdraw": "Stop keeping them",
+      "granted": "We keep your AI conversations to improve the assistants."
+    }
   },
   "layout": {
     "open_sidebar": "Open sidebar",

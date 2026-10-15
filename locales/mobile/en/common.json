@@ -2589,5 +2589,10 @@
   "guardian_note_sent_title": "Your note has been sent.",
   "guardian_note_sent_body": "The clinic will be in touch.",
   "guardian_note_failed": "We could not send your note. Your text is still here, so you can try again.",
-  "guardian_note_no_therapist": "We could not send your note, because {{child}} has no therapist at the clinic yet. Please contact the clinic directly."
+  "guardian_note_no_therapist": "We could not send your note, because {{child}} has no therapist at the clinic yet. Please contact the clinic directly.",
+  "ai_improvement_consent_title": "AI conversations",
+  "ai_improvement_consent_body": "Your conversations with UpSpeech's AI assistants are deleted after 14 days. You can let us keep them to improve the assistants.",
+  "ai_improvement_consent_give": "Keep my AI conversations",
+  "ai_improvement_consent_withdraw": "Stop keeping them",
+  "ai_improvement_consent_granted": "We keep your AI conversations to improve the assistants."
 }

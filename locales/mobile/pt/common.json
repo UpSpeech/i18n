@@ -2589,5 +2589,10 @@
   "guardian_note_sent_title": "A tua nota foi enviada.",
   "guardian_note_sent_body": "A clínica vai entrar em contacto contigo.",
   "guardian_note_failed": "Não conseguimos enviar a tua nota. O texto continua aqui, por isso podes tentar outra vez.",
-  "guardian_note_no_therapist": "Não conseguimos enviar a tua nota, porque {{child, o}} ainda não tem terapeuta na clínica. Contacta a clínica diretamente."
+  "guardian_note_no_therapist": "Não conseguimos enviar a tua nota, porque {{child, o}} ainda não tem terapeuta na clínica. Contacta a clínica diretamente.",
+  "ai_improvement_consent_title": "Conversas com a IA",
+  "ai_improvement_consent_body": "As tuas conversas com os assistentes de IA da UpSpeech são eliminadas ao fim de 14 dias. Podes deixar-nos guardá-las para melhorar os assistentes.",
+  "ai_improvement_consent_give": "Guardar as minhas conversas",
+  "ai_improvement_consent_withdraw": "Deixar de as guardar",
+  "ai_improvement_consent_granted": "Guardamos as tuas conversas com a IA para melhorar os assistentes."
 }
