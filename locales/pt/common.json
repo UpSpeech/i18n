@@ -1627,7 +1627,6 @@
     "progress": "{{current}} de {{total}}",
     "text_placeholder": "Partilha os teus pensamentos...",
     "tap_hint": "Escolhe um número",
-    "encouragement": "Leva o teu tempo. Não há respostas certas ou erradas.",
     "submit": "Submeter",
     "milestone_title": "Marco concluído!",
     "milestone_description": "Concluíste {{title}}. Reserva um momento para refletires sobre o teu progresso.",
