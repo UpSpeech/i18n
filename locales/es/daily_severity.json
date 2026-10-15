@@ -41,6 +41,6 @@
   "patient_trend": {
     "title": "Día a día",
     "subtitle": "Tus registros diarios rápidos entre los semanales.",
-    "hint": "1 es sin tartamudez, 10 es extremadamente grave."
+    "hint": "0 es sin tartamudez, 10 es extremadamente grave."
   }
 }

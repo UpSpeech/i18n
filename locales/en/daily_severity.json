@@ -41,6 +41,6 @@
   "patient_trend": {
     "title": "Day by day",
     "subtitle": "Your quick daily check-ins between the weekly ones.",
-    "hint": "1 is no stuttering, 10 is extremely severe."
+    "hint": "0 is no stuttering, 10 is extremely severe."
   }
 }
