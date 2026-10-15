@@ -1521,7 +1521,7 @@
       "start_write": "Escribir desde cero",
       "fixed_done_explained": "Fijo. {{name}} ya terminó este paso, así que se queda donde está y no se puede quitar. Puedes cambiar sus ayudas y ejercicios.",
       "fixed_practised_explained": "Fijo. {{name}} ya practicó este paso ({{count}} intentos), así que se queda donde está y no se puede quitar. Puedes cambiar sus ayudas y ejercicios.",
-      "goal_fixed": "Fijo: ya ha empezado",
+      "goal_fixed": "Ya ha empezado",
       "path_settings": "Ajustes de la ruta",
       "placeholder_live_select": "Elige un paso para cambiarlo, o un objetivo para añadirle un paso.",
       "rename_goal_named": "Renombrar {{title}}",

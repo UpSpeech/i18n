@@ -1521,7 +1521,7 @@
       "start_write": "Escrever do zero",
       "fixed_done_explained": "Fixo. {{name}} já concluiu este passo, por isso fica onde está e não pode ser removido. Podes mudar as ajudas e os exercícios.",
       "fixed_practised_explained": "Fixo. {{name}} já praticou este passo ({{count}} tentativas), por isso fica onde está e não pode ser removido. Podes mudar as ajudas e os exercícios.",
-      "goal_fixed": "Fixo: já começou",
+      "goal_fixed": "Já começou",
       "path_settings": "Definições do percurso",
       "placeholder_live_select": "Escolhe um passo para o alterar, ou um objetivo para lhe adicionar um passo.",
       "rename_goal_named": "Renomear {{title}}",
