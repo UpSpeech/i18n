@@ -533,7 +533,6 @@
   "patient_intake_view": "Ver entrevista",
   "patient_intake_empty_title": "A entrevista ainda não foi feita",
   "patient_intake_empty_body": "Quando for, as respostas chegam aqui como um resumo pré-consulta. Vais vê-lo antes de entrar na sala.",
-  "patient_intake_provenance_patient_reported": "Relatado pelo paciente, estruturado por IA, a aguardar a tua revisão. As respostas são o resumo que o modelo faz do que o paciente disse.",
   "patient_intake_badge_self": "Preenchido pelo próprio",
   "patient_intake_badge_caregiver": "Preenchido pelo cuidador",
   "patient_intake_headline_label": "Porque veio",
