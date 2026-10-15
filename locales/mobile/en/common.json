@@ -934,6 +934,7 @@
   "notification_settings_in_app": "In-app",
   "notification_settings_email": "Email",
   "notification_settings_push": "Push",
+  "notification_settings_push_off_note": "Push notifications are off. Turn them on above to use these switches.",
   "notification_settings_push_permission_askable": "Turn on notifications to hear from your therapist between sessions.",
   "notification_settings_push_permission_askable_named": "Turn on notifications to hear from {{therapist}} between sessions.",
   "notification_settings_push_permission_blocked": "Notifications are off for UpSpeech on this device. Turn them on in Settings.",
