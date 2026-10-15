@@ -2594,5 +2594,6 @@
   "ai_improvement_consent_body": "Tus conversaciones con los asistentes de IA de UpSpeech se eliminan a los 14 días. Puedes dejar que las guardemos para mejorar los asistentes.",
   "ai_improvement_consent_give": "Guardar mis conversaciones",
   "ai_improvement_consent_withdraw": "Dejar de guardarlas",
-  "ai_improvement_consent_granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes."
+  "ai_improvement_consent_granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes.",
+  "ai_improvement_consent_checkbox": "Guardar mis conversaciones con los asistentes de IA más allá de los 14 días, para ayudar a mejorarlos (opcional)"
 }

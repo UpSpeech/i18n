@@ -348,7 +348,8 @@
       "give": "Guardar as minhas conversas",
       "withdraw": "Deixar de as guardar",
       "granted": "Guardamos as tuas conversas com a IA para melhorar os assistentes.",
-      "failed_title": "Não foi possível guardar a tua escolha"
+      "failed_title": "Não foi possível guardar a tua escolha",
+      "checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los (opcional)"
     }
   },
   "layout": {
