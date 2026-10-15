@@ -1146,6 +1146,7 @@
         "goal_one_step": "Um passo",
         "goal_open_journey": "Ver todos os passos",
         "goal_reached": "Objetivo alcançado",
+        "goal_finish": "Fim do objetivo",
         "empty_failed_hint": "Verifica a ligação e tenta outra vez.",
         "empty_failed_title": "O plano não carregou",
         "empty_no_child_action": "Pedir ajuda",
