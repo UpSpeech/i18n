@@ -347,7 +347,8 @@
       "body": "Tus conversaciones con los asistentes de IA de UpSpeech se eliminan a los 14 días. Puedes dejar que las guardemos para mejorar los asistentes.",
       "give": "Guardar mis conversaciones",
       "withdraw": "Dejar de guardarlas",
-      "granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes."
+      "granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes.",
+      "failed_title": "No se ha podido guardar tu elección"
     }
   },
   "layout": {
