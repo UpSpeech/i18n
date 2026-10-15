@@ -597,9 +597,9 @@
   "consent_privacy_heading": "Política de privacidad",
   "consent_privacy_body": "UpSpeech recopila grabaciones de audio, datos de ejercicios y análisis de uso para proporcionar servicios de logopedia. Tus datos se almacenan de forma segura, encriptados en reposo y en tránsito. Los datos personales nunca se comparten con terceros sin tu consentimiento explícito.",
   "consent_accept": "Acepto",
-  "training_consent_optin_title": "Ayuda a mejorar UpSpeech para los demás (opcional)",
+  "training_consent_optin_title": "Ayuda a mejorar UpSpeech para los demás",
   "training_consent_optin_label": "Acepto que UpSpeech pueda usar mis grabaciones para desarrollar y entrenar su IA de logopedia.",
-  "training_consent_optin_helper": "Opcional e independiente del uso de UpSpeech. Tus grabaciones (audio y transcripciones) se pseudonimizan, se mantienen dentro de UpSpeech y nunca se venden. Al eliminar tu cuenta, eliges si las conservas o las eliminas.",
+  "training_consent_optin_helper": "Independiente del uso de UpSpeech. Tus grabaciones (audio y transcripciones) se pseudonimizan, se mantienen dentro de UpSpeech y nunca se venden. Al eliminar tu cuenta, eliges si las conservas o las eliminas.",
   "training_consent_prompt_title": "Ayuda a mejorar la terapia para los demás",
   "training_consent_prompt_body": "Con tu permiso, tus grabaciones pueden ayudar a entrenar la IA de logopedia de UpSpeech para que mejore para todos.",
   "training_consent_prompt_accept": "Usar mis grabaciones",
@@ -2590,5 +2590,11 @@
   "guardian_note_sent_title": "Tu nota se ha enviado.",
   "guardian_note_sent_body": "La clínica se pondrá en contacto contigo.",
   "guardian_note_failed": "No hemos podido enviar tu nota. El texto sigue aquí, así que puedes intentarlo de nuevo.",
-  "guardian_note_no_therapist": "No hemos podido enviar tu nota, porque {{child}} todavía no tiene terapeuta en la clínica. Ponte en contacto directamente con la clínica."
+  "guardian_note_no_therapist": "No hemos podido enviar tu nota, porque {{child}} todavía no tiene terapeuta en la clínica. Ponte en contacto directamente con la clínica.",
+  "ai_improvement_consent_title": "Conversaciones con la IA",
+  "ai_improvement_consent_body": "Tus conversaciones con los asistentes de IA de UpSpeech se eliminan a los 14 días. Puedes dejar que las guardemos para mejorar los asistentes.",
+  "ai_improvement_consent_give": "Guardar mis conversaciones",
+  "ai_improvement_consent_withdraw": "Dejar de guardarlas",
+  "ai_improvement_consent_granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes.",
+  "ai_improvement_consent_checkbox": "Guardar mis conversaciones con los asistentes de IA más allá de los 14 días, para ayudar a mejorarlos"
 }

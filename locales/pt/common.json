@@ -341,7 +341,16 @@
     "companion_bar_description": "Desligada, fica só um botão pequeno no canto. A escolha acompanha-te em qualquer dispositivo onde entres.",
     "practice_title": "Prática",
     "practice_days_heading": "Dias de prática de {{name}}",
-    "practice_days_empty": "Os dias de prática de {{name}} aparecem aqui quando o terapeuta definir um exercício."
+    "practice_days_empty": "Os dias de prática de {{name}} aparecem aqui quando o terapeuta definir um exercício.",
+    "ai_improvement_consent": {
+      "title": "Conversas com a IA",
+      "body": "As tuas conversas com os assistentes de IA da UpSpeech são eliminadas ao fim de 14 dias. Podes deixar-nos guardá-las para melhorar os assistentes.",
+      "give": "Guardar as minhas conversas",
+      "withdraw": "Deixar de as guardar",
+      "granted": "Guardamos as tuas conversas com a IA para melhorar os assistentes.",
+      "failed_title": "Não foi possível guardar a tua escolha",
+      "checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los"
+    }
   },
   "layout": {
     "open_sidebar": "Abrir menu lateral",
@@ -484,7 +493,8 @@
     "learn_more": "Saber mais",
     "accept": "Aceitar",
     "decline": "Recusar",
-    "close_notice": "Fechar aviso de cookies"
+    "close_notice": "Fechar aviso de cookies",
+    "checkbox": "Permitir cookies de análise, para vermos como a UpSpeech é usada"
   },
   "all": "Todos",
   "colon": ":",

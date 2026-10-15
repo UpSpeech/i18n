@@ -597,9 +597,9 @@
   "consent_privacy_heading": "Política de privacidade",
   "consent_privacy_body": "A UpSpeech recolhe gravações de áudio, dados de exercícios e análises de utilização para prestar serviços de terapia da fala. Os teus dados são armazenados de forma segura, encriptados em repouso e em trânsito. Os dados pessoais nunca são partilhados com terceiros sem o teu consentimento explícito.",
   "consent_accept": "Aceito",
-  "training_consent_optin_title": "Ajuda a melhorar a UpSpeech para os outros (opcional)",
+  "training_consent_optin_title": "Ajuda a melhorar a UpSpeech para os outros",
   "training_consent_optin_label": "Aceito que a UpSpeech possa usar as minhas gravações para desenvolver e treinar a sua IA de terapia da fala.",
-  "training_consent_optin_helper": "Opcional e independente da utilização da UpSpeech. As tuas gravações (áudio e transcrições) são pseudonimizadas, mantidas dentro da UpSpeech e nunca vendidas. Ao eliminares a tua conta, escolhes se as manténs ou eliminas.",
+  "training_consent_optin_helper": "Independente da utilização da UpSpeech. As tuas gravações (áudio e transcrições) são pseudonimizadas, mantidas dentro da UpSpeech e nunca vendidas. Ao eliminares a tua conta, escolhes se as manténs ou eliminas.",
   "training_consent_prompt_title": "Ajuda a melhorar a terapia para os outros",
   "training_consent_prompt_body": "Com a tua autorização, as tuas gravações podem ajudar a treinar a IA de terapia da fala da UpSpeech para que melhore para todos.",
   "training_consent_prompt_accept": "Usar as minhas gravações",
@@ -2590,5 +2590,11 @@
   "guardian_note_sent_title": "A tua nota foi enviada.",
   "guardian_note_sent_body": "A clínica vai entrar em contacto contigo.",
   "guardian_note_failed": "Não conseguimos enviar a tua nota. O texto continua aqui, por isso podes tentar outra vez.",
-  "guardian_note_no_therapist": "Não conseguimos enviar a tua nota, porque {{child, o}} ainda não tem terapeuta na clínica. Contacta a clínica diretamente."
+  "guardian_note_no_therapist": "Não conseguimos enviar a tua nota, porque {{child, o}} ainda não tem terapeuta na clínica. Contacta a clínica diretamente.",
+  "ai_improvement_consent_title": "Conversas com a IA",
+  "ai_improvement_consent_body": "As tuas conversas com os assistentes de IA da UpSpeech são eliminadas ao fim de 14 dias. Podes deixar-nos guardá-las para melhorar os assistentes.",
+  "ai_improvement_consent_give": "Guardar as minhas conversas",
+  "ai_improvement_consent_withdraw": "Deixar de as guardar",
+  "ai_improvement_consent_granted": "Guardamos as tuas conversas com a IA para melhorar os assistentes.",
+  "ai_improvement_consent_checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los"
 }

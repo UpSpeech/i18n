@@ -597,9 +597,9 @@
   "consent_privacy_heading": "Privacy policy",
   "consent_privacy_body": "UpSpeech collects audio recordings, exercise data, and usage analytics to provide speech therapy services. Your data is stored securely, encrypted at rest and in transit. Personal data is never shared with third parties without your explicit consent. Audio recordings are processed for speech analysis and clinical reporting purposes only.",
   "consent_accept": "I accept",
-  "training_consent_optin_title": "Help improve UpSpeech for others (optional)",
+  "training_consent_optin_title": "Help improve UpSpeech for others",
   "training_consent_optin_label": "I agree that UpSpeech may use my recordings to develop and train its speech-therapy AI.",
-  "training_consent_optin_helper": "Optional, and separate from using UpSpeech. Your recordings (audio and transcripts) are pseudonymized, kept within UpSpeech, and never sold. When you delete your account you choose whether to keep or delete them.",
+  "training_consent_optin_helper": "Separate from using UpSpeech. Your recordings (audio and transcripts) are pseudonymized, kept within UpSpeech, and never sold. When you delete your account you choose whether to keep or delete them.",
   "training_consent_prompt_title": "Help improve therapy for others",
   "training_consent_prompt_body": "With your okay, your recordings can help train UpSpeech's speech-therapy AI so it gets better for everyone.",
   "training_consent_prompt_accept": "Use my recordings",
@@ -2590,5 +2590,11 @@
   "guardian_note_sent_title": "Your note has been sent.",
   "guardian_note_sent_body": "The clinic will be in touch.",
   "guardian_note_failed": "We could not send your note. Your text is still here, so you can try again.",
-  "guardian_note_no_therapist": "We could not send your note, because {{child}} has no therapist at the clinic yet. Please contact the clinic directly."
+  "guardian_note_no_therapist": "We could not send your note, because {{child}} has no therapist at the clinic yet. Please contact the clinic directly.",
+  "ai_improvement_consent_title": "AI conversations",
+  "ai_improvement_consent_body": "Your conversations with UpSpeech's AI assistants are deleted after 14 days. You can let us keep them to improve the assistants.",
+  "ai_improvement_consent_give": "Keep my AI conversations",
+  "ai_improvement_consent_withdraw": "Stop keeping them",
+  "ai_improvement_consent_granted": "We keep your AI conversations to improve the assistants.",
+  "ai_improvement_consent_checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them"
 }

@@ -348,7 +348,16 @@
     "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on.",
     "practice_title": "Practice",
     "practice_days_heading": "{{name}}'s practice days",
-    "practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise."
+    "practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise.",
+    "ai_improvement_consent": {
+      "title": "AI conversations",
+      "body": "Your conversations with UpSpeech's AI assistants are deleted after 14 days. You can let us keep them to improve the assistants.",
+      "give": "Keep my AI conversations",
+      "withdraw": "Stop keeping them",
+      "granted": "We keep your AI conversations to improve the assistants.",
+      "failed_title": "Couldn't save your choice",
+      "checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them"
+    }
   },
   "layout": {
     "open_sidebar": "Open sidebar",
@@ -491,7 +500,8 @@
     "learn_more": "Learn more",
     "accept": "Accept",
     "decline": "Decline",
-    "close_notice": "Close cookie notice"
+    "close_notice": "Close cookie notice",
+    "checkbox": "Allow analytics cookies, so we can see how UpSpeech is used"
   },
   "all": "All",
   "units": {
