@@ -42,7 +42,7 @@
     "activity_window": "(últimos 7 días)",
     "consistency_window": "(últimos 30 días)",
     "activity_help": "Cuántos días practicó el paciente en los últimos 7 días. Mide la actividad reciente.",
-    "consistency_help": "Con qué regularidad practicó el paciente durante los últimos 30 días, contando el tiempo desde su última sesión. Los intervalos más cortos puntúan más alto, así que la puntuación baja mientras el paciente está parado.",
+    "consistency_help": "Con qué regularidad practicó el paciente durante los últimos 30 días. El tiempo desde su última sesión baja la puntuación.",
     "activity_days": "{{days}}/7 días",
     "learning_path": "Ruta",
     "weekly_sessions": "Sesiones planificadas hechas"
@@ -61,9 +61,9 @@
   },
   "transfer": {
     "title": "¿Asignar este paciente a otro terapeuta?",
-    "message": "Asignar a {{patient}} a {{to}} también traslada su ruta de aprendizaje. Su conversación con {{from}} se cierra: ambos podrán seguir leyéndola, ninguno podrá añadir nada y no se borra nada. Si vuelves a asignar a {{patient}}, la conversación se reabre.",
+    "message": "{{patient}} y su ruta de aprendizaje pasan a {{to}}. La conversación con {{from}} se cierra y ambos podrán seguir leyéndola.",
     "confirm": "Asignar paciente",
-    "done": "{{name}} ya tiene a este paciente. La conversación con {{previous}} está cerrada, y ambos pueden seguir leyéndola.",
+    "done": "{{name}} ya tiene a este paciente.",
     "assigned": "{{name}} ya tiene a este paciente.",
     "previously": "Antes {{name}}, asignado el {{date}}",
     "assign_back": "Volver a asignar"
@@ -259,7 +259,7 @@
   "add_wizard": {
     "open_patient": "Abrir {{name}}",
     "see_pending_invites": "Ver invitaciones pendientes",
-    "invite_body_adult": "Enviamos una invitación por correo a {{email}}. {{name}} se une a tu lista de pacientes en cuanto la acepte, así que todavía no hay nada que abrir.",
+    "invite_body_adult": "Enviamos una invitación a {{email}}. {{name}} se une a tu lista cuando la acepte.",
     "title": "Añadir un paciente",
     "subtitle": "Eliges cómo funciona la práctica de cada paciente. Su edad solo sugiere una opción.",
     "step_basics": "Datos",
@@ -306,7 +306,7 @@
     "summary_invite_sent_to": "Invitación enviada a",
     "language_label": "Idioma de la invitación y la app",
     "linked_heading": "{{name}} ha sido añadido",
-    "linked_body": "{{email}} ya tiene una cuenta de UpSpeech, así que no hay invitación que enviar. {{name}} ya aparece en esa cuenta y le hemos enviado un correo para avisarle.",
+    "linked_body": "{{email}} ya tiene una cuenta de UpSpeech. {{name}} ya aparece en ella y le hemos enviado un correo para avisarle.",
     "summary_linked_to": "Añadido a"
   },
   "relationship": {
@@ -327,14 +327,14 @@
       "progress": "Menor {{current}} de {{total}}"
     },
     "empty": {
-      "body_rule": "Se le pide que la complete la próxima vez que inicie sesión. No puedes rellenarla ni saltarla, pero puedes pedirle que entre.",
+      "body_rule": "Se le pedirá al paciente que la complete la próxima vez que inicie sesión.",
       "remind": "Enviar un recordatorio",
       "remind_named": "Recordar a {{name}}",
       "title": "La entrevista aún no se ha completado",
       "body": "Cuando se complete, las respuestas llegan aquí como un resumen previo a la consulta. Lo verás antes de entrar en la sala."
     },
     "provenance": {
-      "patient_reported": "Informado por el paciente, estructurado por IA, pendiente de tu revisión. Normalmente las respuestas son el resumen que el modelo hace de lo que dijo el paciente. Nada de esto es un juicio clínico y todavía no se ha tomado ninguna medida."
+      "patient_reported": "Informado por el paciente, estructurado por IA, pendiente de tu revisión. Las respuestas son el resumen que el modelo hace de lo que dijo el paciente."
     },
     "badge": {
       "self_completed": "Completado por el paciente",
@@ -363,8 +363,8 @@
       "thinking": "Leyendo tu respuesta",
       "opening": "Preparando tu entrevista",
       "done_title": "Eso es todo",
-      "done_body": "Gracias. Tu terapeuta lee esto antes de la próxima sesión, así no tendrás que empezar de cero.",
-      "done_body_named": "Gracias. {{therapist}} lee esto antes de la próxima sesión, así no tendrás que empezar de cero.",
+      "done_body": "Gracias. Tu terapeuta lee esto antes de la próxima sesión.",
+      "done_body_named": "Gracias. {{therapist}} lee esto antes de la próxima sesión.",
       "filing": "Guardando tus respuestas",
       "file_failed": "Tus respuestas no llegaron. Habla con tu terapeuta y no cierres esta pestaña: lo que dijiste sigue aquí.",
       "file_failed_named": "Tus respuestas no llegaron. Habla con {{therapist}} y no cierres esta pestaña: lo que dijiste sigue aquí.",
@@ -388,7 +388,7 @@
       "answer_other": "Otra cosa",
       "answer_confirm": "Continuar",
       "answer_nothing_else": "Nada más que añadir",
-      "finalizing": "Tus respuestas ya se están guardando, así que esta no se pudo añadir. No queda nada por enviar.",
+      "finalizing": "Tus respuestas ya se están guardando. Esta no se añadió.",
       "topic": {
         "about": "Para empezar",
         "history": "Cómo empezó",

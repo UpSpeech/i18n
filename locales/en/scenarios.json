@@ -202,7 +202,7 @@
       "mic_denied": "Microphone permission was denied",
       "audio_unsupported": "Your browser doesn't support realtime audio"
     },
-    "audioLiveHint": "Speak naturally. We're listening, no need to read along."
+    "audioLiveHint": "Speak naturally. We're listening."
   },
   "session": {
     "title": "Scenario practice",

@@ -42,7 +42,7 @@
     "activity_window": "(last 7 days)",
     "consistency_window": "(last 30 days)",
     "activity_help": "How many days the patient practised in the last 7 days. Measures recent activity.",
-    "consistency_help": "How regularly the patient practised over the last 30 days, counting the time since their last session. Shorter gaps score higher, so the score falls while a patient is away.",
+    "consistency_help": "How regularly the patient practised over the last 30 days. Time since their last session counts against the score.",
     "activity_days": "{{days}}/7 days",
     "learning_path": "Learning path",
     "weekly_sessions": "Planned sessions done"
@@ -64,9 +64,9 @@
   },
   "transfer": {
     "title": "Assign this patient to another therapist?",
-    "message": "Assigning {{patient}} to {{to}} also moves their learning path. Their conversation with {{from}} closes: both of them keep reading it, neither can add to it, and nothing is deleted. Assigning {{patient}} back reopens it.",
+    "message": "{{patient}} and their learning path move to {{to}}. The conversation with {{from}} closes, and both can still read it.",
     "confirm": "Assign patient",
-    "done": "{{name}} now has this patient. The conversation with {{previous}} is closed, and both of them can still read it.",
+    "done": "{{name}} now has this patient.",
     "assigned": "{{name}} now has this patient.",
     "previously": "Previously {{name}}, assigned {{date}}",
     "assign_back": "Assign back"
@@ -259,7 +259,7 @@
   "add_wizard": {
     "open_patient": "Open {{name}}",
     "see_pending_invites": "See pending invites",
-    "invite_body_adult": "We emailed an invite to {{email}}. {{name}} joins your patient list once they accept it, so there is nothing to open yet.",
+    "invite_body_adult": "We emailed an invite to {{email}}. {{name}} joins your list once they accept.",
     "title": "Add a patient",
     "subtitle": "You choose how practice works for each patient. Their age only suggests a default.",
     "step_basics": "Basics",
@@ -306,7 +306,7 @@
     "summary_invite_sent_to": "Invite sent to",
     "language_label": "Invite and app language",
     "linked_heading": "{{name}} is added",
-    "linked_body": "{{email}} already has an UpSpeech account, so there is no invite to send. {{name}} now shows on that account, and we emailed them to say so.",
+    "linked_body": "{{email}} already has an UpSpeech account. {{name}} now shows on it, and we emailed them to say so.",
     "summary_linked_to": "Added to"
   },
   "relationship": {
@@ -327,14 +327,14 @@
       "progress": "Child {{current}} of {{total}}"
     },
     "empty": {
-      "body_rule": "They are asked to complete it the next time they sign in. You cannot fill it in or skip it, but you can ask them to sign in.",
+      "body_rule": "They will be asked to complete it the next time they sign in.",
       "remind": "Send a reminder",
       "remind_named": "Remind {{name}}",
       "title": "The intake has not been completed yet",
       "body": "Once it is, the answers arrive here as a pre-session brief. You will see it before you walk into the room."
     },
     "provenance": {
-      "patient_reported": "Patient-reported, AI-structured, pending your review. Answers are usually the model's summary of what the patient said. Nothing here is a clinical judgement and no measure has been taken yet."
+      "patient_reported": "Reported by the patient, structured by AI, awaiting your review. Answers are the model's summary of what the patient said."
     },
     "badge": {
       "self_completed": "Self-completed",
@@ -363,8 +363,8 @@
       "thinking": "Reading your answer",
       "opening": "Getting your interview ready",
       "done_title": "That is everything",
-      "done_body": "Thank you. Your therapist reads this before your next session, so you will not have to start from the beginning with them.",
-      "done_body_named": "Thank you. {{therapist}} reads this before your next session, so you will not have to start from the beginning with them.",
+      "done_body": "Thank you. Your therapist reads this before your next session.",
+      "done_body_named": "Thank you. {{therapist}} reads this before your next session.",
       "filing": "Saving your answers",
       "file_failed": "Your answers did not reach us. Please contact your therapist, and do not close this tab: what you said is still here.",
       "file_failed_named": "Your answers did not reach us. Please contact {{therapist}}, and do not close this tab: what you said is still here.",
@@ -388,7 +388,7 @@
       "answer_other": "Something else",
       "answer_confirm": "Continue",
       "answer_nothing_else": "Nothing else to add",
-      "finalizing": "Your answers are already being saved, so this one could not be added. There is nothing left to send.",
+      "finalizing": "Your answers are already being saved. This one was not added.",
       "topic": {
         "about": "Getting started",
         "history": "How it started",

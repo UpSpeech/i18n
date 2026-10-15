@@ -202,7 +202,7 @@
       "mic_denied": "Permiso de micrófono denegado",
       "audio_unsupported": "Tu navegador no soporta audio en tiempo real"
     },
-    "audioLiveHint": "Habla con naturalidad. Estamos escuchando, no hace falta que leas."
+    "audioLiveHint": "Habla con naturalidad. Estamos escuchando."
   },
   "session": {
     "title": "Práctica de escenario",

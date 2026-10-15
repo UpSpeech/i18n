@@ -202,7 +202,7 @@
       "mic_denied": "Permissão do microfone negada",
       "audio_unsupported": "O teu navegador não suporta áudio em tempo real"
     },
-    "audioLiveHint": "Fala com naturalidade. Estamos a ouvir, não precisas de ler em voz alta."
+    "audioLiveHint": "Fala com naturalidade. Estamos a ouvir."
   },
   "session": {
     "title": "Prática de cenário",
