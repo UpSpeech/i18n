@@ -333,9 +333,6 @@
       "title": "La entrevista aún no se ha completado",
       "body": "Cuando se complete, las respuestas llegan aquí como un resumen previo a la consulta. Lo verás antes de entrar en la sala."
     },
-    "provenance": {
-      "patient_reported": "Informado por el paciente, estructurado por IA, pendiente de tu revisión. Las respuestas son el resumen que el modelo hace de lo que dijo el paciente."
-    },
     "badge": {
       "self_completed": "Completado por el paciente",
       "caregiver_completed": "Completado por el cuidador"
