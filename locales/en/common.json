@@ -500,7 +500,8 @@
     "learn_more": "Learn more",
     "accept": "Accept",
     "decline": "Decline",
-    "close_notice": "Close cookie notice"
+    "close_notice": "Close cookie notice",
+    "checkbox": "Allow analytics cookies, so we can see how UpSpeech is used (optional)"
   },
   "all": "All",
   "units": {

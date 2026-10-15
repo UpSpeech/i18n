@@ -493,7 +493,8 @@
     "learn_more": "Saber mais",
     "accept": "Aceitar",
     "decline": "Recusar",
-    "close_notice": "Fechar aviso de cookies"
+    "close_notice": "Fechar aviso de cookies",
+    "checkbox": "Permitir cookies de análise, para vermos como a UpSpeech é usada (opcional)"
   },
   "all": "Todos",
   "colon": ":",
