@@ -41,6 +41,6 @@
   "patient_trend": {
     "title": "Day by day",
     "subtitle": "Your quick daily check-ins between the weekly ones.",
-    "hint": "Lower means a calmer day. Daily dips and rises are normal."
+    "hint": "1 is no stuttering, 10 is extremely severe."
   }
 }
