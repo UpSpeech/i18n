@@ -356,7 +356,7 @@
       "withdraw": "Stop keeping them",
       "granted": "We keep your AI conversations to improve the assistants.",
       "failed_title": "Couldn't save your choice",
-      "checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them (optional)"
+      "checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them"
     }
   },
   "layout": {
@@ -501,7 +501,7 @@
     "accept": "Accept",
     "decline": "Decline",
     "close_notice": "Close cookie notice",
-    "checkbox": "Allow analytics cookies, so we can see how UpSpeech is used (optional)"
+    "checkbox": "Allow analytics cookies, so we can see how UpSpeech is used"
   },
   "all": "All",
   "units": {

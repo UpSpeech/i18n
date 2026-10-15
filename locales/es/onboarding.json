@@ -116,7 +116,7 @@
         "accept_terms": "Acepto los términos y condiciones",
         "accept_privacy": "Acepto la política de privacidad",
         "required_hint": "Por favor, completa este paso para continuar",
-        "training_benefit_title": "Ayuda a mejorar UpSpeech para los demás (opcional)"
+        "training_benefit_title": "Ayuda a mejorar UpSpeech para los demás"
       },
       "media": {
         "heading": "Cámara y micrófono",

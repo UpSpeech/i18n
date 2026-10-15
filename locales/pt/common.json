@@ -349,7 +349,7 @@
       "withdraw": "Deixar de as guardar",
       "granted": "Guardamos as tuas conversas com a IA para melhorar os assistentes.",
       "failed_title": "Não foi possível guardar a tua escolha",
-      "checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los (opcional)"
+      "checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los"
     }
   },
   "layout": {
@@ -494,7 +494,7 @@
     "accept": "Aceitar",
     "decline": "Recusar",
     "close_notice": "Fechar aviso de cookies",
-    "checkbox": "Permitir cookies de análise, para vermos como a UpSpeech é usada (opcional)"
+    "checkbox": "Permitir cookies de análise, para vermos como a UpSpeech é usada"
   },
   "all": "Todos",
   "colon": ":",
