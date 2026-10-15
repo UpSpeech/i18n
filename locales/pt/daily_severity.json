@@ -41,6 +41,6 @@
   "patient_trend": {
     "title": "Dia a dia",
     "subtitle": "Os teus registos diários rápidos entre os semanais.",
-    "hint": "Mais baixo significa um dia mais calmo. As subidas e descidas diárias são normais."
+    "hint": "0 é sem gaguez, 10 é extremamente grave."
   }
 }

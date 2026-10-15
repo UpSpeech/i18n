@@ -41,6 +41,6 @@
   "patient_trend": {
     "title": "Día a día",
     "subtitle": "Tus registros diarios rápidos entre los semanales.",
-    "hint": "Más bajo significa un día más tranquilo. Las subidas y bajadas diarias son normales."
+    "hint": "0 es sin tartamudez, 10 es extremadamente grave."
   }
 }
