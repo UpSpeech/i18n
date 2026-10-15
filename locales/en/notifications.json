@@ -78,7 +78,7 @@
     "in_app": "In-app",
     "email": "Email",
     "push": "Phone",
-    "push_off_note": "Phone notifications are turned off for your account, so these switches have no effect until you turn them on in the app.",
+    "push_off_note": "Phone notifications are off. Turn them on in the app to use these switches.",
     "saved": "Notification settings saved",
     "save": "Save settings",
     "type_labels": {
