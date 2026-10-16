@@ -2446,6 +2446,7 @@
   "redesign_patient_meta": "{{weekday}} · {{title}} · about {{count}} min",
   "redesign_patient_support": "Start each sentence gently. Your practice goes straight to {{therapist}}.",
   "redesign_practise": "Practise",
+  "redesign_start": "Start",
   "redesign_start_with": "Start with {{child}}",
   "redesign_stickers_title": "{{child}}'s sticker chart",
   "redesign_today": "Today",
