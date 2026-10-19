@@ -1905,6 +1905,7 @@
   "caregiver_session_finish": "Terminar",
   "caregiver_session_sending": "A enviar a gravação",
   "caregiver_session_done": "Gravação terminada",
+  "caregiver_session_finished_title": "Terminado",
   "caregiver_session_upload_failed": "A gravação não foi enviada. A tua resposta chega na mesma {{therapist, a}}.",
   "caregiver_together_after": "Depois, conta {{therapist, a}} como correu.",
   "caregiver_together_hint": "Faz isto em conjunto com {{child, o}} e depois conta {{therapist, a}} como correu.",
