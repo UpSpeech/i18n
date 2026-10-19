@@ -160,6 +160,7 @@
       "timeout": "A análise demorou mais do que devia e parou. Tentar de novo costuma resolver.",
       "service_unavailable": "Não foi possível contactar a análise. Tenta daqui a alguns minutos.",
       "invalid_response": "A análise voltou num formato que a aplicação não conseguiu ler. Tentar de novo costuma resolver.",
+      "not_a_session": "A gravação não corresponde a uma sessão de terapia da fala.",
       "unknown": "Algo correu mal ao redigir este relatório. Tenta de novo e avisa-nos se continuar a acontecer."
     },
     "retry": "Tentar novamente",

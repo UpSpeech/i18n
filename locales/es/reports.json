@@ -160,6 +160,7 @@
       "timeout": "El análisis tardó más de lo debido y se detuvo. Reintentar suele funcionar.",
       "service_unavailable": "No se pudo contactar con el análisis. Inténtalo dentro de unos minutos.",
       "invalid_response": "El análisis volvió en un formato que la aplicación no pudo leer. Reintentar suele funcionar.",
+      "not_a_session": "La grabación no corresponde a una sesión de logopedia.",
       "unknown": "Algo salió mal al redactar este informe. Inténtalo de nuevo y avísanos si sigue ocurriendo."
     },
     "retry": "Reintentar",
