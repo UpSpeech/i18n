@@ -2171,6 +2171,8 @@
   "analytics_consent_settings_title": "Datos de uso",
   "analytics_consent_settings_label": "Compartir datos de uso",
   "analytics_consent_settings_details_link": "Ver exactamente qué se envía",
+  "analytics_consent_checkbox": "Compartir datos de uso, para ver qué ejercicios se terminan",
+  "analytics_consent_checkbox_hint": "Nunca grabaciones, notas ni lo que escribes. Puedes cambiarlo en Configuración.",
   "intake_interview_progress": "Progreso de la entrevista",
   "intake_interview_probe": "Seguimiento",
   "intake_interview_thinking": "Leyendo tu respuesta",

@@ -2171,6 +2171,8 @@
   "analytics_consent_settings_title": "Usage data",
   "analytics_consent_settings_label": "Share usage data",
   "analytics_consent_settings_details_link": "See exactly what's sent",
+  "analytics_consent_checkbox": "Share usage data, so we can see which exercises get finished",
+  "analytics_consent_checkbox_hint": "Never recordings, notes or what you type. You can change this in Settings.",
   "intake_interview_progress": "Interview progress",
   "intake_interview_probe": "Follow-up",
   "intake_interview_thinking": "Reading your answer",
