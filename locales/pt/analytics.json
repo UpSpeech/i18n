@@ -88,7 +88,7 @@
   "outcomes_never_practised_line_many": "{{count}} pacientes inscritos nunca praticaram.",
   "outcomes_never_practised_line_other": "{{count}} pacientes inscritos nunca praticaram.",
   "feature_usage_tab": "Utilização das funcionalidades",
-  "feature_usage_window": "Os últimos {{days}} dias. Voltaram conta quem a usou nos {{days}} dias anteriores e voltou a usá-la nestes.",
+  "feature_usage_window": "Os últimos {{days}} dias. Voltaram: usaram-na nos {{days}} dias anteriores e de novo nestes.",
   "feature_usage_patients": "Pacientes",
   "feature_usage_therapists": "Terapeutas",
   "feature_usage_feature": "Funcionalidade",

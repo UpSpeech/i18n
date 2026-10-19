@@ -88,7 +88,7 @@
   "outcomes_never_practised_line_many": "{{count}} enrolled patients have never practised.",
   "outcomes_never_practised_line_other": "{{count}} enrolled patients have never practised.",
   "feature_usage_tab": "Feature usage",
-  "feature_usage_window": "The last {{days}} days. Came back counts the people who used it in the {{days}} days before and again in these.",
+  "feature_usage_window": "The last {{days}} days. Came back: used it in the {{days}} days before and again in these.",
   "feature_usage_patients": "Patients",
   "feature_usage_therapists": "Therapists",
   "feature_usage_feature": "Feature",
@@ -114,6 +114,6 @@
   "feature_usage_report_rating": "Rate reports",
   "feature_usage_report_highlight": "Report highlights",
   "feature_usage_report_note": "Report notes",
-  "feature_usage_check_in_note": "Note on a check-in",
+  "feature_usage_check_in_note": "Note on a patient's check-in",
   "feature_usage_expert_review": "Expert review"
 }
