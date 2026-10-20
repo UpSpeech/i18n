@@ -1204,10 +1204,10 @@
       "resize": "Resize {{name}}",
       "done_title": "What a story!",
       "done_body": "You built it and you told it.",
-      "snapshot": "Take a picture",
+      "snapshot": "Save scene",
       "snapshots": "Your story",
-      "snapshot_label": "Picture {{number}}",
-      "delete_snapshot": "Delete picture {{number}}",
+      "snapshot_label": "Scene {{number}}",
+      "delete_snapshot": "Delete scene {{number}}",
       "next": "Next",
       "back": "Back",
       "keep_building": "Keep building"

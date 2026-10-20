@@ -1204,10 +1204,10 @@
       "resize": "Cambiar el tamaño de {{name}}",
       "done_title": "¡Qué historia!",
       "done_body": "La has construido y la has contado.",
-      "snapshot": "Hacer una foto",
+      "snapshot": "Guardar escena",
       "snapshots": "Tu historia",
-      "snapshot_label": "Foto {{number}}",
-      "delete_snapshot": "Borrar la foto {{number}}",
+      "snapshot_label": "Escena {{number}}",
+      "delete_snapshot": "Borrar la escena {{number}}",
       "next": "Siguiente",
       "back": "Anterior",
       "keep_building": "Seguir construyendo"
