@@ -1153,7 +1153,7 @@
       "picked_bear": "Escolheste o urso: bloqueio."
     },
     "story_scene": {
-      "instructions": "Escolhe um sítio, arrasta as personagens para lá e conta a história enquanto a constróis.",
+      "instructions": "Escolhe um sítio, arrasta as personagens para lá e conta a história enquanto a constróis, uma cena de cada vez.",
       "choose_setting": "Onde acontece a tua história?",
       "setting_park": "O parque",
       "setting_classroom": "A sala de aula",
