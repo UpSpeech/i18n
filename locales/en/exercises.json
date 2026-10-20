@@ -1203,7 +1203,14 @@
       "smaller": "Smaller",
       "resize": "Resize {{name}}",
       "done_title": "What a story!",
-      "done_body": "You built it and you told it."
+      "done_body": "You built it and you told it.",
+      "snapshot": "Take a picture",
+      "snapshots": "Your story",
+      "snapshot_label": "Picture {{number}}",
+      "delete_snapshot": "Delete picture {{number}}",
+      "next": "Next",
+      "back": "Back",
+      "keep_building": "Keep building"
     }
   },
   "technique_practice": {
