@@ -1153,7 +1153,7 @@
       "picked_bear": "Has elegido el oso: bloqueo."
     },
     "story_scene": {
-      "instructions": "Elige un lugar, arrastra a los personajes y cuenta la historia mientras la construyes.",
+      "instructions": "Elige un lugar, arrastra a los personajes y cuenta la historia mientras la construyes, una escena cada vez.",
       "choose_setting": "¿Dónde pasa tu historia?",
       "setting_park": "El parque",
       "setting_classroom": "El aula",

@@ -1153,7 +1153,7 @@
       "picked_bear": "You picked the bear: block."
     },
     "story_scene": {
-      "instructions": "Pick a place, drag the characters in, and tell the story as you build it.",
+      "instructions": "Pick a place, drag the characters in, and tell the story as you build it, one scene at a time.",
       "choose_setting": "Where does your story happen?",
       "setting_park": "The park",
       "setting_classroom": "The classroom",
