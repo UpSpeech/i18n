@@ -2,7 +2,7 @@
   "loading": "Loading...",
   "error": "Error",
   "path_composer_after_current": "After the current step",
-  "path_composer_description_label": "What {{name}} reads",
+  "path_composer_description_label": "A message for {{name}}",
   "path_composer_goal_label": "Belongs to goal",
   "path_composer_new_goal": "Start a new goal",
   "path_composer_new_goal_label": "Name the goal",
