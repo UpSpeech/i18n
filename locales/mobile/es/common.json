@@ -2,7 +2,7 @@
   "loading": "Cargando...",
   "error": "Error",
   "path_composer_after_current": "Después del paso actual",
-  "path_composer_description_label": "Lo que lee {{name}}",
+  "path_composer_description_label": "Un mensaje para {{name}}",
   "path_composer_goal_label": "Pertenece al objetivo",
   "path_composer_new_goal": "Empezar un objetivo nuevo",
   "path_composer_new_goal_label": "Nombre del objetivo",
