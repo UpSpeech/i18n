@@ -230,7 +230,6 @@
     "proposed": "Proposed",
     "accept": "Accept",
     "reject": "Reject",
-    "confidence": "{{score}}% confidence",
     "refine_type": "Type to save as",
     "analysing_hint": "The models are analysing this recording. Proposals appear here when they finish.",
     "failed_hint": "The analysis failed. Run it again from the queue."

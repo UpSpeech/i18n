@@ -230,7 +230,6 @@
     "proposed": "Proposta",
     "accept": "Aceitar",
     "reject": "Rejeitar",
-    "confidence": "{{score}}% de confiança",
     "refine_type": "Tipo a guardar",
     "analysing_hint": "Os modelos estão a analisar esta gravação. As propostas aparecem aqui quando terminarem.",
     "failed_hint": "A análise falhou. Volta a executá-la a partir da lista."
