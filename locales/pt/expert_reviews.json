@@ -211,5 +211,28 @@
     "no_transcript_hint": "Adiciona uma transcrição para calcular a contagem de sílabas, a taxa de gaguez e a velocidade da fala.",
     "by_type": "Por tipo",
     "avg_disfluency_duration_unit_seconds": "s"
+  },
+  "model": {
+    "analyse": "Analisar com IA",
+    "selected_one": "{{count}} gravação selecionada",
+    "selected_other": "{{count}} gravações selecionadas",
+    "clear_selection": "Limpar seleção",
+    "select_recording": "Selecionar {{title}}",
+    "select_page": "Selecionar todas as gravações desta página",
+    "status_analysing": "Em análise",
+    "status_ready": "Propostas prontas",
+    "status_failed": "Análise falhou",
+    "queued_one": "A analisar {{count}} gravação",
+    "queued_other": "A analisar {{count}} gravações",
+    "skipped_one": "{{count}} gravação ignorada, já em análise ou sem permissão para anotar",
+    "skipped_other": "{{count}} gravações ignoradas, já em análise ou sem permissão para anotar",
+    "proposals_title": "Propostas do modelo",
+    "proposed": "Proposta",
+    "accept": "Aceitar",
+    "reject": "Rejeitar",
+    "confidence": "{{score}}% de confiança",
+    "refine_type": "Tipo a guardar",
+    "analysing_hint": "Os modelos estão a analisar esta gravação. As propostas aparecem aqui quando terminarem.",
+    "failed_hint": "A análise falhou. Volta a executá-la a partir da lista."
   }
 }
