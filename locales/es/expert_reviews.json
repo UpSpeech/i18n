@@ -211,5 +211,27 @@
     "no_transcript_hint": "Añade una transcripción para calcular el recuento de sílabas, la tasa de tartamudeo y la velocidad del habla.",
     "by_type": "Por tipo",
     "avg_disfluency_duration_unit_seconds": "s"
+  },
+  "model": {
+    "analyse": "Analizar con IA",
+    "selected_one": "{{count}} grabación seleccionada",
+    "selected_other": "{{count}} grabaciones seleccionadas",
+    "clear_selection": "Borrar selección",
+    "select_recording": "Seleccionar {{title}}",
+    "select_page": "Seleccionar todas las grabaciones de esta página",
+    "status_analysing": "Analizando",
+    "status_ready": "Propuestas listas",
+    "status_failed": "Análisis fallido",
+    "queued_one": "Analizando {{count}} grabación",
+    "queued_other": "Analizando {{count}} grabaciones",
+    "skipped_one": "{{count}} grabación omitida, ya en análisis o sin permiso para anotar",
+    "skipped_other": "{{count}} grabaciones omitidas, ya en análisis o sin permiso para anotar",
+    "proposals_title": "Propuestas del modelo",
+    "proposed": "Propuesta",
+    "accept": "Aceptar",
+    "reject": "Rechazar",
+    "refine_type": "Tipo para guardar",
+    "analysing_hint": "Los modelos están analizando esta grabación. Las propuestas aparecen aquí cuando terminen.",
+    "failed_hint": "El análisis falló. Vuelve a ejecutarlo desde la lista."
   }
 }

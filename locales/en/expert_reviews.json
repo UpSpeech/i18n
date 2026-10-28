@@ -211,5 +211,27 @@
     "no_transcript_hint": "Add a transcript to calculate syllable count, stuttering rate, and speech rate.",
     "by_type": "By type",
     "avg_disfluency_duration_unit_seconds": "s"
+  },
+  "model": {
+    "analyse": "Analyse with AI",
+    "selected_one": "{{count}} recording selected",
+    "selected_other": "{{count}} recordings selected",
+    "clear_selection": "Clear selection",
+    "select_recording": "Select {{title}}",
+    "select_page": "Select every recording on this page",
+    "status_analysing": "Analysing",
+    "status_ready": "Proposals ready",
+    "status_failed": "Analysis failed",
+    "queued_one": "Analysing {{count}} recording",
+    "queued_other": "Analysing {{count}} recordings",
+    "skipped_one": "{{count}} recording was skipped, already analysing or not yours to annotate",
+    "skipped_other": "{{count}} recordings were skipped, already analysing or not yours to annotate",
+    "proposals_title": "Proposed by the model",
+    "proposed": "Proposed",
+    "accept": "Accept",
+    "reject": "Reject",
+    "refine_type": "Type to save as",
+    "analysing_hint": "The models are analysing this recording. Proposals appear here when they finish.",
+    "failed_hint": "The analysis failed. Run it again from the queue."
   }
 }
