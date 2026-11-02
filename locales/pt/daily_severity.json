@@ -20,6 +20,7 @@
     "title": "Tendência diária de gravidade",
     "subtitle": "Gravidade da gaguez auto-reportada ao longo do tempo",
     "score_label": "Pontuação de gravidade",
+    "midpoint": "Ponto médio",
     "latest_score": "Última pontuação",
     "average_score": "Média",
     "days_count": "{{count}}d",

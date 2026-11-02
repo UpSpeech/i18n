@@ -20,6 +20,7 @@
     "title": "Tendencia diaria de severidad",
     "subtitle": "Severidad de tartamudez autorreportada a lo largo del tiempo",
     "score_label": "Puntuación de severidad",
+    "midpoint": "Punto medio",
     "latest_score": "Última puntuación",
     "average_score": "Promedio",
     "days_count": "{{count}}d",
