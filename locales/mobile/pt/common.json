@@ -45,6 +45,7 @@
   "path_editor_keep_only_title": "Manter só este passo aberto?",
   "path_editor_start_group_done": "Marcados como feitos, já praticados",
   "path_editor_start_group_skipped_open": "Saltados, ainda sem prática",
+  "path_editor_start_group_requeued_open": "Voltam a ficar a seguir, ainda sem prática",
   "path_editor_start_group_skipped_waiting": "Saltados, ainda não alcançados",
   "path_editor_start_nothing_else": "Nada mais muda no percurso.",
   "path_editor_step_actions": "Ações do passo",

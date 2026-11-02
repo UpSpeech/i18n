@@ -45,6 +45,7 @@
   "path_editor_keep_only_title": "¿Dejar solo este paso abierto?",
   "path_editor_start_group_done": "Se marcan como hechos, ya practicados",
   "path_editor_start_group_skipped_open": "Se saltan, aún sin práctica",
+  "path_editor_start_group_requeued_open": "Vuelven a esperar su turno, aún sin práctica",
   "path_editor_start_group_skipped_waiting": "Se saltan, aún no alcanzados",
   "path_editor_start_nothing_else": "Nada más cambia en la ruta.",
   "path_editor_step_actions": "Acciones del paso",
