@@ -933,6 +933,7 @@
   "notification_settings_in_app": "In-app",
   "notification_settings_email": "Email",
   "notification_settings_push": "Phone",
+  "notification_settings_channels": "Channels",
   "notification_settings_push_off_note": "Phone notifications are off. Turn them on above to use these switches.",
   "notification_settings_push_permission_askable": "Turn on notifications to hear from your therapist between sessions.",
   "notification_settings_push_permission_askable_named": "Turn on notifications to hear from {{therapist}} between sessions.",

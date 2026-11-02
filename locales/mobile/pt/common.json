@@ -933,6 +933,7 @@
   "notification_settings_in_app": "Na app",
   "notification_settings_email": "Email",
   "notification_settings_push": "Telemóvel",
+  "notification_settings_channels": "Canais",
   "notification_settings_push_off_note": "As notificações no telemóvel estão desligadas. Liga-as acima para usar estes interruptores.",
   "notification_settings_push_permission_askable": "Ativa as notificações para receberes mensagens do teu terapeuta entre sessões.",
   "notification_settings_push_permission_askable_named": "Ativa as notificações para receberes mensagens {{therapist, de}} entre sessões.",

@@ -933,6 +933,7 @@
   "notification_settings_in_app": "En la app",
   "notification_settings_email": "Correo",
   "notification_settings_push": "Móvil",
+  "notification_settings_channels": "Canales",
   "notification_settings_push_off_note": "Las notificaciones del móvil están desactivadas. Actívalas arriba para usar estos interruptores.",
   "notification_settings_push_permission_askable": "Activa las notificaciones para recibir mensajes de tu terapeuta entre sesiones.",
   "notification_settings_push_permission_askable_named": "Activa las notificaciones para recibir mensajes de {{therapist}} entre sesiones.",
