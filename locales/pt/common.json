@@ -1603,7 +1603,7 @@
       "keep_only_title": "Manter só o passo {{number}} aberto?",
       "start_group_done": "Vai ser marcado como feito, tem prática",
       "start_group_skipped_open": "Vai ser saltado, ainda sem prática",
-      "start_group_requeued_open": "Volta a ficar a seguir, ainda sem prática",
+      "start_group_requeued_open": "Volta a ficar à espera, ainda sem prática",
       "start_group_skipped_waiting": "Vai ser saltado, ainda não alcançado",
       "start_skipped_return": "{{name}} ainda pode praticar um passo saltado.",
       "start_done": "O passo {{number}} está aberto agora.",
