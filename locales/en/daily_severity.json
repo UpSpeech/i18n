@@ -20,6 +20,7 @@
     "title": "Daily severity trend",
     "subtitle": "Self-reported stuttering severity over time",
     "score_label": "Severity score",
+    "midpoint": "Midpoint",
     "latest_score": "Latest score",
     "average_score": "Average",
     "days_count": "{{count}}d",
