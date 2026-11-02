@@ -45,6 +45,7 @@
   "path_editor_keep_only_title": "Keep only this step open?",
   "path_editor_start_group_done": "Marked done, already practised",
   "path_editor_start_group_skipped_open": "Skipped, not practised yet",
+  "path_editor_start_group_requeued_open": "Back to waiting, not practised yet",
   "path_editor_start_group_skipped_waiting": "Skipped, not reached yet",
   "path_editor_start_nothing_else": "Nothing else on the path changes.",
   "path_editor_step_actions": "Step actions",

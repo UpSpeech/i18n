@@ -1603,6 +1603,7 @@
       "keep_only_title": "Keep only step {{number}} open?",
       "start_group_done": "Will be marked done, has practice",
       "start_group_skipped_open": "Will be skipped, no practice yet",
+      "start_group_requeued_open": "Goes back to waiting, no practice yet",
       "start_group_skipped_waiting": "Will be skipped, not reached yet",
       "start_skipped_return": "{{name}} can still practise a skipped step.",
       "start_done": "Step {{number}} is open now.",
