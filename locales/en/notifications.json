@@ -56,21 +56,14 @@
   },
   "settings": {
     "title": "Notification settings",
-    "subtitle": "Choose how and when you receive notifications",
     "patient_activity": "Patient activity",
-    "patient_activity_description": "Notifications about your patients' progress and activity",
     "your_practice": "Your practice",
-    "your_practice_description": "Notifications about your exercises and therapy progress",
     "reminder_time": "Practice reminder time",
-    "reminder_time_description": "Choose when you'd like to get your daily practice reminder",
     "delivery": "Delivery preferences",
     "email_digest": "Email digest frequency",
     "immediate": "Immediate",
-    "immediate_description": "Receive emails as they happen",
     "daily": "Daily summary",
-    "daily_description": "One email per day with all notifications",
     "weekly": "Weekly summary",
-    "weekly_description": "One email per week with all notifications",
     "quiet_hours": "Quiet hours",
     "quiet_hours_description": "Pause notifications during specific hours",
     "quiet_hours_start": "Start",
@@ -103,8 +96,7 @@
       "goal_completed_desc_caregiver": "When your child finishes every step in a goal",
       "path_work_assigned_desc_caregiver": "When your child's therapist adds a step to their plan"
     },
-    "your_practice_caregiver": "Your child's practice",
-    "your_practice_description_caregiver": "Notifications about your child's exercises and progress in therapy"
+    "your_practice_caregiver": "Your child's practice"
   },
   "rate_limited": "Notified {{hours}}h ago",
   "empty_what_therapist": "Messages from your patients and reminders about their practice appear here.",

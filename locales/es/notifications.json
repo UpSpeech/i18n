@@ -56,21 +56,14 @@
   },
   "settings": {
     "title": "Configuración de notificaciones",
-    "subtitle": "Elige cómo y cuándo recibes notificaciones",
     "patient_activity": "Actividad de pacientes",
-    "patient_activity_description": "Notificaciones sobre el progreso y actividad de tus pacientes",
     "your_practice": "Tu práctica",
-    "your_practice_description": "Notificaciones sobre tus ejercicios y progreso en la terapia",
     "reminder_time": "Hora del recordatorio de práctica",
-    "reminder_time_description": "Elige a qué hora quieres recibir tu recordatorio de práctica diario",
     "delivery": "Preferencias de entrega",
     "email_digest": "Frecuencia del resumen por email",
     "immediate": "Inmediato",
-    "immediate_description": "Recibe emails según ocurran",
     "daily": "Resumen diario",
-    "daily_description": "Un email al día con todas las notificaciones",
     "weekly": "Resumen semanal",
-    "weekly_description": "Un email a la semana con todas las notificaciones",
     "quiet_hours": "Horas de silencio",
     "quiet_hours_description": "Pausar notificaciones durante horas específicas",
     "quiet_hours_start": "Inicio",
@@ -103,8 +96,7 @@
       "goal_completed_desc_caregiver": "Cuando tu hijo termina todos los pasos de un objetivo",
       "path_work_assigned_desc_caregiver": "Cuando el terapeuta de tu hijo o hija añade un paso a su plan"
     },
-    "your_practice_caregiver": "La práctica de tu hijo",
-    "your_practice_description_caregiver": "Notificaciones sobre los ejercicios y el progreso de tu hijo en la terapia"
+    "your_practice_caregiver": "La práctica de tu hijo"
   },
   "rate_limited": "Notificado hace {{hours}}h",
   "empty_what_therapist": "Los mensajes de tus pacientes y los recordatorios sobre su práctica aparecen aquí.",
