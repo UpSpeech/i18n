@@ -150,6 +150,8 @@
       "progress": "Menor {{current}} de {{total}}",
       "who": "{{child}}, {{age}} años. Quien preparó su práctica es {{therapist}}, en {{clinic}}.",
       "who_no_therapist": "{{child}}, {{age}} años, en {{clinic}}.",
+      "who_no_age": "{{child}}. Quien preparó su práctica es {{therapist}}, en {{clinic}}.",
+      "who_no_age_no_therapist": "{{child}}, en {{clinic}}.",
       "who_wrong": "Este no es el menor correcto",
       "who_wrong_title": "Solo la clínica puede cambiarlo",
       "who_wrong_body": "Dile a la clínica por quién actúas. Corregirán el registro antes de que firmes.",

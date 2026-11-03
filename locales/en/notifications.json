@@ -28,6 +28,9 @@
     "therapist_feedback_batch": "{{therapist_name}} left feedback on your recent practice",
     "milestone_unlocked": "You reached Milestone {{milestone_position}}. Your next step is ready.",
     "goal_completed": "You finished {{goal_title}}.",
+    "learning_path_paused": "{{therapist_name}} paused your plan.",
+    "learning_path_resumed": "{{therapist_name}} resumed your plan.",
+    "learning_path_completed": "{{patient_name}} finished their plan.",
     "path_work_assigned": "{{therapist_name}} added new practice to {{goal_title}}.",
     "direct_message": "You have a new message",
     "unknown": "You have a new notification"
@@ -45,6 +48,9 @@
     "therapist_feedback": "Feedback",
     "milestone_unlocked": "Milestone",
     "goal_completed": "Goal",
+    "learning_path_paused": "Plan paused",
+    "learning_path_resumed": "Plan resumed",
+    "learning_path_completed": "Plan finished",
     "path_work_assigned": "New practice",
     "direct_message": "Messages"
   },
@@ -86,6 +92,12 @@
       "milestone_unlocked": "Milestone unlocked",
       "milestone_unlocked_desc": "When you complete a milestone and a new one opens up",
       "goal_completed": "Goal completed",
+      "learning_path_paused": "Plan paused",
+      "learning_path_paused_desc": "When your therapist pauses your plan",
+      "learning_path_resumed": "Plan resumed",
+      "learning_path_resumed_desc": "When your therapist resumes your plan",
+      "learning_path_completed": "Plan finished",
+      "learning_path_completed_desc": "When you finish every step in your plan",
       "goal_completed_desc": "When you finish every step in a goal",
       "path_work_assigned": "New practice",
       "path_work_assigned_desc": "When your therapist adds a step to your plan",
@@ -94,6 +106,9 @@
       "practice_reminder_desc_caregiver": "Reminders to practise with your child",
       "therapist_feedback_desc_caregiver": "When your child's therapist leaves feedback on their practice",
       "goal_completed_desc_caregiver": "When your child finishes every step in a goal",
+      "learning_path_paused_desc_caregiver": "When your child's therapist pauses their plan",
+      "learning_path_resumed_desc_caregiver": "When your child's therapist resumes their plan",
+      "learning_path_completed_desc_caregiver": "When your child finishes every step in their plan",
       "path_work_assigned_desc_caregiver": "When your child's therapist adds a step to their plan"
     },
     "your_practice_caregiver": "Your child's practice"

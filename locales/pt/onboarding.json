@@ -150,6 +150,8 @@
       "progress": "Criança {{current}} de {{total}}",
       "who": "{{child}}, {{age}} anos. Quem preparou a prática foi {{therapist, o}}, na {{clinic}}.",
       "who_no_therapist": "{{child}}, {{age}} anos, na {{clinic}}.",
+      "who_no_age": "{{child}}. Quem preparou a prática foi {{therapist, o}}, na {{clinic}}.",
+      "who_no_age_no_therapist": "{{child}}, na {{clinic}}.",
       "who_wrong": "Esta não é a criança certa",
       "who_wrong_title": "Só a clínica pode alterar isto",
       "who_wrong_body": "Diz à clínica por quem atuas. Eles corrigem o registo antes de assinares.",
