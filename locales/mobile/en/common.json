@@ -599,6 +599,8 @@
   "consent_privacy_heading": "Privacy policy",
   "consent_privacy_body": "UpSpeech collects audio recordings, exercise data, and usage analytics to provide speech therapy services. Your data is stored securely, encrypted at rest and in transit. Personal data is never shared with third parties without your explicit consent. Audio recordings are processed for speech analysis and clinical reporting purposes only.",
   "consent_accept": "I accept",
+  "caregiver_consent_accept_terms": "I accept the terms of use",
+  "caregiver_consent_accept_privacy": "I accept the privacy policy",
   "training_consent_optin_title": "Help improve UpSpeech for others",
   "training_consent_optin_label": "I agree that UpSpeech may use my recordings to develop and train its speech-therapy AI.",
   "training_consent_optin_helper": "Separate from using UpSpeech. Your recordings (audio and transcripts) are pseudonymized, kept within UpSpeech, and never sold. When you delete your account you choose whether to keep or delete them.",
