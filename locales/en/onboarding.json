@@ -150,6 +150,8 @@
       "progress": "Child {{current}} of {{total}}",
       "who": "{{child}}, {{age}} years old. {{therapist}} at {{clinic}} set up their practice.",
       "who_no_therapist": "{{child}}, {{age}} years old, at {{clinic}}.",
+      "who_no_age": "{{child}}. {{therapist}} at {{clinic}} set up their practice.",
+      "who_no_age_no_therapist": "{{child}}, at {{clinic}}.",
       "who_wrong": "This is not the right child",
       "who_wrong_title": "Only the clinic can change this",
       "who_wrong_body": "Tell the clinic who you act for. They will correct the record before you sign anything.",

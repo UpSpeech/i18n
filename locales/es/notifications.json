@@ -28,6 +28,9 @@
     "therapist_feedback_batch": "{{therapist_name}} dejó comentarios sobre tu práctica reciente",
     "milestone_unlocked": "Llegaste al Hito {{milestone_position}}. Tu próximo paso ya está disponible.",
     "goal_completed": "Has terminado {{goal_title}}.",
+    "learning_path_paused": "{{therapist_name}} ha pausado tu plan.",
+    "learning_path_resumed": "{{therapist_name}} ha reanudado tu plan.",
+    "learning_path_completed": "{{patient_name}} ha terminado su plan.",
     "path_work_assigned": "{{therapist_name}} ha añadido nueva práctica a {{goal_title}}.",
     "direct_message": "Tienes un mensaje nuevo",
     "unknown": "Tienes una notificación nueva"
@@ -45,6 +48,9 @@
     "therapist_feedback": "Feedback",
     "milestone_unlocked": "Hito",
     "goal_completed": "Objetivo",
+    "learning_path_paused": "Plan en pausa",
+    "learning_path_resumed": "Plan reanudado",
+    "learning_path_completed": "Plan terminado",
     "path_work_assigned": "Nueva práctica",
     "direct_message": "Mensajes"
   },
@@ -86,6 +92,12 @@
       "milestone_unlocked": "Hito desbloqueado",
       "milestone_unlocked_desc": "Cuando completas un hito y se desbloquea uno nuevo",
       "goal_completed": "Objetivo completado",
+      "learning_path_paused": "Plan en pausa",
+      "learning_path_paused_desc": "Cuando tu terapeuta pausa tu plan",
+      "learning_path_resumed": "Plan reanudado",
+      "learning_path_resumed_desc": "Cuando tu terapeuta reanuda tu plan",
+      "learning_path_completed": "Plan terminado",
+      "learning_path_completed_desc": "Cuando terminas todos los pasos de tu plan",
       "goal_completed_desc": "Cuando terminas todos los pasos de un objetivo",
       "path_work_assigned": "Nueva práctica",
       "path_work_assigned_desc": "Cuando tu terapeuta añade un paso a tu plan",
@@ -94,6 +106,9 @@
       "practice_reminder_desc_caregiver": "Recordatorios para practicar con tu hijo",
       "therapist_feedback_desc_caregiver": "Cuando el terapeuta de tu hijo o hija deja feedback sobre su práctica",
       "goal_completed_desc_caregiver": "Cuando tu hijo termina todos los pasos de un objetivo",
+      "learning_path_paused_desc_caregiver": "Cuando el terapeuta de tu hijo o hija pausa su plan",
+      "learning_path_resumed_desc_caregiver": "Cuando el terapeuta de tu hijo o hija reanuda su plan",
+      "learning_path_completed_desc_caregiver": "Cuando tu hijo o hija termina todos los pasos de su plan",
       "path_work_assigned_desc_caregiver": "Cuando el terapeuta de tu hijo o hija añade un paso a su plan"
     },
     "your_practice_caregiver": "La práctica de tu hijo"
