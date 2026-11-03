@@ -1915,6 +1915,8 @@
   "step_phase_watch_demo_again": "Ver a demonstração outra vez",
   "step_phase_show_instructions": "Mostrar instruções",
   "step_help": "Ajuda",
+  "step_sessions_done_one": "{{count}} sessão feita",
+  "step_sessions_done_other": "{{count}} sessões feitas",
   "step_phase_hide_instructions": "Esconder instruções",
   "step_phase_practise_again": "Praticar outra vez",
   "step_phase_saved_title": "Guardado",
