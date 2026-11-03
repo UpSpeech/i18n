@@ -30,7 +30,7 @@
     "goal_completed": "Terminaste {{goal_title}}.",
     "learning_path_paused": "{{therapist_name}} pôs o teu plano em pausa.",
     "learning_path_resumed": "{{therapist_name}} retomou o teu plano.",
-    "learning_path_completed": "{{patient_name}} terminou o plano.",
+    "learning_path_completed": "Terminaste o teu plano.",
     "path_work_assigned": "{{therapist_name}} acrescentou nova prática a {{goal_title}}.",
     "direct_message": "Tens uma nova mensagem",
     "unknown": "Tens uma notificação nova"
