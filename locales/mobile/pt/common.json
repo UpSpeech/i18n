@@ -599,6 +599,8 @@
   "consent_privacy_heading": "Política de privacidade",
   "consent_privacy_body": "A UpSpeech recolhe gravações de áudio, dados de exercícios e análises de utilização para prestar serviços de terapia da fala. Os teus dados são armazenados de forma segura, encriptados em repouso e em trânsito. Os dados pessoais nunca são partilhados com terceiros sem o teu consentimento explícito.",
   "consent_accept": "Aceito",
+  "caregiver_consent_accept_terms": "Aceito os termos de utilização",
+  "caregiver_consent_accept_privacy": "Aceito a política de privacidade",
   "training_consent_optin_title": "Ajuda a melhorar a UpSpeech para os outros",
   "training_consent_optin_label": "Aceito que a UpSpeech possa usar as minhas gravações para desenvolver e treinar a sua IA de terapia da fala.",
   "training_consent_optin_helper": "Independente da utilização da UpSpeech. As tuas gravações (áudio e transcrições) são pseudonimizadas, mantidas dentro da UpSpeech e nunca vendidas. Ao eliminares a tua conta, escolhes se as manténs ou eliminas.",
