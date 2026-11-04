@@ -2374,7 +2374,7 @@
   "first_run_caregiver_handover_pass": "Pásale el teléfono a {{child}}.",
   "first_run_caregiver_handover_body": "{{child}} elige un compañero. Después pregunta a {{child}} qué tal su día y cuéntaselo a {{therapist}} enviándole la grabación.",
   "first_run_caregiver_handover_done": "{{child}} tiene el teléfono",
-  "first_run_caregiver_pick_title": "¿Quién practica contigo primero?",
+  "first_run_caregiver_pick_title": "¿Quién te acompaña, {{child}}?",
   "first_run_caregiver_pick_cta_empty": "Elige uno",
   "first_run_caregiver_pick_cta": "Vamos, {{companion}}",
   "first_run_caregiver_pick_customise_later": "Puedes cambiarme después, en Ajustes.",
@@ -2628,8 +2628,9 @@
   "ai_improvement_consent_withdraw": "Dejar de guardarlas",
   "ai_improvement_consent_granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes.",
   "ai_improvement_consent_checkbox": "Guardar mis conversaciones con los asistentes de IA más allá de los 14 días, para ayudar a mejorarlos",
-  "first_run_caregiver_pick_hint": "Elige con quién empezar.",
-  "first_run_caregiver_pick_continue": "Continuar",
   "recording_consent_sheet_title": "Antes de grabar a {{child}}",
-  "recording_consent_sheet_continue": "Aceptar y continuar"
+  "recording_consent_sheet_continue": "Aceptar y continuar",
+  "first_run_caregiver_child_pick_title": "¿Quién practica contigo primero?",
+  "first_run_caregiver_child_pick_hint": "Elige con quién empezar.",
+  "first_run_caregiver_child_pick_continue": "Continuar"
 }
