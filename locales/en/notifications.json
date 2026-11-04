@@ -32,6 +32,11 @@
     "learning_path_resumed": "{{therapist_name}} resumed your plan.",
     "learning_path_completed": "You finished your plan.",
     "path_work_assigned": "{{therapist_name}} added new practice to {{goal_title}}.",
+    "goal_completed_caregiver": "{{patient_name}} finished {{goal_title}}.",
+    "learning_path_paused_caregiver": "{{therapist_name}} paused {{patient_name}}'s plan.",
+    "learning_path_resumed_caregiver": "{{therapist_name}} resumed {{patient_name}}'s plan.",
+    "learning_path_completed_caregiver": "{{patient_name}} finished their plan.",
+    "path_work_assigned_caregiver": "{{therapist_name}} added new practice for {{patient_name}} to {{goal_title}}.",
     "direct_message": "You have a new message",
     "unknown": "You have a new notification"
   },

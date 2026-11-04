@@ -32,6 +32,11 @@
     "learning_path_resumed": "{{therapist_name}} ha reanudado tu plan.",
     "learning_path_completed": "Has terminado tu plan.",
     "path_work_assigned": "{{therapist_name}} ha añadido nueva práctica a {{goal_title}}.",
+    "goal_completed_caregiver": "{{patient_name}} ha terminado {{goal_title}}.",
+    "learning_path_paused_caregiver": "{{therapist_name}} ha pausado el plan de {{patient_name}}.",
+    "learning_path_resumed_caregiver": "{{therapist_name}} ha reanudado el plan de {{patient_name}}.",
+    "learning_path_completed_caregiver": "{{patient_name}} ha terminado su plan.",
+    "path_work_assigned_caregiver": "{{therapist_name}} ha añadido nueva práctica para {{patient_name}} en {{goal_title}}.",
     "direct_message": "Tienes un mensaje nuevo",
     "unknown": "Tienes una notificación nueva"
   },
