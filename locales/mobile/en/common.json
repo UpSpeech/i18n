@@ -2374,7 +2374,7 @@
   "first_run_caregiver_handover_pass": "Pass the phone to {{child}}.",
   "first_run_caregiver_handover_body": "{{child}} picks a companion. Then ask {{child}} how their day was, and let your therapist know by sending them the recording.",
   "first_run_caregiver_handover_done": "{{child}} has the phone",
-  "first_run_caregiver_pick_title": "Who keeps you company, {{child}}?",
+  "first_run_caregiver_pick_title": "Who's practising with you first?",
   "first_run_caregiver_pick_cta_empty": "Choose one",
   "first_run_caregiver_pick_cta": "Let's go, {{companion}}",
   "first_run_caregiver_pick_customise_later": "You can change how I look later, in Settings.",
@@ -2627,5 +2627,9 @@
   "ai_improvement_consent_give": "Keep my AI conversations",
   "ai_improvement_consent_withdraw": "Stop keeping them",
   "ai_improvement_consent_granted": "We keep your AI conversations to improve the assistants.",
-  "ai_improvement_consent_checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them"
+  "ai_improvement_consent_checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them",
+  "first_run_caregiver_pick_hint": "Choose the child to start with.",
+  "first_run_caregiver_pick_continue": "Continue",
+  "recording_consent_sheet_title": "Before you record {{child}}",
+  "recording_consent_sheet_continue": "Agree and continue"
 }

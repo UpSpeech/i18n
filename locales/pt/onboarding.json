@@ -440,7 +440,7 @@
         "handover_pass": "Passa o telemóvel {{child, a}}.",
         "handover_body": "{{child, o_start}} escolhe um companheiro. Depois pergunta {{child, a}} como correu o dia e conta {{therapist, a}} enviando-lhe a gravação.",
         "handover_done": "{{child, o_start}} tem o telemóvel",
-        "pick_title": "Quem fica contigo, {{child}}?",
+        "pick_title": "Quem pratica contigo primeiro?",
         "pick_cta_empty": "Escolhe um",
         "pick_cta": "Vamos, {{companion}}",
         "pick_customise_later": "Podes mudar-me depois, em Definições.",
@@ -507,7 +507,11 @@
         "home_sent_body": "A primeira gravação {{child, de}}. {{therapist, o_start}} responde aqui.",
         "home_waiting_reply": "À espera de resposta",
         "home_kept_title": "A primeira gravação {{child, de}} está à espera.",
-        "home_done_cta": "Ir para o plano"
+        "home_done_cta": "Ir para o plano",
+        "pick_hint": "Escolhe a criança com quem começar.",
+        "pick_continue": "Continuar",
+        "recording_consent_sheet_title": "Antes de gravar {{child, o}}",
+        "recording_consent_sheet_continue": "Aceitar e continuar"
       }
     },
     "stage": {
