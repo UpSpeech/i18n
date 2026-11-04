@@ -440,7 +440,7 @@
         "handover_pass": "Pass the phone to {{child}}.",
         "handover_body": "{{child}} picks a companion. Then ask {{child}} how their day was, and let your therapist know by sending them the recording.",
         "handover_done": "{{child}} has the phone",
-        "pick_title": "Who keeps you company, {{child}}?",
+        "pick_title": "Who's practising with you first?",
         "pick_cta_empty": "Choose one",
         "pick_cta": "Let's go, {{companion}}",
         "pick_customise_later": "You can change how I look later, in Settings.",
@@ -507,7 +507,11 @@
         "home_sent_body": "{{child}}'s first recording. {{therapist}} replies here.",
         "home_waiting_reply": "Waiting for a reply",
         "home_kept_title": "{{child}}'s first recording is waiting.",
-        "home_done_cta": "Go to the plan"
+        "home_done_cta": "Go to the plan",
+        "pick_hint": "Choose the child to start with.",
+        "pick_continue": "Continue",
+        "recording_consent_sheet_title": "Before you record {{child}}",
+        "recording_consent_sheet_continue": "Agree and continue"
       }
     },
     "stage": {

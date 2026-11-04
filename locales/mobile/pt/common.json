@@ -2374,7 +2374,7 @@
   "first_run_caregiver_handover_pass": "Passa o telemóvel a {{child}}.",
   "first_run_caregiver_handover_body": "{{child, o_start}} vai escolher um companheiro. Depois pergunta {{child, a}} como correu o dia e conta {{therapist, a}} enviando-lhe a gravação.",
   "first_run_caregiver_handover_done": "{{child, o_start}} tem o telemóvel",
-  "first_run_caregiver_pick_title": "Quem fica contigo?",
+  "first_run_caregiver_pick_title": "Quem pratica contigo primeiro?",
   "first_run_caregiver_pick_cta_empty": "Escolhe um",
   "first_run_caregiver_pick_cta": "Vamos, {{companion}}",
   "first_run_caregiver_pick_customise_later": "Podes mudar-me depois, em Definições.",
@@ -2627,5 +2627,9 @@
   "ai_improvement_consent_give": "Guardar as minhas conversas",
   "ai_improvement_consent_withdraw": "Deixar de as guardar",
   "ai_improvement_consent_granted": "Guardamos as tuas conversas com a IA para melhorar os assistentes.",
-  "ai_improvement_consent_checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los"
+  "ai_improvement_consent_checkbox": "Guardar as minhas conversas com os assistentes de IA para além dos 14 dias, para ajudar a melhorá-los",
+  "first_run_caregiver_pick_hint": "Escolhe a criança com quem começar.",
+  "first_run_caregiver_pick_continue": "Continuar",
+  "recording_consent_sheet_title": "Antes de gravar {{child, o}}",
+  "recording_consent_sheet_continue": "Aceitar e continuar"
 }
