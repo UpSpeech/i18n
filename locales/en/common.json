@@ -76,6 +76,8 @@
   "exercise": "exercise",
   "show_less": "Show less",
   "show_more": "Show more",
+  "show_password": "Show password",
+  "hide_password": "Hide password",
   "saving": "Saving...",
   "upload": "Upload",
   "delete": "Delete",

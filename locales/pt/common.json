@@ -504,6 +504,8 @@
   "exercise": "exercício",
   "show_less": "Mostrar menos",
   "show_more": "Mostrar mais",
+  "show_password": "Mostrar palavra-passe",
+  "hide_password": "Ocultar palavra-passe",
   "submit": "Submeter",
   "minutes_short": "min",
   "no_results_filters_description": "Tenta ajustar os teus filtros ou critérios de pesquisa",
