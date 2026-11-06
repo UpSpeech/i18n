@@ -1420,6 +1420,8 @@
   "quick_review_exercise_type_technique_practice": "Descripción de imágenes",
   "quick_review_exercise_type_mini_game": "Minijuego",
   "quick_review_exercise_type_first_recording": "Primera grabación",
+  "quick_review_exercise_type_standard": "Práctica",
+  "quick_review_exercise_type_modeling": "Modelado",
   "quick_review_exercise_type_quiz": "Quiz",
   "quick_review_exercise_type_scenario": "Escenario",
   "quick_review_finish_error": "No se pudo enviar el comentario. Inténtalo de nuevo.",
