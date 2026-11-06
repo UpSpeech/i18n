@@ -1417,6 +1417,7 @@
   "quick_review_exercise_type_self_disclosure": "Self-Disclosure",
   "quick_review_exercise_type_observation": "Observation",
   "quick_review_exercise_type_technique_rating": "Technique rating",
+  "quick_review_exercise_type_technique_practice": "Picture description",
   "quick_review_exercise_type_quiz": "Quiz",
   "quick_review_exercise_type_scenario": "Scenario",
   "quick_review_finish_error": "Could not send feedback. Please try again.",
