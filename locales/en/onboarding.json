@@ -322,7 +322,7 @@
       "mic_denied_open_settings": "Open Settings",
       "mic_denied_record_later": "Record later",
       "offline_title": "No connection.",
-      "offline_body": "The recording is saved on this phone. It goes to {{therapist}} as soon as you are back online.",
+      "offline_body": "The recording is saved on this device. It goes to {{therapist}} as soon as you are back online.",
       "resume_title": "Welcome back, {{name}}.",
       "resume_body": "Everything is saved and there is nothing to repeat. Pick up here when there is a calm moment.",
       "resume_look_around": "Look around first",
