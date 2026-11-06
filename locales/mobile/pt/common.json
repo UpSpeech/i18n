@@ -1418,6 +1418,8 @@
   "quick_review_exercise_type_observation": "Observação",
   "quick_review_exercise_type_technique_rating": "Avaliação de Técnica",
   "quick_review_exercise_type_technique_practice": "Descrição de imagens",
+  "quick_review_exercise_type_mini_game": "Mini-jogo",
+  "quick_review_exercise_type_first_recording": "Primeira gravação",
   "quick_review_exercise_type_quiz": "Quiz",
   "quick_review_exercise_type_scenario": "Cenário",
   "quick_review_finish_error": "Não foi possível enviar o feedback. Tenta novamente.",
