@@ -322,7 +322,7 @@
       "mic_denied_open_settings": "Abrir as Definições",
       "mic_denied_record_later": "Gravar mais tarde",
       "offline_title": "Sem ligação.",
-      "offline_body": "A gravação fica guardada neste telemóvel. Vai para {{therapist, o}} assim que houver ligação.",
+      "offline_body": "A gravação fica guardada neste dispositivo. Vai para {{therapist, o}} assim que houver ligação.",
       "resume_title": "Olá outra vez, {{name}}.",
       "resume_body": "Está tudo guardado e não há nada a repetir. Retoma aqui quando houver um momento calmo.",
       "resume_look_around": "Dar uma volta primeiro",

@@ -322,7 +322,7 @@
       "mic_denied_open_settings": "Abrir Ajustes",
       "mic_denied_record_later": "Grabar más tarde",
       "offline_title": "Sin conexión.",
-      "offline_body": "La grabación queda guardada en este teléfono. Llegará a {{therapist}} en cuanto vuelva la conexión.",
+      "offline_body": "La grabación queda guardada en este dispositivo. Llegará a {{therapist}} en cuanto vuelva la conexión.",
       "resume_title": "Hola de nuevo, {{name}}.",
       "resume_body": "Todo está guardado y no hay nada que repetir. Retoma aquí cuando haya un momento tranquilo.",
       "resume_look_around": "Echar un vistazo primero",
