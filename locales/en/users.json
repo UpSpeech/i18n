@@ -5,6 +5,8 @@
     "role": "Role",
     "therapist": "Therapist",
     "therapist_placeholder": "Choose a therapist",
+    "therapist_gender_label": "How should we refer to the therapist?",
+    "therapist_gender_help": "We use this to talk about the therapist with the right grammar.",
     "no_therapists": "This organisation has no therapists yet. Invite one first.",
     "organization": "Organisation",
     "created_at": "Created",
