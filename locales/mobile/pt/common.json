@@ -1438,6 +1438,7 @@
   "quick_review_exercise_type_modeling": "Modelação",
   "quick_review_exercise_type_quiz": "Quiz",
   "quick_review_exercise_type_scenario": "Cenário",
+  "quick_review_exercise_type_practice_log": "Registo de prática",
   "quick_review_finish_error": "Não foi possível enviar o feedback. Tenta novamente.",
   "quick_review_save_error": "Não foi possível guardar o feedback. Tenta novamente.",
   "quick_review_save_success": "Feedback guardado.",

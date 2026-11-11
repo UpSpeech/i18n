@@ -914,6 +914,7 @@
         "observation_submissions": "Observation",
         "technique_rating_submissions": "Technique rating",
         "judgment_submissions": "Caregiver's answer",
+        "practice_log_submissions": "Practice log",
         "scenario_session": "Scenario"
       },
       "technique_rating_label": "Technique rating",

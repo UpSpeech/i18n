@@ -914,6 +914,7 @@
         "observation_submissions": "Observación",
         "technique_rating_submissions": "Valoración de la técnica",
         "judgment_submissions": "Respuesta del cuidador",
+        "practice_log_submissions": "Registro de práctica",
         "scenario_session": "Escenario"
       },
       "technique_rating_label": "Valoración de la técnica",
