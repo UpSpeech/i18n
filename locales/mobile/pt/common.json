@@ -2658,5 +2658,7 @@
   "first_run_caregiver_child_pick_continue": "Continuar",
   "reminder_custom": "Hora personalizada",
   "reminder_hour": "Hora",
-  "reminder_minute": "Minutos"
+  "reminder_minute": "Minutos",
+  "reminder_earlier": "15 minutos mais cedo",
+  "reminder_later": "15 minutos mais tarde"
 }
