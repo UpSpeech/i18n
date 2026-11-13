@@ -2657,6 +2657,6 @@
   "first_run_caregiver_child_pick_hint": "Elige con quién empezar.",
   "first_run_caregiver_child_pick_continue": "Continuar",
   "reminder_custom": "Hora personalizada",
-  "reminder_hour": "Hora (0–23)",
+  "reminder_hour": "Hora",
   "reminder_minute": "Minutos"
 }
