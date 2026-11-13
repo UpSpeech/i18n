@@ -1706,7 +1706,7 @@
   "caregiver_reminder_bedtime": "Bedtime · 20:00",
   "caregiver_reminder_after_work": "After work · 18:00",
   "caregiver_reminder_evening": "Evening · 20:00",
-  "caregiver_reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings.",
+  "caregiver_reminder_save_failed": "We couldn't save the reminder. Pick a time to try again.",
   "caregiver_reminder_skip": "Skip for now",
   "reminders_stop_title": "Shall we remind you to practise?",
   "reminders_stop_title_caregiver": "A reminder to practise with {{child}}",
