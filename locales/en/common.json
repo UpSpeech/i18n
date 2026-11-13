@@ -412,6 +412,7 @@
     "insufficient_permissions": "You don't have permission to access this page",
     "request_timeout": "The server took too long to respond. Check your connection and try again.",
     "connection_lost": "Connection lost. Check your internet and try again.",
+    "server_error": "Something went wrong on our side. Try again in a moment.",
     "invalid_user_role": "Invalid user role",
     "invalid_patient_id": "Invalid patient ID",
     "access_denied_patient_exercises": "This page is for therapists."

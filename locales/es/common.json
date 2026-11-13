@@ -403,6 +403,7 @@
     "insufficient_permissions": "No tienes permiso para acceder a esta página",
     "request_timeout": "El servidor tardó demasiado en responder. Verifica tu conexión e inténtalo de nuevo.",
     "connection_lost": "Conexión perdida. Verifica tu conexión a internet e inténtalo de nuevo.",
+    "server_error": "Algo ha fallado por nuestra parte. Inténtalo de nuevo dentro de un momento.",
     "invalid_user_role": "Rol de usuario inválido",
     "invalid_patient_id": "ID de paciente no válido",
     "access_denied_patient_exercises": "Esta página es para terapeutas."
