@@ -70,6 +70,9 @@
     "patient_activity": "Actividad de pacientes",
     "your_practice": "Tu práctica",
     "reminder_time": "Hora del recordatorio de práctica",
+    "reminder_morning": "Mañana · 8:00",
+    "reminder_after_work": "Después del trabajo · 18:00",
+    "reminder_evening": "Por la noche · 20:00",
     "delivery": "Preferencias de entrega",
     "email_digest": "Frecuencia del resumen por email",
     "immediate": "Inmediato",
@@ -85,6 +88,8 @@
     "push_off_note": "Las notificaciones del móvil están desactivadas. Actívalas en la app para usar estos interruptores.",
     "saved": "Configuración de notificaciones guardada",
     "save": "Guardar configuración",
+    "save_failed": "No se guardó tu configuración. Inténtalo de nuevo.",
+    "load_failed": "La configuración de notificaciones no se cargó.",
     "type_labels": {
       "inactive_patient": "Alertas de pacientes inactivos",
       "inactive_patient_desc": "Cuando un paciente no ha estado activo por un tiempo",

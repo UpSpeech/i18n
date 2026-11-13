@@ -1706,7 +1706,7 @@
   "caregiver_reminder_bedtime": "Bedtime · 20:00",
   "caregiver_reminder_after_work": "After work · 18:00",
   "caregiver_reminder_evening": "Evening · 20:00",
-  "caregiver_reminder_save_failed": "We couldn't save the reminder. Try again, or change it later in Settings.",
+  "caregiver_reminder_save_failed": "We couldn't save the reminder. Pick a time to try again.",
   "caregiver_reminder_skip": "Skip for now",
   "reminders_stop_title": "Shall we remind you to practise?",
   "reminders_stop_title_caregiver": "A reminder to practise with {{child}}",
@@ -2655,5 +2655,10 @@
   "recording_consent_sheet_continue": "Agree and continue",
   "first_run_caregiver_child_pick_title": "Who's practising with you first?",
   "first_run_caregiver_child_pick_hint": "Choose the child to start with.",
-  "first_run_caregiver_child_pick_continue": "Continue"
+  "first_run_caregiver_child_pick_continue": "Continue",
+  "reminder_custom": "Custom time",
+  "reminder_hour": "Hour",
+  "reminder_minute": "Minutes",
+  "reminder_earlier": "15 minutes earlier",
+  "reminder_later": "15 minutes later"
 }

@@ -1706,7 +1706,7 @@
   "caregiver_reminder_bedtime": "Hora de dormir · 20:00",
   "caregiver_reminder_after_work": "Después del trabajo · 18:00",
   "caregiver_reminder_evening": "Por la noche · 20:00",
-  "caregiver_reminder_save_failed": "No hemos podido guardar el recordatorio. Inténtalo de nuevo o cámbialo más tarde en Ajustes.",
+  "caregiver_reminder_save_failed": "No hemos podido guardar el recordatorio. Elige una hora para intentarlo de nuevo.",
   "caregiver_reminder_skip": "Saltar por ahora",
   "reminders_stop_title": "¿Quieres un recordatorio para practicar?",
   "reminders_stop_title_caregiver": "Un recordatorio para practicar con {{child}}",
@@ -2655,5 +2655,10 @@
   "recording_consent_sheet_continue": "Aceptar y continuar",
   "first_run_caregiver_child_pick_title": "¿Quién practica contigo primero?",
   "first_run_caregiver_child_pick_hint": "Elige con quién empezar.",
-  "first_run_caregiver_child_pick_continue": "Continuar"
+  "first_run_caregiver_child_pick_continue": "Continuar",
+  "reminder_custom": "Hora personalizada",
+  "reminder_hour": "Hora",
+  "reminder_minute": "Minutos",
+  "reminder_earlier": "15 minutos antes",
+  "reminder_later": "15 minutos después"
 }

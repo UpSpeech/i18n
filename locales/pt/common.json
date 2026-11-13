@@ -403,6 +403,7 @@
     "insufficient_permissions": "Não tens permissão para aceder a esta página",
     "request_timeout": "O servidor demorou demasiado a responder. Verifica a tua ligação e tenta novamente.",
     "connection_lost": "Ligação perdida. Verifica a tua ligação à internet e tenta novamente.",
+    "server_error": "Algo correu mal do nosso lado. Tenta novamente daqui a pouco.",
     "invalid_user_role": "Função de utilizador inválida",
     "invalid_patient_id": "ID de paciente inválido",
     "access_denied_patient_exercises": "Esta página é para terapeutas."
@@ -1901,5 +1902,8 @@
     "upload_interests_hint": "Escolhe todos os que se aplicam. O exercício escolhes ao atribuí-la.",
     "choose_file": "Escolher uma imagem",
     "curated": "UpSpeech"
-  }
+  },
+  "reminder_custom": "Hora personalizada",
+  "reminder_hour": "Hora",
+  "reminder_minute": "Minutos"
 }
