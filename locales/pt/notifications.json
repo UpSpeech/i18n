@@ -85,6 +85,8 @@
     "push_off_note": "As notificações no telemóvel estão desligadas. Liga-as na app para usar estes interruptores.",
     "saved": "Definições de notificações guardadas",
     "save": "Guardar definições",
+    "save_failed": "As tuas definições não foram guardadas. Tenta novamente.",
+    "load_failed": "As definições de notificações não carregaram.",
     "type_labels": {
       "inactive_patient": "Alertas de pacientes inativos",
       "inactive_patient_desc": "Quando um paciente não está ativo há algum tempo",

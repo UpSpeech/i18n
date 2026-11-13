@@ -85,6 +85,8 @@
     "push_off_note": "Phone notifications are off. Turn them on in the app to use these switches.",
     "saved": "Notification settings saved",
     "save": "Save settings",
+    "save_failed": "Your settings weren't saved. Try again.",
+    "load_failed": "Notification settings didn't load.",
     "type_labels": {
       "inactive_patient": "Inactive patient alerts",
       "inactive_patient_desc": "When a patient hasn't been active for a period of time",
