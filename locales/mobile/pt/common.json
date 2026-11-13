@@ -2655,5 +2655,8 @@
   "recording_consent_sheet_continue": "Aceitar e continuar",
   "first_run_caregiver_child_pick_title": "Quem pratica contigo primeiro?",
   "first_run_caregiver_child_pick_hint": "Escolhe a criança com quem começar.",
-  "first_run_caregiver_child_pick_continue": "Continuar"
+  "first_run_caregiver_child_pick_continue": "Continuar",
+  "reminder_custom": "Hora personalizada",
+  "reminder_hour": "Hora (0–23)",
+  "reminder_minute": "Minutos"
 }

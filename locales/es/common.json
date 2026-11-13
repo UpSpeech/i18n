@@ -1901,5 +1901,8 @@
     "upload_interests_hint": "Elige todos los que encajen. El ejercicio lo eliges al asignarla.",
     "choose_file": "Elegir una imagen",
     "curated": "UpSpeech"
-  }
+  },
+  "reminder_custom": "Hora personalizada",
+  "reminder_hour": "Hora (0–23)",
+  "reminder_minute": "Minutos"
 }

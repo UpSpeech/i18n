@@ -1901,5 +1901,8 @@
     "upload_interests_hint": "Pick as many as fit. You choose which exercise it goes in when you assign it.",
     "choose_file": "Choose a picture",
     "curated": "UpSpeech"
-  }
+  },
+  "reminder_custom": "Custom time",
+  "reminder_hour": "Hour (0–23)",
+  "reminder_minute": "Minutes"
 }
