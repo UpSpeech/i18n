@@ -221,6 +221,7 @@
     "select_page": "Select every recording on this page",
     "status_analysing": "Analysing",
     "status_ready": "Proposals ready",
+    "status_checked": "Checked with AI",
     "status_failed": "Analysis failed",
     "queued_one": "Analysing {{count}} recording",
     "queued_other": "Analysing {{count}} recordings",
