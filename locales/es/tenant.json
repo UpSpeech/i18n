@@ -33,7 +33,7 @@
       "section_title": "Personalización y marca",
       "contact_section_title": "Información de contacto",
       "logo": "Logo",
-      "logo_helper": "Sube un logo (JPEG, PNG, WebP, SVG, máx. 5MB)",
+      "logo_helper": "Sube un logo (JPEG, PNG o WebP, máx. 5MB)",
       "primary_color": "Color primario",
       "accent_color": "Color de acento",
       "language": "Idioma",

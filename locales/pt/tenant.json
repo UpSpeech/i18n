@@ -33,7 +33,7 @@
       "section_title": "Marca e personalização",
       "contact_section_title": "Informações de contacto",
       "logo": "Logótipo",
-      "logo_helper": "Carrega um logótipo (JPEG, PNG, WebP, SVG, máx. 5MB)",
+      "logo_helper": "Carrega um logótipo (JPEG, PNG ou WebP, máx. 5MB)",
       "primary_color": "Cor primária",
       "accent_color": "Cor de destaque",
       "language": "Idioma",
