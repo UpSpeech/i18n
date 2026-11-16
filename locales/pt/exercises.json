@@ -16,8 +16,10 @@
     "escape_requires_video": "Nota: Comportamentos de fuga requerem gravações de vídeo",
     "cluster_count": "{{count}} grupos",
     "cluster_count_one": "{{count}} grupo",
+    "cluster_count_zero": "{{count}} grupos",
     "cluster_label": "{{count}} anotações",
     "cluster_label_one": "{{count}} anotação",
+    "cluster_label_zero": "{{count}} anotações",
     "marker_label": "Anotação de {{type}} em {{time}}"
   },
   "filters": {
@@ -259,10 +261,12 @@
     "assignment_overview": "Resumo da atribuição",
     "target_completions": "Meta: {{count}} conclusões (uma por dia)",
     "target_completions_one": "Meta: {{count}} conclusão",
+    "target_completions_zero": "Meta: {{count}} conclusões (uma por dia)",
     "schedule_label": "Agendamento:",
     "target_label": "Meta:",
     "completions_count": "{{count}} conclusões",
     "completions_count_one": "{{count}} conclusão",
+    "completions_count_zero": "{{count}} conclusões",
     "start_date": "Data de início",
     "deadline_label": "Prazo final",
     "deadline_helper": "Data de conclusão esperada (prazo flexível)",
@@ -353,6 +357,7 @@
     },
     "confirm_assign": "Confirmar e atribuir a {{count}} pacientes",
     "confirm_assign_one": "Confirmar e atribuir a {{count}} paciente",
+    "confirm_assign_zero": "Confirmar e atribuir a {{count}} pacientes",
     "record_video_for": "Gravar vídeo para {{name}}",
     "validation": {
       "deadline_after_start": "O prazo final deve ser posterior à data de início",
@@ -585,6 +590,7 @@
     "text_placeholder": "Reserva um momento para refletir e escreve os teus pensamentos aqui...",
     "characters": "{{count}} caracteres",
     "characters_one": "{{count}} carácter",
+    "characters_zero": "{{count}} caracteres",
     "good_length": "Boa extensão.",
     "your_reflection": "A tua reflexão",
     "video_recorded": "Vídeo gravado",
@@ -639,6 +645,7 @@
     "cycle_progress": "{{current}} de {{total}}",
     "all_cycles_complete": "Todos os {{count}} ciclos completos!",
     "all_cycles_complete_one": "Ciclo completo!",
+    "all_cycles_complete_zero": "Todos os {{count}} ciclos completos!",
     "exercise_complete_title": "Exercício concluído!",
     "exercise_complete_message": "Completaste todos os {{count}} ciclos guiados de holding.",
     "hold_interval": "Holding {{number}}: {{start}} → {{end}} ({{duration}}s)",
@@ -664,6 +671,7 @@
     "placeholder": "Leva o teu tempo. Escreve livremente sobre os teus pensamentos e sentimentos...",
     "characters": "{{count}} caracteres",
     "characters_one": "{{count}} carácter",
+    "characters_zero": "{{count}} caracteres",
     "min_length": "(mais {{remaining}} necessários)",
     "good_reflection": "Boa extensão.",
     "previous_entries": "Entradas anteriores",
@@ -709,6 +717,7 @@
     "practice_again": "Praticar novamente",
     "ready_hold_description": "Inicia a gravação e mantém o botão pressionado cada vez que pausares. Tenta cerca de {{duration}} segundos por pausa, {{count}} vezes.",
     "ready_hold_description_one": "Inicia a gravação e mantém o botão pressionado cada vez que pausares. Tenta cerca de {{duration}} segundos por pausa, uma vez.",
+    "ready_hold_description_zero": "Inicia a gravação e mantém o botão pressionado cada vez que pausares. Tenta cerca de {{duration}} segundos por pausa, {{count}} vezes.",
     "review_pauses": "Rever pausas ({{count}})"
   },
   "disclosure": {
@@ -751,6 +760,7 @@
     "completed": "Prática concluída!",
     "summary": "Duração: {{duration}}s • {{count}} técnicas usadas",
     "summary_one": "Duração: {{duration}}s • {{count}} técnica usada",
+    "summary_zero": "Duração: {{duration}}s • {{count}} técnicas usadas",
     "self_rating": "Como te sentes em relação a esta prática?",
     "rating": {
       "1": "Precisa de mais prática",
@@ -851,6 +861,7 @@
     "view_full_review": "Ver revisão completa",
     "recording_count_one": "{{count}} gravação",
     "recording_count_other": "{{count}} gravações",
+    "recording_count_zero": "{{count}} gravações",
     "recording_count": "{{count}} gravação"
   },
   "reading_prompt": {
@@ -996,6 +1007,7 @@
     "card_subtitle": "O que {{child, o}} pratica em casa, e como correu.",
     "card_total_one": "{{done}} de {{total}} sessões até agora, num exercício",
     "card_total_other": "{{done}} de {{total}} sessões até agora, em {{count}} exercícios",
+    "card_total_zero": "{{done}} de {{total}} sessões até agora, em {{count}} exercícios",
     "title_label": "Título",
     "title_placeholder": "Inícios suaves ao pequeno-almoço",
     "title_required": "Dá um título ao exercício",
@@ -1020,6 +1032,7 @@
     "plan_window": "Duração do plano",
     "weeks_value": "{{count}} semanas",
     "weeks_value_one": "{{count}} semana",
+    "weeks_value_zero": "{{count}} semanas",
     "days_note": "Quem cuida escolhe os dias. Tu defines a frequência e o limite; a família encaixa-o na semana.",
     "preview_label": "Como quem cuida vai ver isto",
     "preview_eyebrow": "Como quem cuida {{child, de}} vai ver isto",
@@ -1048,6 +1061,7 @@
     "days_title": "Que dias dão jeito?",
     "days_hint": "Escolhe {{count}} dias. Podes mudá-los quando quiseres.",
     "days_hint_one": "Escolhe {{count}} dia. Podes mudá-lo quando quiseres.",
+    "days_hint_zero": "Escolhe {{count}} dias. Podes mudá-los quando quiseres.",
     "days_save_failed": "Os dias não ficaram guardados. Tenta outra vez.",
     "sessions_progress": "{{done}} de {{total}} práticas",
     "practised_button": "Praticámos hoje",
@@ -1066,6 +1080,7 @@
     "week_title": "Esta semana",
     "week_sessions": "{{count}} práticas registadas esta semana",
     "week_sessions_one": "{{count}} prática registada esta semana",
+    "week_sessions_zero": "{{count}} práticas registadas esta semana",
     "week_no_days": "Escolhe os dias dentro de cada exercício e eles aparecem aqui.",
     "child_moment_title": "Conseguimos!",
     "child_moment_companion": "O {{companion}} ouviu todas.",
@@ -1155,6 +1170,7 @@
       "again": "Outra vez",
       "stops_one": "{{count}} paragem",
       "stops_other": "{{count}} paragens",
+      "stops_zero": "{{count}} paragens",
       "road_label": "Um carro a andar numa estrada"
     },
     "which_speech": {
@@ -1181,6 +1197,7 @@
       "empty": "Arrasta uma personagem para começares a tua história.",
       "scene_label_one": "{{setting}}, com {{count}} personagem",
       "scene_label_other": "{{setting}}, com {{count}} personagens",
+      "scene_label_zero": "{{setting}}, com {{count}} personagens",
       "character_lumo": "Lumo",
       "character_pip": "Pip",
       "character_nima": "Nima",

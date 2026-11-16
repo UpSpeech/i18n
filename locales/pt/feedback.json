@@ -125,6 +125,7 @@
     "page_title": "Feedback de relatórios",
     "showing_reports_with_feedback": "A mostrar {{count}} relatórios com feedback",
     "showing_reports_with_feedback_one": "A mostrar {{count}} relatório com feedback",
+    "showing_reports_with_feedback_zero": "A mostrar {{count}} relatórios com feedback",
     "loading_report_feedback": "A carregar feedback de relatórios...",
     "failed_load_message": "Falha ao carregar feedback de relatórios. Tenta novamente.",
     "try_again": "Tentar novamente",
@@ -145,6 +146,7 @@
     "comments_count": "Comentários ({{count}}):",
     "votes_count": "{{count}} votos",
     "votes_count_one": "{{count}} voto",
+    "votes_count_zero": "{{count}} votos",
     "vote_percentage": "({{percent}}%)"
   },
   "export_csv": "Exportar CSV",

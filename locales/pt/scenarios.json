@@ -8,6 +8,7 @@
   "conversation": "Conversa",
   "message_count": "{{count}} mensagens",
   "message_count_one": "{{count}} mensagem",
+  "message_count_zero": "{{count}} mensagens",
   "close_chat": "Fechar chat",
   "start_speaking": "Começa a falar para iniciar a conversa",
   "you": "Tu",
@@ -74,7 +75,8 @@
     "noSessionsDescription": "Começa a praticar conversas do dia a dia criando o teu primeiro cenário",
     "startPracticing": "Começar a praticar",
     "scenariosCount": "{{count}} cenários",
-    "scenariosCount_one": "{{count}} cenário"
+    "scenariosCount_one": "{{count}} cenário",
+    "scenariosCount_zero": "{{count}} cenários"
   },
   "categories": {
     "job_interview": "Entrevista de emprego",
@@ -282,6 +284,7 @@
     "session_complete_subtitle": "Revê o teu desempenho abaixo.",
     "turns_count": "{{count}} turnos",
     "turns_count_one": "{{count}} turno",
+    "turns_count_zero": "{{count}} turnos",
     "ambientMute": "Silenciar som de fundo",
     "ambientUnmute": "Ativar som de fundo",
     "ambientVolume": "Volume do som de fundo",
@@ -306,6 +309,7 @@
     "disfluencyPatterns": "Padrões de disfluência",
     "instances": "{{count}} ocorrências",
     "instances_one": "{{count}} ocorrência",
+    "instances_zero": "{{count}} ocorrências",
     "whatYouDidWell": "O que fizeste bem",
     "areasToFocus": "Áreas a melhorar",
     "recommendations": "Recomendações",
@@ -339,6 +343,7 @@
     "replay": "Repetir",
     "turnsCompleted": "{{count}} interações",
     "turnsCompleted_one": "{{count}} interação",
+    "turnsCompleted_zero": "{{count}} interações",
     "conversationLog": "Mensagens da conversa",
     "loadingReplay": "A carregar reprodução"
   },
@@ -437,9 +442,11 @@
   "reviewed": "Revisto",
   "scenarios_to_complete": "{{count}} cenários para completar",
   "scenarios_to_complete_one": "{{count}} cenário para completar",
+  "scenarios_to_complete_zero": "{{count}} cenários para completar",
   "start_scenario": "Iniciar cenário",
   "turns_count": "{{count}} interações",
   "turns_count_one": "{{count}} interação",
+  "turns_count_zero": "{{count}} interações",
   "view_all_history": "Ver todo o histórico ({{count}})",
   "video_call": {
     "settings": "Definições",
