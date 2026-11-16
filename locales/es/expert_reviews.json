@@ -221,6 +221,7 @@
     "select_page": "Seleccionar todas las grabaciones de esta página",
     "status_analysing": "Analizando",
     "status_ready": "Propuestas listas",
+    "status_checked": "Analizado con IA",
     "status_failed": "Análisis fallido",
     "queued_one": "Analizando {{count}} grabación",
     "queued_other": "Analizando {{count}} grabaciones",
