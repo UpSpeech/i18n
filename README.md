@@ -24,6 +24,8 @@ locales/
     en/ es/ pt/        the mobile app's own files (common.json, auth.json, quiz.json)
 scripts/
   check-parity.mjs     fails if a key exists in one language but not another
+  check-placeholders.mjs  fails if a key's {{placeholders}} differ between languages;
+                       placeholder-allowlist.json lists the deliberate differences
 ```
 
 The package ships the raw JSON only. Each app imports the files it needs by subpath and builds
