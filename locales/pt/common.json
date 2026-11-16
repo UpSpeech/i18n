@@ -270,6 +270,8 @@
     "companion": {
       "title": "O teu companheiro",
       "subtitle": "Escolhe a personagem que encontras pela aplicação, e o aspeto dela.",
+      "show_in_app": "Mostrar na app",
+      "mode_companion": "Companheiro",
       "preview_label": "O teu companheiro",
       "body": "Corpo",
       "crown": "Adorno",
@@ -291,6 +293,11 @@
         "pip": "Pip",
         "nima": "Nima",
         "tumbo": "Tumbo",
+        "bo": "Bo",
+        "suri": "Suri",
+        "tavi": "Tavi",
+        "nori": "Nori",
+        "mimo": "Mimo",
         "mark": "Logótipo UpSpeech",
         "none": "Sem companheiro"
       },
@@ -301,17 +308,43 @@
       "without_companion": "Praticar sem companheiro",
       "face_group": "Rosto",
       "colours_group": "Cores",
+      "looks": "Visuais",
+      "your_own": "À tua maneira",
+      "look_caption": "Um visual pronto a partir do Lumo",
+      "new_badge": "Novo",
+      "tab_character": "Personagem",
+      "tab_face": "Rosto",
+      "tab_belly": "Barriga",
+      "mouth": "Boca",
+      "cheek_shape": "Forma das bochechas",
+      "cheek_colour": "Cor das bochechas",
+      "belly_colour": "Cor da barriga",
       "eyes_options": {
         "default": "Original",
         "wide": "Grandes",
         "narrow": "Estreitos",
-        "dot": "Pontos"
+        "dot": "Pontos",
+        "sparkle": "Brilho",
+        "tall": "Altos"
       },
       "brows_options": {
         "none": "Sem sobrancelhas",
         "flat": "Retas",
         "raised": "Levantadas",
         "soft": "Suaves"
+      },
+      "mouth_options": {
+        "default": "Original",
+        "grin": "Sorriso aberto",
+        "cat": "Gato",
+        "fang": "Dentinho"
+      },
+      "cheek_options": {
+        "default": "Original",
+        "blush": "Rubor",
+        "hearts": "Corações",
+        "freckles": "Sardas",
+        "none": "Sem bochechas"
       },
       "belly_shapes": {
         "lobe": "Original",
@@ -329,13 +362,19 @@
         "ears": "Orelhas",
         "antenna": "Antena",
         "sideEars": "Orelhas laterais",
+        "buns": "Carrapitos",
+        "tuft": "Tufo",
+        "sprout": "Rebento",
+        "feelers": "Antenas",
+        "knot": "Puxo",
         "none": "Sem adorno"
       },
       "colors": {
         "sand": "Areia",
         "lavender": "Lavanda",
         "sky": "Céu",
-        "mint": "Menta"
+        "mint": "Menta",
+        "rose": "Rosa da Mimo"
       }
     },
     "companion_bar_title": "Barra do assistente",

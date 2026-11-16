@@ -269,6 +269,8 @@
     "companion": {
       "title": "Tu compañero",
       "subtitle": "Elige el personaje que encuentras por la aplicación, y su aspecto.",
+      "show_in_app": "Mostrar en la app",
+      "mode_companion": "Compañero",
       "preview_label": "Tu compañero",
       "body": "Cuerpo",
       "crown": "Adorno",
@@ -290,6 +292,11 @@
         "pip": "Pip",
         "nima": "Nima",
         "tumbo": "Tumbo",
+        "bo": "Bo",
+        "suri": "Suri",
+        "tavi": "Tavi",
+        "nori": "Nori",
+        "mimo": "Mimo",
         "mark": "Logo de UpSpeech",
         "none": "Sin compañero"
       },
@@ -300,17 +307,43 @@
       "without_companion": "Practicar sin compañero",
       "face_group": "Cara",
       "colours_group": "Colores",
+      "looks": "Estilos",
+      "your_own": "A tu manera",
+      "look_caption": "Un estilo listo a partir de Lumo",
+      "new_badge": "Nuevo",
+      "tab_character": "Personaje",
+      "tab_face": "Cara",
+      "tab_belly": "Barriga",
+      "mouth": "Boca",
+      "cheek_shape": "Forma de las mejillas",
+      "cheek_colour": "Color de las mejillas",
+      "belly_colour": "Color de la barriga",
       "eyes_options": {
         "default": "Original",
         "wide": "Grandes",
         "narrow": "Estrechos",
-        "dot": "Puntos"
+        "dot": "Puntos",
+        "sparkle": "Brillo",
+        "tall": "Altos"
       },
       "brows_options": {
         "none": "Sin cejas",
         "flat": "Rectas",
         "raised": "Levantadas",
         "soft": "Suaves"
+      },
+      "mouth_options": {
+        "default": "Original",
+        "grin": "Sonrisa amplia",
+        "cat": "Gato",
+        "fang": "Colmillo"
+      },
+      "cheek_options": {
+        "default": "Original",
+        "blush": "Rubor",
+        "hearts": "Corazones",
+        "freckles": "Pecas",
+        "none": "Sin mejillas"
       },
       "belly_shapes": {
         "lobe": "Original",
@@ -328,13 +361,19 @@
         "ears": "Orejas",
         "antenna": "Antena",
         "sideEars": "Orejas laterales",
+        "buns": "Moños",
+        "tuft": "Mechón",
+        "sprout": "Brote",
+        "feelers": "Antenas",
+        "knot": "Moño alto",
         "none": "Sin adorno"
       },
       "colors": {
         "sand": "Arena",
         "lavender": "Lavanda",
         "sky": "Cielo",
-        "mint": "Menta"
+        "mint": "Menta",
+        "rose": "Rosa de Mimo"
       }
     },
     "companion_bar_title": "Barra del asistente",
