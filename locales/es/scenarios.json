@@ -7,6 +7,7 @@
   "chat": "Chat",
   "conversation": "Conversación",
   "message_count": "{{count}} mensajes",
+  "message_count_one": "{{count}} mensaje",
   "close_chat": "Cerrar chat",
   "start_speaking": "Comienza a hablar para iniciar la conversación",
   "you": "Tú",
@@ -72,7 +73,8 @@
     "noSessionsTitle": "Sin escenarios aún",
     "noSessionsDescription": "Comienza a practicar conversaciones del mundo real creando tu primer escenario",
     "startPracticing": "Empezar a practicar",
-    "scenariosCount": "{{count}} escenarios"
+    "scenariosCount": "{{count}} escenarios",
+    "scenariosCount_one": "{{count}} escenario"
   },
   "categories": {
     "job_interview": "Entrevista de trabajo",
@@ -279,6 +281,7 @@
     "session_complete": "Sesión completada",
     "session_complete_subtitle": "Revisa tu desempeño a continuación.",
     "turns_count": "{{count}} turnos",
+    "turns_count_one": "{{count}} turno",
     "ambientMute": "Silenciar sonido de fondo",
     "ambientUnmute": "Activar sonido de fondo",
     "ambientVolume": "Volumen del sonido de fondo",
@@ -302,6 +305,7 @@
     "goalAchievement": "Logro de objetivos",
     "disfluencyPatterns": "Patrones de disfluencia",
     "instances": "{{count}} instancias",
+    "instances_one": "{{count}} instancia",
     "whatYouDidWell": "Lo que hiciste bien",
     "areasToFocus": "Áreas a mejorar",
     "recommendations": "Recomendaciones",
@@ -334,6 +338,7 @@
     "playRecording": "Reproducir",
     "replay": "Repetir",
     "turnsCompleted": "{{count}} turnos",
+    "turnsCompleted_one": "{{count}} turno",
     "conversationLog": "Mensajes de la conversación",
     "loadingReplay": "Cargando reproducción"
   },
@@ -430,9 +435,11 @@
   "load_details_error": "Error al cargar los detalles de la sesión. Por favor, inténtalo de nuevo.",
   "overdue": "Atrasado",
   "reviewed": "Revisado",
-  "scenarios_to_complete": "{{count}} escenario(s) para completar",
+  "scenarios_to_complete": "{{count}} escenarios para completar",
+  "scenarios_to_complete_one": "{{count}} escenario para completar",
   "start_scenario": "Iniciar escenario",
   "turns_count": "{{count}} turnos",
+  "turns_count_one": "{{count}} turno",
   "view_all_history": "Ver todo el historial ({{count}})",
   "video_call": {
     "settings": "Configuración",

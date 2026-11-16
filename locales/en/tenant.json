@@ -33,7 +33,7 @@
       "section_title": "Branding & customisation",
       "contact_section_title": "Contact information",
       "logo": "Logo",
-      "logo_helper": "Upload a logo (JPEG, PNG, WebP, SVG, max 5MB)",
+      "logo_helper": "Upload a logo (JPEG, PNG or WebP, max 5MB)",
       "primary_color": "Primary colour",
       "accent_color": "Accent colour",
       "language": "Language",

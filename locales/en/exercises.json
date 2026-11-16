@@ -15,7 +15,9 @@
     "video_required": "Video recording required for escape behaviours",
     "escape_requires_video": "Note: Escape behaviours require video recordings",
     "cluster_count": "{{count}} clusters",
+    "cluster_count_one": "{{count}} cluster",
     "cluster_label": "{{count}} annotations",
+    "cluster_label_one": "{{count}} annotation",
     "marker_label": "{{type}} annotation at {{time}}"
   },
   "filters": {
@@ -333,9 +335,11 @@
     "record_reference_video": "Record reference video",
     "assignment_overview": "Assignment overview",
     "target_completions": "Target: {{count}} completions (one per day)",
+    "target_completions_one": "Target: {{count}} completion",
     "schedule_label": "Schedule:",
     "target_label": "Target:",
     "completions_count": "{{count}} completions",
+    "completions_count_one": "{{count}} completion",
     "empty_state": {
       "create_first": "Create your first mini game",
       "create_from_scratch": "Create from scratch"
@@ -347,7 +351,8 @@
       "success": "Imported {{count}} starter exercises",
       "all_exist": "All starter exercises already exist"
     },
-    "confirm_assign": "Confirm & assign to {{count}} patient(s)",
+    "confirm_assign": "Confirm & assign to {{count}} patients",
+    "confirm_assign_one": "Confirm & assign to {{count}} patient",
     "record_video_for": "Record video for {{name}}",
     "validation": {
       "deadline_after_start": "Deadline must be after start date",
@@ -579,6 +584,7 @@
     "recording_saved": "Recording saved",
     "text_placeholder": "Take a moment to reflect and write your thoughts here...",
     "characters": "{{count}} characters",
+    "characters_one": "{{count}} character",
     "good_length": "Good length.",
     "your_reflection": "Your reflection",
     "video_recorded": "Video recorded",
@@ -602,6 +608,7 @@
     "phase_hold": "Hold",
     "cycle_progress": "{{current}} of {{total}}",
     "all_cycles_complete": "All {{count}} cycles complete!",
+    "all_cycles_complete_one": "Cycle complete!",
     "exercise_complete_title": "Exercise complete!",
     "exercise_complete_message": "You completed all {{count}} guided holding cycles.",
     "hold_interval": "Hold {{number}}: {{start}} → {{end}} ({{duration}}s)",
@@ -656,6 +663,7 @@
     "mood_label": "How are you feeling right now?",
     "placeholder": "Take your time. Write freely about your thoughts and feelings...",
     "characters": "{{count}} characters",
+    "characters_one": "{{count}} character",
     "min_length": "({{remaining}} more needed)",
     "good_reflection": "Good length.",
     "previous_entries": "Previous entries",
@@ -700,6 +708,7 @@
     "play_pause": "Play pause {{number}}",
     "practice_again": "Practise again",
     "ready_hold_description": "Start recording and hold the button each time you pause. Aim for about {{duration}} seconds per pause, {{count}} times.",
+    "ready_hold_description_one": "Start recording and hold the button each time you pause. Aim for about {{duration}} seconds per pause, once.",
     "review_pauses": "Review pauses ({{count}})"
   },
   "disclosure": {
@@ -741,6 +750,7 @@
     "scenario_label": "Your scenario",
     "completed": "Practice complete!",
     "summary": "Duration: {{duration}}s • {{count}} techniques used",
+    "summary_one": "Duration: {{duration}}s • {{count}} technique used",
     "self_rating": "How do you feel about this practice?",
     "rating": {
       "1": "Needs more practice",
@@ -1009,6 +1019,7 @@
     "minutes_value": "{{count}} min",
     "plan_window": "Plan window",
     "weeks_value": "{{count}} weeks",
+    "weeks_value_one": "{{count}} week",
     "days_note": "The caregiver chooses which days. You set the frequency and the ceiling; they fit it into the week.",
     "preview_label": "How the caregiver will see it",
     "preview_eyebrow": "How {{child}}'s caregiver will see it",
@@ -1036,6 +1047,7 @@
     "watch_label": "Watch how it goes",
     "days_title": "Which days suit you?",
     "days_hint": "Pick {{count}} days. You can change them any time.",
+    "days_hint_one": "Pick {{count}} day. You can change it any time.",
     "days_save_failed": "The days did not save. Try again.",
     "sessions_progress": "{{done}} of {{total}} practices",
     "practised_button": "We practised today",

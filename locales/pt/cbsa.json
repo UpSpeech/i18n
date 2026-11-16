@@ -103,6 +103,7 @@
     "dimensions_subtitle_first": "O teu último registo. Para a semana vais ver o que mudou.",
     "checkin_count_one": "Já fizeste {{count}} registo.",
     "checkin_count_other": "Já fizeste {{count}} registos.",
+    "checkin_count_zero": "Já fizeste {{count}} registos.",
     "error_title": "Não conseguimos carregar os teus registos",
     "error_description": "Tenta novamente daqui a pouco.",
     "empty_title": "Ainda sem registos",

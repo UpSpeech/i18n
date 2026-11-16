@@ -8,14 +8,19 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const localesDir = join(root, "locales");
 const langs = ["en", "es", "pt"];
 
+// Leaf values by key. Arrays flatten by index, so an empty string in one is caught.
 const flatten = (obj, prefix = "", acc = {}) => {
   for (const key in obj) {
     const value = obj[key];
     const fullKey = prefix ? `${prefix}.${key}` : key;
-    value && typeof value === "object" ? flatten(value, fullKey, acc) : (acc[fullKey] = true);
+    value && typeof value === "object" ? flatten(value, fullKey, acc) : (acc[fullKey] = value);
   }
   return acc;
 };
+
+// A count right before a plural noun ("{{count}} steps") needs a _one form, or
+// a count of 1 renders "1 steps". i18next falls back to the bare key for other counts.
+const PLURAL_AFTER_COUNT = /\{\{count\}\}\s+[A-Za-z]+(?:s|\(s\))(?![A-Za-z])/;
 
 function namespacesFor(lang) {
   const out = {};
@@ -57,7 +62,49 @@ for (const namespace of allNamespaces) {
       console.error(`[${lang}] ${namespace}: file missing or empty`);
       continue;
     }
-    const missing = [...union].filter((key) => !have[key]);
+    // Only pt needs `_zero`: Intl.PluralRules("pt") files 0 under "one", so a
+    // `_one` with no `_zero` beside it renders 0 in the singular.
+    const ptOnlyZero = (key) =>
+      key.endsWith("_zero") && !langs.some((l) => l !== "pt" && key in (byLang[l][namespace] || {}));
+    const missing = [...union].filter((key) => !(key in have) && !(lang !== "pt" && ptOnlyZero(key)));
+    if (lang === "pt") {
+      const noZero = Object.keys(have).filter((key) => {
+        if (!key.endsWith("_one")) return false;
+        const base = key.slice(0, -4);
+        return (`${base}_other` in have || base in have) && !(`${base}_zero` in have);
+      });
+      if (noZero.length) {
+        problems += noZero.length;
+        console.error(`[pt] ${namespace}: ${noZero.length} plural(s) with _one and no _zero: ${noZero.slice(0, 8).join(", ")}`);
+      }
+    }
+    // Blank in every language is a deliberate empty; blank in one is a gap.
+    const isBlank = (v) => typeof v === "string" && v.trim() === "";
+    const empty = Object.keys(have).filter(
+      (key) =>
+        isBlank(have[key]) &&
+        langs.some((other) => {
+          const v = byLang[other][namespace]?.[key];
+          return typeof v === "string" && !isBlank(v);
+        })
+    );
+    if (empty.length) {
+      problems += empty.length;
+      console.error(`[${lang}] ${namespace}: ${empty.length} empty value(s): ${empty.slice(0, 8).join(", ")}`);
+    }
+    if (lang === "en") {
+      const bare = Object.keys(have).filter(
+        (key) =>
+          !/_(one|other)$/.test(key) &&
+          typeof have[key] === "string" &&
+          PLURAL_AFTER_COUNT.test(have[key]) &&
+          !(`${key}_one` in have)
+      );
+      if (bare.length) {
+        problems += bare.length;
+        console.error(`[en] ${namespace}: ${bare.length} count string(s) without a _one form: ${bare.slice(0, 8).join(", ")}`);
+      }
+    }
     if (missing.length) {
       problems += missing.length;
       console.error(

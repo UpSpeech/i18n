@@ -22,7 +22,7 @@
     "streak_zero_title": "A fresh start",
     "streak_zero_hint": "Practise today to begin your streak",
     "overdue_title": "{{count}} overdue",
-    "overdue_open": "Practice now",
+    "overdue_open": "Practise now",
     "your_progress": "Your progress",
     "no_path_title": "Your plan is not ready yet",
     "no_path_description": "Your therapist is putting your steps together. This screen fills in as soon as they do.",
@@ -32,6 +32,7 @@
     "consecutive_days": "days",
     "vs_last_week": "vs {{count}} last week",
     "recordings_reviewed": "{{count}} recordings reviewed",
+    "recordings_reviewed_one": "{{count}} recording reviewed",
     "no_recordings_reviewed": "No recordings reviewed yet",
     "pending_review": "{{count}} pending review",
     "recent_feedback_title": "Recent feedback",
@@ -142,7 +143,8 @@
         "low": "Low engagement (0-1 activities)",
         "duration_note": "Counts all recordings, exercises, scenarios, and quizzes"
       },
-      "patient_aria_label": "{{name}}: {{count}} exercises completed"
+      "patient_aria_label": "{{name}}: {{count}} exercises completed",
+      "patient_aria_label_one": "{{name}}: {{count}} exercise completed"
     },
     "patient_activity_error": "Failed to load patient activity",
     "quick_actions": "Quick actions",
@@ -377,6 +379,7 @@
   "caregiver": {
     "practising_with": "Practising with",
     "child_age": "{{name}}, {{count}} years old",
+    "child_age_one": "{{name}}, {{count}} year old",
     "reminder_title": "Daily reminder",
     "reminder_change": "Change",
     "reminder_at_hour": "at {{hour}}:00",
