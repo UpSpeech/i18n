@@ -3,8 +3,8 @@
 Shared i18next translation files (en / es / pt) for the UpSpeech **frontend** and **mobile**
 apps. Single source of truth so a copy change is made once, not duplicated across repos.
 
-Consumed as a **public git dependency** (GitHub Packages is blocked by the org billing cap, and
-translation strings ship in the client bundle anyway so they aren't secret). No registry, no auth:
+Consumed as a **public git dependency** pinned to a release tag (translation strings ship in the
+client bundle anyway, so they aren't secret). No registry, no auth:
 
 ```jsonc
 // app-frontend & app-mobile package.json
@@ -44,7 +44,9 @@ import enCommon from "@upspeech/i18n/locales/mobile/en/common.json";
 1. Edit the relevant `locales/<lang>/<namespace>.json` (frontend) or
    `locales/mobile/<lang>/<namespace>.json` (mobile).
 2. Keep all three languages in sync, `npm run check` enforces it (and runs in CI on every PR).
-3. Bump the git tag (`git tag vX.Y.Z && git push --tags`).
+3. Bump the git tag (`git tag vX.Y.Z && git push --tags`). The tag is the version. The
+   `version` in this repo's `package.json` is not kept in step and only matters to the dormant,
+   manual-only `publish.yml`.
 4. Bump the `#vX.Y.Z` ref in each consuming app's `package.json` to pick it up.
 
 For tight local iteration, `npm link` this repo into the consuming app instead of bumping the tag

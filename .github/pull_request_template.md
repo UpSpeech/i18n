@@ -16,6 +16,7 @@
 
 - [ ] Tag cut, and the pin bumped in app-frontend and app-mobile
 - [ ] Not a release, keys only
+
 ## Testing
 
-<!-- Actions is billing-blocked, so CI will not run. Say which gates you ran locally. -->
+<!-- CI runs npm run check. Say what else you ran. -->

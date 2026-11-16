@@ -1,12 +1,9 @@
 name: Publish @upspeech/i18n
 
-# DORMANT: the package is consumed as a git dependency (GitHub Packages is blocked
-# by the org billing cap). This stays for if/when the registry path is restored.
-# Manual / tag-triggered only so a routine merge to main can't publish.
+# DORMANT: both clients consume the package as a git dependency pinned to a tag,
+# so nothing reads the registry. Manual only, so cutting a release tag never
+# publishes. Bump package.json "version" to the release before running it.
 on:
-  push:
-    tags:
-      - "v*"
   workflow_dispatch:
 
 jobs:
@@ -16,8 +13,8 @@ jobs:
       contents: read
       packages: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: 22
           registry-url: "https://npm.pkg.github.com"
