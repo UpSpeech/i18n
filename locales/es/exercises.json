@@ -15,7 +15,9 @@
     "video_required": "Grabación de video requerida para comportamientos de escape",
     "escape_requires_video": "Nota: Los comportamientos de escape requieren grabaciones de video",
     "cluster_count": "{{count}} grupos",
+    "cluster_count_one": "{{count}} grupo",
     "cluster_label": "{{count}} anotaciones",
+    "cluster_label_one": "{{count}} anotación",
     "marker_label": "Anotación de {{type}} en {{time}}"
   },
   "filters": {
@@ -256,9 +258,11 @@
     "record_reference_video": "Grabar video de referencia",
     "assignment_overview": "Resumen de asignación",
     "target_completions": "Meta: {{count}} finalizaciones (una por día)",
+    "target_completions_one": "Meta: {{count}} finalización",
     "schedule_label": "Programación:",
     "target_label": "Meta:",
     "completions_count": "{{count}} finalizaciones",
+    "completions_count_one": "{{count}} finalización",
     "start_date": "Fecha de inicio",
     "deadline_label": "Fecha límite",
     "deadline_helper": "Fecha de finalización objetivo (plazo flexible)",
@@ -347,7 +351,8 @@
       "success": "Importados {{count}} ejercicios iniciales",
       "all_exist": "Todos los ejercicios iniciales ya existen"
     },
-    "confirm_assign": "Confirmar y asignar a {{count}} paciente(s)",
+    "confirm_assign": "Confirmar y asignar a {{count}} pacientes",
+    "confirm_assign_one": "Confirmar y asignar a {{count}} paciente",
     "record_video_for": "Grabar video para {{name}}",
     "validation": {
       "deadline_after_start": "La fecha límite debe ser posterior a la fecha de inicio",
@@ -579,6 +584,7 @@
     "recording_saved": "Grabación guardada",
     "text_placeholder": "Tómate un momento para reflexionar y escribe tus pensamientos aquí...",
     "characters": "{{count}} caracteres",
+    "characters_one": "{{count}} carácter",
     "good_length": "Buena extensión.",
     "your_reflection": "Tu reflexión",
     "video_recorded": "Video grabado",
@@ -632,6 +638,7 @@
     "phase_hold": "Mantén",
     "cycle_progress": "{{current}} de {{total}}",
     "all_cycles_complete": "¡Los {{count}} ciclos completados!",
+    "all_cycles_complete_one": "¡Ciclo completado!",
     "exercise_complete_title": "¡Ejercicio completado!",
     "exercise_complete_message": "Completaste los {{count}} ciclos guiados de mantenimiento.",
     "hold_interval": "Mantenimiento {{number}}: {{start}} → {{end}} ({{duration}}s)",
@@ -656,6 +663,7 @@
     "mood_label": "¿Cómo te sientes ahora mismo?",
     "placeholder": "Tómate tu tiempo. Escribe libremente sobre tus pensamientos y sentimientos...",
     "characters": "{{count}} caracteres",
+    "characters_one": "{{count}} carácter",
     "min_length": "({{remaining}} más necesarios)",
     "good_reflection": "Buena extensión.",
     "previous_entries": "Entradas anteriores",
@@ -700,6 +708,7 @@
     "play_pause": "Reproducir pausa {{number}}",
     "practice_again": "Practicar de nuevo",
     "ready_hold_description": "Inicia la grabación y mantén el botón presionado cada vez que pauses. Apunta a unos {{duration}} segundos por pausa, {{count}} veces.",
+    "ready_hold_description_one": "Inicia la grabación y mantén el botón presionado cada vez que pauses. Apunta a unos {{duration}} segundos por pausa, una vez.",
     "review_pauses": "Revisar pausas ({{count}})"
   },
   "disclosure": {
@@ -741,6 +750,7 @@
     "scenario_label": "Tu escenario",
     "completed": "¡Práctica completada!",
     "summary": "Duración: {{duration}}s • {{count}} técnicas usadas",
+    "summary_one": "Duración: {{duration}}s • {{count}} técnica usada",
     "self_rating": "¿Cómo te sientes con esta práctica?",
     "rating": {
       "1": "Necesita más práctica",
@@ -1009,6 +1019,7 @@
     "minutes_value": "{{count}} min",
     "plan_window": "Duración del plan",
     "weeks_value": "{{count}} semanas",
+    "weeks_value_one": "{{count}} semana",
     "days_note": "Quien cuida elige los días. Tú fijas la frecuencia y el límite; la familia lo encaja en la semana.",
     "preview_label": "Cómo lo verá quien cuida",
     "preview_eyebrow": "Cómo lo verá quien cuida de {{child}}",
@@ -1036,6 +1047,7 @@
     "watch_label": "Mira cómo se hace",
     "days_title": "¿Qué días te vienen bien?",
     "days_hint": "Elige {{count}} días. Puedes cambiarlos cuando quieras.",
+    "days_hint_one": "Elige {{count}} día. Puedes cambiarlo cuando quieras.",
     "days_save_failed": "Los días no se guardaron. Inténtalo otra vez.",
     "sessions_progress": "{{done}} de {{total}} prácticas",
     "practised_button": "Hoy practicamos",

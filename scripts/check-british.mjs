@@ -18,6 +18,10 @@ const AMERICAN = [
   /labeling/, /canceled/, /canceling/, /traveled/, /enrollment/, /catalog\b/,
   /practicing/, /practiced/, /(?:to|you|they|we|can|let's) practice\b/,
 ];
+// "Practice" opening a sentence is a noun ("Practice log") unless an adverb or
+// a second verb follows, which makes it the imperative, spelt "Practise".
+const IMPERATIVE_PRACTICE =
+  /(?:^|[.!?]\s+)(Practice (?:now|again|daily|today|together|here|and)\b)/;
 // Technical terms the decision keeps, and a noun use the verb pattern catches.
 const EXEMPT = /anonymiz|pseudonymiz|desensitiz|back to practice|dedication to practice/i;
 
@@ -40,6 +44,11 @@ for (const dir of dirs) {
     const entries = walk(JSON.parse(readFileSync(join(dir, file), "utf8")));
     for (const [key, value] of entries) {
       if (EXEMPT.test(value)) continue;
+      const imperative = value.match(IMPERATIVE_PRACTICE);
+      if (imperative) {
+        console.error(`${dir.slice(root.length + 1)}/${file}: ${key}: ${imperative[1]}`);
+        failures++;
+      }
       for (const re of AMERICAN) {
         const hit = value.match(new RegExp(`\\b(${re.source})`, "i"));
         if (hit) {

@@ -13,7 +13,10 @@ const langs = ["en", "es", "pt"];
 const trees = ["", "mobile"];
 
 function collect(obj, path, out) {
-  if (Array.isArray(obj)) return;
+  if (Array.isArray(obj)) {
+    obj.forEach((item, i) => collect(item, `${path}[${i}]`, out));
+    return;
+  }
   if (obj && typeof obj === "object") {
     for (const key of Object.keys(obj)) {
       const value = obj[key];

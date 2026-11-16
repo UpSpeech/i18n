@@ -124,6 +124,7 @@
   "report_feedback_tab": {
     "page_title": "Feedback de informes",
     "showing_reports_with_feedback": "Mostrando {{count}} informes con feedback",
+    "showing_reports_with_feedback_one": "Mostrando {{count}} informe con feedback",
     "loading_report_feedback": "Cargando feedback de informes...",
     "failed_load_message": "Error al cargar feedback de informes. Por favor inténtalo de nuevo.",
     "try_again": "Intentar de nuevo",
@@ -143,6 +144,7 @@
     "total_votes_label": "Total de votos",
     "comments_count": "Comentarios ({{count}}):",
     "votes_count": "{{count}} votos",
+    "votes_count_one": "{{count}} voto",
     "vote_percentage": "({{percent}}%)"
   },
   "export_csv": "Exportar CSV",

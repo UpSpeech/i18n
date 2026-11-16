@@ -7,6 +7,7 @@
   "chat": "Chat",
   "conversation": "Conversa",
   "message_count": "{{count}} mensagens",
+  "message_count_one": "{{count}} mensagem",
   "close_chat": "Fechar chat",
   "start_speaking": "Começa a falar para iniciar a conversa",
   "you": "Tu",
@@ -72,7 +73,8 @@
     "noSessionsTitle": "Ainda sem cenários",
     "noSessionsDescription": "Começa a praticar conversas do dia a dia criando o teu primeiro cenário",
     "startPracticing": "Começar a praticar",
-    "scenariosCount": "{{count}} cenários"
+    "scenariosCount": "{{count}} cenários",
+    "scenariosCount_one": "{{count}} cenário"
   },
   "categories": {
     "job_interview": "Entrevista de emprego",
@@ -279,6 +281,7 @@
     "session_complete": "Sessão concluída",
     "session_complete_subtitle": "Revê o teu desempenho abaixo.",
     "turns_count": "{{count}} turnos",
+    "turns_count_one": "{{count}} turno",
     "ambientMute": "Silenciar som de fundo",
     "ambientUnmute": "Ativar som de fundo",
     "ambientVolume": "Volume do som de fundo",
@@ -302,6 +305,7 @@
     "goalAchievement": "Objetivos atingidos",
     "disfluencyPatterns": "Padrões de disfluência",
     "instances": "{{count}} ocorrências",
+    "instances_one": "{{count}} ocorrência",
     "whatYouDidWell": "O que fizeste bem",
     "areasToFocus": "Áreas a melhorar",
     "recommendations": "Recomendações",
@@ -334,6 +338,7 @@
     "playRecording": "Reproduzir",
     "replay": "Repetir",
     "turnsCompleted": "{{count}} interações",
+    "turnsCompleted_one": "{{count}} interação",
     "conversationLog": "Mensagens da conversa",
     "loadingReplay": "A carregar reprodução"
   },
@@ -430,9 +435,11 @@
   "load_details_error": "Falha ao carregar os detalhes da sessão. Por favor, tenta novamente.",
   "overdue": "Em atraso",
   "reviewed": "Revisto",
-  "scenarios_to_complete": "{{count}} cenário(s) para completar",
+  "scenarios_to_complete": "{{count}} cenários para completar",
+  "scenarios_to_complete_one": "{{count}} cenário para completar",
   "start_scenario": "Iniciar cenário",
   "turns_count": "{{count}} interações",
+  "turns_count_one": "{{count}} interação",
   "view_all_history": "Ver todo o histórico ({{count}})",
   "video_call": {
     "settings": "Definições",

@@ -124,6 +124,7 @@
   "report_feedback_tab": {
     "page_title": "Report feedback",
     "showing_reports_with_feedback": "Showing {{count}} reports with feedback",
+    "showing_reports_with_feedback_one": "Showing {{count}} report with feedback",
     "loading_report_feedback": "Loading report feedback...",
     "failed_load_message": "Failed to load report feedback. Please try again.",
     "try_again": "Try again",
@@ -143,6 +144,7 @@
     "total_votes_label": "Total votes",
     "comments_count": "Comments ({{count}}):",
     "votes_count": "{{count}} votes",
+    "votes_count_one": "{{count}} vote",
     "vote_percentage": "({{percent}}%)"
   },
   "export_csv": "Export CSV",

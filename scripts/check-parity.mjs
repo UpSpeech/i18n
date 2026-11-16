@@ -8,14 +8,19 @@ const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const localesDir = join(root, "locales");
 const langs = ["en", "es", "pt"];
 
+// Leaf values by key. Arrays flatten by index, so an empty string in one is caught.
 const flatten = (obj, prefix = "", acc = {}) => {
   for (const key in obj) {
     const value = obj[key];
     const fullKey = prefix ? `${prefix}.${key}` : key;
-    value && typeof value === "object" ? flatten(value, fullKey, acc) : (acc[fullKey] = true);
+    value && typeof value === "object" ? flatten(value, fullKey, acc) : (acc[fullKey] = value);
   }
   return acc;
 };
+
+// A count right before a plural noun ("{{count}} steps") needs a _one form, or
+// a count of 1 renders "1 steps". i18next falls back to the bare key for other counts.
+const PLURAL_AFTER_COUNT = /\{\{count\}\}\s+[A-Za-z]+(?:s|\(s\))(?![A-Za-z])/;
 
 function namespacesFor(lang) {
   const out = {};
@@ -57,7 +62,34 @@ for (const namespace of allNamespaces) {
       console.error(`[${lang}] ${namespace}: file missing or empty`);
       continue;
     }
-    const missing = [...union].filter((key) => !have[key]);
+    const missing = [...union].filter((key) => !(key in have));
+    // Blank in every language is a deliberate empty; blank in one is a gap.
+    const isBlank = (v) => typeof v === "string" && v.trim() === "";
+    const empty = Object.keys(have).filter(
+      (key) =>
+        isBlank(have[key]) &&
+        langs.some((other) => {
+          const v = byLang[other][namespace]?.[key];
+          return typeof v === "string" && !isBlank(v);
+        })
+    );
+    if (empty.length) {
+      problems += empty.length;
+      console.error(`[${lang}] ${namespace}: ${empty.length} empty value(s): ${empty.slice(0, 8).join(", ")}`);
+    }
+    if (lang === "en") {
+      const bare = Object.keys(have).filter(
+        (key) =>
+          !/_(one|other)$/.test(key) &&
+          typeof have[key] === "string" &&
+          PLURAL_AFTER_COUNT.test(have[key]) &&
+          !(`${key}_one` in have)
+      );
+      if (bare.length) {
+        problems += bare.length;
+        console.error(`[en] ${namespace}: ${bare.length} count string(s) without a _one form: ${bare.slice(0, 8).join(", ")}`);
+      }
+    }
     if (missing.length) {
       problems += missing.length;
       console.error(

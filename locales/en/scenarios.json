@@ -7,6 +7,7 @@
   "chat": "Chat",
   "conversation": "Conversation",
   "message_count": "{{count}} messages",
+  "message_count_one": "{{count}} message",
   "close_chat": "Close chat",
   "start_speaking": "Start speaking to begin the conversation",
   "you": "You",
@@ -72,7 +73,8 @@
     "noSessionsTitle": "No scenarios yet",
     "noSessionsDescription": "Start practising real-world conversations by creating your first scenario",
     "startPracticing": "Start practising",
-    "scenariosCount": "{{count}} scenarios"
+    "scenariosCount": "{{count}} scenarios",
+    "scenariosCount_one": "{{count}} scenario"
   },
   "categories": {
     "job_interview": "Job interview",
@@ -279,6 +281,7 @@
     "session_complete": "Session complete",
     "session_complete_subtitle": "Review your performance below.",
     "turns_count": "{{count}} turns",
+    "turns_count_one": "{{count}} turn",
     "ambientMute": "Mute background sound",
     "ambientUnmute": "Unmute background sound",
     "ambientVolume": "Background sound volume",
@@ -302,6 +305,7 @@
     "goalAchievement": "Goal achievement",
     "disfluencyPatterns": "Disfluency patterns",
     "instances": "{{count}} instances",
+    "instances_one": "{{count}} instance",
     "whatYouDidWell": "What you did well",
     "areasToFocus": "Areas to focus on",
     "recommendations": "Recommendations",
@@ -334,6 +338,7 @@
     "playRecording": "Play",
     "replay": "Replay",
     "turnsCompleted": "{{count}} turns",
+    "turnsCompleted_one": "{{count}} turn",
     "conversationLog": "Conversation messages",
     "loadingReplay": "Loading replay"
   },
@@ -430,9 +435,11 @@
   "load_details_error": "Failed to load session details. Please try again.",
   "overdue": "Overdue",
   "reviewed": "Reviewed",
-  "scenarios_to_complete": "{{count}} scenario(s) to complete",
+  "scenarios_to_complete": "{{count}} scenarios to complete",
+  "scenarios_to_complete_one": "{{count}} scenario to complete",
   "start_scenario": "Start scenario",
   "turns_count": "{{count}} turns",
+  "turns_count_one": "{{count}} turn",
   "view_all_history": "View all history ({{count}})",
   "video_call": {
     "settings": "Settings",

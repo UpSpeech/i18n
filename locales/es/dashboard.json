@@ -32,6 +32,7 @@
     "consecutive_days": "días",
     "vs_last_week": "vs {{count}} semana pasada",
     "recordings_reviewed": "{{count}} grabaciones revisadas",
+    "recordings_reviewed_one": "{{count}} grabación revisada",
     "no_recordings_reviewed": "Ninguna grabación revisada aún",
     "pending_review": "{{count}} pendientes de revisión",
     "recent_feedback_title": "Feedback reciente",
@@ -142,7 +143,8 @@
         "low": "Bajo compromiso (0-1 actividades)",
         "duration_note": "Cuenta todas las grabaciones, ejercicios, escenarios y cuestionarios"
       },
-      "patient_aria_label": "{{name}}: {{count}} ejercicios completados"
+      "patient_aria_label": "{{name}}: {{count}} ejercicios completados",
+      "patient_aria_label_one": "{{name}}: {{count}} ejercicio completado"
     },
     "patient_activity_error": "Error al cargar la actividad del paciente",
     "quick_actions": "Acciones rápidas",
@@ -377,6 +379,7 @@
   "caregiver": {
     "practising_with": "Practicando con",
     "child_age": "{{name}}, {{count}} años",
+    "child_age_one": "{{name}}, {{count}} año",
     "reminder_title": "Recordatorio diario",
     "reminder_change": "Cambiar",
     "reminder_at_hour": "a las {{hour}}:00",
