@@ -18,7 +18,7 @@ pricing or patient data goes in it, including in this file.
 ## Gates
 
 ```bash
-node scripts/check-parity.mjs
+npm run check
 ```
 
 ## Workspace rules
@@ -63,15 +63,3 @@ client. The nearest thing is `scripts/check-parity.mjs` in the `i18n` repo, and
 that only checks a key exists in every language. It cannot tell you a key added
 for web reached mobile, because the two clients pin different tags of the
 package. This rule is the whole mechanism.
-
-
-## CI cannot enforce anything right now
-
-Every GitHub Actions workflow in the organisation is failing to start:
-
-> The job was not started because recent account payments have failed or your
-> spending limit needs to be increased.
-
-Jobs go red in a couple of seconds with zero steps executed. That is the billing
-signature, not a test failure. Run the gates above locally and say in the PR that
-you did. Delete this section when Actions runs again.
