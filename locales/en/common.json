@@ -278,6 +278,8 @@
     "companion": {
       "title": "Your companion",
       "subtitle": "Pick the character you meet around the app, and how it looks.",
+      "show_in_app": "Show in the app",
+      "mode_companion": "Companion",
       "preview_label": "Your companion",
       "body": "Body",
       "crown": "Crown",
@@ -299,6 +301,11 @@
         "pip": "Pip",
         "nima": "Nima",
         "tumbo": "Tumbo",
+        "bo": "Bo",
+        "suri": "Suri",
+        "tavi": "Tavi",
+        "nori": "Nori",
+        "mimo": "Mimo",
         "mark": "UpSpeech logo",
         "none": "No companion"
       },
@@ -309,17 +316,41 @@
       "without_companion": "Practise without one",
       "face_group": "Face",
       "colours_group": "Colours",
+      "look_caption": "A ready-made look on Lumo",
+      "new_badge": "New",
+      "tab_character": "Character",
+      "tab_face": "Face",
+      "tab_belly": "Belly",
+      "mouth": "Mouth",
+      "cheek_shape": "Cheek shape",
+      "cheek_colour": "Cheek colour",
+      "belly_colour": "Belly colour",
       "eyes_options": {
         "default": "Original",
         "wide": "Wide",
         "narrow": "Narrow",
-        "dot": "Dots"
+        "dot": "Dots",
+        "sparkle": "Sparkle",
+        "tall": "Tall"
       },
       "brows_options": {
         "none": "None",
         "flat": "Flat",
         "raised": "Raised",
         "soft": "Soft"
+      },
+      "mouth_options": {
+        "default": "Original",
+        "grin": "Grin",
+        "cat": "Cat",
+        "fang": "Fang"
+      },
+      "cheek_options": {
+        "default": "Original",
+        "blush": "Blush",
+        "hearts": "Hearts",
+        "freckles": "Freckles",
+        "none": "None"
       },
       "belly_shapes": {
         "lobe": "Original",
@@ -337,13 +368,23 @@
         "ears": "Ears",
         "antenna": "Antenna",
         "sideEars": "Side ears",
-        "none": "Bald"
+        "buns": "Buns",
+        "tuft": "Tuft",
+        "sprout": "Sprout",
+        "feelers": "Feelers",
+        "knot": "Top knot",
+        "none": "None"
       },
       "colors": {
         "sand": "Sand",
         "lavender": "Lavender",
         "sky": "Sky",
-        "mint": "Mint"
+        "mint": "Mint",
+        "butter": "Butter",
+        "orchid": "Orchid",
+        "seafoam": "Seafoam",
+        "coral": "Coral",
+        "rose": "Rose"
       }
     },
     "companion_bar_title": "Assistant bar",
