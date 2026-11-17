@@ -1994,6 +1994,10 @@
     "send": "Send for the report",
     "discard_title": "Discard this session?",
     "discard_body": "The recording and the notes are deleted, and no report is made.",
-    "could_not_start": "The session could not start"
+    "could_not_start": "The session could not start",
+    "note_input": "New note",
+    "note_placeholder": "Add a note",
+    "add_note": "Add",
+    "remove_note": "Remove note"
   }
 }
