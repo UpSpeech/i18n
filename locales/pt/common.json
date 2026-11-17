@@ -1978,7 +1978,11 @@
     "upload_interests": "Com que interesses se relaciona?",
     "upload_interests_hint": "Escolhe todos os que se aplicam. O exercício escolhes ao atribuí-la.",
     "choose_file": "Escolher uma imagem",
-    "curated": "UpSpeech"
+    "curated": "UpSpeech",
+    "label": "O que mostra?",
+    "label_placeholder": "Por exemplo, um gato",
+    "rename": "Alterar o que mostra",
+    "rename_failed": "Não foi possível alterar a imagem. Tenta outra vez."
   },
   "reminder_custom": "Hora personalizada",
   "reminder_hour": "Hora",
