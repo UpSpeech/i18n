@@ -1994,6 +1994,10 @@
     "send": "Enviar para el informe",
     "discard_title": "¿Descartar esta sesión?",
     "discard_body": "La grabación y las notas se eliminan y no se crea ningún informe.",
-    "could_not_start": "No se pudo iniciar la sesión"
+    "could_not_start": "No se pudo iniciar la sesión",
+    "note_input": "Nueva nota",
+    "note_placeholder": "Añadir una nota",
+    "add_note": "Añadir",
+    "remove_note": "Quitar nota"
   }
 }

@@ -2047,6 +2047,10 @@
     "send": "Enviar para o relatório",
     "discard_title": "Descartar esta sessão?",
     "discard_body": "A gravação e as notas são apagadas e não é feito nenhum relatório.",
-    "could_not_start": "Não foi possível iniciar a sessão"
+    "could_not_start": "Não foi possível iniciar a sessão",
+    "note_input": "Nova nota",
+    "note_placeholder": "Adicionar uma nota",
+    "add_note": "Adicionar",
+    "remove_note": "Remover nota"
   }
 }
