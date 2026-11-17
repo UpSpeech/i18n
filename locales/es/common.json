@@ -371,7 +371,11 @@
         "lavender": "Lavanda",
         "sky": "Cielo",
         "mint": "Menta",
-        "rose": "Rosa de Mimo"
+        "butter": "Mantequilla",
+        "orchid": "Orquídea",
+        "seafoam": "Aguamarina",
+        "coral": "Coral",
+        "rose": "Rosa"
       }
     },
     "companion_bar_title": "Barra del asistente",
