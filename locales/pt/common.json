@@ -2051,6 +2051,9 @@
     "note_input": "Nova nota",
     "note_placeholder": "Adicionar uma nota",
     "add_note": "Adicionar",
-    "remove_note": "Remover nota"
+    "remove_note": "Remover nota",
+    "exercise_now": "Exercício agora",
+    "end_exercise": "Terminar exercício",
+    "games_failed": "Não foi possível carregar os jogos."
   }
 }

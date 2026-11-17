@@ -1998,6 +1998,9 @@
     "note_input": "Nueva nota",
     "note_placeholder": "Añadir una nota",
     "add_note": "Añadir",
-    "remove_note": "Quitar nota"
+    "remove_note": "Quitar nota",
+    "exercise_now": "Ejercicio ahora",
+    "end_exercise": "Terminar ejercicio",
+    "games_failed": "No se pudieron cargar los juegos."
   }
 }
