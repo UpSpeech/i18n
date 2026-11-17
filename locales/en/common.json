@@ -1974,5 +1974,26 @@
   },
   "reminder_custom": "Custom time",
   "reminder_hour": "Hour",
-  "reminder_minute": "Minutes"
+  "reminder_minute": "Minutes",
+  "live_session": {
+    "record": "Record session",
+    "open": "Session open",
+    "title": "Session with {{name}}",
+    "expand": "Show the session",
+    "collapse": "Make smaller",
+    "recording": "Recording",
+    "paused": "Paused",
+    "recovered": "This session was cut off. What was recorded is kept.",
+    "capped": "The session stopped at 90 minutes.",
+    "stopped": "Recorded {{time}}.",
+    "notes": "Notes",
+    "pause": "Pause",
+    "resume": "Resume",
+    "stop": "Stop",
+    "discard": "Discard",
+    "send": "Send for the report",
+    "discard_title": "Discard this session?",
+    "discard_body": "The recording and the notes are deleted, and no report is made.",
+    "could_not_start": "The session could not start"
+  }
 }

@@ -2027,5 +2027,26 @@
   },
   "reminder_custom": "Hora personalizada",
   "reminder_hour": "Hora",
-  "reminder_minute": "Minutos"
+  "reminder_minute": "Minutos",
+  "live_session": {
+    "record": "Gravar sessão",
+    "open": "Sessão aberta",
+    "title": "Sessão com {{name}}",
+    "expand": "Mostrar a sessão",
+    "collapse": "Reduzir",
+    "recording": "A gravar",
+    "paused": "Em pausa",
+    "recovered": "Esta sessão foi interrompida. O que foi gravado está guardado.",
+    "capped": "A sessão parou aos 90 minutos.",
+    "stopped": "Gravação de {{time}}.",
+    "notes": "Notas",
+    "pause": "Pausar",
+    "resume": "Retomar",
+    "stop": "Parar",
+    "discard": "Descartar",
+    "send": "Enviar para o relatório",
+    "discard_title": "Descartar esta sessão?",
+    "discard_body": "A gravação e as notas são apagadas e não é feito nenhum relatório.",
+    "could_not_start": "Não foi possível iniciar a sessão"
+  }
 }
