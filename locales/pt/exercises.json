@@ -832,6 +832,8 @@
     "no_results_description": "Nenhuma submissão corresponde aos filtros atuais. Tenta ajustar os critérios.",
     "loading_details": "A carregar detalhes...",
     "loading_error": "Erro ao carregar detalhes",
+    "pause_line": "Pausa antes de a IA responder: {{seconds}} s",
+    "pause_change": "Alterar",
     "feedback_label": "Feedback do terapeuta",
     "context_label": "Contexto",
     "score_label": "Pontuação",
