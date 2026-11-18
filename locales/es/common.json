@@ -647,6 +647,19 @@
       "title_label": "Título",
       "title_placeholder": "Pull-out al leer en voz alta",
       "title_required": "Dale un título al paso",
+      "type_label": "Tipo",
+      "type": {
+        "recording": "Grabación",
+        "reflection": "Respuesta escrita",
+        "real_world": "Tarea en la vida real",
+        "read_confirm": "Leer y confirmar"
+      },
+      "type_hint": {
+        "recording": "{{name}} hace una grabación",
+        "reflection": "{{name}} escribe una respuesta",
+        "real_world": "{{name}} hace la tarea y la marca como hecha",
+        "read_confirm": "{{name}} lo lee y lo confirma"
+      },
       "unnamed_goal": "Un objetivo nuevo",
       "waits_for_goal": "{{name}} empieza esto cuando llegue a {{goal}}.",
       "weeks_value": "{{count}} semanas",
@@ -981,6 +994,8 @@
         "motor_control": "Control motor",
         "generalisation": "Generalización",
         "reflection": "Reflexión",
+        "real_world_assignment": "Tarea en la vida real",
+        "therapist_recap": "Leer y confirmar",
         "journal": "Diario",
         "self_disclosure": "Autodivulgación",
         "identification": "Identificación",

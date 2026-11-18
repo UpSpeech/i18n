@@ -647,6 +647,19 @@
       "title_label": "Title",
       "title_placeholder": "Pull-out in reading aloud",
       "title_required": "Give the step a title",
+      "type_label": "Type",
+      "type": {
+        "recording": "Recording",
+        "reflection": "Written answer",
+        "real_world": "Real-world task",
+        "read_confirm": "Read and confirm"
+      },
+      "type_hint": {
+        "recording": "{{name}} records it",
+        "reflection": "{{name}} writes an answer",
+        "real_world": "{{name}} does it and marks it done",
+        "read_confirm": "{{name}} reads it and confirms"
+      },
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
       "weeks_value": "{{count}} weeks",
@@ -981,6 +994,8 @@
         "motor_control": "Motor control",
         "generalisation": "Generalisation",
         "reflection": "Reflection",
+        "real_world_assignment": "Real-world task",
+        "therapist_recap": "Read and confirm",
         "journal": "Journal",
         "self_disclosure": "Self-disclosure",
         "identification": "Identification",
