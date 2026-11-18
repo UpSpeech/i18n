@@ -747,7 +747,9 @@
       "reflection": "Reflexión",
       "modeling": "Modelado",
       "observation": "Observación",
-      "mini_game": "Minijuego"
+      "mini_game": "Minijuego",
+      "real_world_assignment": "Tarea en la vida real",
+      "therapist_recap": "Leer y confirmar"
     },
     "milestone_number": "Hito {{number}}",
     "step_number": "Paso {{number}}",
