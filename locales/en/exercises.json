@@ -199,6 +199,7 @@
       "situation": "Situation",
       "technique": "Technique",
       "outcome": "Outcome",
+      "note": "Note",
       "techniques": "Techniques",
       "notes": "Notes",
       "observation_ratings": "Ratings",
