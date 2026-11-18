@@ -823,6 +823,8 @@
     "recording_count": "{{count}} grabación",
     "loading_details": "Cargando detalles...",
     "loading_error": "Error al cargar los detalles",
+    "pause_line": "Pausa antes de que la IA responda: {{seconds}} s",
+    "pause_change": "Cambiar",
     "feedback_label": "Feedback del terapeuta",
     "context_label": "Contexto",
     "score_label": "Puntuación",
