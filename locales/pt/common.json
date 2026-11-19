@@ -661,10 +661,10 @@
         "read_confirm": "Ler e confirmar"
       },
       "type_hint": {
-        "recording": "{{name}} envia uma gravação",
+        "recording": "{{name}} faz uma gravação",
         "reflection": "{{name}} escreve uma resposta",
-        "real_world": "{{name}} faz a tarefa e depois marca-a como feita",
-        "read_confirm": "{{name}} lê a tua mensagem e confirma"
+        "real_world": "{{name}} faz a tarefa e marca-a como feita",
+        "read_confirm": "{{name}} lê e confirma"
       },
       "unnamed_goal": "Um novo objetivo",
       "waits_for_goal": "{{name}} começa isto quando chegar a {{goal}}.",
