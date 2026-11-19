@@ -102,6 +102,7 @@
     "timezone_label": "Zona horaria",
     "invite_failed": "La organización se creó, pero la invitación no se envió.",
     "invite_again": "Invitar de nuevo",
-    "create_and_invite": "Crear e invitar"
+    "create_and_invite": "Crear e invitar",
+    "invite_new_email_hint": "Ingresa otro correo electrónico para invitar de nuevo."
   }
 }

@@ -102,6 +102,7 @@
     "timezone_label": "Fuso horário",
     "invite_failed": "A organização foi criada, mas o convite não foi enviado.",
     "invite_again": "Convidar de novo",
-    "create_and_invite": "Criar e convidar"
+    "create_and_invite": "Criar e convidar",
+    "invite_new_email_hint": "Introduz outro email para convidar de novo."
   }
 }

@@ -825,6 +825,7 @@
     "loading_error": "Error al cargar los detalles",
     "pause_line": "La IA espera ahora <value>{{seconds}} s</value> para responder",
     "pause_change": "Cambiar",
+    "pause_change_label": "Cambiar cuánto tiempo espera la IA",
     "feedback_label": "Feedback del terapeuta",
     "context_label": "Contexto",
     "score_label": "Puntuación",
