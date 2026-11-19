@@ -624,6 +624,8 @@
       "after_current": "After the current step",
       "description_helper": "(Not the instructions)",
       "description_label": "A message for {{name}}",
+      "description_label_reflection": "The question for {{name}}",
+      "description_label_real_world": "The task for {{name}}",
       "description_required": "Write a message for {{name}}",
       "dose": "Dose",
       "dose_helper": "How much practice, over how long.",
@@ -662,6 +664,21 @@
       "title_label": "Title",
       "title_placeholder": "Pull-out in reading aloud",
       "title_required": "Give the step a title",
+      "type_label": "Type",
+      "type": {
+        "recording": "Recording",
+        "reflection": "Written answer",
+        "real_world": "Real-world task"
+      },
+      "type_hint": {
+        "recording": "{{name}} records it",
+        "reflection": "{{name}} writes an answer",
+        "real_world": "{{name}} does it and marks it done"
+      },
+      "type_hint_caregiver": {
+        "reflection": "{{name}} writes the answer for {{child}}",
+        "real_world": "{{name}} does it with {{child}} and marks it done"
+      },
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
       "weeks_value": "{{count}} weeks",
@@ -749,7 +766,9 @@
       "reflection": "Reflection",
       "modeling": "Modelling",
       "observation": "Observation",
-      "mini_game": "Mini-game"
+      "mini_game": "Mini-game",
+      "real_world_assignment": "Real-world task",
+      "written_answer": "Written answer"
     },
     "milestone_number": "Milestone {{number}}",
     "step_number": "Step {{number}}",
@@ -996,6 +1015,7 @@
         "motor_control": "Motor control",
         "generalisation": "Generalisation",
         "reflection": "Reflection",
+        "real_world_assignment": "Real-world task",
         "journal": "Journal",
         "self_disclosure": "Self-disclosure",
         "identification": "Identification",

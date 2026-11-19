@@ -624,6 +624,8 @@
       "after_current": "Después del paso actual",
       "description_helper": "(No son las instrucciones)",
       "description_label": "Un mensaje para {{name}}",
+      "description_label_reflection": "La pregunta para {{name}}",
+      "description_label_real_world": "La tarea para {{name}}",
       "description_required": "Escribe un mensaje para {{name}}",
       "dose": "Dosis",
       "dose_helper": "Cuánta práctica, durante cuánto tiempo.",
@@ -662,6 +664,21 @@
       "title_label": "Título",
       "title_placeholder": "Pull-out al leer en voz alta",
       "title_required": "Dale un título al paso",
+      "type_label": "Tipo",
+      "type": {
+        "recording": "Grabación",
+        "reflection": "Respuesta escrita",
+        "real_world": "Tarea en la vida real"
+      },
+      "type_hint": {
+        "recording": "{{name}} hace una grabación",
+        "reflection": "{{name}} escribe una respuesta",
+        "real_world": "{{name}} hace la tarea y la marca como hecha"
+      },
+      "type_hint_caregiver": {
+        "reflection": "{{name}} escribe la respuesta por {{child}}",
+        "real_world": "{{name}} hace la tarea con {{child}} y la marca como hecha"
+      },
       "unnamed_goal": "Un objetivo nuevo",
       "waits_for_goal": "{{name}} empieza esto cuando llegue a {{goal}}.",
       "weeks_value": "{{count}} semanas",
@@ -749,7 +766,9 @@
       "reflection": "Reflexión",
       "modeling": "Modelado",
       "observation": "Observación",
-      "mini_game": "Minijuego"
+      "mini_game": "Minijuego",
+      "real_world_assignment": "Tarea en la vida real",
+      "written_answer": "Respuesta escrita"
     },
     "milestone_number": "Hito {{number}}",
     "step_number": "Paso {{number}}",
@@ -996,6 +1015,7 @@
         "motor_control": "Control motor",
         "generalisation": "Generalización",
         "reflection": "Reflexión",
+        "real_world_assignment": "Tarea en la vida real",
         "journal": "Diario",
         "self_disclosure": "Autodivulgación",
         "identification": "Identificación",
