@@ -385,7 +385,22 @@
         "seafoam": "Seafoam",
         "coral": "Coral",
         "rose": "Rose"
-      }
+      },
+      "copy_from_cheeks": "Copy from the cheeks",
+      "copy_from_belly": "Copy from the belly",
+      "view_large": "See it big",
+      "mode_logo_short": "Logo",
+      "mode_none_short": "None",
+      "tab_body": "Body",
+      "body_row": "Character",
+      "belly_shape_short": "Shape",
+      "belly_size_short": "Size",
+      "belly_colour_short": "Colour",
+      "child_title_he": "{{name}}'s companion",
+      "child_title_she": "{{name}}'s companion",
+      "child_unset_short": "Choose {{name}}'s companion together.",
+      "child_unset_short_he": "Choose {{name}}'s companion together.",
+      "child_unset_short_she": "Choose {{name}}'s companion together."
     },
     "companion_bar_title": "Assistant bar",
     "companion_bar_label": "Keep it open on every page",
