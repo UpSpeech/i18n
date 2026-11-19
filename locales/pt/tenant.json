@@ -97,7 +97,7 @@
     "no_tenants": "Nenhuma organização encontrada",
     "no_tenants_description": "Cria a tua primeira organização para começares a gerir o sistema.",
     "entity_tenant": "Organização",
-    "general_practice_label": "Prática geral (terapeuta independente)",
+    "general_practice_label": "Consultório independente (terapeuta a solo)",
     "therapist_email_label": "Email do terapeuta",
     "timezone_label": "Fuso horário",
     "invite_failed": "A organização foi criada, mas o convite não foi enviado.",

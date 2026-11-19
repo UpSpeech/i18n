@@ -97,7 +97,7 @@
     "no_tenants": "No organisations found",
     "no_tenants_description": "Create your first organisation to start managing tenants.",
     "entity_tenant": "Tenant",
-    "general_practice_label": "General practice (solo therapist)",
+    "general_practice_label": "Independent practice (solo therapist)",
     "therapist_email_label": "Therapist's email",
     "timezone_label": "Timezone",
     "invite_failed": "The organisation was created, but the invite was not sent.",
