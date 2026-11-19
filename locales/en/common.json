@@ -611,7 +611,6 @@
       "description_label": "A message for {{name}}",
       "description_label_reflection": "The question for {{name}}",
       "description_label_real_world": "The task for {{name}}",
-      "description_label_read_confirm": "What {{name}} reads",
       "description_required": "Write a message for {{name}}",
       "dose": "Dose",
       "dose_helper": "How much practice, over how long.",
@@ -654,14 +653,16 @@
       "type": {
         "recording": "Recording",
         "reflection": "Written answer",
-        "real_world": "Real-world task",
-        "read_confirm": "Read and confirm"
+        "real_world": "Real-world task"
       },
       "type_hint": {
         "recording": "{{name}} records it",
         "reflection": "{{name}} writes an answer",
-        "real_world": "{{name}} does it and marks it done",
-        "read_confirm": "{{name}} reads it and confirms"
+        "real_world": "{{name}} does it and marks it done"
+      },
+      "type_hint_caregiver": {
+        "reflection": "{{name}} writes the answer for {{child}}",
+        "real_world": "{{name}} does it with {{child}} and marks it done"
       },
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
@@ -752,7 +753,7 @@
       "observation": "Observation",
       "mini_game": "Mini-game",
       "real_world_assignment": "Real-world task",
-      "therapist_recap": "Read and confirm"
+      "written_answer": "Written answer"
     },
     "milestone_number": "Milestone {{number}}",
     "step_number": "Step {{number}}",
@@ -1000,7 +1001,6 @@
         "generalisation": "Generalisation",
         "reflection": "Reflection",
         "real_world_assignment": "Real-world task",
-        "therapist_recap": "Read and confirm",
         "journal": "Journal",
         "self_disclosure": "Self-disclosure",
         "identification": "Identification",

@@ -613,7 +613,6 @@
       "description_label": "Uma mensagem para {{name}}",
       "description_label_reflection": "A pergunta para {{name}}",
       "description_label_real_world": "A tarefa para {{name}}",
-      "description_label_read_confirm": "O que {{name}} lê",
       "description_required": "Escreve uma mensagem para {{name}}",
       "dose": "Dose",
       "dose_helper": "Quanta prática, durante quanto tempo.",
@@ -657,14 +656,16 @@
       "type": {
         "recording": "Gravação",
         "reflection": "Resposta escrita",
-        "real_world": "Tarefa na vida real",
-        "read_confirm": "Ler e confirmar"
+        "real_world": "Tarefa na vida real"
       },
       "type_hint": {
         "recording": "{{name}} faz uma gravação",
         "reflection": "{{name}} escreve uma resposta",
-        "real_world": "{{name}} faz a tarefa e marca-a como feita",
-        "read_confirm": "{{name}} lê e confirma"
+        "real_world": "{{name}} faz a tarefa e marca-a como feita"
+      },
+      "type_hint_caregiver": {
+        "reflection": "{{name}} escreve a resposta {{child, por}}",
+        "real_world": "{{name}} faz a tarefa com {{child, o}} e marca-a como feita"
       },
       "unnamed_goal": "Um novo objetivo",
       "waits_for_goal": "{{name}} começa isto quando chegar a {{goal}}.",
@@ -757,7 +758,7 @@
       "observation": "Observação",
       "mini_game": "Mini-jogo",
       "real_world_assignment": "Tarefa na vida real",
-      "therapist_recap": "Ler e confirmar"
+      "written_answer": "Resposta escrita"
     },
     "milestone_number": "Marco {{number}}",
     "step_number": "Passo {{number}}",
@@ -1017,7 +1018,6 @@
         "generalisation": "Generalização",
         "reflection": "Reflexão",
         "real_world_assignment": "Tarefa na vida real",
-        "therapist_recap": "Ler e confirmar",
         "journal": "Diário",
         "self_disclosure": "Autodivulgação",
         "identification": "Identificação",
