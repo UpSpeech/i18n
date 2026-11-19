@@ -233,6 +233,7 @@
     "reject": "Reject",
     "refine_type": "Type to save as",
     "analysing_hint": "The models are analysing this recording. Proposals appear here when they finish.",
-    "failed_hint": "The analysis failed. Run it again from the queue."
+    "failed_hint": "The analysis failed. Run it again from the queue.",
+    "hidden_hint": "Complete your review to see the model's proposals."
   }
 }
