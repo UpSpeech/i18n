@@ -823,7 +823,7 @@
     "recording_count": "{{count}} grabación",
     "loading_details": "Cargando detalles...",
     "loading_error": "Error al cargar los detalles",
-    "pause_line": "Pausa actual antes de que la IA responda: <value>{{seconds}} s</value>",
+    "pause_line": "La IA espera ahora <value>{{seconds}} s</value> para responder",
     "pause_change": "Cambiar",
     "feedback_label": "Feedback del terapeuta",
     "context_label": "Contexto",

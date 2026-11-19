@@ -822,7 +822,7 @@
     "no_results_description": "No submissions match the current filters. Try adjusting your criteria.",
     "loading_details": "Loading details...",
     "loading_error": "Failed to load details",
-    "pause_line": "Current pause before the AI replies: <value>{{seconds}} s</value>",
+    "pause_line": "The AI now waits <value>{{seconds}} s</value> to reply",
     "pause_change": "Change",
     "feedback_label": "Therapist feedback",
     "context_label": "Context",
