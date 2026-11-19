@@ -927,7 +927,8 @@
     "comment_placeholder": "Tell us more...",
     "re_record": "Re-record",
     "skip": "Skip",
-    "badge": "{{count}} retry",
+    "badge_one": "{{count}} retry",
+    "badge_other": "{{count}} retries",
     "badge_reason": "{{count}} · {{reason}}",
     "skipped_label": "Skipped"
   },
