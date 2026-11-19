@@ -100,7 +100,7 @@
     "general_practice_label": "Independent practice (solo therapist)",
     "therapist_email_label": "Therapist's email",
     "timezone_label": "Timezone",
-    "invite_failed": "The organisation was created, but the invite was not sent.",
+    "invite_failed": "The invite was not sent.",
     "invite_again": "Invite again",
     "create_and_invite": "Create and invite",
     "invite_new_email_hint": "Enter a different email to invite again."

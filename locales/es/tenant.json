@@ -100,7 +100,7 @@
     "general_practice_label": "Consulta independiente (terapeuta en solitario)",
     "therapist_email_label": "Correo electrónico del terapeuta",
     "timezone_label": "Zona horaria",
-    "invite_failed": "La organización se creó, pero la invitación no se envió.",
+    "invite_failed": "La invitación no se envió.",
     "invite_again": "Invitar de nuevo",
     "create_and_invite": "Crear e invitar",
     "invite_new_email_hint": "Ingresa otro correo electrónico para invitar de nuevo."
