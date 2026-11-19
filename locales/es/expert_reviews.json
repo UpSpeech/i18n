@@ -233,6 +233,7 @@
     "reject": "Rechazar",
     "refine_type": "Tipo para guardar",
     "analysing_hint": "Los modelos están analizando esta grabación. Las propuestas aparecen aquí cuando terminen.",
-    "failed_hint": "El análisis falló. Vuelve a ejecutarlo desde la lista."
+    "failed_hint": "El análisis falló. Vuelve a ejecutarlo desde la lista.",
+    "hidden_hint": "Completa tu revisión para ver las propuestas del modelo."
   }
 }

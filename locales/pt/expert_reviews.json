@@ -236,6 +236,7 @@
     "reject": "Rejeitar",
     "refine_type": "Tipo a guardar",
     "analysing_hint": "Os modelos estão a analisar esta gravação. As propostas aparecem aqui quando terminarem.",
-    "failed_hint": "A análise falhou. Volta a executá-la a partir da lista."
+    "failed_hint": "A análise falhou. Volta a executá-la a partir da lista.",
+    "hidden_hint": "Conclui a tua revisão para veres as propostas do modelo."
   }
 }
