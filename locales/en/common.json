@@ -658,10 +658,10 @@
         "read_confirm": "Read and confirm"
       },
       "type_hint": {
-        "recording": "{{name}} records it",
-        "reflection": "{{name}} writes an answer",
-        "real_world": "{{name}} does it and marks it done",
-        "read_confirm": "{{name}} reads it and confirms"
+        "recording": "{{name}} sends a recording",
+        "reflection": "{{name}} types a reply",
+        "real_world": "{{name}} does the task, then marks it done",
+        "read_confirm": "{{name}} reads your message and confirms"
       },
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
