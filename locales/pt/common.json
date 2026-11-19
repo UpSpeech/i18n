@@ -377,7 +377,22 @@
         "seafoam": "Água-marinha",
         "coral": "Coral",
         "rose": "Rosa"
-      }
+      },
+      "copy_from_cheeks": "Copiar das bochechas",
+      "copy_from_belly": "Copiar da barriga",
+      "view_large": "Ver em grande",
+      "mode_logo_short": "Logótipo",
+      "mode_none_short": "Nenhum",
+      "tab_body": "Corpo",
+      "body_row": "Base",
+      "belly_shape_short": "Forma",
+      "belly_size_short": "Tamanho",
+      "belly_colour_short": "Cor",
+      "child_title_he": "O companheiro do {{name}}",
+      "child_title_she": "O companheiro da {{name}}",
+      "child_unset_short": "Escolham juntos o companheiro de {{name}}.",
+      "child_unset_short_he": "Escolham juntos o companheiro do {{name}}.",
+      "child_unset_short_she": "Escolham juntos o companheiro da {{name}}."
     },
     "companion_bar_title": "Barra do assistente",
     "companion_bar_label": "Manter aberta em todas as páginas",

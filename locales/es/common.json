@@ -376,7 +376,22 @@
         "seafoam": "Aguamarina",
         "coral": "Coral",
         "rose": "Rosa"
-      }
+      },
+      "copy_from_cheeks": "Copiar de las mejillas",
+      "copy_from_belly": "Copiar de la barriga",
+      "view_large": "Verlo en grande",
+      "mode_logo_short": "Logotipo",
+      "mode_none_short": "Ninguno",
+      "tab_body": "Cuerpo",
+      "body_row": "Personaje",
+      "belly_shape_short": "Forma",
+      "belly_size_short": "Tamaño",
+      "belly_colour_short": "Color",
+      "child_title_he": "El compañero de {{name}}",
+      "child_title_she": "El compañero de {{name}}",
+      "child_unset_short": "Elegid juntos el compañero de {{name}}.",
+      "child_unset_short_he": "Elegid juntos el compañero de {{name}}.",
+      "child_unset_short_she": "Elegid juntos el compañero de {{name}}."
     },
     "companion_bar_title": "Barra del asistente",
     "companion_bar_label": "Mantenerla abierta en todas las páginas",
