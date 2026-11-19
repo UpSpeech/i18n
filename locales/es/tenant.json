@@ -101,6 +101,7 @@
     "therapist_email_label": "Correo electrónico del terapeuta",
     "timezone_label": "Zona horaria",
     "invite_failed": "La organización se creó, pero la invitación no se envió.",
-    "invite_again": "Invitar de nuevo"
+    "invite_again": "Invitar de nuevo",
+    "create_and_invite": "Crear e invitar"
   }
 }
