@@ -952,6 +952,8 @@
     "real_world_note_label": "Note for your therapist (optional)",
     "real_world_done": "Mark as done",
     "written_answer_caregiver": "Write the answer for {{child}}.",
+    "written_answer_placeholder": "Write the answer here...",
+    "written_answer_submit": "Submit answer",
     "real_world_caregiver": "Do this with {{child}}, then mark it done.",
     "real_world_note_label_caregiver": "Note for {{child}}'s therapist (optional)",
     "toolkit_pick": "Pick 2 to 3 that feel most like yours",
