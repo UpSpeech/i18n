@@ -700,7 +700,25 @@
       "replace_game_drop_body": "\"{{next}}\" is not a mini-game. This step would become written instructions and stop opening \"{{current}}\".",
       "replace_game_drop_confirm": "Drop it",
       "start_now_consequence_none": "{{current}} closes early. You can assign it again later.",
-      "their_caregiver": "their caregiver"
+      "their_caregiver": "their caregiver",
+      "dose_kind": {
+        "timed": "Times and minutes",
+        "count": "Times only",
+        "once": "Once"
+      },
+      "completion_label": "Who completes the step",
+      "completion": {
+        "dose_one": "{{name}}, once the dose is met · {{count}} practice",
+        "dose_other": "{{name}}, once the dose is met · {{count}} practices",
+        "count_one": "{{name}}, after {{count}} practice",
+        "count_other": "{{name}}, after {{count}} practices",
+        "count_before": "{{name}}, after",
+        "count_after_one": "practice",
+        "count_after_other": "practices",
+        "any": "{{name}}, after any practice",
+        "only_you": "Only you"
+      },
+      "completion_count_required": "Pick 1 to 99 practices."
     },
     "dashboard_title": "Learning paths",
     "dashboard_subtitle": "Monitor and manage your patients' learning paths",
@@ -1716,7 +1734,36 @@
       "start_skipped_return": "{{name}} can still practise a skipped step.",
       "start_done": "Step {{number}} is open now.",
       "start_group_opens": "Will open",
-      "keep_only_done": "Step {{number}} is the only open step now."
+      "keep_only_done": "Step {{number}} is the only open step now.",
+      "rules_title": "Rules for this step",
+      "rule": {
+        "dose": "{{name}} can complete this step once the dose is met.",
+        "count_one": "{{name}} can complete this step after {{count}} practice.",
+        "count_other": "{{name}} can complete this step after {{count}} practices."
+      },
+      "practices_target_one": "{{count}} practice",
+      "practices_target_other": "{{count}} practices",
+      "practices_left_one": "{{count}} to go",
+      "practices_left_other": "{{count}} to go",
+      "practices_left_zero": "all done",
+      "practices_progress": "{{target}} · {{left}}",
+      "dose_sentence": {
+        "timed": "{{times}}, up to {{minutes}}, for {{weeks}}.",
+        "count": "{{times}}, for {{weeks}}.",
+        "once": "Once."
+      },
+      "dose_times_one": "{{count}} practice a week",
+      "dose_times_other": "{{count}} practices a week",
+      "dose_minutes": "{{count}} min",
+      "dose_weeks_one": "{{count}} week",
+      "dose_weeks_other": "{{count}} weeks",
+      "at_home": "At home",
+      "week_progress": "{{done}} of {{target}} this week",
+      "planned_days": "Planned: {{days}}",
+      "total_progress": "{{done}} of {{total}} in total",
+      "week_of": "week {{n}} of {{total}}",
+      "once_todo": "Once · not done yet",
+      "once_done": "Once · done"
     },
     "keep_practising": "Keep practising",
     "draft": {
