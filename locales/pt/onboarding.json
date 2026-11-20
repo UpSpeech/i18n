@@ -239,8 +239,10 @@
           "nav_reports_content": "Gera relatórios clínicos assistidos por IA a partir de gravações.",
           "nav_exercises_title": "Exercícios",
           "nav_exercises_content": "Navega pelas bibliotecas de exercícios e atribui aos teus pacientes.",
+          "nav_exercises_content_general": "As tuas imagens e tudo o que os teus pacientes te enviaram.",
           "attention_title": "Quem precisa de ti hoje",
-          "attention_content": "Os pacientes que ficaram calados, falharam um check-in ou deixaram trabalho para ti, os mais urgentes primeiro."
+          "attention_content": "Os pacientes que ficaram calados, falharam um check-in ou deixaram trabalho para ti, os mais urgentes primeiro.",
+          "attention_content_general": "Os pacientes que ficaram calados ou deixaram trabalho para ti, os mais urgentes primeiro."
         },
         "invite": {
           "button_title": "Adicionar um paciente",
