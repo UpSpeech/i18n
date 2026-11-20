@@ -896,6 +896,7 @@
       "tap_hint": "Toca em Continuar para voltares à tua jornada",
       "dismiss_all": "Dispensar tudo",
       "practice_recorded": "Prática registada",
+      "practice_done": "Prática concluída",
       "queue_counter": "{{current}} de {{total}} conquistas",
       "tap_hint_dynamic": "Prime {{label}} para continuares"
     },

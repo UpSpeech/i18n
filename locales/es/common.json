@@ -895,6 +895,7 @@
       "tap_hint": "Toca en Continuar para volver a tu recorrido",
       "dismiss_all": "Descartar todo",
       "practice_recorded": "Práctica registrada",
+      "practice_done": "Práctica completada",
       "queue_counter": "{{current}} de {{total}} logros",
       "tap_hint_dynamic": "Pulsa {{label}} para continuar"
     },

@@ -886,6 +886,7 @@
       "tap_hint": "Press Continue to return to your journey",
       "dismiss_all": "Dismiss all",
       "practice_recorded": "Practice recorded",
+      "practice_done": "Practice done",
       "queue_counter": "{{current}} of {{total}} achievements",
       "tap_hint_dynamic": "Press {{label}} to continue"
     },
