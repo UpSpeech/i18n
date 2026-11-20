@@ -682,6 +682,17 @@
         "reflection": "{{name}} escreve a resposta {{child, por}}",
         "real_world": "{{name}} faz a tarefa com {{child, o}} e marca-a como feita"
       },
+      "recording_label": "Gravação",
+      "recording": {
+        "required": "Obrigatória",
+        "optional": "Opcional",
+        "none": "Sem gravação"
+      },
+      "recording_hint": {
+        "required": "{{name}} grava a prática.",
+        "optional": "{{name}} pode gravar ou fazer sem gravar.",
+        "none": "{{name}} faz sem gravar."
+      },
       "unnamed_goal": "Um novo objetivo",
       "waits_for_goal": "{{name}} começa isto quando chegar a {{goal}}.",
       "weeks_value": "{{count}} semanas",
@@ -1522,6 +1533,8 @@
       "note_label": "Nota para o terapeuta",
       "note_placeholder": "Alguma coisa que o terapeuta deva saber?",
       "submit": "Enviar",
+      "recording_attached": "Gravação de {{duration}} · vai com a resposta",
+      "send_to": "Enviar {{therapist, a}}",
       "pick_first": "Escolhe uma resposta para enviar.",
       "save_failed": "Não foi enviado. Tenta outra vez daqui a pouco."
     },
@@ -1563,6 +1576,22 @@
     "caregiver_practice_with": "Praticar com {{child, o}}",
     "caregiver_session_intro": "Começa a gravar e façam o exercício em conjunto. Só o som é gravado, para o terapeuta {{child, de}}.",
     "caregiver_session_start": "Começar a gravar",
+    "caregiver_session_start_without": "Fazer sem gravar",
+    "caregiver_session_start_plain": "Começar",
+    "caregiver_session_pause": "Pausar",
+    "caregiver_session_resume": "Retomar",
+    "caregiver_session_paused": "Em pausa",
+    "caregiver_session_restart": "Recomeçar",
+    "caregiver_session_restart_title": "Recomeçar?",
+    "caregiver_session_restart_body": "A gravação até agora é apagada.",
+    "caregiver_session_practice_of": "Prática {{n}} de {{total}}",
+    "caregiver_session_up_to": "até {{count}} min",
+    "caregiver_review_title": "Ouve a gravação",
+    "caregiver_review_local": "Só neste dispositivo até enviares a resposta",
+    "caregiver_review_use": "Usar esta gravação",
+    "caregiver_review_discard": "Apagar e gravar de novo",
+    "caregiver_leave_title": "Sair sem enviar?",
+    "caregiver_leave_body": "A gravação é apagada.",
     "caregiver_finish_confirm_title": "Terminar já?",
     "caregiver_finish_confirm_body": "{{child, o_start}} ainda não fez tudo. Terminar mesmo assim?",
     "caregiver_finish_confirm_keep": "Continuar",
@@ -1744,6 +1773,11 @@
       "can_complete": "{{name}} pode concluir este passo",
       "can_complete_on": "{{name}} marca-o como concluído na app.",
       "can_complete_off": "Só tu o marcas como concluído.",
+      "recording_rule": {
+        "required": "A gravação é obrigatória.",
+        "optional": "A gravação é opcional.",
+        "none": "Sem gravação."
+      },
       "assign_again_hint": "Junta este passo ao percurso outra vez e mantém o registo da primeira vez.",
       "mark_complete": "Marcar como concluído",
       "skipped": "Saltado",
