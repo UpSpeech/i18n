@@ -1770,7 +1770,7 @@
       "edit_notes": "Editar",
       "no_notes": "Sem notas neste passo.",
       "can_complete": "{{name}} pode concluir este passo",
-      "can_complete_on": "{{name}} pode concluir este passo depois de qualquer prática.",
+      "can_complete_on": "{{name, o_start}} pode concluir este passo depois de qualquer prática.",
       "can_complete_off": "Só tu o marcas como concluído.",
       "assign_again_hint": "Junta este passo ao percurso outra vez e mantém o registo da primeira vez.",
       "mark_complete": "Marcar como concluído",
