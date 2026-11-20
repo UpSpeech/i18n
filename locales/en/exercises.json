@@ -929,7 +929,8 @@
     "comment_placeholder": "Tell us more...",
     "re_record": "Re-record",
     "skip": "Skip",
-    "badge": "{{count}} retry",
+    "badge_one": "{{count}} retry",
+    "badge_other": "{{count}} retries",
     "badge_reason": "{{count}} · {{reason}}",
     "skipped_label": "Skipped"
   },
@@ -1169,7 +1170,7 @@
       "road_label": "A car driving along a road"
     },
     "which_speech": {
-      "instructions": "The grown-up with you says the word their way. Tap the animal you heard.",
+      "instructions": "The grown-up with you says the word their way.",
       "prompt": "Tap the animal you heard.",
       "picked_frog": "You picked the frog: repetition.",
       "picked_snake": "You picked the snake: prolongation.",

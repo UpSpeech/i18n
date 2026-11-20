@@ -929,7 +929,8 @@
     "comment_placeholder": "Cuéntanos más...",
     "re_record": "Regrabar",
     "skip": "Omitir",
-    "badge": "{{count}} intento",
+    "badge_one": "{{count}} intento",
+    "badge_other": "{{count}} intentos",
     "badge_reason": "{{count}} · {{reason}}",
     "skipped_label": "Omitido"
   },
@@ -1169,7 +1170,7 @@
       "road_label": "Un coche por una carretera"
     },
     "which_speech": {
-      "instructions": "Quien está contigo dice la palabra a su manera. Toca el animal que has oído.",
+      "instructions": "Quien está contigo dice la palabra a su manera.",
       "prompt": "Toca el animal que has oído.",
       "picked_frog": "Has elegido la rana: repetición.",
       "picked_snake": "Has elegido la serpiente: prolongación.",
