@@ -103,6 +103,13 @@
     "invite_failed": "The invite was not sent.",
     "invite_again": "Invite again",
     "create_and_invite": "Create and invite",
-    "invite_new_email_hint": "Enter a different email to invite again."
+    "invite_new_email_hint": "Enter a different email to invite again.",
+    "close_practice": "Close practice",
+    "close_confirm_title": "Close {{name}}?",
+    "close_confirm_body": "Nobody in it can sign in from now on. Its data is deleted on {{date}}, and until then you can reopen it.",
+    "closed_badge": "Closed, data deleted on {{date}}",
+    "reopen_practice": "Reopen",
+    "practice_closed": "Practice closed",
+    "practice_reopened": "Practice reopened"
   }
 }
