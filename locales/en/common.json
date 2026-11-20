@@ -1044,7 +1044,17 @@
         "two_choice": "Two pictures",
         "pause_road": "Pause road",
         "which_speech": "Which speech",
-        "story_scene": "Build your story"
+        "story_scene": "Build your story",
+        "standard": "Practice",
+        "modeling": "Modelling",
+        "mini_game": "Mini-game",
+        "written_answer": "Written answer",
+        "scenario_ai": "AI scenario",
+        "therapist_recap": "Therapist recap",
+        "situation_hierarchy": "Situation hierarchy",
+        "build_toolkit": "Build your toolkit",
+        "technique_practice": "Picture description",
+        "generic": "Exercise"
       },
       "pause_mode_value": {
         "guided": "Guided",

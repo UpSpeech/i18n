@@ -1044,7 +1044,17 @@
         "two_choice": "Dos imágenes",
         "pause_road": "Camino de pausas",
         "which_speech": "Qué habla",
-        "story_scene": "Construye tu historia"
+        "story_scene": "Construye tu historia",
+        "standard": "Práctica",
+        "modeling": "Modelado",
+        "mini_game": "Minijuego",
+        "written_answer": "Respuesta escrita",
+        "scenario_ai": "Escenario con IA",
+        "therapist_recap": "Resumen del terapeuta",
+        "situation_hierarchy": "Jerarquía de situaciones",
+        "build_toolkit": "Construye tu kit",
+        "technique_practice": "Descripción de imágenes",
+        "generic": "Ejercicio"
       },
       "pause_mode_value": {
         "guided": "Guiado",
