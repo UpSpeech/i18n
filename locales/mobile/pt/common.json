@@ -453,7 +453,7 @@
   "invite_share_message": "Tens um convite para a UpSpeech! Regista-te aqui: {{link}}",
   "therapist_complete": "Marcar completo",
   "therapist_can_complete": "{{name}} pode concluir este passo",
-  "therapist_can_complete_on": "{{name}} pode marcá-lo como concluído depois de qualquer prática.",
+  "therapist_can_complete_on": "{{name}} pode concluir este passo depois de qualquer prática.",
   "therapist_can_complete_off": "Só tu o marcas como concluído.",
   "therapist_reopen": "Reabrir passo",
   "therapist_add_feedback": "Adicionar feedback",

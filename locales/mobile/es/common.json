@@ -441,7 +441,7 @@
   "invite_share_message": "¡Te han invitado a UpSpeech! Regístrate aquí: {{link}}",
   "therapist_complete": "Marcar completo",
   "therapist_can_complete": "{{name}} puede terminar este paso",
-  "therapist_can_complete_on": "{{name}} puede marcarlo como terminado después de cualquier práctica.",
+  "therapist_can_complete_on": "{{name}} puede terminar este paso después de cualquier práctica.",
   "therapist_can_complete_off": "Solo tú lo marcas como terminado.",
   "therapist_reopen": "Reabrir paso",
   "therapist_add_feedback": "Agregar retroalimentación",

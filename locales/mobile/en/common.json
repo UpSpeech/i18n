@@ -441,7 +441,7 @@
   "invite_share_message": "You've been invited to UpSpeech! Sign up here: {{link}}",
   "therapist_complete": "Mark complete",
   "therapist_can_complete": "{{name}} can complete this step",
-  "therapist_can_complete_on": "{{name}} can mark it complete after any practice.",
+  "therapist_can_complete_on": "{{name}} can complete this step after any practice.",
   "therapist_can_complete_off": "Only you mark it complete.",
   "therapist_reopen": "Reopen step",
   "therapist_add_feedback": "Add feedback",
