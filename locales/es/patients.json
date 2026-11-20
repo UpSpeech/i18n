@@ -233,13 +233,17 @@
     "title": "Ajustes de escenario",
     "description": "Ajusta el comportamiento de las llamadas en modo realista para este paciente.",
     "vadLabel": "Silencio antes de que el bot responda",
-    "vadHelp": "Ventanas más largas permiten que pacientes con bloqueos o prolongaciones terminen el turno antes de que la IA responda.",
+    "vadHelp": "Ventanas más largas dan tiempo a un paciente que hace pausas a mitad de frase para terminar antes de que la IA responda.",
     "vadPresets": {
       "default": "Predeterminado de la clínica (recomendado)",
       "typical": "0,8s, habla típica",
       "moderate": "1,5s, pausas leves",
       "stutter_safe": "2,5s, seguro para tartamudez",
       "long_blocks": "4,0s, bloqueos largos"
+    },
+    "vadPresets_general": {
+      "stutter_safe": "2,5s, pausas más largas",
+      "long_blocks": "4,0s, pausas largas"
     },
     "loadError": "No se pudieron cargar los ajustes.",
     "saveError": "No se pudo guardar. Inténtalo de nuevo."
@@ -475,6 +479,7 @@
     "notes": {
       "title": "Tus notas",
       "empty": "Las notas que dejas en grabaciones, registros diarios y pasos aparecen aquí.",
+      "empty_general": "Las notas que dejas en grabaciones y pasos aparecen aquí.",
       "messages": "Abrir mensajes",
       "source_check_in": "Registro diario",
       "source_review": "Revisión",
