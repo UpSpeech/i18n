@@ -103,6 +103,13 @@
     "invite_failed": "La invitación no se envió.",
     "invite_again": "Invitar de nuevo",
     "create_and_invite": "Crear e invitar",
-    "invite_new_email_hint": "Ingresa otro correo electrónico para invitar de nuevo."
+    "invite_new_email_hint": "Ingresa otro correo electrónico para invitar de nuevo.",
+    "close_practice": "Cerrar consulta",
+    "close_confirm_title": "¿Cerrar {{name}}?",
+    "close_confirm_body": "Desde ahora nadie de la consulta puede iniciar sesión. Sus datos se borran el {{date}} y, hasta entonces, puedes reabrirla.",
+    "closed_badge": "Cerrada, datos borrados el {{date}}",
+    "reopen_practice": "Reabrir",
+    "practice_closed": "Consulta cerrada",
+    "practice_reopened": "Consulta reabierta"
   }
 }

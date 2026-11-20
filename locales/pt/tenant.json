@@ -103,6 +103,13 @@
     "invite_failed": "O convite não foi enviado.",
     "invite_again": "Convidar de novo",
     "create_and_invite": "Criar e convidar",
-    "invite_new_email_hint": "Introduz outro email para convidar de novo."
+    "invite_new_email_hint": "Introduz outro email para convidar de novo.",
+    "close_practice": "Fechar consultório",
+    "close_confirm_title": "Fechar {{name}}?",
+    "close_confirm_body": "A partir de agora ninguém do consultório consegue entrar. Os dados são apagados a {{date}} e, até lá, podes reabri-lo.",
+    "closed_badge": "Fechado, dados apagados a {{date}}",
+    "reopen_practice": "Reabrir",
+    "practice_closed": "Consultório fechado",
+    "practice_reopened": "Consultório reaberto"
   }
 }
