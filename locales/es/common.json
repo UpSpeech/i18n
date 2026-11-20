@@ -690,6 +690,17 @@
         "reflection": "{{name}} escribe la respuesta por {{child}}",
         "real_world": "{{name}} hace la tarea con {{child}} y la marca como hecha"
       },
+      "recording_label": "Grabación",
+      "recording": {
+        "required": "Obligatoria",
+        "optional": "Opcional",
+        "none": "Sin grabación"
+      },
+      "recording_hint": {
+        "required": "{{name}} graba la práctica.",
+        "optional": "{{name}} puede grabar o hacerlo sin grabar.",
+        "none": "{{name}} lo hace sin grabar."
+      },
       "unnamed_goal": "Un objetivo nuevo",
       "waits_for_goal": "{{name}} empieza esto cuando llegue a {{goal}}.",
       "weeks_value": "{{count}} semanas",
@@ -1520,6 +1531,8 @@
       "note_label": "Nota para el terapeuta",
       "note_placeholder": "¿Algo que el terapeuta deba saber?",
       "submit": "Enviar",
+      "recording_attached": "Grabación de {{duration}} · va con la respuesta",
+      "send_to": "Enviar a {{therapist}}",
       "pick_first": "Elige una respuesta para enviar.",
       "save_failed": "No se envió. Inténtalo otra vez en un momento."
     },
@@ -1560,6 +1573,22 @@
     "caregiver_practice_with": "Practicar con {{child}}",
     "caregiver_session_intro": "Empieza a grabar y haz el ejercicio en compañía. Solo se graba el sonido, para el terapeuta de {{child}}.",
     "caregiver_session_start": "Empezar a grabar",
+    "caregiver_session_start_without": "Hacerlo sin grabar",
+    "caregiver_session_start_plain": "Empezar",
+    "caregiver_session_pause": "Pausar",
+    "caregiver_session_resume": "Reanudar",
+    "caregiver_session_paused": "En pausa",
+    "caregiver_session_restart": "Empezar de nuevo",
+    "caregiver_session_restart_title": "¿Empezar de nuevo?",
+    "caregiver_session_restart_body": "Se borra la grabación hasta ahora.",
+    "caregiver_session_practice_of": "Práctica {{n}} de {{total}}",
+    "caregiver_session_up_to": "hasta {{count}} min",
+    "caregiver_review_title": "Escucha la grabación",
+    "caregiver_review_local": "Solo en este dispositivo hasta que envíes la respuesta",
+    "caregiver_review_use": "Usar esta grabación",
+    "caregiver_review_discard": "Borrar y grabar de nuevo",
+    "caregiver_leave_title": "¿Salir sin enviar?",
+    "caregiver_leave_body": "Se borra la grabación.",
     "caregiver_finish_confirm_title": "¿Terminar ya?",
     "caregiver_finish_confirm_body": "{{child}} aún no lo ha hecho todo. ¿Terminar de todos modos?",
     "caregiver_finish_confirm_keep": "Seguir",
@@ -1735,6 +1764,11 @@
       "can_complete": "{{name}} puede terminar este paso",
       "can_complete_on": "{{name}} puede terminar este paso después de cualquier práctica.",
       "can_complete_off": "Solo tú lo marcas como terminado.",
+      "recording_rule": {
+        "required": "La grabación es obligatoria.",
+        "optional": "La grabación es opcional.",
+        "none": "Sin grabación."
+      },
       "assign_again_hint": "Añade este paso a la ruta otra vez y conserva el registro de la primera vez.",
       "mark_complete": "Marcar como terminado",
       "skipped": "Saltado",

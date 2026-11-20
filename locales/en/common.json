@@ -690,6 +690,17 @@
         "reflection": "{{name}} writes the answer for {{child}}",
         "real_world": "{{name}} does it with {{child}} and marks it done"
       },
+      "recording_label": "Recording",
+      "recording": {
+        "required": "Required",
+        "optional": "Optional",
+        "none": "No recording"
+      },
+      "recording_hint": {
+        "required": "{{name}} records the practice.",
+        "optional": "{{name}} can record or do it without recording.",
+        "none": "{{name}} does it without recording."
+      },
       "unnamed_goal": "A new goal",
       "waits_for_goal": "{{name}} starts this when they reach {{goal}}.",
       "weeks_value": "{{count}} weeks",
@@ -1520,6 +1531,8 @@
       "note_label": "Note for the therapist",
       "note_placeholder": "Anything the therapist should know?",
       "submit": "Send",
+      "recording_attached": "{{duration}} recording · goes with your answer",
+      "send_to": "Send to {{therapist}}",
       "pick_first": "Pick one answer to send.",
       "save_failed": "That did not send. Try again in a moment."
     },
@@ -1560,6 +1573,22 @@
     "caregiver_practice_with": "Practise with {{child}}",
     "caregiver_session_intro": "Start recording and do the exercise together. Only the sound is recorded, for {{child}}'s therapist.",
     "caregiver_session_start": "Start recording",
+    "caregiver_session_start_without": "Do it without recording",
+    "caregiver_session_start_plain": "Start",
+    "caregiver_session_pause": "Pause",
+    "caregiver_session_resume": "Resume",
+    "caregiver_session_paused": "Paused",
+    "caregiver_session_restart": "Start again",
+    "caregiver_session_restart_title": "Start again?",
+    "caregiver_session_restart_body": "The recording so far is deleted.",
+    "caregiver_session_practice_of": "Practice {{n}} of {{total}}",
+    "caregiver_session_up_to": "up to {{count}} min",
+    "caregiver_review_title": "Listen to the recording",
+    "caregiver_review_local": "Only on this device until you send your answer",
+    "caregiver_review_use": "Use this recording",
+    "caregiver_review_discard": "Delete and record again",
+    "caregiver_leave_title": "Leave without sending?",
+    "caregiver_leave_body": "The recording is deleted.",
     "caregiver_finish_confirm_title": "Finish now?",
     "caregiver_finish_confirm_body": "{{child}} has not done it all yet. Finish anyway?",
     "caregiver_finish_confirm_keep": "Keep going",
@@ -1735,6 +1764,11 @@
       "can_complete": "{{name}} can complete this step",
       "can_complete_on": "{{name}} can complete this step after any practice.",
       "can_complete_off": "Only you mark it complete.",
+      "recording_rule": {
+        "required": "Recording is required.",
+        "optional": "Recording is optional.",
+        "none": "No recording."
+      },
       "assign_again_hint": "Adds this step to the path again and keeps the record of the first time.",
       "mark_complete": "Mark as completed",
       "skipped": "Skipped",
