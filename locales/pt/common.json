@@ -726,7 +726,28 @@
       "replace_game_drop_body": "\"{{next}}\" não é um mini-jogo. Este passo passaria a ser instruções escritas e deixaria de abrir \"{{current}}\".",
       "replace_game_drop_confirm": "Largar",
       "start_now_consequence_none": "{{current}} fecha mais cedo. Podes atribuí-lo outra vez mais tarde.",
-      "their_caregiver": "o cuidador"
+      "their_caregiver": "o cuidador",
+      "dose_kind": {
+        "timed": "Vezes e minutos",
+        "count": "Só vezes",
+        "once": "Uma vez"
+      },
+      "completion_label": "Quem conclui o passo",
+      "completion": {
+        "dose_one": "{{name, o_start}}, ao cumprir a dose · {{count}} prática",
+        "dose_other": "{{name, o_start}}, ao cumprir a dose · {{count}} práticas",
+        "dose_zero": "{{name, o_start}}, ao cumprir a dose · {{count}} práticas",
+        "count_one": "{{name, o_start}}, ao fim de {{count}} prática",
+        "count_other": "{{name, o_start}}, ao fim de {{count}} práticas",
+        "count_zero": "{{name, o_start}}, ao fim de {{count}} práticas",
+        "count_before": "{{name, o_start}}, ao fim de",
+        "count_after_one": "prática",
+        "count_after_other": "práticas",
+        "count_after_zero": "práticas",
+        "any": "{{name, o_start}}, depois de qualquer prática",
+        "only_you": "Só tu"
+      },
+      "completion_count_required": "Escolhe de 1 a 99 práticas."
     },
     "dashboard_title": "Percursos de aprendizagem",
     "dashboard_subtitle": "Monitoriza e gere os percursos de aprendizagem dos teus pacientes",
@@ -1867,7 +1888,40 @@
       "start_skipped_return": "{{name}} ainda pode praticar um passo saltado.",
       "start_done": "O passo {{number}} está aberto agora.",
       "start_group_opens": "Vai abrir",
-      "keep_only_done": "O passo {{number}} é agora o único aberto."
+      "keep_only_done": "O passo {{number}} é agora o único aberto.",
+      "rules_title": "Regras deste passo",
+      "rule": {
+        "dose": "{{name, o_start}} pode concluir este passo depois de cumprir a dose.",
+        "count_one": "{{name, o_start}} pode concluir este passo ao fim de {{count}} prática.",
+        "count_other": "{{name, o_start}} pode concluir este passo ao fim de {{count}} práticas.",
+        "count_zero": "{{name, o_start}} pode concluir este passo ao fim de {{count}} práticas."
+      },
+      "practices_target_one": "{{count}} prática",
+      "practices_target_other": "{{count}} práticas",
+      "practices_target_zero": "{{count}} práticas",
+      "practices_left_one": "falta {{count}}",
+      "practices_left_other": "faltam {{count}}",
+      "practices_left_zero": "tudo feito",
+      "practices_progress": "{{target}} · {{left}}",
+      "dose_sentence": {
+        "timed": "{{times}}, até {{minutes}}, durante {{weeks}}.",
+        "count": "{{times}}, durante {{weeks}}.",
+        "once": "Uma vez."
+      },
+      "dose_times_one": "{{count}} prática por semana",
+      "dose_times_other": "{{count}} práticas por semana",
+      "dose_times_zero": "{{count}} práticas por semana",
+      "dose_minutes": "{{count}} min",
+      "dose_weeks_one": "{{count}} semana",
+      "dose_weeks_other": "{{count}} semanas",
+      "dose_weeks_zero": "{{count}} semanas",
+      "at_home": "Em casa",
+      "week_progress": "{{done}} de {{target}} esta semana",
+      "planned_days": "Planeado: {{days}}",
+      "total_progress": "{{done}} de {{total}} no total",
+      "week_of": "semana {{n}} de {{total}}",
+      "once_todo": "Uma vez · por fazer",
+      "once_done": "Uma vez · feito"
     },
     "keep_practising": "Continuar a praticar",
     "draft": {

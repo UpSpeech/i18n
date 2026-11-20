@@ -722,7 +722,25 @@
       "replace_game_drop_body": "«{{next}}» no es un minijuego. Este paso pasaría a ser instrucciones escritas y dejaría de abrir «{{current}}».",
       "replace_game_drop_confirm": "Quitarlo",
       "start_now_consequence_none": "{{current}} se cierra antes. Puedes asignarlo otra vez más tarde.",
-      "their_caregiver": "su cuidador"
+      "their_caregiver": "su cuidador",
+      "dose_kind": {
+        "timed": "Veces y minutos",
+        "count": "Solo veces",
+        "once": "Una vez"
+      },
+      "completion_label": "Quién termina el paso",
+      "completion": {
+        "dose_one": "{{name}}, al cumplir la dosis · {{count}} práctica",
+        "dose_other": "{{name}}, al cumplir la dosis · {{count}} prácticas",
+        "count_one": "{{name}}, tras {{count}} práctica",
+        "count_other": "{{name}}, tras {{count}} prácticas",
+        "count_before": "{{name}}, tras",
+        "count_after_one": "práctica",
+        "count_after_other": "prácticas",
+        "any": "{{name}}, después de cualquier práctica",
+        "only_you": "Solo tú"
+      },
+      "completion_count_required": "Elige de 1 a 99 prácticas."
     },
     "dashboard_title": "Rutas de aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona las rutas de aprendizaje de tus pacientes",
@@ -1819,7 +1837,36 @@
       "start_skipped_return": "{{name}} todavía puede practicar un paso saltado.",
       "start_done": "El paso {{number}} ya está abierto.",
       "start_group_opens": "Se abrirá",
-      "keep_only_done": "El paso {{number}} es ahora el único abierto."
+      "keep_only_done": "El paso {{number}} es ahora el único abierto.",
+      "rules_title": "Reglas de este paso",
+      "rule": {
+        "dose": "{{name}} puede terminar este paso después de cumplir la dosis.",
+        "count_one": "{{name}} puede terminar este paso tras {{count}} práctica.",
+        "count_other": "{{name}} puede terminar este paso tras {{count}} prácticas."
+      },
+      "practices_target_one": "{{count}} práctica",
+      "practices_target_other": "{{count}} prácticas",
+      "practices_left_one": "falta {{count}}",
+      "practices_left_other": "faltan {{count}}",
+      "practices_left_zero": "todo hecho",
+      "practices_progress": "{{target}} · {{left}}",
+      "dose_sentence": {
+        "timed": "{{times}}, hasta {{minutes}}, durante {{weeks}}.",
+        "count": "{{times}}, durante {{weeks}}.",
+        "once": "Una vez."
+      },
+      "dose_times_one": "{{count}} práctica por semana",
+      "dose_times_other": "{{count}} prácticas por semana",
+      "dose_minutes": "{{count}} min",
+      "dose_weeks_one": "{{count}} semana",
+      "dose_weeks_other": "{{count}} semanas",
+      "at_home": "En casa",
+      "week_progress": "{{done}} de {{target}} esta semana",
+      "planned_days": "Previsto: {{days}}",
+      "total_progress": "{{done}} de {{total}} en total",
+      "week_of": "semana {{n}} de {{total}}",
+      "once_todo": "Una vez · por hacer",
+      "once_done": "Una vez · hecho"
     },
     "keep_practising": "Seguir practicando",
     "draft": {
