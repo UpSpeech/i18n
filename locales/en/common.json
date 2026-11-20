@@ -225,7 +225,18 @@
     "unread_count_other": "{{count}} unread messages",
     "born_on": "Born {{date}}",
     "no_therapist_title": "No therapist yet",
-    "no_therapist_description": "Messages go to the therapist assigned to the account, and nobody is assigned yet. Your clinic can set that up."
+    "no_therapist_description": "Messages go to the therapist assigned to the account, and nobody is assigned yet. Your clinic can set that up.",
+    "attach_file": "Attach a file",
+    "attach_photo": "Choose a photo",
+    "attach_pdf": "Choose a PDF",
+    "remove_file": "Remove {{name}}",
+    "open_file": "Open {{name}}",
+    "file_too_large": "That file is too large. A PDF can be up to 25 MB and an image up to 10 MB.",
+    "file_wrong_type": "Send a PDF, or a JPEG, PNG or WebP image.",
+    "file_upload_error": "Could not upload the file. Try again.",
+    "file_open_error": "Could not open the file. Try again.",
+    "file_size_kb": "{{size}} KB",
+    "file_size_mb": "{{size}} MB"
   },
   "practice": {
     "title": "Practice mini-games",

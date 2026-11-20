@@ -217,7 +217,18 @@
     "unread_count_zero": "{{count}} mensagens por ler",
     "born_on": "Data de nascimento: {{date}}",
     "no_therapist_title": "Ainda não tens terapeuta",
-    "no_therapist_description": "As mensagens vão para o terapeuta atribuído à conta, e ainda não há nenhum. A clínica pode tratar disso."
+    "no_therapist_description": "As mensagens vão para o terapeuta atribuído à conta, e ainda não há nenhum. A clínica pode tratar disso.",
+    "attach_file": "Anexar um ficheiro",
+    "attach_photo": "Escolher uma foto",
+    "attach_pdf": "Escolher um PDF",
+    "remove_file": "Remover {{name}}",
+    "open_file": "Abrir {{name}}",
+    "file_too_large": "O ficheiro é demasiado grande. Um PDF pode ter até 25 MB e uma imagem até 10 MB.",
+    "file_wrong_type": "Envia um PDF ou uma imagem JPEG, PNG ou WebP.",
+    "file_upload_error": "Não foi possível carregar o ficheiro. Tenta novamente.",
+    "file_open_error": "Não foi possível abrir o ficheiro. Tenta novamente.",
+    "file_size_kb": "{{size}} KB",
+    "file_size_mb": "{{size}} MB"
   },
   "practice": {
     "title": "Praticar mini jogos",
