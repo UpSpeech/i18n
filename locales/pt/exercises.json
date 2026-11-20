@@ -1178,7 +1178,7 @@
       "road_label": "Um carro a andar numa estrada"
     },
     "which_speech": {
-      "instructions": "Quem está contigo diz a palavra à sua maneira. Carrega no animal que ouviste.",
+      "instructions": "Quem está contigo diz a palavra à sua maneira.",
       "prompt": "Carrega no animal que ouviste.",
       "picked_frog": "Escolheste o sapo: repetição.",
       "picked_snake": "Escolheste a cobra: prolongamento.",

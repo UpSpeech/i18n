@@ -1161,7 +1161,7 @@
       "road_label": "Un coche por una carretera"
     },
     "which_speech": {
-      "instructions": "Quien está contigo dice la palabra a su manera. Toca el animal que has oído.",
+      "instructions": "Quien está contigo dice la palabra a su manera.",
       "prompt": "Toca el animal que has oído.",
       "picked_frog": "Has elegido la rana: repetición.",
       "picked_snake": "Has elegido la serpiente: prolongación.",
