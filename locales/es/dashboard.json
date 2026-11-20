@@ -194,6 +194,7 @@
       "no_patients_body": "Añade a tu primer paciente. Aparece aquí cuando te necesite.",
       "nobody_needs_you": "Nadie te necesita ahora",
       "nobody_needs_you_body": "Una grabación nueva, un mensaje o una evaluación atrasada pone a un paciente en esta lista.",
+      "nobody_needs_you_body_general": "Una grabación nueva o un mensaje pone a un paciente en esta lista.",
       "check_in": "Evaluación semanal",
       "next_recording": "Saltar a la siguiente grabación",
       "no_check_in": "Aún ninguna",

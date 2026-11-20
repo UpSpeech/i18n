@@ -194,6 +194,7 @@
       "no_patients_body": "Add your first patient. They show up here when they need you.",
       "nobody_needs_you": "Nobody needs you right now",
       "nobody_needs_you_body": "A new recording, a message or a missed check-in puts a patient on this list.",
+      "nobody_needs_you_body_general": "A new recording or a message puts a patient on this list.",
       "check_in": "Check-in",
       "next_recording": "Skip to next recording",
       "no_check_in": "None yet",
