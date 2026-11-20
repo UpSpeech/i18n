@@ -233,13 +233,17 @@
     "title": "Definições de cenário",
     "description": "Ajusta o comportamento das chamadas em modo realista para este paciente.",
     "vadLabel": "Silêncio antes do bot responder",
-    "vadHelp": "Janelas mais longas permitem que pacientes com bloqueios ou prolongamentos terminem o turno antes da IA responder.",
+    "vadHelp": "Janelas mais longas dão tempo a um paciente que faz pausas a meio da frase para terminar antes de a IA responder.",
     "vadPresets": {
       "default": "Padrão da clínica (recomendado)",
       "typical": "0,8s, fala típica",
       "moderate": "1,5s, pausas ligeiras",
       "stutter_safe": "2,5s, seguro para gaguez",
       "long_blocks": "4,0s, bloqueios longos"
+    },
+    "vadPresets_general": {
+      "stutter_safe": "2,5s, pausas mais longas",
+      "long_blocks": "4,0s, pausas longas"
     },
     "loadError": "Não foi possível carregar as definições.",
     "saveError": "Não foi possível guardar. Tenta novamente."
@@ -479,6 +483,7 @@
     "notes": {
       "title": "As tuas notas",
       "empty": "As notas que deixas em gravações, registos diários e passos aparecem aqui.",
+      "empty_general": "As notas que deixas em gravações e passos aparecem aqui.",
       "messages": "Abrir mensagens",
       "source_check_in": "Registo diário",
       "source_review": "Revisão",
