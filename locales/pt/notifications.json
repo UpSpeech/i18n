@@ -19,6 +19,7 @@
   },
   "types": {
     "inactive_patient": "{{patient_name}} está inativo(a) há {{days_inactive}} dias",
+    "path_ran_out": "{{patient_name}} concluiu {{step_title}}. O plano não tem mais nada a seguir.",
     "missing_feedback": "{{patient_name}} tem {{count}} gravações por rever, a mais antiga há {{days}} dias",
     "missing_feedback_one": "{{patient_name}} tem uma gravação por rever há {{days}} dias",
     "missing_feedback_other": "{{patient_name}} tem {{count}} gravações por rever, a mais antiga há {{days}} dias",
@@ -51,6 +52,7 @@
     "read_status": "Lidas",
     "unread_only": "Só não lidas",
     "inactive_patient": "Inativos",
+    "path_ran_out": "Nada a seguir",
     "missing_feedback": "Feedback pendente",
     "practice_reminder": "Prática",
     "therapist_feedback": "Feedback",
@@ -96,6 +98,8 @@
     "type_labels": {
       "inactive_patient": "Alertas de pacientes inativos",
       "inactive_patient_desc": "Quando um paciente não está ativo há algum tempo",
+      "path_ran_out": "Plano sem nada a seguir",
+      "path_ran_out_desc": "Quando um paciente conclui o último passo aberto",
       "missing_feedback": "Alertas de feedback em falta",
       "missing_feedback_desc": "Quando um paciente tem gravações à espera de revisão",
       "practice_reminder": "Lembretes de prática",
