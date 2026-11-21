@@ -18,6 +18,7 @@
   },
   "types": {
     "inactive_patient": "{{patient_name}} has been inactive for {{days_inactive}} days",
+    "path_ran_out": "{{patient_name}} finished {{step_title}}. Their plan has nothing next.",
     "missing_feedback": "{{patient_name}} has {{count}} recordings waiting for your review, the oldest for {{days}} days",
     "missing_feedback_one": "{{patient_name}} has a recording waiting for your review for {{days}} days",
     "missing_feedback_other": "{{patient_name}} has {{count}} recordings waiting for your review, the oldest for {{days}} days",
@@ -48,6 +49,7 @@
     "read_status": "Read",
     "unread_only": "Unread only",
     "inactive_patient": "Inactive",
+    "path_ran_out": "Nothing next",
     "missing_feedback": "Feedback due",
     "practice_reminder": "Practice",
     "therapist_feedback": "Feedback",
@@ -93,6 +95,8 @@
     "type_labels": {
       "inactive_patient": "Inactive patient alerts",
       "inactive_patient_desc": "When a patient hasn't been active for a period of time",
+      "path_ran_out": "Plan has nothing next",
+      "path_ran_out_desc": "When a patient finishes their last open step",
       "missing_feedback": "Missing feedback alerts",
       "missing_feedback_desc": "When a patient has recordings waiting for your review",
       "practice_reminder": "Practice reminders",
