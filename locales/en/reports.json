@@ -62,7 +62,7 @@
     "organization": "Organisation:",
     "disclaimer": "This report is AI-assisted and should be reviewed by a qualified speech-language pathologist before clinical use. The information contained in this report is confidential and intended only for the use of the individual or entity named above."
   },
-  "language_notice": "This report is displayed in {{language}} (organisation's language), while your interface remains in your preferred language.",
+  "language_notice": "This report is in {{language}}, the patient's language.",
   "editor": {
     "placeholder": "Start writing your report...",
     "bold": "Bold (Ctrl+B)",
