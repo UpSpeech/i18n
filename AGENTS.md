@@ -11,10 +11,9 @@ pricing or patient data goes in it, including in this file.
   key. `scripts/check-parity.mjs` is the check.
 - **Releases are tagged, and both clients pin the tag.** Landing on `main` is not
   shipping: bump the pin in app-frontend and app-mobile, in that order.
-- **New copy goes in the frontend namespaces, for both clients.** The phone is
-  moving off `locales/mobile/` and reads the same keys as web through
-  `build-locale.js`. Add nothing new under `locales/mobile/`; move a key out of
-  it with `scripts/twins.mjs` as the guide.
+- **Both clients read the same keys.** Copy lives in `locales/<lang>/<namespace>.json`
+  and both apps fold it with `build-locale.js`. There is no mobile-only file;
+  `scripts/check-no-mobile.mjs` fails if one appears.
 - Never translate the `pt:` block of the demo seed's `mini_games.yml`.
 
 ## Gates

@@ -13,7 +13,7 @@
     "build-locale.js"
   ],
   "scripts": {
-    "check": "node scripts/check-parity.mjs && node scripts/check-placeholders.mjs && node scripts/check-option-balance.mjs && node scripts/check-british.mjs && node scripts/check-build-locale.mjs && node scripts/check-moves.mjs"
+    "check": "node scripts/check-parity.mjs && node scripts/check-placeholders.mjs && node scripts/check-option-balance.mjs && node scripts/check-british.mjs && node scripts/check-build-locale.mjs && node scripts/check-moves.mjs && node scripts/check-no-mobile.mjs"
   },
   "repository": {
     "type": "git",
