@@ -304,7 +304,7 @@
     "next_question": "Próxima pergunta",
     "see_results": "Ver resultados",
     "correct": "Correto!",
-    "incorrect": "Não está bem",
+    "incorrect": "Não é bem assim",
     "encouragement": "Leva o teu tempo. Isto é para aprender.",
     "results": {
       "title": "Questionário completo!",
@@ -320,6 +320,14 @@
       "save_failed": "As tuas respostas foram verificadas localmente mas não foi possível guardá-las. Tenta novamente quando tiveres ligação."
     },
     "correct_answer_label": "Resposta correta",
-    "your_answer_label": "A tua resposta"
+    "your_answer_label": "A tua resposta",
+    "passed": "Muito bem!",
+    "almost_there": "Quase lá!",
+    "review_hint": "Alguns tópicos para rever. Faz parte da aprendizagem. Revê as explicações e tenta novamente quando quiseres.",
+    "try_again": "Rever e praticar novamente",
+    "no_questions": "Nenhuma pergunta configurada para este passo.",
+    "question_of": "Pergunta {{current}} de {{total}}",
+    "exercise_quiz_encouragement": "Sem pressa, toma o teu tempo.",
+    "pick_answer": "Escolhe primeiro uma resposta."
   }
 }

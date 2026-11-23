@@ -14,7 +14,10 @@
     "undo": "Undo",
     "submit": "Continue",
     "success": "Thank you! Have a great session.",
-    "submit_error": "Something went wrong. Please try again."
+    "submit_error": "Something went wrong. Please try again.",
+    "daily_severity_helper": "Quick daily check-in",
+    "daily_severity_tap_hint": "Tap a number",
+    "daily_severity_submit_error": "Couldn't save your check-in. Try again in a moment."
   },
   "chart": {
     "title": "Daily severity trend",

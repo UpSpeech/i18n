@@ -14,7 +14,10 @@
     "undo": "Anular",
     "submit": "Continuar",
     "success": "Obrigado! Tem uma ótima sessão.",
-    "submit_error": "Algo correu mal. Por favor tenta novamente."
+    "submit_error": "Algo correu mal. Por favor tenta novamente.",
+    "daily_severity_helper": "Check-in diário rápido",
+    "daily_severity_tap_hint": "Toca num número",
+    "daily_severity_submit_error": "Não foi possível guardar o teu registo. Tenta novamente daqui a pouco."
   },
   "chart": {
     "title": "Tendência diária de gravidade",

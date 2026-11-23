@@ -139,14 +139,14 @@
     "ME_desc": "Arm/hand movement, hands about face, torso movement, leg movement"
   },
   "tension": {
-    "label": "Tension level",
     "0": "None",
-    "0_desc": "Absence of tension",
     "1": "Mild",
-    "1_desc": "Subtle degree of tension",
     "2": "Moderate",
-    "2_desc": "Signs of tension are immediately distracting, produced with visible effort",
     "3": "Severe",
+    "label": "Tension level",
+    "0_desc": "Absence of tension",
+    "1_desc": "Subtle degree of tension",
+    "2_desc": "Signs of tension are immediately distracting, produced with visible effort",
     "3_desc": "Signs of tension are highly distracting, produced with significant effort"
   },
   "region": {
@@ -190,7 +190,25 @@
     "soft_articulation_contact": "Soft articulation contact",
     "prolonged_speech": "Prolonged speech",
     "speech_speed_management": "Speech speed management",
-    "pauses": "Strategic pausing"
+    "pauses": "Strategic pausing",
+    "complete": "Identification complete",
+    "subtitle": "{{count}} disfluencies identified",
+    "subtitle_one": "{{count}} disfluency identified",
+    "mark_label": "Tap to mark a disfluency",
+    "mark_primary": "Mark primary disfluencies",
+    "mark_secondary": "Mark secondary behaviours",
+    "marked": "{{count}} marked",
+    "no_video": "Record a video first to get started.",
+    "record_label": "Record yourself speaking",
+    "save_and_continue": "Save & continue",
+    "submit": "Complete identification",
+    "next_classify": "Next: classify",
+    "next_behaviors": "Next: secondary behaviours",
+    "classify_instructions": "Classify each disfluency by duration and tension level.",
+    "behaviors_instructions": "Mark any secondary behaviours you notice (avoidance, struggle).",
+    "exercise_identification_tense": "Tense",
+    "intensity": "Intensity",
+    "exercise_identification_notes_placeholder": "Optional notes..."
   },
   "summary_panel": {
     "disfluencies": "Disfluencies",
