@@ -1,6 +1,5 @@
 {
   "title": "Notificaciones",
-  "subtitle": "Alertas y actualizaciones recientes",
   "empty": "Sin notificaciones.",
   "mark_all_read": "Marcar todas como leídas",
   "view_all": "Ver todas las notificaciones",
@@ -76,7 +75,7 @@
     "reminder_after_work": "Después del trabajo · 18:00",
     "reminder_evening": "Por la noche · 20:00",
     "delivery": "Preferencias de entrega",
-    "email_digest": "Frecuencia del resumen por email",
+    "email_digest": "Frecuencia del resumen por correo",
     "immediate": "Inmediato",
     "daily": "Resumen diario",
     "weekly": "Resumen semanal",
@@ -84,8 +83,8 @@
     "quiet_hours_description": "Pausar notificaciones durante horas específicas",
     "quiet_hours_start": "Inicio",
     "quiet_hours_end": "Fin",
-    "in_app": "En app",
-    "email": "Email",
+    "in_app": "En la app",
+    "email": "Correo",
     "push": "Móvil",
     "push_off_note": "Las notificaciones del móvil están desactivadas. Actívalas en la app para usar estos interruptores.",
     "saved": "Configuración de notificaciones guardada",
@@ -125,9 +124,73 @@
       "learning_path_completed_desc_caregiver": "Cuando tu hijo o hija termina todos los pasos de su plan",
       "path_work_assigned_desc_caregiver": "Cuando el terapeuta de tu hijo o hija añade un paso a su plan"
     },
-    "your_practice_caregiver": "La práctica de tu hijo"
+    "your_practice_caregiver": "La práctica de tu hijo",
+    "channels": "Canales",
+    "notification_settings_push_off_note": "Las notificaciones del móvil están desactivadas. Actívalas arriba para usar estos interruptores.",
+    "push_permission_askable": "Activa las notificaciones para recibir mensajes de tu terapeuta entre sesiones.",
+    "push_permission_askable_named": "Activa las notificaciones para recibir mensajes de {{therapist}} entre sesiones.",
+    "push_permission_blocked": "Las notificaciones de UpSpeech están desactivadas en este dispositivo. Actívalas en Configuración.",
+    "push_permission_blocked_named": "Las notificaciones de UpSpeech están desactivadas en este dispositivo. Actívalas en Configuración.",
+    "push_permission_enable": "Activar notificaciones",
+    "push_permission_open": "Abrir ajustes",
+    "per_type": "Por tipo de notificación",
+    "digest": {
+      "immediate": "Inmediato",
+      "daily": "Resumen diario",
+      "weekly": "Resumen semanal"
+    },
+    "quiet_hours_enable": "Activar horas de silencio",
+    "time_hint": "Introduce la hora como HH:MM (ej. 22:00)"
   },
   "rate_limited": "Notificado hace {{hours}}h",
   "empty_what_therapist": "Los mensajes de tus pacientes y los recordatorios sobre su práctica aparecen aquí.",
-  "empty_what_caregiver": "Los mensajes del terapeuta y los recordatorios sobre la práctica de tu hijo o hija aparecen aquí."
+  "empty_what_caregiver": "Los mensajes del terapeuta y los recordatorios sobre la práctica de tu hijo o hija aparecen aquí.",
+  "inbox": {
+    "title": "Notificaciones",
+    "empty": "¡Todo al día!",
+    "empty_description": "Actualizaciones de tu terapeuta y hitos de progreso aparecerán aquí.",
+    "empty_description_named": "Actualizaciones de {{therapist}} y hitos de progreso aparecerán aquí.",
+    "mark_all_read": "Marcar todas como leídas",
+    "just_now": "Ahora",
+    "minutes_ago": "{{count}}min atrás",
+    "hours_ago": "{{count}}h atrás",
+    "days_ago": "{{count}}d atrás",
+    "empty_description_therapist": "Las nuevas entregas y mensajes de tus pacientes aparecerán aquí.",
+    "empty_description_caregiver": "Las actualizaciones del terapeuta y sobre la práctica de tu hijo o hija aparecerán aquí."
+  },
+  "type_short": {
+    "inactive_patient": "Paciente inactivo",
+    "path_ran_out": "Plan sin nada a continuación",
+    "missing_feedback": "Feedback pendiente",
+    "practice_reminder": "Recordatorio de práctica",
+    "therapist_feedback": "Feedback del terapeuta",
+    "milestone_unlocked": "Hito desbloqueado",
+    "goal_completed": "Objetivo completado",
+    "learning_path_paused": "Plan en pausa",
+    "learning_path_resumed": "Plan reanudado",
+    "learning_path_completed": "Plan terminado",
+    "path_work_assigned": "Nueva práctica",
+    "direct_message": "Mensaje nuevo"
+  },
+  "reminders_stop": {
+    "title": "¿Quieres un recordatorio para practicar?",
+    "title_caregiver": "Un recordatorio para practicar con {{child}}",
+    "body": "Un recordatorio al día, a la hora que elijas.",
+    "body_caregiver": "Un recordatorio al día, a la hora que mejor os venga.",
+    "change_later": "Puedes cambiarlo cuando quieras en Configuración.",
+    "enable": "Activar recordatorios",
+    "title_clinician": "¿Activar notificaciones?",
+    "body_clinician": "Te avisamos cuando una grabación espera tu revisión o cuando un paciente deja de practicar.",
+    "enable_clinician": "Activar notificaciones"
+  },
+  "reminder_card": {
+    "title": "Recordatorio diario",
+    "change": "Cambiar",
+    "at_hour": "a las {{hour}}:00",
+    "load_failed": "Tu recordatorio diario no cargó."
+  },
+  "reminder": {
+    "earlier": "15 minutos antes",
+    "later": "15 minutos después"
+  }
 }

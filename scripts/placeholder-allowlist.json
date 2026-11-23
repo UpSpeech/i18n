@@ -1,5 +1,7 @@
 {
   "common:learning_path.today.redesign.sleeve_today_hint": "es and pt name the child where en says 'together'",
+  "common:messages.empty_caregiver_hello": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
+  "common:messages.empty_caregiver_line": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
   "mobile_common:caregiver_guide_report": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
   "mobile_common:caregiver_session_intro": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
   "mobile_common:caregiver_session_upload_failed": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
@@ -14,8 +16,6 @@
   "mobile_common:first_run_caregiver_pick_title": "pt's reviewed wording leaves the name out; a missing placeholder renders nothing",
   "mobile_common:intake_interview_done_body": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
   "mobile_common:judgment_note_placeholder": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
-  "mobile_common:messages_empty_caregiver_hello": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
-  "mobile_common:messages_empty_caregiver_line": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
   "mobile_common:redesign_sleeve_today_hint": "es and pt name the child where en says 'together'",
   "mobile_common:review_feedback": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",
   "mobile_common:step_acknowledged_message": "pt names the therapist with a gendered article where en and es say 'your therapist'; the caller passes therapist",

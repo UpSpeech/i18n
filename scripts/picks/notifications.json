@@ -1,0 +1,17 @@
+{
+  "chat_placeholder": "phone",
+  "chat_send_failed": "web",
+  "messages_empty_caregiver": "separate",
+  "messages_empty_therapist_no_selection": "phone",
+  "notification_settings_in_app": "phone",
+  "notification_settings_email": "phone",
+  "notification_settings_push_off_note": "separate",
+  "notification_settings_email_digest": "phone",
+  "notification_settings_save_failed": "web",
+  "notification_settings_load_failed": "web",
+  "chat_connected": "phone",
+  "chat_connecting": "phone",
+  "chat_disconnected": "phone",
+  "chat_connection_error": "phone",
+  "chat_reconnect": "phone"
+}
