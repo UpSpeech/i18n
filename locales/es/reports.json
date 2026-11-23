@@ -62,7 +62,7 @@
     "organization": "Organización:",
     "disclaimer": "Este informe es asistido por IA y debe ser revisado por un patólogo del habla y lenguaje calificado antes de su uso clínico. La información contenida en este informe es confidencial y está destinada solo para el uso de la persona o entidad nombrada anteriormente."
   },
-  "language_notice": "Este informe se muestra en {{language}} (idioma de la organización), mientras que tu interfaz permanece en tu idioma preferido.",
+  "language_notice": "Este informe está en {{language}}, el idioma del paciente.",
   "editor": {
     "placeholder": "Empieza a escribir tu informe...",
     "bold": "Negrita (Ctrl+B)",
