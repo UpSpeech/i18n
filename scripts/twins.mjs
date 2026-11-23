@@ -7,57 +7,19 @@
 //   node scripts/twins.mjs --markdown    the drifted families, as tables
 //   node scripts/twins.mjs --area auth:  only mobile keys starting with that prefix
 //   node scripts/twins.mjs --scope auth.  web keys a mobile key may merge into, besides shallow common.*
-import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
-import { join, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
-import { buildLocale, ALIASES } from "../build-locale.js";
+import { readFileSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
+import { LANGS, mobileKeys, root, webKeys } from "./trees.mjs";
+import { commonSubtrees } from "./trees.mjs";
 import { baseOf } from "./forms.mjs";
 
-const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const LANGS = ["en", "pt", "es"];
 const args = process.argv.slice(2);
 const opt = (name) => (args.includes(name) ? args[args.indexOf(name) + 1] : "");
 const area = opt("--area");
 const scope = opt("--scope").split(",").filter(Boolean);
 
-const read = (path) => JSON.parse(readFileSync(path, "utf8"));
-const flatten = (obj, prefix = "", acc = {}) => {
-  for (const [k, v] of Object.entries(obj ?? {})) {
-    const key = prefix ? `${prefix}.${k}` : k;
-    v && typeof v === "object" ? flatten(v, key, acc) : (acc[key] = v);
-  }
-  return acc;
-};
-
-function webKeys(lang) {
-  const dir = join(root, "locales", lang);
-  const files = {};
-  for (const f of readdirSync(dir)) if (f.endsWith(".json")) files[f.slice(0, -5)] = read(join(dir, f));
-  const { translation } = buildLocale(files);
-  const canonical = {};
-  for (const [top, value] of Object.entries(translation)) {
-    if (ALIASES.includes(top) || !(value && typeof value === "object")) continue;
-    flatten(value, top, canonical);
-  }
-  return canonical;
-}
-
-// The key as app-mobile calls it: common.json and quiz.json under the default
-// namespace (quiz nested as quiz.*), auth.json under auth:.
-function mobileKeys(lang) {
-  const dir = join(root, "locales", "mobile", lang);
-  return {
-    ...flatten(read(join(dir, "common.json"))),
-    ...flatten(read(join(dir, "quiz.json")), "quiz"),
-    ...(existsSync(join(dir, "auth.json")) ? flatten(read(join(dir, "auth.json")), "auth:") : {}),
-  };
-}
-
-const fix = (k) => k.replace(/^auth:\./, "auth:");
 const web = Object.fromEntries(LANGS.map((l) => [l, webKeys(l)]));
-const mobile = Object.fromEntries(
-  LANGS.map((l) => [l, Object.fromEntries(Object.entries(mobileKeys(l)).map(([k, v]) => [fix(k), v]))]),
-);
+const mobile = Object.fromEntries(LANGS.map((l) => [l, mobileKeys(l)]));
 
 function families(keys) {
   const out = new Map();
@@ -84,7 +46,9 @@ for (const [base, forms] of webFamilies) {
 // Merging into another page's key ties the phone's copy to that page: reword
 // patients.add_patient and the phone's sign-up button changes too. So a mobile
 // key merges only into its own area's keys (--scope) or a shallow common.* key.
-const shallowCommon = (k) => k.startsWith("common.") && k.split(".").length <= 3;
+// common.save, or a common.json subtree key called at the root such as footer.copyright.
+const commonTops = commonSubtrees();
+const shallowCommon = (k) => k.startsWith("common.") || (commonTops.has(k.split(".")[0]) && k.split(".").length <= 2);
 const inScope = (k) => shallowCommon(k) || scope.some((p) => k.startsWith(p));
 const leaf = (k) => k.split(/[.:]/).pop();
 const ranker = (mobileKey) => (a, b) =>

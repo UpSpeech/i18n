@@ -172,7 +172,14 @@
     "gated_tooltip_dailySeverity": "Completa el check-in de hoy para continuar",
     "gated_tooltip_cbsaWeekly": "Completa la evaluación de esta semana para continuar",
     "game_catalogue": "Catálogo de ejercicios",
-    "resource_library": "Biblioteca de recursos"
+    "resource_library": "Biblioteca de recursos",
+    "journey": "Camino",
+    "coach": "Asistente",
+    "settings": "Ajustes",
+    "activity": "Actividad",
+    "clinical": "Clínico",
+    "insights": "Información",
+    "account": "Cuenta"
   },
   "caregiver_ask": {
     "subtitle": "Dudas sobre practicar en casa, respondidas con material para padres",
@@ -362,12 +369,14 @@
         "lobe": "Original",
         "none": "Sin barriga",
         "round": "Redonda",
-        "shield": "Escudo"
+        "shield": "Escudo",
+        "short": "Forma"
       },
       "belly_sizes": {
         "s": "Pequeña",
         "m": "Mediana",
-        "l": "Grande"
+        "l": "Grande",
+        "short": "Tamaño"
       },
       "crowns": {
         "default": "Original",
@@ -406,11 +415,13 @@
       "child_title_she": "El compañero de {{name}}",
       "child_unset_short": "Elegid juntos el compañero de {{name}}.",
       "child_unset_short_he": "Elegid juntos el compañero de {{name}}.",
-      "child_unset_short_she": "Elegid juntos el compañero de {{name}}."
+      "child_unset_short_she": "Elegid juntos el compañero de {{name}}.",
+      "custom_lightness": "Luminosidad",
+      "save_no_changes": "Cambia algo para guardar."
     },
     "companion_bar_title": "Barra del asistente",
     "companion_bar_label": "Mantenerla abierta en todas las páginas",
-    "companion_bar_description": "Desactivada, queda solo un botón pequeño en la esquina. La elección te acompaña en cualquier dispositivo en el que inicies sesión.",
+    "companion_bar_description": "Desactivada, queda solo un botón pequeño en la esquina.",
     "practice_title": "Práctica",
     "practice_days_heading": "Días de práctica de {{name}}",
     "practice_days_empty": "Los días de práctica de {{name}} aparecerán aquí cuando su terapeuta haya definido un ejercicio.",
@@ -422,6 +433,48 @@
       "granted": "Guardamos tus conversaciones con la IA para mejorar los asistentes.",
       "failed_title": "No se ha podido guardar tu elección",
       "checkbox": "Guardar mis conversaciones con los asistentes de IA más allá de los 14 días, para ayudar a mejorarlos"
+    },
+    "theme": {
+      "system": "Sistema",
+      "light": "Claro",
+      "dark": "Oscuro"
+    },
+    "title": "Configuración",
+    "edit_profile": "Editar perfil",
+    "edit_profile_hint": "Actualiza cómo aparece tu nombre en UpSpeech.",
+    "change_password_hint": "Actualiza tu contraseña. Necesitarás la actual para confirmar.",
+    "first_name": "Nombre",
+    "last_name": "Apellido",
+    "save": "Guardar cambios",
+    "saved": "Perfil actualizado",
+    "current_password": "Contraseña actual",
+    "new_password": "Nueva contraseña",
+    "confirm_password": "Confirmar nueva contraseña",
+    "password_changed": "Contraseña cambiada",
+    "password_mismatch": "Las contraseñas no coinciden.",
+    "password_min_length": "La contraseña debe tener al menos 8 caracteres.",
+    "save_failed": "No se pudieron guardar los cambios. Revisa tu conexión e inténtalo de nuevo.",
+    "delete": {
+      "account_warning_heading": "Esta acción es permanente",
+      "account_warning_body": "Tu cuenta y los datos asociados serán eliminados. No es posible deshacer esta acción desde la app.",
+      "account_confirmation_phrase": "ELIMINAR",
+      "account_type_to_confirm": "Para confirmar, escribe {{phrase}} en el campo de abajo.",
+      "account_confirmation_label": "Frase de confirmación",
+      "account_failed": "No se pudo eliminar tu cuenta. Revisa tu conexión e inténtalo de nuevo."
+    },
+    "biometric_gate": {
+      "setting_label": "Requerir Face ID / código para abrir",
+      "setting_description": "Bloquea la app cuando se reabre o vuelve del segundo plano.",
+      "unavailable_no_hardware": "Este dispositivo no tiene biometría ni código de bloqueo configurados.",
+      "unavailable_not_enrolled": "Configura Face ID, Touch ID o un código del dispositivo para usar esta opción.",
+      "title": "Desbloquear UpSpeech",
+      "subtitle": "Confirma que eres tú para continuar.",
+      "unlock": "Desbloquear",
+      "prompt": "Desbloquear UpSpeech",
+      "unavailable_notice_title": "Bloqueo no disponible",
+      "unavailable_notice_message": "El bloqueo de la app está desactivado. Este dispositivo ya no tiene Face ID, Touch ID ni código.",
+      "save_failed_title": "No se pudo guardar el ajuste",
+      "save_failed_message": "No pudimos actualizar este ajuste. Inténtalo de nuevo."
     }
   },
   "layout": {
@@ -630,7 +683,8 @@
     "invites": "Invitaciones",
     "game_catalogue": "Catálogo de ejercicios",
     "resource_library": "Biblioteca de recursos",
-    "walkthrough": "Guía"
+    "walkthrough": "Guía",
+    "profile": "Perfil y ajustes"
   },
   "learning_path": {
     "composer": {
@@ -2227,5 +2281,23 @@
     "exercise_now": "Ejercicio ahora",
     "end_exercise": "Terminar ejercicio",
     "games_failed": "No se pudieron cargar los juegos."
+  },
+  "network": {
+    "error": "Error de red. Por favor verifica tu conexión."
+  },
+  "offline": {
+    "queued": "Guardado offline. Se cargará cuando vuelva la conexión.",
+    "uploading": "Cargando grabaciones en cola...",
+    "upload_complete": "Todas las grabaciones cargadas."
+  },
+  "video_player": "Reproductor de vídeo",
+  "hold_to_measure": "Mantén pulsado para medir la duración",
+  "update": {
+    "prompt_title": "Nueva versión disponible",
+    "prompt_action": "Actualizar",
+    "prompt_dismiss": "Ahora no",
+    "required_title": "Toca actualizar",
+    "required_body": "Esta versión ya no funciona. Actualiza para seguir practicando.",
+    "required_action": "Actualizar UpSpeech"
   }
 }

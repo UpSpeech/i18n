@@ -181,7 +181,14 @@
     "gated_tooltip_dailySeverity": "Complete today's check-in to continue",
     "gated_tooltip_cbsaWeekly": "Complete this week's assessment to continue",
     "game_catalogue": "Exercise catalogue",
-    "resource_library": "Resource library"
+    "resource_library": "Resource library",
+    "journey": "Journey",
+    "coach": "Assistant",
+    "settings": "Settings",
+    "activity": "Activity",
+    "clinical": "Clinical",
+    "insights": "Insights",
+    "account": "Account"
   },
   "caregiver_ask": {
     "subtitle": "Questions about practising at home, answered from material for parents",
@@ -371,12 +378,14 @@
         "lobe": "Original",
         "none": "None",
         "round": "Round",
-        "shield": "Shield"
+        "shield": "Shield",
+        "short": "Shape"
       },
       "belly_sizes": {
         "s": "Small",
         "m": "Medium",
-        "l": "Large"
+        "l": "Large",
+        "short": "Size"
       },
       "crowns": {
         "default": "Original",
@@ -415,11 +424,13 @@
       "child_title_she": "{{name}}'s companion",
       "child_unset_short": "Choose {{name}}'s companion together.",
       "child_unset_short_he": "Choose {{name}}'s companion together.",
-      "child_unset_short_she": "Choose {{name}}'s companion together."
+      "child_unset_short_she": "Choose {{name}}'s companion together.",
+      "custom_lightness": "Lightness",
+      "save_no_changes": "Change something to save."
     },
     "companion_bar_title": "Assistant bar",
     "companion_bar_label": "Keep it open on every page",
-    "companion_bar_description": "Off keeps a small button in the corner instead. The choice follows you to any device you sign in on.",
+    "companion_bar_description": "Off keeps a small button in the corner instead.",
     "practice_title": "Practice",
     "practice_days_heading": "{{name}}'s practice days",
     "practice_days_empty": "{{name}}'s practice days appear here once their therapist has set an exercise.",
@@ -431,6 +442,48 @@
       "granted": "We keep your AI conversations to improve the assistants.",
       "failed_title": "Couldn't save your choice",
       "checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them"
+    },
+    "theme": {
+      "system": "System",
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "title": "Settings",
+    "edit_profile": "Edit profile",
+    "edit_profile_hint": "Update how your name appears across UpSpeech.",
+    "change_password_hint": "Update your password. You'll need your current one to confirm.",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "save": "Save changes",
+    "saved": "Profile updated",
+    "current_password": "Current password",
+    "new_password": "New password",
+    "confirm_password": "Confirm new password",
+    "password_changed": "Password changed",
+    "password_mismatch": "Passwords don't match.",
+    "password_min_length": "Password must be at least 8 characters.",
+    "save_failed": "Couldn't save your changes. Check your connection and try again.",
+    "delete": {
+      "account_warning_heading": "This action is permanent",
+      "account_warning_body": "Your account and the data tied to it will be deleted. You cannot undo this from the app.",
+      "account_confirmation_phrase": "DELETE",
+      "account_type_to_confirm": "To confirm, type {{phrase}} in the box below.",
+      "account_confirmation_label": "Confirmation phrase",
+      "account_failed": "Couldn't delete your account. Check your connection and try again."
+    },
+    "biometric_gate": {
+      "setting_label": "Require Face ID / passcode to open",
+      "setting_description": "Lock the app when it's reopened or returns from the background.",
+      "unavailable_no_hardware": "This device has no biometric or passcode lock set up.",
+      "unavailable_not_enrolled": "Set up Face ID, Touch ID, or a device passcode to use this.",
+      "title": "Unlock UpSpeech",
+      "subtitle": "Confirm it's you to continue.",
+      "unlock": "Unlock",
+      "prompt": "Unlock UpSpeech",
+      "unavailable_notice_title": "Lock unavailable",
+      "unavailable_notice_message": "App lock is off. This device no longer has Face ID, Touch ID or a passcode.",
+      "save_failed_title": "Couldn't save setting",
+      "save_failed_message": "We couldn't update this setting. Please try again."
     }
   },
   "layout": {
@@ -630,7 +683,8 @@
     "invites": "Invites",
     "game_catalogue": "Exercise catalogue",
     "resource_library": "Resource library",
-    "walkthrough": "Guide"
+    "walkthrough": "Guide",
+    "profile": "Profile & settings"
   },
   "learning_path": {
     "composer": {
@@ -2227,5 +2281,23 @@
     "exercise_now": "Exercise now",
     "end_exercise": "End exercise",
     "games_failed": "The games could not be loaded."
+  },
+  "network": {
+    "error": "Network error. Please check your connection."
+  },
+  "offline": {
+    "queued": "Saved offline. It will upload when you are connected.",
+    "uploading": "Uploading queued recordings...",
+    "upload_complete": "All recordings uploaded."
+  },
+  "video_player": "Video player",
+  "hold_to_measure": "Press and hold to measure duration",
+  "update": {
+    "prompt_title": "New version available",
+    "prompt_action": "Update",
+    "prompt_dismiss": "Not now",
+    "required_title": "Time to update",
+    "required_body": "This version no longer works. Update to keep practising.",
+    "required_action": "Update UpSpeech"
   }
 }

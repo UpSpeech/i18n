@@ -18,7 +18,9 @@ for (const lang of ["en", "es", "pt"]) {
   const { translation } = buildLocale(files);
   const get = (key) => key.split(".").reduce((node, part) => node?.[part], translation);
   for (const file of maps) {
-    for (const [from, to] of Object.entries(JSON.parse(readFileSync(join(movesDir, file), "utf8")))) {
+    for (const [from, value] of Object.entries(JSON.parse(readFileSync(join(movesDir, file), "utf8")))) {
+      if (from.endsWith("*")) continue;
+      const to = typeof value === "string" ? value : value.to;
       if (!FORMS.some((form) => typeof get(to + form) === "string")) {
         console.error(`${lang}: moves/${file} sends ${from} to ${to}, which is not there`);
         failed = true;

@@ -1,0 +1,15 @@
+{
+  "tab_journey": "separate",
+  "settings_first_name": "web",
+  "more_tenant_settings": "web",
+  "more_special_access": "web",
+  "more_tenants": "web",
+  "accessibility_expand": "web",
+  "accessibility_collapse": "web",
+  "companion_body": "web",
+  "companion_too_dark": "web",
+  "companion_match_accent": "web",
+  "companion_axes_unavailable": "web",
+  "accessibility_loading": "web",
+  "accessibility_remove": "web"
+}

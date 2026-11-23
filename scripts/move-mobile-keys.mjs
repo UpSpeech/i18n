@@ -5,35 +5,20 @@
 //   node scripts/move-mobile-keys.mjs scripts/moves/auth.json
 //
 // A map is { "auth:sign_in_title": "auth.sign_in_title", "save": "common.save" }.
-// Keys are the base of a family; _one, _he and the rest move with it.
+// Keys are the base of a family; _one, _he and the rest move with it. A value of
+// { "to": key, "keep": "phone" } overwrites the web wording with the phone's.
+// Template entries ("theme_*") are for app-mobile and are skipped here.
 import { readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
-import { ALIASES } from "../build-locale.js";
+import { mobileLocation, webLocation } from "./trees.mjs";
 import { baseOf } from "./forms.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LANGS = ["en", "es", "pt"];
-// The fold's top-level names that sit inside a file rather than at its root.
-const NESTED = { onboarding: ["onboarding", "onboarding"], users: ["users", "users"], clients: ["users", "clients"], tenant: ["tenant", "tenant"], tenants: ["tenant", "tenants"] };
-
 const map = JSON.parse(readFileSync(process.argv[2], "utf8"));
 const read = (file) => JSON.parse(readFileSync(file, "utf8"));
 const write = (file, data) => writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`);
-
-function webLocation(key) {
-  const [top, ...rest] = key.split(".");
-  if (ALIASES.includes(top)) throw new Error(`${key}: use the canonical path, not the ${top} alias`);
-  const [file, ...prefix] = NESTED[top] ?? [top];
-  return { file: `${file}.json`, path: [...prefix, ...rest] };
-}
-
-function mobileLocation(key) {
-  if (key.startsWith("auth:")) return { file: "auth.json", path: key.slice(5).split(".") };
-  if (key.startsWith("quiz.")) return { file: "quiz.json", path: key.split(".").slice(1) };
-  return { file: "common.json", path: key.split(".") };
-}
-
 const parentOf = (tree, path, create) =>
   path.slice(0, -1).reduce((node, part) => {
     if (node && create && node[part] === undefined) node[part] = {};
@@ -53,7 +38,10 @@ for (const lang of LANGS) {
     const full = join(root, "locales", dir, file);
     return (cache[full] ??= read(full));
   };
-  for (const [mobileKey, webKey] of Object.entries(map)) {
+  for (const [mobileKey, value] of Object.entries(map)) {
+    if (mobileKey.endsWith("*")) continue;
+    const webKey = typeof value === "string" ? value : value.to;
+    const keepPhone = typeof value === "object" && value.keep === "phone";
     const m = mobileLocation(mobileKey);
     const w = webLocation(webKey);
     const mTree = open(join("mobile", lang), m.file);
@@ -65,7 +53,7 @@ for (const lang of LANGS) {
     const wParent = parentOf(wTree, w.path, true);
     const wLeaf = w.path.at(-1);
     const existing = family(wParent, wLeaf);
-    if (!existing.length) for (const name of members) wParent[wLeaf + name.slice(mLeaf.length)] = mParent[name];
+    if (!existing.length || keepPhone) for (const name of members) wParent[wLeaf + name.slice(mLeaf.length)] = mParent[name];
     for (const name of members) {
       const now = wParent[wLeaf + name.slice(mLeaf.length)];
       if (now !== mParent[name]) changed.push(`${lang} ${mobileKey}${name.slice(mLeaf.length)}: "${mParent[name]}" -> "${now}"`);
