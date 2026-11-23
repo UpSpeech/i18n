@@ -72,5 +72,25 @@ for (const lang of LANGS) {
   }
 }
 
-console.log(`moved ${Object.keys(map).length} mobile key families`);
+// A deliberate placeholder difference travels with its key.
+const allowFile = join(root, "scripts", "placeholder-allowlist.json");
+const allow = read(allowFile);
+let carried = 0;
+for (const [entry, why] of Object.entries(allow)) {
+  const match = entry.match(/^mobile_(\w+):(.+)$/);
+  if (!match) continue;
+  const [, file, key] = match;
+  const mobileKey = file === "auth" ? `auth:${key}` : file === "quiz" ? `quiz.${key}` : key;
+  const base = Object.keys(map).find((k) => mobileKey === k || (mobileKey.startsWith(`${k}_`) && /^(_(he|she|zero|one|two|few|many|other))+$/.test(mobileKey.slice(k.length))));
+  if (!base) continue;
+  const value = map[base];
+  const to = (typeof value === "string" ? value : value.to) + mobileKey.slice(base.length);
+  const w = webLocation(to);
+  delete allow[entry];
+  allow[`${w.file.slice(0, -5)}:${w.path.join(".")}`] = why;
+  carried++;
+}
+if (carried) write(allowFile, Object.fromEntries(Object.entries(allow).sort(([a], [b]) => a.localeCompare(b))));
+
+console.log(`moved ${Object.keys(map).length} mobile key families${carried ? `, carried ${carried} placeholder allowlist entries` : ""}`);
 if (changed.length) console.log(`\nThe phone's wording changes for:\n${changed.map((c) => `  ${c}`).join("\n")}`);
