@@ -1386,7 +1386,8 @@
   "quick_review_modal_title": "Quick review",
   "quick_review_modal_description": "Step through pending practice and send feedback.",
   "quick_review_progress_strip": "Practice {{current}} of {{total}}",
-  "quick_review_pending_count": "{{count}} pending",
+  "quick_review_pending_count_one": "{{count}} pending",
+  "quick_review_pending_count_other": "{{count}} pending",
   "quick_review_last_practiced": "Last practised: {{date}}",
   "quick_review_feedback_label": "Feedback",
   "quick_review_feedback_placeholder": "Leave a note for this practice",
@@ -2637,5 +2638,12 @@
   "reminder_hour": "Hour",
   "reminder_minute": "Minutes",
   "reminder_earlier": "15 minutes earlier",
-  "reminder_later": "15 minutes later"
+  "reminder_later": "15 minutes later",
+  "help_walkthroughs_heading": "Step by step",
+  "help_walkthroughs_load_failed": "Walkthroughs couldn't load. Try again.",
+  "help_walkthrough_load_failed": "This walkthrough couldn't load. Try again.",
+  "help_walkthrough_progress": "{{current}} of {{total}}",
+  "help_walkthrough_back": "Back",
+  "help_walkthrough_next": "Next",
+  "help_walkthrough_done": "Done"
 }

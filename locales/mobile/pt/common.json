@@ -1162,7 +1162,7 @@
   "consultation_exercises_field_text": "Conteúdo de texto (opcional)",
   "consultation_exercises_saved": "Exercício guardado",
   "consultation_exercises_deleted": "Exercício eliminado",
-  "assignment_create_title": "Novo exercício atribuído",
+  "assignment_create_title": "Novo exercício",
   "assignment_step_select_game": "Selecionar exercício",
   "assignment_step_select_patient": "Selecionar paciente",
   "assignment_step_schedule": "Definir horário",
@@ -1424,7 +1424,9 @@
   "quick_review_modal_title": "Revisão rápida",
   "quick_review_modal_description": "Percorre os treinos pendentes e deixa feedback.",
   "quick_review_progress_strip": "Treino {{current}} de {{total}}",
-  "quick_review_pending_count": "{{count}} pendente",
+  "quick_review_pending_count_zero": "{{count}} pendentes",
+  "quick_review_pending_count_one": "{{count}} pendente",
+  "quick_review_pending_count_other": "{{count}} pendentes",
   "quick_review_last_practiced": "Último treino: {{date}}",
   "quick_review_feedback_label": "Feedback",
   "quick_review_feedback_placeholder": "Deixa uma nota sobre este treino",
@@ -2702,5 +2704,12 @@
   "reminder_hour": "Hora",
   "reminder_minute": "Minutos",
   "reminder_earlier": "15 minutos mais cedo",
-  "reminder_later": "15 minutos mais tarde"
+  "reminder_later": "15 minutos mais tarde",
+  "help_walkthroughs_heading": "Passo a passo",
+  "help_walkthroughs_load_failed": "Não foi possível carregar os guias. Tenta novamente.",
+  "help_walkthrough_load_failed": "Não foi possível carregar este guia. Tenta novamente.",
+  "help_walkthrough_progress": "{{current}} de {{total}}",
+  "help_walkthrough_back": "Anterior",
+  "help_walkthrough_next": "Seguinte",
+  "help_walkthrough_done": "Concluído"
 }

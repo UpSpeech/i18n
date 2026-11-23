@@ -52,6 +52,7 @@
       "website": "Sitio web",
       "website_placeholder": "https://www.ejemplo.com",
       "footer_text": "Texto de pie de página",
+      "footer_text_helper": "Aparece al final de cada informe.",
       "footer_text_placeholder": "Texto personalizado para aparecer en los informes"
     },
     "select_tenant": "Seleccionar organización",

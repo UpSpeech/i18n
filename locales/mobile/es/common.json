@@ -1386,7 +1386,8 @@
   "quick_review_modal_title": "Revisión rápida",
   "quick_review_modal_description": "Revisa las prácticas pendientes y deja comentarios.",
   "quick_review_progress_strip": "Práctica {{current}} de {{total}}",
-  "quick_review_pending_count": "{{count}} pendiente",
+  "quick_review_pending_count_one": "{{count}} pendiente",
+  "quick_review_pending_count_other": "{{count}} pendientes",
   "quick_review_last_practiced": "Última práctica: {{date}}",
   "quick_review_feedback_label": "Comentario",
   "quick_review_feedback_placeholder": "Deja una nota sobre esta práctica",
@@ -2637,5 +2638,12 @@
   "reminder_hour": "Hora",
   "reminder_minute": "Minutos",
   "reminder_earlier": "15 minutos antes",
-  "reminder_later": "15 minutos después"
+  "reminder_later": "15 minutos después",
+  "help_walkthroughs_heading": "Paso a paso",
+  "help_walkthroughs_load_failed": "No se pudieron cargar las guías. Inténtalo de nuevo.",
+  "help_walkthrough_load_failed": "No se pudo cargar esta guía. Inténtalo de nuevo.",
+  "help_walkthrough_progress": "{{current}} de {{total}}",
+  "help_walkthrough_back": "Anterior",
+  "help_walkthrough_next": "Siguiente",
+  "help_walkthrough_done": "Listo"
 }
