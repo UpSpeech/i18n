@@ -21,7 +21,7 @@ for (const lang of ["en", "es", "pt"]) {
     for (const [from, value] of Object.entries(JSON.parse(readFileSync(join(movesDir, file), "utf8")))) {
       if (from.endsWith("*")) continue;
       const to = typeof value === "string" ? value : value.to;
-      if (!FORMS.some((form) => typeof get(to + form) === "string")) {
+      if (!FORMS.some((form) => { const v = get(to + form); return v !== undefined && (typeof v !== "object" || v === null); })) {
         console.error(`${lang}: moves/${file} sends ${from} to ${to}, which is not there`);
         failed = true;
       }
