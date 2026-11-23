@@ -145,7 +145,6 @@
     "modal_title": "Revisión rápida",
     "modal_description": "Revisa las prácticas pendientes y deja comentarios.",
     "progress_strip": "Práctica {{current}} de {{total}}",
-    "pending_count": "{{count}} pendiente",
     "last_practiced": "Última práctica: {{date}}",
     "feedback_label": "Nota sobre esta práctica",
     "feedback_placeholder": "¿Qué salió bien y qué trabajar a continuación?",
@@ -258,7 +257,9 @@
       "which_speech": "Qué habla",
       "story_scene": "Construye tu historia"
     },
-    "quick_review_save_success": "Comentario guardado."
+    "quick_review_save_success": "Comentario guardado.",
+    "pending_count_one": "{{count}} pendiente",
+    "pending_count_other": "{{count}} pendientes"
   },
   "recent_feedback": {
     "page_title": "Feedback de tu terapeuta",

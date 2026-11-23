@@ -145,7 +145,6 @@
     "modal_title": "Quick review",
     "modal_description": "Step through pending practice and send feedback.",
     "progress_strip": "Practice {{current}} of {{total}}",
-    "pending_count": "{{count}} pending",
     "last_practiced": "Last practised: {{date}}",
     "feedback_label": "Note on this practice",
     "feedback_placeholder": "What went well, and what to work on next?",
@@ -258,7 +257,9 @@
       "which_speech": "Which speech",
       "story_scene": "Build your story"
     },
-    "quick_review_save_success": "Feedback saved."
+    "quick_review_save_success": "Feedback saved.",
+    "pending_count_one": "{{count}} pending",
+    "pending_count_other": "{{count}} pending"
   },
   "recent_feedback": {
     "page_title": "Feedback from your therapist",

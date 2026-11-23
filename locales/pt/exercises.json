@@ -1474,7 +1474,7 @@
     "overdue_count_one": "{{count}} em atraso",
     "overdue_count_other": "{{count}} em atraso",
     "overdue_count_zero": "{{count}} em atraso",
-    "create_title": "Novo exercício atribuído",
+    "create_title": "Novo exercício",
     "step_select_game": "Selecionar exercício",
     "step_select_patient": "Selecionar paciente",
     "step_schedule": "Definir horário",
