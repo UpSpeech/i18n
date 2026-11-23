@@ -45,6 +45,7 @@ function family(parent, leaf) {
   return Object.keys(parent ?? {}).filter((name) => name.startsWith(leaf) && FORMS.test(name.slice(leaf.length)));
 }
 
+const changed = [];
 for (const lang of LANGS) {
   const cache = {};
   const open = (dir, file) => {
@@ -64,6 +65,10 @@ for (const lang of LANGS) {
     const wLeaf = w.path.at(-1);
     const existing = family(wParent, wLeaf);
     if (!existing.length) for (const name of members) wParent[wLeaf + name.slice(mLeaf.length)] = mParent[name];
+    for (const name of members) {
+      const now = wParent[wLeaf + name.slice(mLeaf.length)];
+      if (now !== mParent[name]) changed.push(`${lang} ${mobileKey}${name.slice(mLeaf.length)}: "${mParent[name]}" -> "${now}"`);
+    }
     for (const name of members) delete mParent[name];
   }
   for (const [file, data] of Object.entries(cache)) write(file, data);
@@ -84,3 +89,4 @@ for (const lang of LANGS) {
   for (const f of readdirSync(dir)) if (f.endsWith(".json")) write(join(dir, f), prune(read(join(dir, f))));
 }
 console.log(`moved ${Object.keys(map).length} mobile key families`);
+if (changed.length) console.log(`\nThe phone's wording changes for:\n${changed.map((c) => `  ${c}`).join("\n")}`);
