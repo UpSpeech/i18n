@@ -260,7 +260,10 @@
     "step_of": "{{k}} of {{n}}",
     "unavailable_title": "This guide isn't available",
     "unavailable_description": "Pick another guide in Help.",
-    "back_to_help": "Back to Help"
+    "back_to_help": "Back to Help",
+    "load_failed": "This walkthrough couldn't load. Try again.",
+    "progress": "{{current}} of {{total}}",
+    "done": "Done"
   },
   "walkthroughs": {
     "welcome_patient": {
@@ -539,5 +542,7 @@
     "contact": "Need more help?",
     "contact_body": "Contact your therapist or clinic for questions about your therapy plan. For technical issues, reach out to your clinic administrator.",
     "contact_body_named": "Contact {{therapist}} or your clinic for questions about your therapy plan. For technical issues, reach out to your clinic administrator."
-  }
+  },
+  "walkthroughs_heading": "Step by step",
+  "walkthroughs_load_failed": "Walkthroughs couldn't load. Try again."
 }

@@ -145,7 +145,6 @@
     "modal_title": "Revisão rápida",
     "modal_description": "Percorre os treinos pendentes e deixa feedback.",
     "progress_strip": "Treino {{current}} de {{total}}",
-    "pending_count": "{{count}} pendente",
     "last_practiced": "Último treino: {{date}}",
     "feedback_label": "Nota sobre este treino",
     "feedback_placeholder": "O que correu bem e o que trabalhar a seguir?",
@@ -258,7 +257,10 @@
       "which_speech": "Que fala",
       "story_scene": "Constrói a tua história"
     },
-    "quick_review_save_success": "Feedback guardado."
+    "quick_review_save_success": "Feedback guardado.",
+    "pending_count_zero": "{{count}} pendentes",
+    "pending_count_one": "{{count}} pendente",
+    "pending_count_other": "{{count}} pendentes"
   },
   "recent_feedback": {
     "page_title": "Feedback do teu terapeuta",

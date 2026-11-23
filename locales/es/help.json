@@ -260,7 +260,10 @@
     "step_of": "{{k}} de {{n}}",
     "unavailable_title": "Esta guía no está disponible",
     "unavailable_description": "Elige otra guía en Ayuda.",
-    "back_to_help": "Volver a Ayuda"
+    "back_to_help": "Volver a Ayuda",
+    "load_failed": "No se pudo cargar esta guía. Inténtalo de nuevo.",
+    "progress": "{{current}} de {{total}}",
+    "done": "Listo"
   },
   "walkthroughs": {
     "welcome_patient": {
@@ -539,5 +542,7 @@
     "contact": "¿Necesitas más ayuda?",
     "contact_body": "Contacta a tu terapeuta o clínica para preguntas sobre tu plan de terapia. Para problemas técnicos, contacta al administrador de tu clínica.",
     "contact_body_named": "Contacta a {{therapist}} o a tu clínica para preguntas sobre tu plan de terapia. Para problemas técnicos, contacta al administrador de tu clínica."
-  }
+  },
+  "walkthroughs_heading": "Paso a paso",
+  "walkthroughs_load_failed": "No se pudieron cargar las guías. Inténtalo de nuevo."
 }
