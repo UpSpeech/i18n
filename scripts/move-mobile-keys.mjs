@@ -16,6 +16,9 @@ import { baseOf } from "./forms.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LANGS = ["en", "es", "pt"];
+const map = JSON.parse(readFileSync(process.argv[2], "utf8"));
+const read = (file) => JSON.parse(readFileSync(file, "utf8"));
+const write = (file, data) => writeFileSync(file, `${JSON.stringify(data, null, 2)}\n`);
 const parentOf = (tree, path, create) =>
   path.slice(0, -1).reduce((node, part) => {
     if (node && create && node[part] === undefined) node[part] = {};
