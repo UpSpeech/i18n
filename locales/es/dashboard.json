@@ -266,6 +266,27 @@
       "more_waiting_other": "y {{count}} más",
       "check_in_history": "Evaluaciones recientes",
       "last_check_in": "Última evaluación"
+    },
+    "home": {
+      "name_prefix": "Dr(a).",
+      "name_prefix_he": "Dr.",
+      "name_prefix_she": "Dra.",
+      "patients_assigned_one": "{{count}} paciente asignado",
+      "patients_assigned_other": "{{count}} pacientes asignados",
+      "patients_assigned": "{{count}} pacientes asignados",
+      "platform_patients_one": "{{count}} paciente en la plataforma",
+      "platform_patients_other": "{{count}} pacientes en la plataforma",
+      "platform_patients": "{{count}} pacientes en la plataforma",
+      "view_analytics": "Ver estadísticas",
+      "inactive_title": "Pacientes inactivos",
+      "inactive_days": "{{count}}d inactivo",
+      "inactive_no_activity": "Nunca empezó",
+      "just_now": "Ahora",
+      "minutes_ago": "hace {{count}}min",
+      "hours_ago": "hace {{count}}h",
+      "days_ago": "hace {{count}}d",
+      "processed_recordings": "Grabaciones procesadas pendientes de revisión",
+      "view_all_submissions": "Ver todas las entregas"
     }
   },
   "owner": {

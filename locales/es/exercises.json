@@ -907,7 +907,8 @@
     "naturalness_low": "Muy artificial",
     "naturalness_high": "Completamente natural",
     "choose_value": "Elige un valor para continuar",
-    "submit": "Continuar"
+    "submit": "Continuar",
+    "label": "Valoración de la Técnica"
   },
   "recording_duration_hint": "Las grabaciones más largas (3+ minutos) ayudan a tu terapeuta a darte mejor retroalimentación.",
   "recording_duration_hint_named": "Las grabaciones más largas (3+ minutos) ayudan a {{therapist}} a darte mejor retroalimentación.",
@@ -981,12 +982,33 @@
       "soften_only": "Solo suavizar",
       "hint": "Di cada uno dos veces: primero con tensión y luego déjalo suave. En la frase, suaviza solo la palabra difícil.",
       "levels": [
-        { "label": "Sílabas", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
-        { "label": "Palabras", "items": ["premio", "prenda", "primo", "pronto", "precio"] },
+        {
+          "label": "Sílabas",
+          "items": [
+            "PRA",
+            "PRE",
+            "PRI",
+            "PRO",
+            "PRU"
+          ]
+        },
+        {
+          "label": "Palabras",
+          "items": [
+            "premio",
+            "prenda",
+            "primo",
+            "pronto",
+            "precio"
+          ]
+        },
         {
           "label": "Frases",
           "softenOnly": true,
-          "items": ["El primo prometió un premio pronto.", "Prepara la prenda con calma."]
+          "items": [
+            "El primo prometió un premio pronto.",
+            "Prepara la prenda con calma."
+          ]
         }
       ]
     },
@@ -1081,7 +1103,23 @@
     "week_no_days": "Elige los días dentro de cada ejercicio y aparecerán aquí.",
     "child_moment_title": "¡Lo hicimos!",
     "child_moment_companion": "{{companion}} las escuchó todas.",
-    "child_moment_button": "Contárselo a {{name}}"
+    "child_moment_button": "Contárselo a {{name}}",
+    "homework_progress": "{{done}} de {{total}} sesiones",
+    "row_dose_one": "Una vez por semana, hasta {{minutes}} minutos",
+    "row_dose_other": "{{count}} veces por semana, hasta {{minutes}} minutos",
+    "row_progress": "{{done}} de {{total}} sesiones hechas",
+    "row_not_started": "Aún sin empezar",
+    "today_ceiling": "Hasta {{minutes}} minutos, o hasta que deje de ser divertido.",
+    "today_button": "Practicar ahora",
+    "today_done_title": "Hecho por hoy",
+    "today_done_body": "Hasta {{next}}, el próximo día de práctica.",
+    "next_tomorrow": "mañana",
+    "homework_pill_times": "{{count}}× por semana",
+    "homework_pill_times_one": "{{count}}× a la semana",
+    "report_failed": "El registro no llegó. Inténtalo otra vez.",
+    "homework_offapp_note": "Deja el teléfono durante la práctica. Vuelve aquí cuando terminéis.",
+    "week_caption": "{{done}} días con práctica esta semana, {{planned}} elegidos",
+    "assigned": "Tarea asignada"
   },
   "parameter": {
     "road_length": "Carretera · {{count}}s",
@@ -1239,5 +1277,42 @@
   },
   "technique_practice": {
     "default_instructions": "Dilo en voz alta, con tus propias palabras."
+  },
+  "technique_names": {
+    "voluntary_stuttering": "Tartamudez voluntaria (tartamudear a propósito)",
+    "holding": "Prolongación (quedarse en el tartamudeo)",
+    "pull_out": "Pull-out (salir suavemente del tartamudeo)",
+    "cancellation": "Cancelación (pausar y reintentar suavemente)",
+    "easy_onset": "Inicio suave (empezar las palabras con calma)",
+    "pause": "Pausa (respirar antes de hablar)"
+  },
+  "assignment": {
+    "overdue": "Atrasado",
+    "overdue_by_one": "{{count}} día de retraso",
+    "overdue_by_other": "{{count}} días de retraso",
+    "overdue_count_one": "{{count}} atrasado",
+    "overdue_count_other": "{{count}} atrasados",
+    "create_title": "Nueva asignación",
+    "step_select_game": "Seleccionar ejercicio",
+    "step_select_patient": "Seleccionar paciente",
+    "step_schedule": "Establecer horario",
+    "step_review": "Revisar",
+    "start_date": "Fecha de inicio",
+    "duration_days": "Duración (días)",
+    "expected_completions": "Completaciones esperadas",
+    "advice_label": "Consejo para el paciente",
+    "advice_placeholder": "Consejos o ánimo...",
+    "create_button": "Crear asignación",
+    "created": "Asignación creada",
+    "search_games": "Buscar ejercicios...",
+    "deadline_label": "Fecha límite: {{date}}"
+  },
+  "assignments": {
+    "empty": "No hay ejercicios aquí",
+    "empty_overdue": "Nada atrasado",
+    "empty_overdue_description": "Todo lo que te asignó tu terapeuta está en plazo.",
+    "empty_overdue_description_named": "Todo lo que te asignó {{therapist}} está en plazo.",
+    "empty_description": "Los ejercicios que te asigne tu terapeuta aparecerán aquí.",
+    "empty_description_named": "Los ejercicios que te asigne {{therapist}} aparecerán aquí."
   }
 }

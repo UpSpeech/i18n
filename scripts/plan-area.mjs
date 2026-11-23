@@ -84,11 +84,13 @@ const learned = Object.entries(votes)
   .filter(([, , n]) => n >= 2)
   .sort((a, b) => b[0].length - a[0].length);
 
+// The longest matching prefix wins, a --parent or a learned one; a --parent
+// wins a tie, so it can overrule a learned rule that points somewhere odd.
 function placement(key) {
   const flat = key.replace(/\./g, "_");
   const explicit = Object.keys(parents).sort((a, b) => b.length - a.length).find((p) => flat.startsWith(p));
-  if (explicit) return `${parents[explicit]}.${key.slice(explicit.length)}`;
   const rule = learned.find(([pre]) => flat.startsWith(pre));
+  if (explicit && (!rule || explicit.length >= rule[0].length)) return `${parents[explicit]}.${key.slice(explicit.length)}`;
   return rule ? `${rule[1]}.${key.slice(rule[0].length)}` : null;
 }
 
@@ -108,7 +110,8 @@ for (const [base, forms] of inArea) {
       continue;
     }
     templates[`${dyn}*`] = `${parent}.*`;
-    map[base] = `${parent}.${base.slice(dyn.length)}`;
+    const to = `${parent}.${base.slice(dyn.length)}`;
+    map[base] = picks[base] === "phone" ? { to, keep: "phone" } : to;
     continue;
   }
   // Same English is only a candidate. A twin counts when it sits where the key
