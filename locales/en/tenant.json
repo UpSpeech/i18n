@@ -52,6 +52,7 @@
       "website": "Website",
       "website_placeholder": "https://www.example.com",
       "footer_text": "Footer text",
+      "footer_text_helper": "Shown at the bottom of every report.",
       "footer_text_placeholder": "Custom footer text to appear in reports"
     },
     "tenant": {

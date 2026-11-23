@@ -15,7 +15,9 @@
     "all": "All videos",
     "patient": "For patients",
     "therapist": "For therapists",
-    "admin": "For admins"
+    "admin": "For admins",
+    "all_guides": "All guides",
+    "caregiver": "For caregivers"
   },
   "faq_categories": {
     "getting_started": "Getting started",
@@ -242,12 +244,273 @@
   },
   "documentation": {
     "title": "Documentation",
-    "description": "The written guides, in more depth than the videos.",
+    "description": "Written guides that cover each feature in full.",
     "button": "Read the guides"
   },
   "support": {
     "title": "Contact support",
     "description": "Email us and a person will reply.",
     "button": "Email support"
+  },
+  "guides_title": "Step-by-step guides",
+  "guides_unavailable": "No guides here yet",
+  "walkthrough_viewer": {
+    "back": "Back",
+    "next": "Next",
+    "step_of": "{{k}} of {{n}}",
+    "unavailable_title": "This guide isn't available",
+    "unavailable_description": "Pick another guide in Help.",
+    "back_to_help": "Back to Help"
+  },
+  "walkthroughs": {
+    "welcome_patient": {
+      "title": "Your first practice",
+      "web": {
+        "1": "Accept your therapist's welcome to begin.",
+        "2": "Choose a companion to practise with.",
+        "3": "See how practice works between sessions.",
+        "4": "Agree to record your voice and share it with your therapist.",
+        "5": "Allow the microphone.",
+        "6": "Start recording when you are ready.",
+        "7": "Finish when you have answered the question.",
+        "8": "Play your recording back.",
+        "9": "Send it to your therapist.",
+        "10": "Your therapist replies to your first recording here."
+      }
+    },
+    "my_journey": {
+      "title": "Follow your path",
+      "web": {
+        "1": "Open your path from the menu.",
+        "2": "Check your current step here.",
+        "3": "Open a stage to see its steps.",
+        "4": "Check which steps you have finished.",
+        "5": "Carry on with your current step.",
+        "6": "The step opens with what to do and why."
+      }
+    },
+    "complete_exercise": {
+      "title": "Do a step",
+      "web": {
+        "1": "Pick the days you will practise.",
+        "2": "Save your days.",
+        "3": "Start the step.",
+        "4": "Start recording.",
+        "5": "Stop when you have finished reading.",
+        "6": "Send your recording to your therapist.",
+        "7": "Rate the effort and how natural your speech felt.",
+        "8": "Carry on once you have rated both.",
+        "9": "Mark the step as done.",
+        "10": "The step is complete and your path moves on."
+      }
+    },
+    "review_history": {
+      "title": "Look back at your practice",
+      "web": {
+        "1": "Open the practice history of a finished step.",
+        "2": "Read your therapist's note, then open an earlier recording.",
+        "3": "Every recording stays here for you to listen to again."
+      }
+    },
+    "practice_scenarios": {
+      "title": "Practise a scenario",
+      "web": {
+        "1": "Open Practice from the menu.",
+        "2": "Pick a ready-made scenario to practise.",
+        "3": "Check the language and how you'll record, then carry on.",
+        "4": "Choose guided mode and begin.",
+        "5": "Read the briefing, then start the conversation.",
+        "6": "The other person speaks first, so listen to them.",
+        "7": "Click to start your answer.",
+        "8": "Say your answer, then click again to send it."
+      }
+    },
+    "caregiver_first_run": {
+      "title": "Set up your child's first practice",
+      "web": {
+        "1": "Enter your child's practice space.",
+        "2": "See how practice reaches your therapist.",
+        "3": "Agree to record your child's voice for your therapist.",
+        "4": "Hand over to your child and carry on.",
+        "5": "Let your child pick a companion.",
+        "6": "Ask the question and start recording.",
+        "7": "Finish the recording when your child is done.",
+        "8": "Listen back with your child, then carry on.",
+        "9": "Send the recording to your therapist.",
+        "10": "Open today's page to start practising."
+      }
+    },
+    "caregiver_home": {
+      "title": "Use your home screen",
+      "web": {
+        "1": "Start today's activity with your child.",
+        "2": "Open the log of practice you've done.",
+        "3": "Switch to another child.",
+        "4": "The page now shows that child's practice.",
+        "5": "Open your child's path.",
+        "6": "Every step on your child's path shows here."
+      }
+    },
+    "caregiver_step": {
+      "title": "Do a step with your child",
+      "web": {
+        "1": "Open today's step.",
+        "2": "Try the exercise on your own first.",
+        "3": "Move on to practising with your child.",
+        "4": "Start recording, then do the exercise together.",
+        "5": "Tick the box to agree to recording your child.",
+        "6": "Confirm your consent.",
+        "7": "Start the practice when your child is ready.",
+        "8": "When a stuttering moment comes, hold down the circle until the ring fills.",
+        "9": "End the recording when you are done.",
+        "10": "Confirm that you want to end now.",
+        "11": "Carry on to tell your child's therapist how it went."
+      }
+    },
+    "manage_patients": {
+      "title": "Manage a patient",
+      "web": {
+        "1": "Open your patient list from the menu.",
+        "2": "Choose a patient to open their profile.",
+        "3": "See where they are on their path.",
+        "4": "Open everything they have practised.",
+        "5": "Their practice shows here, newest first."
+      }
+    },
+    "learning_paths": {
+      "title": "Build a patient's path",
+      "web": {
+        "1": "Open the patient who needs a path.",
+        "2": "Open their learning path.",
+        "3": "Choose what the path is for.",
+        "4": "Start from a template.",
+        "5": "Pick the template to use.",
+        "6": "Check the steps, then assign the path.",
+        "7": "The path is live and the first step is open."
+      }
+    },
+    "review_submission": {
+      "title": "Review a patient's practice",
+      "web": {
+        "1": "Open the patient whose practice you want to review.",
+        "2": "Start reviewing their pending practice.",
+        "3": "Write a note on this practice.",
+        "4": "Save the note and move on.",
+        "5": "Mark a practice as seen without a note.",
+        "6": "Go straight to the summary.",
+        "7": "Send your feedback to the patient.",
+        "8": "Your notes now show on their profile."
+      }
+    },
+    "generate_report": {
+      "title": "Generate a report",
+      "web": {
+        "1": "Start a new report from your reports page.",
+        "2": "Start recording the session.",
+        "3": "Stop the recording when the session ends.",
+        "4": "Open the patient list.",
+        "5": "Choose the patient this session belongs to.",
+        "6": "Open the list of report types.",
+        "7": "Choose the type of report you need.",
+        "8": "Confirm the patient agreed to this recording.",
+        "9": "Upload the recording to draft the report.",
+        "10": "Your draft report opens here, ready to review."
+      }
+    },
+    "edit_report": {
+      "title": "Edit a report",
+      "web": {
+        "1": "Open your reports from the menu.",
+        "2": "Open the report you want to edit.",
+        "3": "Start editing the report.",
+        "4": "Check each sentence and correct what needs it.",
+        "5": "Save your changes.",
+        "6": "Confirm the report once you have checked it.",
+        "7": "Confirm the report and delete its recording.",
+        "8": "The report is confirmed and the transcript stays."
+      }
+    },
+    "user_management": {
+      "title": "Invite someone to your clinic",
+      "web": {
+        "1": "Open the admin menu.",
+        "2": "Open the list of users.",
+        "3": "Start a new invitation.",
+        "4": "Type the person's email address.",
+        "5": "Choose their role in the clinic.",
+        "6": "Send the invitation.",
+        "7": "The invitation goes out and appears in the pending list."
+      }
+    },
+    "tenant_settings": {
+      "title": "Change your clinic's settings",
+      "web": {
+        "1": "Open the admin menu.",
+        "2": "Open your clinic's settings.",
+        "3": "Edit your clinic's name.",
+        "4": "Set your logo, colours and language here.",
+        "5": "Save your changes.",
+        "6": "A message at the top confirms the save."
+      }
+    },
+    "account_settings": {
+      "title": "Change your password",
+      "web": {
+        "1": "Open your account settings from the menu.",
+        "2": "Your account details and preferences are on this page.",
+        "3": "Type your current password.",
+        "4": "Type a new password, then repeat it below.",
+        "5": "Save the new password."
+      }
+    },
+    "patient_home": {
+      "title": "Get to know your home screen",
+      "web": {
+        "1": "Here is what each part does."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Start today's step here.",
+            "2": "See every step on your path.",
+            "3": "Read and answer your therapist's messages.",
+            "4": "Ask anything about your practice."
+          }
+        }
+      }
+    },
+    "caregiver_today": {
+      "title": "Get to know the Today screen",
+      "web": {
+        "1": "Here is what each part does."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Start today's activity with the child.",
+            "2": "The child earns a sticker for each week of practice.",
+            "3": "See every practice you have sent.",
+            "4": "Open the child's path and what comes next."
+          }
+        }
+      }
+    },
+    "therapist_home": {
+      "title": "Get to know your dashboard",
+      "web": {
+        "1": "Here is what each part does."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Patients who need you today, most urgent first.",
+            "2": "What the selected patient needs, and the next thing to do.",
+            "3": "Record a session and get a draft report.",
+            "4": "Find any patient by name.",
+            "5": "Ask how to do anything in UpSpeech."
+          }
+        }
+      }
+    }
   }
 }

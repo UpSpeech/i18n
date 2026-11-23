@@ -982,7 +982,7 @@
   "assessments_empty_hint": "As avaliações da fala aparecerão aqui quando este paciente gravar uma.",
   "video_not_available": "Vídeo não disponível",
   "assessments_view": "Ver avaliações",
-  "assignment_create_title": "Novo exercício atribuído",
+  "assignment_create_title": "Novo exercício",
   "assignment_step_select_game": "Selecionar exercício",
   "assignment_step_select_patient": "Selecionar paciente",
   "assignment_step_schedule": "Definir horário",
@@ -1244,7 +1244,9 @@
   "quick_review_modal_title": "Revisão rápida",
   "quick_review_modal_description": "Percorre os treinos pendentes e deixa feedback.",
   "quick_review_progress_strip": "Treino {{current}} de {{total}}",
-  "quick_review_pending_count": "{{count}} pendente",
+  "quick_review_pending_count_zero": "{{count}} pendentes",
+  "quick_review_pending_count_one": "{{count}} pendente",
+  "quick_review_pending_count_other": "{{count}} pendentes",
   "quick_review_last_practiced": "Último treino: {{date}}",
   "quick_review_feedback_label": "Feedback",
   "quick_review_feedback_placeholder": "Deixa uma nota sobre este treino",
@@ -2343,5 +2345,12 @@
   "recording_consent_sheet_continue": "Aceitar e continuar",
   "first_run_caregiver_child_pick_title": "Quem pratica contigo primeiro?",
   "first_run_caregiver_child_pick_hint": "Escolhe a criança com quem começar.",
-  "first_run_caregiver_child_pick_continue": "Continuar"
+  "first_run_caregiver_child_pick_continue": "Continuar",
+  "help_walkthroughs_heading": "Passo a passo",
+  "help_walkthroughs_load_failed": "Não foi possível carregar os guias. Tenta novamente.",
+  "help_walkthrough_load_failed": "Não foi possível carregar este guia. Tenta novamente.",
+  "help_walkthrough_progress": "{{current}} de {{total}}",
+  "help_walkthrough_back": "Anterior",
+  "help_walkthrough_next": "Seguinte",
+  "help_walkthrough_done": "Concluído"
 }
