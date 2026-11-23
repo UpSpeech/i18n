@@ -209,9 +209,7 @@
     "new_confirm": "This conversation is cleared and cannot be brought back."
   },
   "messages": {
-    "subtitle": "Chat with your therapist",
     "subtitle_named": "Chat with {{therapist}}",
-    "subtitle_therapist": "Your patients. Pick one to read the thread.",
     "subtitle_admin": "Conversations across your organisation.",
     "composer_placeholder": "Write to your therapist",
     "composer_placeholder_named": "Write to {{therapist}}",

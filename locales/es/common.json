@@ -200,9 +200,7 @@
     "new_confirm": "Esta conversación se borra y no se puede recuperar."
   },
   "messages": {
-    "subtitle": "Conversa con tu terapeuta",
     "subtitle_named": "Conversa con {{therapist}}",
-    "subtitle_therapist": "Tus pacientes. Elige uno para leer la conversación.",
     "subtitle_admin": "Conversaciones en toda tu organización.",
     "composer_placeholder": "Escribe a tu terapeuta",
     "composer_placeholder_named": "Escribe a {{therapist}}",
