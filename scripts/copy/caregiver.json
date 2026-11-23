@@ -1,0 +1,5 @@
+{
+  "dashboard.caregiver.coach_guilt_body": { "en": "Pick up where you left off.", "pt": "Retoma onde ficaste.", "es": "Retoma donde lo dejaste." },
+  "dashboard.caregiver.coach_guide_body": { "en": "You'll get a simple cue to say.", "pt": "Todos os exercícios vêm com uma explicação.", "es": "Recibes una frase sencilla para decir." },
+  "dashboard.caregiver.home_finished_hint": { "en": "Their therapist sets what comes next.", "pt": "O terapeuta define o que vem a seguir.", "es": "Su terapeuta define lo que viene después." }
+}

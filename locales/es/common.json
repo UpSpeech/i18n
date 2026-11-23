@@ -2002,6 +2002,18 @@
       "in_step": "Objetivo {{goal}}, paso {{step}}",
       "name_found": "{{where}} menciona a {{name}}",
       "in_name": "El nombre de la plantilla"
+    },
+    "consultation_exercises": {
+      "create": "Nuevo ejercicio",
+      "empty": "Aún sin ejercicios",
+      "empty_hint": "Crea tu primer ejercicio de consulta.",
+      "delete_confirm": "¿Eliminar este ejercicio? Esta acción no se puede deshacer.",
+      "field_description": "Descripción",
+      "field_technique": "Técnica",
+      "field_difficulty": "Dificultad",
+      "field_text": "Contenido de texto (opcional)",
+      "saved": "Ejercicio guardado",
+      "deleted": "Ejercicio eliminado"
     }
   },
   "questionnaire": {
@@ -2319,7 +2331,12 @@
     "remove_note": "Quitar nota",
     "exercise_now": "Ejercicio ahora",
     "end_exercise": "Terminar ejercicio",
-    "games_failed": "No se pudieron cargar los juegos."
+    "games_failed": "No se pudieron cargar los juegos.",
+    "intro": "Empieza a grabar y haz el ejercicio en compañía. Solo se graba el sonido, para el terapeuta de {{child}}.",
+    "take": "La grabación de la práctica está captando esto.",
+    "finished_title": "Terminado",
+    "practice_done": "Práctica completada",
+    "upload_failed": "La grabación no se ha enviado. Tu respuesta llega igualmente al terapeuta de {{child}}."
   },
   "network": {
     "error": "Error de red. Por favor verifica tu conexión."
@@ -2338,5 +2355,18 @@
     "required_title": "Toca actualizar",
     "required_body": "Esta versión ya no funciona. Actualiza para seguir practicando.",
     "required_action": "Actualizar UpSpeech"
+  },
+  "child_mode": {
+    "hand_over": "Pasar a {{name}}",
+    "back_to": "{{name}} →",
+    "grownup_exit": "Turno de {{name}}",
+    "show_first": "Muéstrale a {{name}} primero",
+    "show_first_hint": "Un saludo rápido para {{name}} antes de empezar.",
+    "hello_greeting": "¡Hola, {{name}}!",
+    "hello_line": "Vamos a practicar juntos.",
+    "hello_go": "¡Vamos!",
+    "done_title": "¡Lo hicimos!",
+    "done_companion": "{{companion}} las escuchó todas.",
+    "done_button": "Contárselo a {{name}}"
   }
 }

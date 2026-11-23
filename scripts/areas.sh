@@ -22,5 +22,13 @@ case "$1" in
   quiz)
     node scripts/plan-area.mjs quiz --prefixes quiz.,quiz_ --scope quiz. --picks scripts/picks/quiz.json
     ;;
+  caregiver)
+    node scripts/plan-area.mjs caregiver \
+      --prefixes caregiver_,guardian_,child_,invite_,consultation_ \
+      --scope learning_path.,onboarding.guardian.,caregiver.,invites.,patients.invite_modal.,consultation. \
+      --dynamic caregiver_relationship_,caregiver_reminder_ \
+      --parent caregiver_relationship_=dashboard.caregiver.relationship,child_=child_mode,consultation_exercises_=learning_path.consultation_exercises \
+      --picks scripts/picks/caregiver.json
+    ;;
   *) echo "usage: scripts/areas.sh <area>"; exit 2 ;;
 esac

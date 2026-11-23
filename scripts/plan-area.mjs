@@ -138,7 +138,8 @@ for (const [base, forms] of inArea) {
   }
   // A placement can land on a web key that already says something else.
   const taken = forms.some((f) => web.en[to + f] !== undefined);
-  if (!taken) map[base] = to;
+  const same = LANGS.every((l) => sig(mobile[l], base, forms) === sig(web[l], to, forms));
+  if (!taken || same) map[base] = to;
   else if (pick === "web") map[base] = to;
   else if (pick === "phone") map[base] = { to, keep: "phone" };
   else if (pick === "separate") map[base] = `${to.split(".").slice(0, -1).join(".")}.${base}`;

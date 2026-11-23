@@ -2062,6 +2062,18 @@
       "in_step": "Objetivo {{goal}}, passo {{step}}",
       "name_found": "{{where}} menciona {{name}}",
       "in_name": "O nome do modelo"
+    },
+    "consultation_exercises": {
+      "create": "Novo exercício",
+      "empty": "Ainda sem exercícios",
+      "empty_hint": "Cria o teu primeiro exercício de consulta.",
+      "delete_confirm": "Eliminar este exercício? Esta ação não pode ser desfeita.",
+      "field_description": "Descrição",
+      "field_technique": "Técnica",
+      "field_difficulty": "Dificuldade",
+      "field_text": "Conteúdo de texto (opcional)",
+      "saved": "Exercício guardado",
+      "deleted": "Exercício eliminado"
     }
   },
   "questionnaire": {
@@ -2383,7 +2395,12 @@
     "remove_note": "Remover nota",
     "exercise_now": "Exercício agora",
     "end_exercise": "Terminar exercício",
-    "games_failed": "Não foi possível carregar os jogos."
+    "games_failed": "Não foi possível carregar os jogos.",
+    "intro": "Começa a gravar e façam o exercício em conjunto. Só o som é gravado, para {{therapist, o}}.",
+    "take": "A sessão está a ser gravada.",
+    "finished_title": "Terminado",
+    "practice_done": "Prática concluída",
+    "upload_failed": "A gravação não foi enviada. A tua resposta chega na mesma {{therapist, a}}."
   },
   "network": {
     "error": "Erro de rede. Por favor verifica a tua ligação."
@@ -2402,5 +2419,18 @@
     "required_title": "Está na hora de atualizar",
     "required_body": "Esta versão já não funciona. Atualiza para continuares a praticar.",
     "required_action": "Atualizar a UpSpeech"
+  },
+  "child_mode": {
+    "hand_over": "Passar a {{name}}",
+    "back_to": "{{name}} →",
+    "grownup_exit": "Vez de {{name}}",
+    "show_first": "Mostra {{name, a}} primeiro",
+    "show_first_hint": "Um olá rápido antes de começarem.",
+    "hello_greeting": "Olá, {{name}}!",
+    "hello_line": "Vamos praticar juntos.",
+    "hello_go": "Vamos!",
+    "done_title": "Conseguimos!",
+    "done_companion": "O {{companion}} ouviu tudo.",
+    "done_button": "Falar com {{name}}"
   }
 }
