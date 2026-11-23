@@ -53,6 +53,12 @@ for (const lang of LANGS) {
     const wParent = parentOf(wTree, w.path, true);
     const wLeaf = w.path.at(-1);
     const existing = family(wParent, wLeaf);
+    if (keepPhone)
+      for (const name of members) {
+        const webName = wLeaf + name.slice(mLeaf.length);
+        if (wParent[webName] !== undefined && wParent[webName] !== mParent[name])
+          changed.push(`${lang} web ${webKey}${name.slice(mLeaf.length)}: "${wParent[webName]}" -> "${mParent[name]}"`);
+      }
     if (!existing.length || keepPhone) for (const name of members) wParent[wLeaf + name.slice(mLeaf.length)] = mParent[name];
     for (const name of members) {
       const now = wParent[wLeaf + name.slice(mLeaf.length)];
@@ -93,4 +99,4 @@ for (const [entry, why] of Object.entries(allow)) {
 if (carried) write(allowFile, Object.fromEntries(Object.entries(allow).sort(([a], [b]) => a.localeCompare(b))));
 
 console.log(`moved ${Object.keys(map).length} mobile key families${carried ? `, carried ${carried} placeholder allowlist entries` : ""}`);
-if (changed.length) console.log(`\nThe phone's wording changes for:\n${changed.map((c) => `  ${c}`).join("\n")}`);
+if (changed.length) console.log(`\nWording that changes (phone strings, and web strings a phone pick overwrites):\n${changed.map((c) => `  ${c}`).join("\n")}`);
