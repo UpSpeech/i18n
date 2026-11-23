@@ -54,7 +54,8 @@
       "dont_show_again": "Não mostrar novamente",
       "skip": "Ignorar por agora",
       "get_started": "Começar",
-      "view_all_videos": "Ver todos os vídeos no centro de ajuda"
+      "view_all_videos": "Ver todos os vídeos no centro de ajuda",
+      "view_guides": "Ver guias passo a passo no centro de ajuda"
     },
     "checklist": {
       "title": "Os teus primeiros passos",
@@ -535,8 +536,5 @@
       "offer_later_note": "Ainda podes experimentá-lo no primeiro passo {{child, de}}.",
       "offer_minutes": "{{count}} min"
     }
-  },
-  "welcome": {
-    "view_guides": "Ver guias passo a passo no centro de ajuda"
   }
 }
