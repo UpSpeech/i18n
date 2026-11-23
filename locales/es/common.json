@@ -412,7 +412,6 @@
     "delete_account_failed_title": "No se pudo eliminar",
     "companion": {
       "title": "Tu compañero",
-      "subtitle": "Elige el personaje que encuentras por la aplicación, y su aspecto.",
       "show_in_app": "Mostrar en la app",
       "mode_companion": "Compañero",
       "preview_label": "Tu compañero",
