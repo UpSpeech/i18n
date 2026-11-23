@@ -21,7 +21,7 @@ client bundle anyway, so they aren't secret). No registry, no auth:
 locales/
   en/  es/  pt/        frontend namespaces (one JSON per namespace)
   mobile/
-    en/ es/ pt/        the mobile app's older files (common.json, auth.json, quiz.json),
+    en/ es/ pt/        the mobile app's older files (common.json, quiz.json),
                        shrinking as the phone moves onto the frontend namespaces
 build-locale.js        folds one language's namespace files into the "translation" namespace
 scripts/
