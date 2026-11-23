@@ -830,6 +830,7 @@
     "invites": "Convites",
     "game_catalogue": "Catálogo de exercícios",
     "resource_library": "Biblioteca de recursos",
+    "walkthrough": "Guia",
     "profile": "Perfil e definições"
   },
   "learning_path": {
@@ -1323,6 +1324,7 @@
         "technique_rating_submissions": "Avaliação da técnica",
         "judgment_submissions": "Resposta do cuidador",
         "practice_log_submissions": "Registo de prática",
+        "technique_practice_submissions": "Prática",
         "scenario_session": "Cenário"
       },
       "technique_rating_label": "Avaliação da técnica",
