@@ -629,7 +629,8 @@
     "pilot_accounts": "Cuentas piloto",
     "invites": "Invitaciones",
     "game_catalogue": "Catálogo de ejercicios",
-    "resource_library": "Biblioteca de recursos"
+    "resource_library": "Biblioteca de recursos",
+    "walkthrough": "Guía"
   },
   "learning_path": {
     "composer": {

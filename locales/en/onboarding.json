@@ -535,5 +535,8 @@
       "offer_later_note": "You can still try it from {{child}}'s first step.",
       "offer_minutes": "{{count}} min"
     }
+  },
+  "welcome": {
+    "view_guides": "See step-by-step guides in the help centre"
   }
 }
