@@ -11,10 +11,10 @@ import { existsSync, readFileSync, readdirSync, writeFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { buildLocale, ALIASES } from "../build-locale.js";
+import { baseOf } from "./forms.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LANGS = ["en", "pt", "es"];
-const FORMS = /(?:_(?:he|she|zero|one|two|few|many|other))+$/;
 const args = process.argv.slice(2);
 const opt = (name) => (args.includes(name) ? args[args.indexOf(name) + 1] : "");
 const area = opt("--area");
@@ -61,8 +61,9 @@ const mobile = Object.fromEntries(
 
 function families(keys) {
   const out = new Map();
+  const set = new Set(keys);
   for (const key of keys) {
-    const base = key.replace(FORMS, "");
+    const base = baseOf(key, (k) => set.has(k));
     if (!out.has(base)) out.set(base, []);
     out.get(base).push(key.slice(base.length));
   }

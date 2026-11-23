@@ -6,14 +6,14 @@
 //
 // A map is { "auth:sign_in_title": "auth.sign_in_title", "save": "common.save" }.
 // Keys are the base of a family; _one, _he and the rest move with it.
-import { readFileSync, writeFileSync, readdirSync } from "node:fs";
+import { readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 import { ALIASES } from "../build-locale.js";
+import { baseOf } from "./forms.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const LANGS = ["en", "es", "pt"];
-const FORMS = /^(?:_(?:he|she|zero|one|two|few|many|other))*$/;
 // The fold's top-level names that sit inside a file rather than at its root.
 const NESTED = { onboarding: ["onboarding", "onboarding"], users: ["users", "users"], clients: ["users", "clients"], tenant: ["tenant", "tenant"], tenants: ["tenant", "tenants"] };
 
@@ -42,7 +42,8 @@ const parentOf = (tree, path, create) =>
 
 // The family's members: the leaf names beside the base that only add form suffixes.
 function family(parent, leaf) {
-  return Object.keys(parent ?? {}).filter((name) => name.startsWith(leaf) && FORMS.test(name.slice(leaf.length)));
+  const names = Object.keys(parent ?? {});
+  return names.filter((name) => baseOf(name, (k) => names.includes(k)) === leaf);
 }
 
 const changed = [];
@@ -70,23 +71,18 @@ for (const lang of LANGS) {
       if (now !== mParent[name]) changed.push(`${lang} ${mobileKey}${name.slice(mLeaf.length)}: "${mParent[name]}" -> "${now}"`);
     }
     for (const name of members) delete mParent[name];
-  }
-  for (const [file, data] of Object.entries(cache)) write(file, data);
-}
-
-// Drop objects the deletions emptied, so parity does not trip on them.
-const prune = (node) => {
-  for (const [k, v] of Object.entries(node)) {
-    if (v && typeof v === "object") {
-      prune(v);
-      if (!Object.keys(v).length) delete node[k];
+    // Drop the parents this deletion emptied, so parity does not trip on them.
+    for (let depth = m.path.length - 1; depth > 0; depth--) {
+      const parent = parentOf(mTree, m.path.slice(0, depth + 1), false);
+      if (!parent || Object.keys(parent).length) break;
+      delete parentOf(mTree, m.path.slice(0, depth), false)[m.path[depth - 1]];
     }
   }
-  return node;
-};
-for (const lang of LANGS) {
-  const dir = join(root, "locales", "mobile", lang);
-  for (const f of readdirSync(dir)) if (f.endsWith(".json")) write(join(dir, f), prune(read(join(dir, f))));
+  for (const [file, data] of Object.entries(cache)) {
+    if (Object.keys(data).length) write(file, data);
+    else rmSync(file);
+  }
 }
+
 console.log(`moved ${Object.keys(map).length} mobile key families`);
 if (changed.length) console.log(`\nThe phone's wording changes for:\n${changed.map((c) => `  ${c}`).join("\n")}`);
