@@ -527,7 +527,8 @@
   "quick_review_modal_title": "Quick review",
   "quick_review_modal_description": "Step through pending practice and send feedback.",
   "quick_review_progress_strip": "Practice {{current}} of {{total}}",
-  "quick_review_pending_count": "{{count}} pending",
+  "quick_review_pending_count_one": "{{count}} pending",
+  "quick_review_pending_count_other": "{{count}} pending",
   "quick_review_last_practiced": "Last practised: {{date}}",
   "quick_review_feedback_label": "Feedback",
   "quick_review_feedback_placeholder": "Leave a note for this practice",
@@ -1005,5 +1006,12 @@
   "ai_improvement_consent_checkbox": "Keep my conversations with the AI assistants past 14 days, to help improve them",
   "first_run_caregiver_child_pick_title": "Who's practising with you first?",
   "first_run_caregiver_child_pick_hint": "Choose the child to start with.",
-  "first_run_caregiver_child_pick_continue": "Continue"
+  "first_run_caregiver_child_pick_continue": "Continue",
+  "help_walkthroughs_heading": "Step by step",
+  "help_walkthroughs_load_failed": "Walkthroughs couldn't load. Try again.",
+  "help_walkthrough_load_failed": "This walkthrough couldn't load. Try again.",
+  "help_walkthrough_progress": "{{current}} of {{total}}",
+  "help_walkthrough_back": "Back",
+  "help_walkthrough_next": "Next",
+  "help_walkthrough_done": "Done"
 }

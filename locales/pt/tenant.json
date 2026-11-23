@@ -52,6 +52,7 @@
       "website": "Website",
       "website_placeholder": "https://www.exemplo.com",
       "footer_text": "Texto de rodapé",
+      "footer_text_helper": "Aparece no fim de cada relatório.",
       "footer_text_placeholder": "Texto personalizado a aparecer nos relatórios"
     },
     "select_tenant": "Selecionar organização",

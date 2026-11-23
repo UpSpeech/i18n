@@ -62,7 +62,7 @@
     "organization": "Organização:",
     "disclaimer": "Este relatório foi gerado com assistência de IA e deve ser revisto por um terapeuta da fala qualificado antes da utilização clínica. A informação contida neste relatório é confidencial e destina-se apenas ao uso do indivíduo ou entidade acima mencionada."
   },
-  "language_notice": "Este relatório é apresentado em {{language}} (idioma da organização), enquanto a tua interface permanece no teu idioma preferido.",
+  "language_notice": "Este relatório está em {{language}}, o idioma do paciente.",
   "editor": {
     "placeholder": "Começa a escrever o teu relatório...",
     "bold": "Negrito (Ctrl+B)",
