@@ -421,7 +421,6 @@
     "delete_account_failed_title": "Couldn't delete",
     "companion": {
       "title": "Your companion",
-      "subtitle": "Pick the character you meet around the app, and how it looks.",
       "show_in_app": "Show in the app",
       "mode_companion": "Companion",
       "preview_label": "Your companion",

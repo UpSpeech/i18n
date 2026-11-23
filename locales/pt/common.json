@@ -416,7 +416,6 @@
     "delete_account_failed_title": "Não foi possível eliminar",
     "companion": {
       "title": "O teu companheiro",
-      "subtitle": "Escolhe a personagem que encontras pela aplicação, e o aspeto dela.",
       "show_in_app": "Mostrar na app",
       "mode_companion": "Companheiro",
       "preview_label": "O teu companheiro",
