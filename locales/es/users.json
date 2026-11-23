@@ -36,7 +36,21 @@
     "entity_user": "Usuario",
     "errors": {
       "revoke_failed": "Error al revocar la invitación. Por favor, inténtalo de nuevo."
-    }
+    },
+    "create": "Nuevo usuario",
+    "delete_confirm": "¿Eliminar este usuario? Esta acción no se puede deshacer.",
+    "delete_body": "Esto no se puede deshacer.",
+    "admin_users_field_first_name": "Nombre",
+    "created": "Usuario creado",
+    "updated": "Usuario actualizado",
+    "deleted": "Usuario eliminado",
+    "search": "Buscar usuarios...",
+    "pending_invites": "Invitaciones pendientes",
+    "no_invites": "Sin invitaciones pendientes",
+    "invite_sent": "Invitación enviada",
+    "invite_revoked": "Invitación revocada",
+    "copy_link": "Copiar enlace",
+    "link_copied": "Enlace copiado"
   },
   "clients": {
     "total_clients": "Total de pacientes",

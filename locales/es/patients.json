@@ -103,7 +103,20 @@
     "last_name": "Apellido",
     "password": "Contraseña",
     "confirm_password": "Confirmar contraseña",
-    "in_pilot": "Incluir en el programa piloto"
+    "in_pilot": "Incluir en el programa piloto",
+    "title": "Crear cuenta de paciente",
+    "description": "Tu paciente usará estas credenciales para iniciar sesión.",
+    "password_hint": "Al menos 8 caracteres con letras y números",
+    "first_name_required": "El nombre es requerido",
+    "last_name_required": "El apellido es requerido",
+    "email_required": "El email es requerido",
+    "password_required": "La contraseña es requerida",
+    "password_min_length": "La contraseña debe tener al menos 8 caracteres",
+    "password_strength": "La contraseña debe contener al menos una letra y un número",
+    "passwords_must_match": "Las contraseñas deben coincidir",
+    "submit": "Crear cuenta",
+    "success": "¡Cuenta de paciente creada!",
+    "failed": "Error al crear el paciente. Inténtalo de nuevo."
   },
   "invite_modal": {
     "title": "Invitar paciente",
@@ -206,7 +219,46 @@
     "mark_rest_seen": "Marcar el resto como visto ({{count}})",
     "recap_row_seen": "Visto",
     "seen_error": "No se pudo marcar como visto. Inténtalo de nuevo.",
-    "done": "Hecho"
+    "done": "Hecho",
+    "quick_review_feedback_label": "Comentario",
+    "quick_review_feedback_placeholder": "Deja una nota sobre esta práctica",
+    "quick_review_batch_message_label": "Mensaje para el paciente",
+    "quick_review_batch_message_placeholder": "Escribe un mensaje para enviar con tu comentario...",
+    "exercise_type_labels": {
+      "label": "Tipo",
+      "pause": "Pausa",
+      "self_modeling": "Automodelado",
+      "identification": "Identificación",
+      "holding": "Retención",
+      "motor_control": "Control motor",
+      "generalisation": "Generalización",
+      "reflection": "Reflexión",
+      "written_answer": "Respuesta escrita",
+      "journal": "Diario",
+      "self_disclosure": "Autodivulgación",
+      "observation": "Observación",
+      "technique_rating": "Valoración de Técnica",
+      "technique_practice": "Descripción de imágenes",
+      "mini_game": "Minijuego",
+      "first_recording": "Primera grabación",
+      "standard": "Práctica",
+      "modeling": "Modelado",
+      "quiz": "Quiz",
+      "scenario": "Escenario",
+      "practice_log": "Registro de práctica",
+      "scenario_ai": "Escenario con IA",
+      "therapist_recap": "Resumen del terapeuta",
+      "situation_hierarchy": "Jerarquía de situaciones",
+      "real_world_assignment": "Tarea en la vida real",
+      "build_toolkit": "Construye tu kit",
+      "generic": "Ejercicio",
+      "spin_cards": "Ruleta y cartas",
+      "two_choice": "Dos imágenes",
+      "pause_road": "Camino de pausas",
+      "which_speech": "Qué habla",
+      "story_scene": "Construye tu historia"
+    },
+    "quick_review_save_success": "Comentario guardado."
   },
   "recent_feedback": {
     "page_title": "Feedback de tu terapeuta",
@@ -246,7 +298,14 @@
       "long_blocks": "4,0s, pausas largas"
     },
     "loadError": "No se pudieron cargar los ajustes.",
-    "saveError": "No se pudo guardar. Inténtalo de nuevo."
+    "saveError": "No se pudo guardar. Inténtalo de nuevo.",
+    "vad_preset_labels": {
+      "default": "Predeterminado clínico (recomendado)",
+      "typical": "0,8s, habla típica",
+      "moderate": "1,5s, pausas ligeras",
+      "stutter_safe": "2,5s, seguro para tartamudez",
+      "long_blocks": "4,0s, bloqueos largos"
+    }
   },
   "assessments": {
     "status": {
@@ -258,7 +317,11 @@
     "monologue": "Monólogo",
     "no_recording": "No hay grabación disponible",
     "empty_title": "Aún no hay evaluaciones",
-    "empty_description": "Las evaluaciones de habla aparecerán aquí cuando este paciente complete una."
+    "empty_description": "Las evaluaciones de habla aparecerán aquí cuando este paciente complete una.",
+    "title": "Evaluaciones del habla",
+    "empty": "No se encontraron evaluaciones",
+    "empty_hint": "Las evaluaciones del habla aparecerán aquí cuando este paciente registre una.",
+    "view": "Ver evaluaciones"
   },
   "add_wizard": {
     "open_patient": "Abrir {{name}}",
@@ -311,7 +374,12 @@
     "language_label": "Idioma de la invitación y la app",
     "linked_heading": "{{name}} ha sido añadido",
     "linked_body": "{{email}} ya tiene una cuenta de UpSpeech. {{name}} ya aparece en ella y le hemos enviado un correo para avisarle.",
-    "summary_linked_to": "Añadido a"
+    "summary_linked_to": "Añadido a",
+    "button": "Añadir paciente",
+    "date_of_birth_required": "La fecha de nacimiento es obligatoria",
+    "add_patient_date_of_birth_invalid": "Introduce una fecha válida como AAAA-MM-DD",
+    "date_of_birth_placeholder": "AAAA-MM-DD",
+    "date_of_birth_hint": "Fecha de nacimiento (AAAA-MM-DD)"
   },
   "relationship": {
     "parent": "Padre o madre",
@@ -400,7 +468,19 @@
         "child_context": "Sobre el niño o la niña",
         "anything_else": "Algo más"
       },
-      "shapes_plan": "Ayuda a diseñar el plan"
+      "shapes_plan": "Ayuda a diseñar el plan",
+      "intake_interview_done_body": "Gracias. Tu terapeuta lee esto antes de la próxima sesión.",
+      "file_failed_title": "Aún no se ha guardado",
+      "intake_interview_file_failed": "No pudimos guardar tus respuestas. Siguen aquí, así que puedes intentarlo de nuevo.",
+      "invited_by_therapist_named": "Definido por {{therapist}}"
+    },
+    "title": "Entrevista",
+    "view": "Ver entrevista",
+    "mobile": {
+      "required_title": "Antes, unas preguntas",
+      "required_body": "La clínica pide una entrevista corta antes de la primera sesión. Se hace en el navegador, y esta app sigue donde lo dejaste en cuanto quede archivada.",
+      "required_open": "Abrir la entrevista",
+      "required_done": "Ya la he terminado"
     }
   },
   "header_facts": "{{total}} pacientes, {{recent}} nuevos este mes",
@@ -531,5 +611,23 @@
     "card_body": "Abre la app como un paciente inventado y muestra cómo es practicar en casa.",
     "no_answer": "La app del paciente no respondió. Comprueba la conexión e inténtalo de nuevo.",
     "refused": "La demostración no está activada en tu clínica."
+  },
+  "list": {
+    "empty": "¿Empezamos?",
+    "empty_he": "¿Listo para empezar?",
+    "empty_she": "¿Lista para empezar?",
+    "empty_description": "Añade tu primer paciente para empezar.",
+    "empty_what": "Cada paciente que añadas tendrá una página con sus grabaciones, su progreso y tus notas.",
+    "no_results": "No se encontraron pacientes",
+    "no_results_description": "Nada coincide con \"{{query}}\". Prueba otro nombre o borra la búsqueda.",
+    "search": "Buscar pacientes...",
+    "current_step": "Actual: {{step}}",
+    "caregiver_led_badge": "Guiada por el cuidador",
+    "empty_what_admin": "Los pacientes los añade un terapeuta. Cada uno tiene una página con sus grabaciones y su progreso."
+  },
+  "tab_labels": {
+    "overview": "Vista general",
+    "learning_path": "Ruta",
+    "exercises": "Ejercicios"
   }
 }

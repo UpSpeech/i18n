@@ -782,7 +782,12 @@
     },
     "try_again": "Try again",
     "submit": "Submit practice",
-    "default_instructions": "Practise sharing about your speech in a safe space."
+    "default_instructions": "Practise sharing about your speech in a safe space.",
+    "levels": {
+      "1": "The other person is patient and supportive.",
+      "2": "The other person is neutral and speaks at a normal pace.",
+      "3": "The other person is slightly rushed, creating realistic pressure."
+    }
   },
   "generalisation": {
     "scenario_label": "Your scenario",
@@ -908,7 +913,10 @@
     "view_full_review": "View full review",
     "recording_count_one": "{{count}} recording",
     "recording_count_other": "{{count}} recordings",
-    "recording_count": "{{count}} recording"
+    "recording_count": "{{count}} recording",
+    "empty": "No submissions found",
+    "empty_hint": "Submissions will appear here as patients complete exercises.",
+    "no_patients_hint": "Once you have patients, their submissions will appear here."
   },
   "reading_prompt": {
     "invitation": "Want something to practise with?",

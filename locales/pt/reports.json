@@ -200,6 +200,30 @@
     "confirm_action": "Confirmar e eliminar gravação",
     "confirmed_by": "Confirmado por {{name}} a {{date}}",
     "confirm_success": "Relatório confirmado",
-    "confirm_failed": "Não foi possível confirmar o relatório. Tenta de novo."
+    "confirm_failed": "Não foi possível confirmar o relatório. Tenta de novo.",
+    "title": "Relatório",
+    "type": "Tipo",
+    "created": "Criado",
+    "share": "Partilhar relatório",
+    "no_content": "Este relatório ainda não tem conteúdo.",
+    "export_failed": "Falha ao exportar relatório.",
+    "transcript": "Transcrição",
+    "recording": "Gravação de origem",
+    "recording_failed": "Não foi possível carregar a gravação.",
+    "notes_title": "Notas da equipa de acompanhamento",
+    "notes_private": "Os pacientes não veem estas notas.",
+    "notes_empty": "Ainda não há notas.",
+    "notes_placeholder": "Adiciona uma nota para a equipa. Os pacientes não veem as notas.",
+    "note_add": "Adicionar nota",
+    "note_adding": "A adicionar...",
+    "note_edit": "Editar nota",
+    "note_delete": "Eliminar nota",
+    "note_delete_confirm": "Tens a certeza de que queres eliminar esta nota?",
+    "notes_load_failed": "Não foi possível carregar as notas",
+    "note_save_failed": "Não foi possível guardar a nota",
+    "note_delete_failed": "Não foi possível eliminar a nota"
+  },
+  "mobile": {
+    "status_failed": "Falhou"
   }
 }

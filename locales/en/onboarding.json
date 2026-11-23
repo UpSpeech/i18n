@@ -417,7 +417,8 @@
         "home_done_cta": "Go to the plan",
         "resume_voice": "Your voice · about 2 minutes",
         "phase": "{{phase}} of 3",
-        "therapist_fallback": "your therapist"
+        "therapist_fallback": "your therapist",
+        "send_later": "Not now"
       },
       "caregiver": {
         "invite_therapist_role": "{{therapist}} · speech and language therapist",
@@ -519,8 +520,10 @@
         "recording_consent_sheet_continue": "Agree and continue",
         "child_pick_title": "Who's practising with you first?",
         "child_pick_hint": "Choose the child to start with.",
-        "child_pick_continue": "Continue"
-      }
+        "child_pick_continue": "Continue",
+        "home_intake_next_child": "Next, {{child}}"
+      },
+      "first_run_offline_body": "The recording is saved on this phone. It goes to {{therapist}} as soon as you are back online."
     },
     "stage": {
       "progress": "Step {{step}} of {{of}}",
@@ -534,6 +537,30 @@
       "offer_later": "Not now",
       "offer_later_note": "You can still try it from {{child}}'s first step.",
       "offer_minutes": "{{count}} min"
+    },
+    "mobile": {
+      "title": "Your first steps",
+      "progress": "{{completed}} of {{total}} complete",
+      "dismiss": "I'm all set",
+      "dismiss_he": "I'm all set",
+      "dismiss_she": "I'm all set",
+      "skip": "Skip",
+      "skipped": "Skipped",
+      "therapist_view_patient": "View a patient",
+      "therapist_view_patient_desc": "See your patient list and their progress",
+      "therapist_review_submission": "Review a submission",
+      "therapist_review_submission_desc": "Check a patient's exercise submission",
+      "therapist_send_feedback": "Send feedback",
+      "therapist_send_feedback_desc": "Give feedback on a patient's step",
+      "therapist_try_coach": "Try the AI assistant",
+      "therapist_try_coach_desc": "Ask how a patient is getting on"
+    },
+    "consent": {
+      "title": "Terms & privacy",
+      "terms_heading": "Terms of use",
+      "terms_body": "By participating in this programme, you agree to use UpSpeech in accordance with its intended purpose as a speech therapy support tool. Your usage data may be collected in anonymised form to improve the platform. You may withdraw at any time by contacting your administrator.",
+      "privacy_body": "UpSpeech collects audio recordings, exercise data, and usage analytics to provide speech therapy services. Your data is stored securely, encrypted at rest and in transit. Personal data is never shared with third parties without your explicit consent. Audio recordings are processed for speech analysis and clinical reporting purposes only.",
+      "accept": "I accept"
     }
   }
 }

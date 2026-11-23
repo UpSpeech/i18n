@@ -36,7 +36,21 @@
     "entity_user": "Utilizador",
     "errors": {
       "revoke_failed": "Falha ao revogar convite. Por favor, tenta novamente."
-    }
+    },
+    "create": "Novo utilizador",
+    "delete_confirm": "Eliminar este utilizador? Esta ação não pode ser desfeita.",
+    "delete_body": "Isto não pode ser desfeito.",
+    "admin_users_field_first_name": "Nome",
+    "created": "Utilizador criado",
+    "updated": "Utilizador atualizado",
+    "deleted": "Utilizador eliminado",
+    "search": "Pesquisar utilizadores...",
+    "pending_invites": "Convites pendentes",
+    "no_invites": "Sem convites pendentes",
+    "invite_sent": "Convite enviado",
+    "invite_revoked": "Convite revogado",
+    "copy_link": "Copiar link",
+    "link_copied": "Link copiado"
   },
   "clients": {
     "total_clients": "Total de pacientes",

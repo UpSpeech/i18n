@@ -504,7 +504,8 @@
     "microphone": "Microfone",
     "camera": "Câmara",
     "grant_device_access": "Permitir acesso para ver nomes dos dispositivos",
-    "swap_video": "Trocar disposição do vídeo"
+    "swap_video": "Trocar disposição do vídeo",
+    "window_label": "Intervalo de áudio: {{start}} a {{end}}"
   },
   "entity_session": "Cenário",
   "mobile": {

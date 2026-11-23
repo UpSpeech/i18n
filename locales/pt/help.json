@@ -249,5 +249,32 @@
     "title": "Contactar suporte",
     "description": "Escreve-nos e uma pessoa responde.",
     "button": "Enviar email ao suporte"
+  },
+  "sections": {
+    "title": "Centro de ajuda",
+    "getting_started": "Começar",
+    "getting_started_body": "Boas-vindas à UpSpeech! O teu terapeuta irá atribuir exercícios e configurar o teu percurso de aprendizagem. Começa por verificar o separador Início para os exercícios de hoje.",
+    "getting_started_body_he": "Bem-vindo à UpSpeech! O teu terapeuta irá atribuir exercícios e configurar o teu percurso de aprendizagem. Começa por verificar o separador Início para os exercícios de hoje.",
+    "getting_started_body_she": "Bem-vinda à UpSpeech! O teu terapeuta irá atribuir exercícios e configurar o teu percurso de aprendizagem. Começa por verificar o separador Início para os exercícios de hoje.",
+    "getting_started_body_named": "Boas-vindas à UpSpeech! {{therapist, o_start}} irá atribuir exercícios e configurar o teu percurso de aprendizagem. Começa por verificar o separador Início para os exercícios de hoje.",
+    "getting_started_body_named_he": "Bem-vindo à UpSpeech! {{therapist, o_start}} irá atribuir exercícios e configurar o teu percurso de aprendizagem. Começa por verificar o separador Início para os exercícios de hoje.",
+    "getting_started_body_named_she": "Bem-vinda à UpSpeech! {{therapist, o_start}} irá atribuir exercícios e configurar o teu percurso de aprendizagem. Começa por verificar o separador Início para os exercícios de hoje.",
+    "exercises": "Como funcionam os exercícios?",
+    "exercises_body": "Cada exercício faz parte do teu percurso de aprendizagem. Toca num passo para ver os seus exercícios e depois toca num exercício para começar. Alguns exercícios envolvem gravar áudio ou vídeo. Concede permissões de câmara e microfone quando solicitado.",
+    "recordings": "Gravações e carregamentos",
+    "recordings_body": "Quando gravas áudio ou vídeo durante um exercício, a gravação é carregada automaticamente em segundo plano. Podes submeter o teu exercício enquanto o carregamento ainda está em progresso.",
+    "progress": "Acompanhar o teu progresso",
+    "progress_body": "O teu progresso é mostrado no separador Início (taxa de conclusão, sequência) e no separador Jornada (cronologia de marcos). O teu terapeuta pode ver o teu progresso e fornecer feedback.",
+    "progress_body_named": "O teu progresso é mostrado no separador Início (taxa de conclusão, sequência) e no separador Jornada (cronologia de marcos). {{therapist, o_start}} pode ver o teu progresso e fornecer feedback.",
+    "practice": "Prática independente",
+    "practice_body": "O separador Praticar permite fazer prática extra fora do teu percurso de aprendizagem. Navega pelos exercícios por técnica e pratica ao teu próprio ritmo.",
+    "notifications": "Notificações",
+    "notifications_body": "Ativa as notificações push para receberes lembretes sobre novos exercícios, feedback do terapeuta e sequências de prática. Podes gerir as permissões de notificação nas definições do dispositivo.",
+    "account": "Conta e definições",
+    "account_body": "No separador Perfil podes editar o teu nome, alterar a tua palavra-passe, mudar o idioma e alternar o modo escuro. O teu terapeuta gere a tua atribuição à clínica.",
+    "account_body_named": "No separador Perfil podes editar o teu nome, alterar a tua palavra-passe, mudar o idioma e alternar o modo escuro. {{therapist, o_start}} gere a tua atribuição à clínica.",
+    "contact": "Precisas de mais ajuda?",
+    "contact_body": "Contacta o teu terapeuta ou clínica para questões sobre o teu plano de terapia. Para problemas técnicos, contacta o administrador da tua clínica.",
+    "contact_body_named": "Contacta {{therapist, o}} ou a clínica para questões sobre o teu plano de terapia. Para problemas técnicos, contacta o administrador da tua clínica."
   }
 }

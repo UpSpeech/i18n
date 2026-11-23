@@ -22,5 +22,12 @@
   "copied": "¡Copiado!",
   "errors": {
     "generate_failed": "Error al generar cuentas"
-  }
+  },
+  "admin_pilot_count": "Número de cuentas",
+  "generated": "{{count}} cuentas generadas",
+  "generated_one": "{{count}} cuenta generada",
+  "credentials": "Credenciales",
+  "warning": "Guarda estas credenciales ahora. Las contraseñas no se pueden recuperar.",
+  "empty": "Aún sin cuentas",
+  "empty_hint": "Las credenciales generadas aparecerán aquí."
 }

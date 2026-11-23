@@ -13,7 +13,8 @@
     "bug": "Bug",
     "feature_request": "Pedido de funcionalidade",
     "improvement": "Melhoria",
-    "other": "Outro"
+    "other": "Outro",
+    "admin_feedback_category_bug": "Erro"
   },
   "statuses": {
     "new": "Novo",

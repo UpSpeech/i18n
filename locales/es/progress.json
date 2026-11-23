@@ -51,5 +51,32 @@
     "days_other": "{{count}} días",
     "ring_unit_one": "día seguido",
     "ring_unit_other": "días seguidos"
+  },
+  "mobile": {
+    "streak_start_today": "Empezar la práctica de hoy",
+    "consistency": "Constancia",
+    "consistency_pending": "Practica otro día para empezar a medir tu constancia.",
+    "habit": "Hábito",
+    "days_of_21": "{{days}} / {{total}} días",
+    "habit_caption": "Días activos, últimas 3 semanas",
+    "activity_range": "Últimas 12 semanas",
+    "activity_less": "Menos",
+    "weekly_title": "Prácticas esta semana",
+    "weekly_sessions": "Prácticas",
+    "weekly_avg": "Práctica promedio",
+    "weekly_total": "Tiempo total",
+    "streak_heading": {
+      "none": "Un nuevo comienzo",
+      "building": "Estás creando un hábito",
+      "strong": "Llevas buen ritmo"
+    },
+    "streak_caption": {
+      "none": "Practica hoy para empezar tu racha",
+      "building": "Sigue apareciendo, todo suma",
+      "strong": "Ya lo has convertido en un hábito"
+    },
+    "milestones_title": "Hitos",
+    "milestone_next": "Próximo objetivo",
+    "milestone_earned": "Conseguido"
   }
 }

@@ -91,7 +91,12 @@
       "see_journey": "See your journey",
       "empty_title": "Your plan is on its way",
       "empty_body": "Your therapist is putting your steps together. They show up here as soon as they are ready.",
-      "empty_body_named": "{{therapist}} is putting your steps together. They show up here as soon as they are ready."
+      "empty_body_named": "{{therapist}} is putting your steps together. They show up here as soon as they are ready.",
+      "paused_meta": "Plan paused",
+      "finished_meta": "Plan finished",
+      "waiting_title": "Your next step is not open yet",
+      "waiting_hint": "Your therapist opens it for you. Message them if you want to know when.",
+      "waiting_hint_named": "{{therapist}} opens it for you. Message them if you want to know when."
     }
   },
   "therapist": {
@@ -287,6 +292,11 @@
       "days_ago": "{{count}}d ago",
       "processed_recordings": "Processed recordings awaiting review",
       "view_all_submissions": "View all submissions"
+    },
+    "attention": {
+      "queue_sublabel": "Need action today",
+      "queue_action_review": "Review now",
+      "queue_milestone": "Milestone {{position}} / {{total}}"
     }
   },
   "owner": {
@@ -483,7 +493,8 @@
     "messages_child": "Chat with {{child}}'s therapist",
     "dashboard_me": "Your practice",
     "signed_in_as": "Signed in as {{name}}",
-    "back_to_me": "Back to my practice"
+    "back_to_me": "Back to my practice",
+    "messages_own": "Chat with your therapist"
   },
   "caregiver_requests": {
     "title": "{{therapist}} would like to add {{child}} to your account",
@@ -492,5 +503,33 @@
     "decline": "Decline",
     "error": "We could not answer this request. Try again.",
     "accepted": "{{child}} is now on your account."
+  },
+  "training_consent": {
+    "consent_optin_title": "Help improve UpSpeech for others",
+    "consent_optin_label": "I agree that UpSpeech may use my recordings to develop and train its speech-therapy AI.",
+    "consent_optin_helper": "Separate from using UpSpeech. Your recordings (audio and transcripts) are pseudonymized, kept within UpSpeech, and never sold. When you delete your account you choose whether to keep or delete them.",
+    "consent_settings_title": "Training data",
+    "consent_settings_optin": "Allow my recordings to train UpSpeech's AI",
+    "consent_settings_granted": "Thanks, you've opted in to help train UpSpeech's AI."
+  },
+  "recent": {
+    "feedback_title": "Recent feedback",
+    "feedback_empty": "No feedback yet",
+    "feedback_empty_hint": "Feedback from your therapist will appear here after they review your practice.",
+    "feedback_empty_hint_he": "Feedback from your therapist will appear here after they review your practice.",
+    "feedback_empty_hint_she": "Feedback from your therapist will appear here after they review your practice.",
+    "feedback_empty_hint_named": "When {{therapist}} reviews your practice sessions, the feedback appears here.",
+    "feedback_type_mini_game": "Mini-game",
+    "feedback_type_scenario": "Conversation scenario",
+    "feedback_message_from": "Message from {{name}}"
+  },
+  "family": {
+    "heading": "Family",
+    "linked": "Linked",
+    "unlink": "Unlink",
+    "unlink_title": "Unlink {{caregiver}} from {{child}}?",
+    "unlink_body": "{{caregiver}} will stop seeing {{child}}'s practice and can no longer run it. Nothing is deleted, and you can send a new request later.",
+    "unlink_confirm": "Unlink",
+    "unlink_error": "We could not unlink. Try again."
   }
 }

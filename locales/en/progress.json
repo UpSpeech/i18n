@@ -51,5 +51,32 @@
     "days_other": "{{count}} days",
     "ring_unit_one": "day streak",
     "ring_unit_other": "day streak"
+  },
+  "mobile": {
+    "streak_start_today": "Start today's practice",
+    "consistency": "Consistency",
+    "consistency_pending": "Practise on another day to start tracking your consistency.",
+    "habit": "Habit",
+    "days_of_21": "{{days}} / {{total}} days",
+    "habit_caption": "Active days, last 3 weeks",
+    "activity_range": "Last 12 weeks",
+    "activity_less": "Less",
+    "weekly_title": "Practices this week",
+    "weekly_sessions": "Practices",
+    "weekly_avg": "Avg practice",
+    "weekly_total": "Total time",
+    "streak_heading": {
+      "none": "A fresh start",
+      "building": "You're building a habit",
+      "strong": "You're on a roll"
+    },
+    "streak_caption": {
+      "none": "Practise today to begin your streak",
+      "building": "Keep showing up, it adds up",
+      "strong": "You've made this a habit"
+    },
+    "milestones_title": "Milestones",
+    "milestone_next": "Next goal",
+    "milestone_earned": "Earned"
   }
 }

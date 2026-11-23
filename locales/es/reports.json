@@ -199,6 +199,30 @@
     "confirm_action": "Confirmar y eliminar grabación",
     "confirmed_by": "Confirmado por {{name}} el {{date}}",
     "confirm_success": "Informe confirmado",
-    "confirm_failed": "No se pudo confirmar el informe. Inténtalo de nuevo."
+    "confirm_failed": "No se pudo confirmar el informe. Inténtalo de nuevo.",
+    "title": "Informe",
+    "type": "Tipo",
+    "created": "Creado",
+    "share": "Compartir informe",
+    "no_content": "Este informe aún no tiene contenido.",
+    "export_failed": "Error al exportar informe.",
+    "transcript": "Transcripción",
+    "recording": "Grabación de origen",
+    "recording_failed": "No se pudo cargar la grabación.",
+    "notes_title": "Notas del equipo de atención",
+    "notes_private": "Los pacientes no ven estas notas.",
+    "notes_empty": "Aún no hay notas.",
+    "notes_placeholder": "Añade una nota para el equipo. Los pacientes no ven las notas.",
+    "note_add": "Añadir nota",
+    "note_adding": "Añadiendo...",
+    "note_edit": "Editar nota",
+    "note_delete": "Eliminar nota",
+    "note_delete_confirm": "¿Seguro que quieres eliminar esta nota?",
+    "notes_load_failed": "No se pudieron cargar las notas",
+    "note_save_failed": "No se pudo guardar la nota",
+    "note_delete_failed": "No se pudo eliminar la nota"
+  },
+  "mobile": {
+    "status_failed": "Fallido"
   }
 }

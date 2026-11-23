@@ -43,7 +43,17 @@
     "click_to_disable": "Clica para desativar",
     "global_override_badge": "Substituição global",
     "copy_key": "Copiar chave",
-    "copied": "Copiado"
+    "copied": "Copiado",
+    "select_tenant": "Selecionar clínica",
+    "admin_flags_enabled": "Ativada",
+    "admin_flags_disabled": "Desativada",
+    "enable_all": "Ativar todas",
+    "disable_all": "Desativar todas",
+    "clear_override": "Limpar substituição",
+    "toggled": "Funcionalidade atualizada",
+    "section": "Funcionalidades",
+    "empty": "Sem funcionalidades",
+    "empty_hint": "Não há funcionalidades para configurar nesta clínica."
   },
   "system_tenant": {
     "title": "Funcionalidades globais",

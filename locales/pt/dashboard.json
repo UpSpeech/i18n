@@ -94,7 +94,12 @@
       "see_journey": "Ver a tua jornada",
       "empty_title": "O teu plano está a caminho",
       "empty_body": "O teu terapeuta está a montar os teus passos. Aparecem aqui assim que estiverem prontos.",
-      "empty_body_named": "{{therapist, o_start}} está a montar os teus passos. Aparecem aqui assim que estiverem prontos."
+      "empty_body_named": "{{therapist, o_start}} está a montar os teus passos. Aparecem aqui assim que estiverem prontos.",
+      "paused_meta": "Plano em pausa",
+      "finished_meta": "Plano concluído",
+      "waiting_title": "O teu próximo passo ainda não está aberto",
+      "waiting_hint": "É o teu terapeuta que o abre. Escreve-lhe se quiseres saber quando.",
+      "waiting_hint_named": "É {{therapist, o}} que o abre. Escreve-lhe se quiseres saber quando."
     }
   },
   "therapist": {
@@ -305,6 +310,11 @@
       "days_ago": "{{count}}d atrás",
       "processed_recordings": "Gravações processadas a aguardar revisão",
       "view_all_submissions": "Ver todas as submissões"
+    },
+    "attention": {
+      "queue_sublabel": "Precisam de ação hoje",
+      "queue_action_review": "Rever agora",
+      "queue_milestone": "Marco {{position}} / {{total}}"
     }
   },
   "owner": {
@@ -504,7 +514,8 @@
     "messages_child": "Conversa com o terapeuta {{child, de}}",
     "dashboard_me": "A tua prática",
     "signed_in_as": "Sessão iniciada como {{name}}",
-    "back_to_me": "Voltar à minha prática"
+    "back_to_me": "Voltar à minha prática",
+    "messages_own": "Conversa com o teu terapeuta"
   },
   "caregiver_requests": {
     "title": "{{therapist, o_start}} quer adicionar {{child, o}} à tua conta",
@@ -513,5 +524,33 @@
     "decline": "Recusar",
     "error": "Não foi possível responder a este pedido. Tenta novamente.",
     "accepted": "{{child, o_start}} já está na tua conta."
+  },
+  "training_consent": {
+    "consent_optin_title": "Ajuda a melhorar a UpSpeech para os outros",
+    "consent_optin_label": "Aceito que a UpSpeech possa usar as minhas gravações para desenvolver e treinar a sua IA de terapia da fala.",
+    "consent_optin_helper": "Independente da utilização da UpSpeech. As tuas gravações (áudio e transcrições) são pseudonimizadas, mantidas dentro da UpSpeech e nunca vendidas. Ao eliminares a tua conta, escolhes se as manténs ou eliminas.",
+    "consent_settings_title": "Dados de treino",
+    "consent_settings_optin": "Permitir que as minhas gravações treinem a IA da UpSpeech",
+    "consent_settings_granted": "Obrigado, optaste por ajudar a treinar a IA da UpSpeech."
+  },
+  "recent": {
+    "feedback_title": "Feedback recente",
+    "feedback_empty": "Ainda sem feedback",
+    "feedback_empty_hint": "O feedback do teu terapeuta aparece aqui depois de as tuas sessões de prática serem revistas.",
+    "feedback_empty_hint_he": "O feedback do teu terapeuta aparece aqui depois de ele rever as tuas sessões de prática.",
+    "feedback_empty_hint_she": "O feedback do teu terapeuta aparece aqui depois de ela rever as tuas sessões de prática.",
+    "feedback_empty_hint_named": "Quando {{therapist, o}} revir as tuas sessões de prática, o feedback aparece aqui.",
+    "feedback_type_mini_game": "Mini-jogo",
+    "feedback_type_scenario": "Cenário de conversa",
+    "feedback_message_from": "Mensagem de {{name}}"
+  },
+  "family": {
+    "heading": "Família",
+    "linked": "Associado",
+    "unlink": "Desassociar",
+    "unlink_title": "Desassociar {{caregiver}} {{child, de}}?",
+    "unlink_body": "{{caregiver}} deixa de ver a prática {{child, de}} e já não a pode orientar. Nada é apagado e podes enviar um novo pedido mais tarde.",
+    "unlink_confirm": "Desassociar",
+    "unlink_error": "Não foi possível desassociar. Tenta novamente."
   }
 }

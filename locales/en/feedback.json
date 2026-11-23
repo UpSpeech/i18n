@@ -24,7 +24,8 @@
     "bug": "Bug",
     "feature_request": "Feature request",
     "improvement": "Improvement",
-    "other": "Other"
+    "other": "Other",
+    "admin_feedback_category_bug": "Bug"
   },
   "statuses": {
     "new": "New",

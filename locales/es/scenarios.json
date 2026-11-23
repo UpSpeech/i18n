@@ -497,7 +497,8 @@
     "microphone": "Micrófono",
     "camera": "Cámara",
     "grant_device_access": "Permitir acceso para ver nombres de dispositivos",
-    "swap_video": "Cambiar disposición del vídeo"
+    "swap_video": "Cambiar disposición del vídeo",
+    "window_label": "Ventana de audio: {{start}} a {{end}}"
   },
   "entity_session": "Escenario",
   "mobile": {

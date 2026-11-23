@@ -91,7 +91,12 @@
       "see_journey": "Ver tu recorrido",
       "empty_title": "Tu plan está en camino",
       "empty_body": "Tu terapeuta está preparando tus pasos. Aparecen aquí en cuanto estén listos.",
-      "empty_body_named": "{{therapist}} está preparando tus pasos. Aparecen aquí en cuanto estén listos."
+      "empty_body_named": "{{therapist}} está preparando tus pasos. Aparecen aquí en cuanto estén listos.",
+      "paused_meta": "Plan en pausa",
+      "finished_meta": "Plan terminado",
+      "waiting_title": "Tu próximo paso aún no está abierto",
+      "waiting_hint": "Tu terapeuta lo abre. Escríbele si quieres saber cuándo.",
+      "waiting_hint_named": "{{therapist}} lo abre. Escríbele si quieres saber cuándo."
     }
   },
   "therapist": {
@@ -287,6 +292,11 @@
       "days_ago": "hace {{count}}d",
       "processed_recordings": "Grabaciones procesadas pendientes de revisión",
       "view_all_submissions": "Ver todas las entregas"
+    },
+    "attention": {
+      "queue_sublabel": "Requieren acción hoy",
+      "queue_action_review": "Revisar ahora",
+      "queue_milestone": "Hito {{position}} / {{total}}"
     }
   },
   "owner": {
@@ -483,7 +493,8 @@
     "messages_child": "Chatea con el terapeuta de {{child}}",
     "dashboard_me": "Tu práctica",
     "signed_in_as": "Sesión iniciada como {{name}}",
-    "back_to_me": "Volver a mi práctica"
+    "back_to_me": "Volver a mi práctica",
+    "messages_own": "Chatea con tu terapeuta"
   },
   "caregiver_requests": {
     "title": "{{therapist}} quiere añadir a {{child}} a tu cuenta",
@@ -492,5 +503,33 @@
     "decline": "Rechazar",
     "error": "No pudimos responder a esta solicitud. Inténtalo de nuevo.",
     "accepted": "{{child}} ya está en tu cuenta."
+  },
+  "training_consent": {
+    "consent_optin_title": "Ayuda a mejorar UpSpeech para los demás",
+    "consent_optin_label": "Acepto que UpSpeech pueda usar mis grabaciones para desarrollar y entrenar su IA de logopedia.",
+    "consent_optin_helper": "Independiente del uso de UpSpeech. Tus grabaciones (audio y transcripciones) se pseudonimizan, se mantienen dentro de UpSpeech y nunca se venden. Al eliminar tu cuenta, eliges si las conservas o las eliminas.",
+    "consent_settings_title": "Datos de entrenamiento",
+    "consent_settings_optin": "Permitir que mis grabaciones entrenen la IA de UpSpeech",
+    "consent_settings_granted": "Gracias, has optado por ayudar a entrenar la IA de UpSpeech."
+  },
+  "recent": {
+    "feedback_title": "Comentarios recientes",
+    "feedback_empty": "Sin comentarios aún",
+    "feedback_empty_hint": "Los comentarios de tu terapeuta aparecerán aquí después de revisar tu práctica.",
+    "feedback_empty_hint_he": "Los comentarios de tu terapeuta aparecerán aquí después de revisar tu práctica.",
+    "feedback_empty_hint_she": "Los comentarios de tu terapeuta aparecerán aquí después de revisar tu práctica.",
+    "feedback_empty_hint_named": "Cuando {{therapist}} revise tus sesiones de práctica, los comentarios aparecerán aquí.",
+    "feedback_type_mini_game": "Mini-juego",
+    "feedback_type_scenario": "Escenario de conversación",
+    "feedback_message_from": "Mensaje de {{name}}"
+  },
+  "family": {
+    "heading": "Familia",
+    "linked": "Vinculado",
+    "unlink": "Desvincular",
+    "unlink_title": "¿Desvincular a {{caregiver}} de {{child}}?",
+    "unlink_body": "{{caregiver}} dejará de ver la práctica de {{child}} y ya no podrá dirigirla. No se borra nada y puedes enviar una nueva solicitud más tarde.",
+    "unlink_confirm": "Desvincular",
+    "unlink_error": "No pudimos desvincular. Inténtalo de nuevo."
   }
 }
