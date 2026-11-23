@@ -315,14 +315,14 @@
     "practice_scenarios": {
       "title": "Practica un escenario",
       "web": {
-        "1": "Abre Practicar en el menú",
-        "2": "Elige un escenario listo para practicar",
-        "3": "Comprueba el idioma y cómo vas a grabar, y continúa",
-        "4": "Elige el modo guiado y empieza",
-        "5": "Lee el resumen y empieza la conversación",
-        "6": "La otra persona habla primero, así que escúchala",
-        "7": "Haz clic para empezar a responder",
-        "8": "Di tu respuesta y vuelve a hacer clic para enviarla"
+        "1": "Abre Practicar en el menú.",
+        "2": "Elige un escenario listo para practicar.",
+        "3": "Comprueba el idioma y cómo vas a grabar, y continúa.",
+        "4": "Elige el modo guiado y empieza.",
+        "5": "Lee el resumen y empieza la conversación.",
+        "6": "La otra persona habla primero, así que escúchala.",
+        "7": "Haz clic para empezar a responder.",
+        "8": "Di tu respuesta y vuelve a hacer clic para enviarla."
       }
     },
     "caregiver_first_run": {

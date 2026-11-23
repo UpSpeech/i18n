@@ -315,14 +315,14 @@
     "practice_scenarios": {
       "title": "Practise a scenario",
       "web": {
-        "1": "Open Practice from the menu",
-        "2": "Pick a ready-made scenario to practise",
-        "3": "Check the language and how you'll record, then carry on",
-        "4": "Choose guided mode and begin",
-        "5": "Read the briefing, then start the conversation",
-        "6": "The other person speaks first, so listen to them",
-        "7": "Click to start your answer",
-        "8": "Say your answer, then click again to send it"
+        "1": "Open Practice from the menu.",
+        "2": "Pick a ready-made scenario to practise.",
+        "3": "Check the language and how you'll record, then carry on.",
+        "4": "Choose guided mode and begin.",
+        "5": "Read the briefing, then start the conversation.",
+        "6": "The other person speaks first, so listen to them.",
+        "7": "Click to start your answer.",
+        "8": "Say your answer, then click again to send it."
       }
     },
     "caregiver_first_run": {
