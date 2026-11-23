@@ -21,16 +21,20 @@ client bundle anyway, so they aren't secret). No registry, no auth:
 locales/
   en/  es/  pt/        frontend namespaces (one JSON per namespace)
   mobile/
-    en/ es/ pt/        the mobile app's own files (common.json, auth.json, quiz.json)
+    en/ es/ pt/        the mobile app's older files (common.json, auth.json, quiz.json),
+                       shrinking as the phone moves onto the frontend namespaces
+build-locale.js        folds one language's namespace files into the "translation" namespace
 scripts/
   check-parity.mjs     fails if a key exists in one language but not another
   check-placeholders.mjs  fails if a key's {{placeholders}} differ between languages;
                        placeholder-allowlist.json lists the deliberate differences
+  check-build-locale.mjs  fails if the fold points at a file or subtree that is gone
+  twins.mjs            pairs each mobile key with the frontend keys that say the same thing
 ```
 
-The package ships the raw JSON only. Each app imports the files it needs by subpath and builds
-its own i18next `resources` (the two apps use different key schemes), so there is no build step
-and no bundled entrypoint.
+The package ships raw JSON plus `build-locale.js`, plain JavaScript, so there is no build step.
+Both apps fold the frontend namespaces with it, so a key is called the same on web and on the
+phone. The phone still reads `locales/mobile/` for keys not yet moved.
 
 ## Usage
 
