@@ -111,7 +111,14 @@ for (const [base, forms] of inArea) {
     map[base] = `${parent}.${base.slice(dyn.length)}`;
     continue;
   }
-  const twins = (byEn.get(sig(mobile.en, base, forms)) ?? []).filter(inScope).sort(rank(base));
+  // Same English is only a candidate. A twin counts when it sits where the key
+  // would be placed, beside it, or is a shallow common key: "Original" for a
+  // mouth is not the crowns' "Original".
+  const home = placement(base);
+  const homeParent = home?.split(".").slice(0, -1).join(".");
+  const near = (w) => w === home || (homeParent && w.startsWith(`${homeParent}.`)) || shallowCommon(w);
+  const order = (a, b) => (b === home) - (a === home) || rank(base)(a, b);
+  const twins = (byEn.get(sig(mobile.en, base, forms)) ?? []).filter((w) => inScope(w) && (!home || near(w))).sort(order);
   const agreeing = twins.filter((w) => sameIn("pt", base, w, forms) && sameIn("es", base, w, forms));
   if (agreeing.length) {
     map[base] = agreeing[0];
