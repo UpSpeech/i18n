@@ -15,7 +15,9 @@
     "all": "Todos os vídeos",
     "patient": "Para pacientes",
     "therapist": "Para terapeutas",
-    "admin": "Para administradores"
+    "admin": "Para administradores",
+    "all_guides": "Todos os guias",
+    "caregiver": "Para cuidadores"
   },
   "faq_categories": {
     "getting_started": "Começar",
@@ -242,13 +244,274 @@
   },
   "documentation": {
     "title": "Documentação",
-    "description": "Os guias escritos, com mais detalhe do que os vídeos.",
+    "description": "Guias escritos que explicam cada funcionalidade em detalhe.",
     "button": "Ler os guias"
   },
   "support": {
     "title": "Contactar suporte",
     "description": "Escreve-nos e uma pessoa responde.",
     "button": "Enviar email ao suporte"
+  },
+  "guides_title": "Guias passo a passo",
+  "guides_unavailable": "Ainda não há guias aqui",
+  "walkthrough_viewer": {
+    "back": "Anterior",
+    "next": "Seguinte",
+    "step_of": "{{k}} de {{n}}",
+    "unavailable_title": "Este guia não está disponível",
+    "unavailable_description": "Escolhe outro guia na Ajuda.",
+    "back_to_help": "Voltar à Ajuda"
+  },
+  "walkthroughs": {
+    "welcome_patient": {
+      "title": "A tua primeira prática",
+      "web": {
+        "1": "Aceita as boas-vindas do teu terapeuta para começar.",
+        "2": "Escolhe um companheiro para praticar contigo.",
+        "3": "Vê como funciona a prática entre sessões.",
+        "4": "Aceita gravar a tua voz e partilhá-la com o teu terapeuta.",
+        "5": "Permite o acesso ao microfone.",
+        "6": "Começa a gravar quando quiseres.",
+        "7": "Termina quando tiveres respondido à pergunta.",
+        "8": "Ouve a tua gravação.",
+        "9": "Envia ao teu terapeuta.",
+        "10": "O teu terapeuta responde à tua primeira gravação aqui."
+      }
+    },
+    "my_journey": {
+      "title": "Segue o teu percurso",
+      "web": {
+        "1": "Abre o teu percurso no menu.",
+        "2": "Vê aqui o teu passo atual.",
+        "3": "Abre uma etapa para ver os passos.",
+        "4": "Vê os passos que já concluíste.",
+        "5": "Continua o teu passo atual.",
+        "6": "O passo abre com o que fazer e porquê."
+      }
+    },
+    "complete_exercise": {
+      "title": "Faz um passo",
+      "web": {
+        "1": "Escolhe os dias em que vais praticar.",
+        "2": "Guarda os teus dias.",
+        "3": "Começa o passo.",
+        "4": "Começa a gravar.",
+        "5": "Para quando acabares de ler.",
+        "6": "Envia a gravação ao teu terapeuta.",
+        "7": "Avalia o esforço e quão natural te pareceu a fala.",
+        "8": "Continua depois de avaliares os dois.",
+        "9": "Marca o passo como concluído.",
+        "10": "O passo está concluído e o teu percurso avança."
+      }
+    },
+    "review_history": {
+      "title": "Revê a tua prática",
+      "web": {
+        "1": "Abre o histórico de prática de um passo concluído.",
+        "2": "Lê a nota do teu terapeuta e abre uma gravação anterior.",
+        "3": "Cada gravação fica aqui para a voltares a ouvir."
+      }
+    },
+    "practice_scenarios": {
+      "title": "Pratica um cenário",
+      "web": {
+        "1": "Abre Praticar no menu.",
+        "2": "Escolhe um cenário pronto para praticar.",
+        "3": "Confirma o idioma e como vais gravar, depois continua.",
+        "4": "Escolhe o modo guiado e começa.",
+        "5": "Lê o resumo e começa a conversa.",
+        "6": "A outra pessoa fala primeiro, por isso ouve-a.",
+        "7": "Clica para começar a responder.",
+        "8": "Diz a tua resposta e clica de novo para a enviar."
+      }
+    },
+    "caregiver_first_run": {
+      "title": "Prepara a primeira prática da criança",
+      "web": {
+        "1": "Entra no espaço de prática da criança.",
+        "2": "Vê como a prática chega ao teu terapeuta.",
+        "3": "Autoriza a gravação da voz da criança para o teu terapeuta.",
+        "4": "Passa a vez à criança e continua.",
+        "5": "Deixa a criança escolher um companheiro.",
+        "6": "Faz a pergunta e começa a gravar.",
+        "7": "Termina a gravação quando a criança acabar.",
+        "8": "Ouve a gravação com a criança e continua.",
+        "9": "Envia a gravação ao teu terapeuta.",
+        "10": "Abre a página de hoje para começar a praticar."
+      }
+    },
+    "caregiver_home": {
+      "title": "Usa o ecrã inicial",
+      "web": {
+        "1": "Começa a atividade de hoje com a criança.",
+        "2": "Abre o registo da prática já feita.",
+        "3": "Muda para outra criança.",
+        "4": "A página mostra agora a prática dessa criança.",
+        "5": "Abre o percurso da criança.",
+        "6": "Todos os passos do percurso da criança aparecem aqui."
+      }
+    },
+    "caregiver_step": {
+      "title": "Faz um passo com a criança",
+      "web": {
+        "1": "Abre o passo de hoje.",
+        "2": "Experimenta primeiro o exercício por tua conta.",
+        "3": "Passa à prática com a criança.",
+        "4": "Começa a gravar e façam o exercício em conjunto.",
+        "5": "Marca a caixa para autorizar a gravação da criança.",
+        "6": "Confirma o teu consentimento.",
+        "7": "Inicia a prática quando a criança estiver pronta.",
+        "8": "Quando surgir um momento de gaguez, mantém o círculo premido até o anel encher.",
+        "9": "Termina a gravação quando acabarem.",
+        "10": "Confirma que queres terminar já.",
+        "11": "Continua para contar ao terapeuta da criança como correu."
+      }
+    },
+    "manage_patients": {
+      "title": "Gere um paciente",
+      "web": {
+        "1": "Abre a lista de pacientes no menu.",
+        "2": "Escolhe um paciente para abrir o perfil.",
+        "3": "Vê em que ponto do percurso está o paciente.",
+        "4": "Abre tudo o que o paciente praticou.",
+        "5": "A prática do paciente aparece aqui, a mais recente primeiro."
+      }
+    },
+    "learning_paths": {
+      "title": "Monta o percurso de um paciente",
+      "web": {
+        "1": "Abre o paciente que precisa de um percurso.",
+        "2": "Abre o percurso do paciente.",
+        "3": "Escolhe para que serve o percurso.",
+        "4": "Começa a partir de um modelo.",
+        "5": "Escolhe o modelo a usar.",
+        "6": "Revê os passos e atribui o percurso.",
+        "7": "O percurso está ativo e o primeiro passo já está aberto."
+      }
+    },
+    "review_submission": {
+      "title": "Revê a prática de um paciente",
+      "web": {
+        "1": "Abre o paciente cuja prática queres rever.",
+        "2": "Começa a rever a prática pendente.",
+        "3": "Escreve uma nota sobre esta prática.",
+        "4": "Guarda a nota e avança.",
+        "5": "Marca uma prática como vista, sem nota.",
+        "6": "Vai direto ao resumo.",
+        "7": "Envia o teu feedback ao paciente.",
+        "8": "As tuas notas aparecem agora no perfil do paciente."
+      }
+    },
+    "generate_report": {
+      "title": "Gera um relatório",
+      "web": {
+        "1": "Começa um novo relatório na página de relatórios.",
+        "2": "Começa a gravar a sessão.",
+        "3": "Para a gravação quando a sessão terminar.",
+        "4": "Abre a lista de pacientes.",
+        "5": "Escolhe o paciente desta sessão.",
+        "6": "Abre a lista de tipos de relatório.",
+        "7": "Escolhe o tipo de relatório de que precisas.",
+        "8": "Confirma que o paciente consentiu esta gravação.",
+        "9": "Carrega a gravação para redigir o relatório.",
+        "10": "O rascunho do relatório abre aqui, pronto a rever."
+      }
+    },
+    "edit_report": {
+      "title": "Edita um relatório",
+      "web": {
+        "1": "Abre os relatórios no menu.",
+        "2": "Abre o relatório que queres editar.",
+        "3": "Começa a editar o relatório.",
+        "4": "Revê cada frase e corrige o que for preciso.",
+        "5": "Guarda as alterações.",
+        "6": "Confirma o relatório depois de o rever.",
+        "7": "Confirma o relatório e elimina a gravação.",
+        "8": "O relatório fica confirmado e a transcrição mantém-se."
+      }
+    },
+    "user_management": {
+      "title": "Convida alguém para a tua clínica",
+      "web": {
+        "1": "Abre o menu de administração.",
+        "2": "Abre a lista de utilizadores.",
+        "3": "Começa um novo convite.",
+        "4": "Escreve o email da pessoa.",
+        "5": "Escolhe a função da pessoa na clínica.",
+        "6": "Envia o convite.",
+        "7": "O convite é enviado e aparece na lista de pendentes."
+      }
+    },
+    "tenant_settings": {
+      "title": "Altera as definições da clínica",
+      "web": {
+        "1": "Abre o menu de administração.",
+        "2": "Abre as definições da clínica.",
+        "3": "Edita o nome da clínica.",
+        "4": "Define aqui o logótipo, as cores e o idioma.",
+        "5": "Guarda as alterações.",
+        "6": "Uma mensagem no topo confirma que ficou guardado."
+      }
+    },
+    "account_settings": {
+      "title": "Altera a tua palavra-passe",
+      "web": {
+        "1": "Abre as definições da conta no menu.",
+        "2": "Os dados e as preferências da tua conta estão nesta página.",
+        "3": "Escreve a tua palavra-passe atual.",
+        "4": "Escreve a nova palavra-passe e repete-a por baixo.",
+        "5": "Guarda a nova palavra-passe."
+      }
+    },
+    "patient_home": {
+      "title": "Conhece o teu ecrã inicial",
+      "web": {
+        "1": "Vê o que faz cada parte."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Começa aqui o passo de hoje.",
+            "2": "Vê todos os passos do teu percurso.",
+            "3": "Lê e responde às mensagens do teu terapeuta.",
+            "4": "Pergunta o que quiseres sobre a tua prática."
+          }
+        }
+      }
+    },
+    "caregiver_today": {
+      "title": "Conhece o ecrã Hoje",
+      "web": {
+        "1": "Vê o que faz cada parte."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Começa a atividade de hoje com a criança.",
+            "2": "A criança ganha um autocolante por cada semana de prática.",
+            "3": "Vê todas as práticas que enviaste.",
+            "4": "Abre o percurso da criança e o que vem a seguir."
+          }
+        }
+      }
+    },
+    "therapist_home": {
+      "title": "Conhece o teu painel",
+      "web": {
+        "1": "Vê o que faz cada parte."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Os pacientes que precisam de ti hoje, os mais urgentes primeiro.",
+            "2": "O que o paciente escolhido precisa, e o que fazer a seguir.",
+            "3": "Grava uma sessão e recebe um rascunho de relatório.",
+            "4": "Encontra qualquer paciente pelo nome.",
+            "5": "Pergunta como fazer qualquer coisa na UpSpeech."
+          }
+        }
+      }
+    }
   },
   "sections": {
     "title": "Centro de ajuda",
