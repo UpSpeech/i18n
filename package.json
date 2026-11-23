@@ -5,13 +5,15 @@
   "type": "module",
   "exports": {
     "./locales/*": "./locales/*",
+    "./build-locale": "./build-locale.js",
     "./package.json": "./package.json"
   },
   "files": [
-    "locales"
+    "locales",
+    "build-locale.js"
   ],
   "scripts": {
-    "check": "node scripts/check-parity.mjs && node scripts/check-placeholders.mjs && node scripts/check-option-balance.mjs && node scripts/check-british.mjs"
+    "check": "node scripts/check-parity.mjs && node scripts/check-placeholders.mjs && node scripts/check-option-balance.mjs && node scripts/check-british.mjs && node scripts/check-build-locale.mjs"
   },
   "repository": {
     "type": "git",
