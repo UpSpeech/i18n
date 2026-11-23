@@ -1,0 +1,13 @@
+{
+  "quick_review_pending_count": {
+    "to": "patients.quick_review.pending_count",
+    "keep": "phone"
+  },
+  "help_walkthroughs_heading": "help.walkthroughs_heading",
+  "help_walkthroughs_load_failed": "help.walkthroughs_load_failed",
+  "help_walkthrough_load_failed": "help.walkthrough_viewer.load_failed",
+  "help_walkthrough_progress": "help.walkthrough_viewer.progress",
+  "help_walkthrough_back": "help.walkthrough_viewer.back",
+  "help_walkthrough_next": "help.walkthrough_viewer.next",
+  "help_walkthrough_done": "help.walkthrough_viewer.done"
+}

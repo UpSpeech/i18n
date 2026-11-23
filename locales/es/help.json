@@ -260,7 +260,10 @@
     "step_of": "{{k}} de {{n}}",
     "unavailable_title": "Esta guía no está disponible",
     "unavailable_description": "Elige otra guía en Ayuda.",
-    "back_to_help": "Volver a Ayuda"
+    "back_to_help": "Volver a Ayuda",
+    "load_failed": "No se pudo cargar esta guía. Inténtalo de nuevo.",
+    "progress": "{{current}} de {{total}}",
+    "done": "Listo"
   },
   "walkthroughs": {
     "welcome_patient": {
@@ -512,5 +515,34 @@
         }
       }
     }
-  }
+  },
+  "sections": {
+    "title": "Centro de ayuda",
+    "getting_started": "Comenzar",
+    "getting_started_body": "¡Te damos la bienvenida a UpSpeech! Tu terapeuta asignará ejercicios y configurará tu ruta de aprendizaje. Comienza revisando la pestaña Inicio para los ejercicios de hoy.",
+    "getting_started_body_he": "¡Bienvenido a UpSpeech! Tu terapeuta asignará ejercicios y configurará tu ruta de aprendizaje. Comienza revisando la pestaña Inicio para los ejercicios de hoy.",
+    "getting_started_body_she": "¡Bienvenida a UpSpeech! Tu terapeuta asignará ejercicios y configurará tu ruta de aprendizaje. Comienza revisando la pestaña Inicio para los ejercicios de hoy.",
+    "getting_started_body_named": "¡Te damos la bienvenida a UpSpeech! {{therapist}} asignará ejercicios y configurará tu ruta de aprendizaje. Comienza revisando la pestaña Inicio para los ejercicios de hoy.",
+    "getting_started_body_named_he": "¡Bienvenido a UpSpeech! {{therapist}} asignará ejercicios y configurará tu ruta de aprendizaje. Comienza revisando la pestaña Inicio para los ejercicios de hoy.",
+    "getting_started_body_named_she": "¡Bienvenida a UpSpeech! {{therapist}} asignará ejercicios y configurará tu ruta de aprendizaje. Comienza revisando la pestaña Inicio para los ejercicios de hoy.",
+    "exercises": "¿Cómo funcionan los ejercicios?",
+    "exercises_body": "Cada ejercicio es parte de tu ruta de aprendizaje. Toca un paso para ver sus ejercicios, luego toca un ejercicio para comenzar. Algunos ejercicios implican grabar audio o video. Concede permisos de cámara y micrófono cuando se solicite.",
+    "recordings": "Grabaciones y cargas",
+    "recordings_body": "Cuando grabas audio o video durante un ejercicio, la grabación se carga automáticamente en segundo plano. Puedes enviar tu ejercicio mientras la carga aún está en progreso.",
+    "progress": "Seguir tu progreso",
+    "progress_body": "Tu progreso se muestra en la pestaña Inicio (tasa de completados, racha) y en la pestaña Camino (línea de tiempo de hitos). Tu terapeuta puede ver tu progreso y darte retroalimentación.",
+    "progress_body_named": "Tu progreso se muestra en la pestaña Inicio (tasa de completados, racha) y en la pestaña Camino (línea de tiempo de hitos). {{therapist}} puede ver tu progreso y darte retroalimentación.",
+    "practice": "Práctica independiente",
+    "practice_body": "La pestaña Practicar te permite hacer práctica extra fuera de tu ruta de aprendizaje. Navega por los ejercicios por técnica y practica a tu propio ritmo.",
+    "notifications": "Notificaciones",
+    "notifications_body": "Activa las notificaciones push para recibir recordatorios sobre nuevos ejercicios, retroalimentación del terapeuta y rachas de práctica. Puedes gestionar los permisos de notificaciones en la configuración de tu dispositivo.",
+    "account": "Cuenta y configuración",
+    "account_body": "Desde la pestaña Perfil puedes editar tu nombre, cambiar tu contraseña, cambiar el idioma y alternar el modo oscuro. Tu terapeuta gestiona tu asignación a la clínica.",
+    "account_body_named": "Desde la pestaña Perfil puedes editar tu nombre, cambiar tu contraseña, cambiar el idioma y alternar el modo oscuro. {{therapist}} gestiona tu asignación a la clínica.",
+    "contact": "¿Necesitas más ayuda?",
+    "contact_body": "Contacta a tu terapeuta o clínica para preguntas sobre tu plan de terapia. Para problemas técnicos, contacta al administrador de tu clínica.",
+    "contact_body_named": "Contacta a {{therapist}} o a tu clínica para preguntas sobre tu plan de terapia. Para problemas técnicos, contacta al administrador de tu clínica."
+  },
+  "walkthroughs_heading": "Paso a paso",
+  "walkthroughs_load_failed": "No se pudieron cargar las guías. Inténtalo de nuevo."
 }

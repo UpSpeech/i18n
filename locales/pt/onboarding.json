@@ -71,7 +71,7 @@
       "patient": {
         "watch_video": "Conhece a UpSpeech",
         "watch_video_description": "Um tour rápido para te sentires em casa",
-        "view_learning_path": "Vê o que está por vir",
+        "view_learning_path": "Vê o que te espera",
         "view_learning_path_description": "Explora a tua jornada terapêutica e objetivos",
         "complete_exercise": "Experimenta o teu primeiro exercício",
         "complete_exercise_description": "Vê o que o teu terapeuta preparou para ti",
@@ -418,7 +418,8 @@
         "home_done_cta": "Ir para o plano",
         "resume_voice": "A tua voz · cerca de 2 minutos",
         "phase": "{{phase}} de 3",
-        "therapist_fallback": "a tua terapeuta"
+        "therapist_fallback": "a tua terapeuta",
+        "send_later": "Agora não"
       },
       "caregiver": {
         "invite_therapist_role": "{{therapist}} · terapeuta da fala",
@@ -520,8 +521,10 @@
         "recording_consent_sheet_continue": "Aceitar e continuar",
         "child_pick_title": "Quem pratica contigo primeiro?",
         "child_pick_hint": "Escolhe a criança com quem começar.",
-        "child_pick_continue": "Continuar"
-      }
+        "child_pick_continue": "Continuar",
+        "home_intake_next_child": "A seguir, {{child}}"
+      },
+      "first_run_offline_body": "A gravação fica guardada neste telemóvel. Vai para {{therapist, o}} assim que houver ligação."
     },
     "stage": {
       "progress": "Passo {{step}} de {{of}}",
@@ -535,6 +538,30 @@
       "offer_later": "Agora não",
       "offer_later_note": "Ainda podes experimentá-lo no primeiro passo {{child, de}}.",
       "offer_minutes": "{{count}} min"
+    },
+    "mobile": {
+      "title": "Primeiros passos",
+      "progress": "{{completed}} de {{total}} completos",
+      "dismiss": "Já posso começar",
+      "dismiss_he": "Já estou pronto",
+      "dismiss_she": "Já estou pronta",
+      "skip": "Saltar",
+      "skipped": "Saltado",
+      "therapist_view_patient": "Ver um paciente",
+      "therapist_view_patient_desc": "Vê a lista de pacientes e o seu progresso",
+      "therapist_review_submission": "Rever uma submissão",
+      "therapist_review_submission_desc": "Verifica a submissão de exercício de um paciente",
+      "therapist_send_feedback": "Enviar feedback",
+      "therapist_send_feedback_desc": "Dá feedback sobre uma etapa de um paciente",
+      "therapist_try_coach": "Experimenta o assistente de IA",
+      "therapist_try_coach_desc": "Pergunta como está a correr com um paciente"
+    },
+    "consent": {
+      "title": "Termos e privacidade",
+      "terms_heading": "Termos de utilização",
+      "terms_body": "Ao participares neste programa, concordas em utilizar a UpSpeech de acordo com o seu propósito como ferramenta de apoio à terapia da fala. Os teus dados de utilização podem ser recolhidos de forma anónima para melhorar a plataforma. Podes desistir a qualquer momento contactando o teu administrador.",
+      "privacy_body": "A UpSpeech recolhe gravações de áudio, dados de exercícios e análises de utilização para prestar serviços de terapia da fala. Os teus dados são armazenados de forma segura, encriptados em repouso e em trânsito. Os dados pessoais nunca são partilhados com terceiros sem o teu consentimento explícito.",
+      "accept": "Aceito"
     }
   }
 }

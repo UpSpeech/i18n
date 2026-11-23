@@ -11,6 +11,7 @@
 // --dynamic   prefixes the app builds keys from (t(`theme_${x}`)); each moves whole, under
 //             its parent, so the template only swaps its prefix
 // --picks     { mobileKey: "web" | "phone" | "separate" } for keys whose pt or es differ
+// --default   where a key no prefix places goes, as <default>.<key> (common for one-off words)
 //
 // A phone-only key without a --parent goes where its siblings' web twins already
 // are: first_run_patient_x lands beside onboarding.first_run.patient.* when most
@@ -32,6 +33,7 @@ const prefixes = list("--prefixes");
 const scope = list("--scope");
 const parents = Object.fromEntries(list("--parent").map((p) => p.split("=")));
 const dynamic = list("--dynamic").sort((a, b) => b.length - a.length);
+const fallback = opt("--default");
 const picks = opt("--picks") ? JSON.parse(readFileSync(opt("--picks"), "utf8")) : {};
 
 const web = Object.fromEntries(LANGS.map((l) => [l, webKeys(l)]));
@@ -91,7 +93,8 @@ function placement(key) {
   const explicit = Object.keys(parents).sort((a, b) => b.length - a.length).find((p) => flat.startsWith(p));
   const rule = learned.find(([pre]) => flat.startsWith(pre));
   if (explicit && (!rule || explicit.length >= rule[0].length)) return `${parents[explicit]}.${key.slice(explicit.length)}`;
-  return rule ? `${rule[1]}.${key.slice(rule[0].length)}` : null;
+  if (rule) return `${rule[1]}.${key.slice(rule[0].length)}`;
+  return fallback ? `${fallback}.${key}` : null;
 }
 
 const map = {};

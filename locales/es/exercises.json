@@ -782,7 +782,12 @@
     },
     "try_again": "Intentar de nuevo",
     "submit": "Enviar práctica",
-    "default_instructions": "Practica hablar sobre tu habla en un espacio seguro."
+    "default_instructions": "Practica hablar sobre tu habla en un espacio seguro.",
+    "levels": {
+      "1": "La otra persona es paciente y comprensiva.",
+      "2": "La otra persona es neutral y habla a un ritmo normal.",
+      "3": "La otra persona esta ligeramente apresurada, creando presion realista."
+    }
   },
   "generalisation": {
     "scenario_label": "Tu escenario",
@@ -908,7 +913,10 @@
     "navigate_to_annotation": "Abrir en herramienta de anotación",
     "view_full_review": "Ver revisión completa",
     "recording_count_one": "{{count}} grabación",
-    "recording_count_other": "{{count}} grabaciones"
+    "recording_count_other": "{{count}} grabaciones",
+    "empty": "No se encontraron entregas",
+    "empty_hint": "Las entregas aparecerán aquí a medida que los pacientes completen ejercicios.",
+    "no_patients_hint": "Cuando tengas pacientes, sus entregas aparecerán aquí."
   },
   "reading_prompt": {
     "invitation": "¿Quieres algo para practicar?",

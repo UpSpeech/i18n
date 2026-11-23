@@ -53,7 +53,10 @@
       "website_placeholder": "https://www.ejemplo.com",
       "footer_text": "Texto de pie de página",
       "footer_text_helper": "Aparece al final de cada informe.",
-      "footer_text_placeholder": "Texto personalizado para aparecer en los informes"
+      "footer_text_placeholder": "Texto personalizado para aparecer en los informes",
+      "name": "Nombre de la organización",
+      "slug": "Slug",
+      "report_contact_tenant": "El correo de contacto de la organización"
     },
     "select_tenant": "Seleccionar organización",
     "select_tenant_placeholder": "Elige una organización para gestionar la configuración",

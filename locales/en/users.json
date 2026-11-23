@@ -36,7 +36,21 @@
     "entity_user": "User",
     "errors": {
       "revoke_failed": "Failed to revoke invite. Please try again."
-    }
+    },
+    "create": "New user",
+    "delete_confirm": "Delete this user? This action cannot be undone.",
+    "delete_body": "This cannot be undone.",
+    "admin_users_field_first_name": "First name",
+    "created": "User created",
+    "updated": "User updated",
+    "deleted": "User deleted",
+    "search": "Search users...",
+    "pending_invites": "Pending invites",
+    "no_invites": "No pending invites",
+    "invite_sent": "Invite sent",
+    "invite_revoked": "Invite revoked",
+    "copy_link": "Copy link",
+    "link_copied": "Link copied"
   },
   "clients": {
     "total_clients": "Total patients",

@@ -106,7 +106,20 @@
     "last_name": "Last name",
     "password": "Password",
     "confirm_password": "Confirm password",
-    "in_pilot": "Include in pilot programme"
+    "in_pilot": "Include in pilot programme",
+    "title": "Create patient account",
+    "description": "Your patient will use these credentials to sign in.",
+    "password_hint": "At least 8 characters with letters and numbers",
+    "first_name_required": "First name is required",
+    "last_name_required": "Last name is required",
+    "email_required": "Email is required",
+    "password_required": "Password is required",
+    "password_min_length": "Password must be at least 8 characters",
+    "password_strength": "Password must contain at least one letter and one number",
+    "passwords_must_match": "Passwords must match",
+    "submit": "Create account",
+    "success": "Patient account created!",
+    "failed": "Failed to create patient. Please try again."
   },
   "invite_modal": {
     "title": "Invite patient",
@@ -132,7 +145,6 @@
     "modal_title": "Quick review",
     "modal_description": "Step through pending practice and send feedback.",
     "progress_strip": "Practice {{current}} of {{total}}",
-    "pending_count": "{{count}} pending",
     "last_practiced": "Last practised: {{date}}",
     "feedback_label": "Note on this practice",
     "feedback_placeholder": "What went well, and what to work on next?",
@@ -206,7 +218,48 @@
     "mark_rest_seen": "Mark the rest as seen ({{count}})",
     "recap_row_seen": "Seen",
     "seen_error": "Couldn't mark as seen. Try again.",
-    "done": "Done"
+    "done": "Done",
+    "quick_review_feedback_label": "Feedback",
+    "quick_review_feedback_placeholder": "Leave a note for this practice",
+    "quick_review_batch_message_label": "Message for patient",
+    "quick_review_batch_message_placeholder": "Compose a message to send with your feedback...",
+    "exercise_type_labels": {
+      "label": "Type",
+      "pause": "Pause",
+      "self_modeling": "Self-modelling",
+      "identification": "Identification",
+      "holding": "Holding",
+      "motor_control": "Motor control",
+      "generalisation": "Generalisation",
+      "reflection": "Reflection",
+      "written_answer": "Written answer",
+      "journal": "Journal",
+      "self_disclosure": "Self-disclosure",
+      "observation": "Observation",
+      "technique_rating": "Technique rating",
+      "technique_practice": "Picture description",
+      "mini_game": "Mini-game",
+      "first_recording": "First recording",
+      "standard": "Practice",
+      "modeling": "Modelling",
+      "quiz": "Quiz",
+      "scenario": "Scenario",
+      "practice_log": "Practice log",
+      "scenario_ai": "AI scenario",
+      "therapist_recap": "Therapist recap",
+      "situation_hierarchy": "Situation hierarchy",
+      "real_world_assignment": "Real-world task",
+      "build_toolkit": "Build your toolkit",
+      "generic": "Exercise",
+      "spin_cards": "Spin and Say",
+      "two_choice": "Two pictures",
+      "pause_road": "Pause road",
+      "which_speech": "Which speech",
+      "story_scene": "Build your story"
+    },
+    "quick_review_save_success": "Feedback saved.",
+    "pending_count_one": "{{count}} pending",
+    "pending_count_other": "{{count}} pending"
   },
   "recent_feedback": {
     "page_title": "Feedback from your therapist",
@@ -246,7 +299,14 @@
       "long_blocks": "4.0s, long pauses"
     },
     "loadError": "Couldn't load scenario settings.",
-    "saveError": "Couldn't save. Try again."
+    "saveError": "Couldn't save. Try again.",
+    "vad_preset_labels": {
+      "default": "Clinic default (recommended)",
+      "typical": "0.8s, typical speech",
+      "moderate": "1.5s, slight pauses",
+      "stutter_safe": "2.5s, stutter-safe",
+      "long_blocks": "4.0s, long blocks"
+    }
   },
   "assessments": {
     "status": {
@@ -258,7 +318,11 @@
     "monologue": "Monologue",
     "no_recording": "No recording available",
     "empty_title": "No assessments yet",
-    "empty_description": "Speech assessments will appear here once this patient completes one."
+    "empty_description": "Speech assessments will appear here once this patient completes one.",
+    "title": "Speech assessments",
+    "empty": "No assessments found",
+    "empty_hint": "Speech assessments will appear here once this patient records one.",
+    "view": "View assessments"
   },
   "add_wizard": {
     "open_patient": "Open {{name}}",
@@ -311,7 +375,12 @@
     "language_label": "Invite and app language",
     "linked_heading": "{{name}} is added",
     "linked_body": "{{email}} already has an UpSpeech account. {{name}} now shows on it, and we emailed them to say so.",
-    "summary_linked_to": "Added to"
+    "summary_linked_to": "Added to",
+    "button": "Add patient",
+    "date_of_birth_required": "Date of birth is required",
+    "add_patient_date_of_birth_invalid": "Enter a valid date as YYYY-MM-DD",
+    "date_of_birth_placeholder": "YYYY-MM-DD",
+    "date_of_birth_hint": "Date of birth (YYYY-MM-DD)"
   },
   "relationship": {
     "parent": "Parent",
@@ -400,7 +469,19 @@
         "child_context": "About your child",
         "anything_else": "Anything else"
       },
-      "shapes_plan": "Helps shape the plan"
+      "shapes_plan": "Helps shape the plan",
+      "intake_interview_done_body": "Thank you. Your therapist reads this before your next session.",
+      "file_failed_title": "Not saved yet",
+      "intake_interview_file_failed": "We could not save your answers. They are still here, so you can try again.",
+      "invited_by_therapist_named": "Set by {{therapist}}"
+    },
+    "title": "Intake",
+    "view": "View intake",
+    "mobile": {
+      "required_title": "A few questions first",
+      "required_body": "The clinic asks for a short interview before the first session. It runs in your browser, and this app picks up where you left off once it is filed.",
+      "required_open": "Open the interview",
+      "required_done": "I have finished it"
     }
   },
   "header_facts": "{{total}} patients, {{recent}} new this month",
@@ -531,5 +612,23 @@
     "card_body": "Open the app as a made-up patient and show what practising at home looks like.",
     "no_answer": "The patient app did not answer. Check your connection and try again.",
     "refused": "The demo is not switched on for your clinic."
+  },
+  "list": {
+    "empty": "Ready to start?",
+    "empty_he": "Ready to start?",
+    "empty_she": "Ready to start?",
+    "empty_description": "Add your first patient to get started.",
+    "empty_what": "Each patient you add gets a page for their recordings, progress and your notes.",
+    "no_results": "No patients found",
+    "no_results_description": "Nothing matches \"{{query}}\". Try another name, or clear the search.",
+    "search": "Search patients...",
+    "current_step": "Current: {{step}}",
+    "caregiver_led_badge": "Caregiver-led",
+    "empty_what_admin": "Patients are added by a therapist. Each one gets a page for their recordings and progress."
+  },
+  "tab_labels": {
+    "overview": "Overview",
+    "learning_path": "Learning path",
+    "exercises": "Exercises"
   }
 }

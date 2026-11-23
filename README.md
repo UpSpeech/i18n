@@ -19,36 +19,32 @@ client bundle anyway, so they aren't secret). No registry, no auth:
 
 ```
 locales/
-  en/  es/  pt/        frontend namespaces (one JSON per namespace)
-  mobile/
-    en/ es/ pt/        the mobile app's older files (common.json, quiz.json),
-                       shrinking as the phone moves onto the frontend namespaces
+  en/  es/  pt/        one JSON per namespace, read by both apps
 build-locale.js        folds one language's namespace files into the "translation" namespace
 scripts/
   check-parity.mjs     fails if a key exists in one language but not another
   check-placeholders.mjs  fails if a key's {{placeholders}} differ between languages;
                        placeholder-allowlist.json lists the deliberate differences
   check-build-locale.mjs  fails if the fold points at a file or subtree that is gone
-  twins.mjs            pairs each mobile key with the frontend keys that say the same thing
+  check-moves.mjs      fails if a move map in scripts/moves/ names a key that is gone
+  check-no-mobile.mjs  fails if a file appears under locales/mobile/
+  plan-area.mjs, move-mobile-keys.mjs, twins.mjs, areas.sh
+                       how plan 540 moved the phone's old keys here; scripts/moves/ is the record
 ```
 
 The package ships raw JSON plus `build-locale.js`, plain JavaScript, so there is no build step.
-Both apps fold the frontend namespaces with it, so a key is called the same on web and on the
-phone. The phone still reads `locales/mobile/` for keys not yet moved.
+Both apps fold the namespaces with it, so a key is called the same on web and on the phone.
 
 ## Usage
 
 ```ts
-// frontend
+import { buildLocale } from "@upspeech/i18n/build-locale";
 import enCommon from "@upspeech/i18n/locales/en/common.json";
-// mobile
-import enCommon from "@upspeech/i18n/locales/mobile/en/common.json";
 ```
 
 ## Editing copy
 
-1. Edit the relevant `locales/<lang>/<namespace>.json` (frontend) or
-   `locales/mobile/<lang>/<namespace>.json` (mobile).
+1. Edit the relevant `locales/<lang>/<namespace>.json`. Both apps read it.
 2. Keep all three languages in sync, `npm run check` enforces it (and runs in CI on every PR).
 3. Bump the git tag (`git tag vX.Y.Z && git push --tags`). The tag is the version. The
    `version` in this repo's `package.json` is not kept in step and only matters to the dormant,

@@ -260,7 +260,10 @@
     "step_of": "{{k}} of {{n}}",
     "unavailable_title": "This guide isn't available",
     "unavailable_description": "Pick another guide in Help.",
-    "back_to_help": "Back to Help"
+    "back_to_help": "Back to Help",
+    "load_failed": "This walkthrough couldn't load. Try again.",
+    "progress": "{{current}} of {{total}}",
+    "done": "Done"
   },
   "walkthroughs": {
     "welcome_patient": {
@@ -512,5 +515,34 @@
         }
       }
     }
-  }
+  },
+  "sections": {
+    "title": "Help centre",
+    "getting_started": "Getting started",
+    "getting_started_body": "Welcome to UpSpeech! Your therapist will assign exercises and set up your learning path. Start by checking the Home tab for today's exercises.",
+    "getting_started_body_he": "Welcome to UpSpeech! Your therapist will assign exercises and set up your learning path. Start by checking the Home tab for today's exercises.",
+    "getting_started_body_she": "Welcome to UpSpeech! Your therapist will assign exercises and set up your learning path. Start by checking the Home tab for today's exercises.",
+    "getting_started_body_named": "Welcome to UpSpeech! {{therapist}} will assign exercises and set up your learning path. Start by checking the Home tab for today's exercises.",
+    "getting_started_body_named_he": "Welcome to UpSpeech! {{therapist}} will assign exercises and set up your learning path. Start by checking the Home tab for today's exercises.",
+    "getting_started_body_named_she": "Welcome to UpSpeech! {{therapist}} will assign exercises and set up your learning path. Start by checking the Home tab for today's exercises.",
+    "exercises": "How do exercises work?",
+    "exercises_body": "Each exercise is part of your learning path. Tap on a step to see its exercises, then tap an exercise to begin. Some exercises involve recording audio or video. Grant camera and microphone permissions when asked.",
+    "recordings": "Recording & uploads",
+    "recordings_body": "When you record audio or video during an exercise, the recording is uploaded automatically in the background. You can submit your exercise while the upload is still in progress.",
+    "progress": "Tracking your progress",
+    "progress_body": "Your progress is shown on the Home tab (completion rate, streak) and the Journey tab (milestone timeline). Your therapist can see your progress and provide feedback.",
+    "progress_body_named": "Your progress is shown on the Home tab (completion rate, streak) and the Journey tab (milestone timeline). {{therapist}} can see your progress and provide feedback.",
+    "practice": "Standalone practice",
+    "practice_body": "The Practice tab lets you do extra practice outside your learning path. Browse exercises by technique and practise at your own pace.",
+    "notifications": "Notifications",
+    "notifications_body": "Enable push notifications to get reminders about new exercises, therapist feedback, and practice streaks. You can manage notification permissions in your device settings.",
+    "account": "Account & settings",
+    "account_body": "From the Profile tab you can edit your name, change your password, switch language, and toggle dark mode. Your therapist manages your clinic assignment.",
+    "account_body_named": "From the Profile tab you can edit your name, change your password, switch language, and toggle dark mode. {{therapist}} manages your clinic assignment.",
+    "contact": "Need more help?",
+    "contact_body": "Contact your therapist or clinic for questions about your therapy plan. For technical issues, reach out to your clinic administrator.",
+    "contact_body_named": "Contact {{therapist}} or your clinic for questions about your therapy plan. For technical issues, reach out to your clinic administrator."
+  },
+  "walkthroughs_heading": "Step by step",
+  "walkthroughs_load_failed": "Walkthroughs couldn't load. Try again."
 }

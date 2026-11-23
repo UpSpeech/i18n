@@ -497,7 +497,8 @@
     "microphone": "Microphone",
     "camera": "Camera",
     "grant_device_access": "Allow access to see device names",
-    "swap_video": "Swap video layout"
+    "swap_video": "Swap video layout",
+    "window_label": "Audio window: {{start}} to {{end}}"
   },
   "entity_session": "Scenario",
   "mobile": {

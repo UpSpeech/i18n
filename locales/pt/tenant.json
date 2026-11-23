@@ -53,7 +53,10 @@
       "website_placeholder": "https://www.exemplo.com",
       "footer_text": "Texto de rodapé",
       "footer_text_helper": "Aparece no fim de cada relatório.",
-      "footer_text_placeholder": "Texto personalizado a aparecer nos relatórios"
+      "footer_text_placeholder": "Texto personalizado a aparecer nos relatórios",
+      "name": "Nome da organização",
+      "slug": "Slug",
+      "report_contact_tenant": "O email de contacto da organização"
     },
     "select_tenant": "Selecionar organização",
     "select_tenant_placeholder": "Escolhe uma organização para gerir definições",

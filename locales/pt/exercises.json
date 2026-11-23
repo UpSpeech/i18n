@@ -793,7 +793,12 @@
     },
     "try_again": "Tentar novamente",
     "submit": "Submeter prática",
-    "default_instructions": "Pratica falar sobre a tua fala num espaço seguro."
+    "default_instructions": "Pratica falar sobre a tua fala num espaço seguro.",
+    "levels": {
+      "1": "A outra pessoa é paciente e solidária.",
+      "2": "A outra pessoa é neutra e fala num ritmo normal.",
+      "3": "A outra pessoa está ligeiramente apressada, criando pressão realista."
+    }
   },
   "generalisation": {
     "scenario_label": "O teu cenário",
@@ -922,7 +927,10 @@
     "recording_count_one": "{{count}} gravação",
     "recording_count_other": "{{count}} gravações",
     "recording_count_zero": "{{count}} gravações",
-    "recording_count": "{{count}} gravação"
+    "recording_count": "{{count}} gravação",
+    "empty": "Nenhuma submissão encontrada",
+    "empty_hint": "As submissões aparecerão aqui à medida que os pacientes completam exercícios.",
+    "no_patients_hint": "Assim que tiveres pacientes, as submissões deles aparecerão aqui."
   },
   "reading_prompt": {
     "invitation": "Queres algo para praticar?",
@@ -1466,7 +1474,7 @@
     "overdue_count_one": "{{count}} em atraso",
     "overdue_count_other": "{{count}} em atraso",
     "overdue_count_zero": "{{count}} em atraso",
-    "create_title": "Novo exercício atribuído",
+    "create_title": "Novo exercício",
     "step_select_game": "Selecionar exercício",
     "step_select_patient": "Selecionar paciente",
     "step_schedule": "Definir horário",

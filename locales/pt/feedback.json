@@ -159,5 +159,11 @@
   "no_feedback_submitted": "Ainda não foi submetido nenhum feedback",
   "previous": "← Anterior",
   "next": "Seguinte →",
-  "entity_annotation": "Anotação"
+  "entity_annotation": "Anotação",
+  "category_labels": {
+    "bug": "Erro",
+    "feature_request": "Pedido de funcionalidade",
+    "improvement": "Melhoria",
+    "other": "Outro"
+  }
 }

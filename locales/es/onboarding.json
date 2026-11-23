@@ -418,7 +418,8 @@
         "home_done_cta": "Ir al plan",
         "resume_voice": "Tu voz · unos 2 minutos",
         "phase": "{{phase}} de 3",
-        "therapist_fallback": "tu logopeda"
+        "therapist_fallback": "tu logopeda",
+        "send_later": "Ahora no"
       },
       "caregiver": {
         "invite_therapist_role": "{{therapist}} · logopeda",
@@ -520,8 +521,10 @@
         "recording_consent_sheet_continue": "Aceptar y continuar",
         "child_pick_title": "¿Quién practica contigo primero?",
         "child_pick_hint": "Elige con quién empezar.",
-        "child_pick_continue": "Continuar"
-      }
+        "child_pick_continue": "Continuar",
+        "home_intake_next_child": "Después, {{child}}"
+      },
+      "first_run_offline_body": "La grabación queda guardada en este teléfono. Llegará a {{therapist}} en cuanto vuelva la conexión."
     },
     "stage": {
       "progress": "Paso {{step}} de {{of}}",
@@ -535,6 +538,30 @@
       "offer_later": "Ahora no",
       "offer_later_note": "Todavía puedes probarlo desde el primer paso de {{child}}.",
       "offer_minutes": "{{count}} min"
+    },
+    "mobile": {
+      "title": "Primeros pasos",
+      "progress": "{{completed}} de {{total}} completos",
+      "dismiss": "Entendido",
+      "dismiss_he": "Ya estoy listo",
+      "dismiss_she": "Ya estoy lista",
+      "skip": "Omitir",
+      "skipped": "Omitido",
+      "therapist_view_patient": "Ver un paciente",
+      "therapist_view_patient_desc": "Ve la lista de pacientes y su progreso",
+      "therapist_review_submission": "Revisar una entrega",
+      "therapist_review_submission_desc": "Revisa la entrega de ejercicio de un paciente",
+      "therapist_send_feedback": "Enviar retroalimentación",
+      "therapist_send_feedback_desc": "Da retroalimentación sobre una etapa de un paciente",
+      "therapist_try_coach": "Prueba el asistente de IA",
+      "therapist_try_coach_desc": "Pregunta cómo le va a un paciente"
+    },
+    "consent": {
+      "title": "Términos y privacidad",
+      "terms_heading": "Términos de uso",
+      "terms_body": "Al participar en este programa, aceptas usar UpSpeech de acuerdo con su propósito como herramienta de apoyo a la logopedia. Tus datos de uso pueden ser recopilados de forma anónima para mejorar la plataforma. Puedes retirarte en cualquier momento contactando a tu administrador.",
+      "privacy_body": "UpSpeech recopila grabaciones de audio, datos de ejercicios y análisis de uso para proporcionar servicios de logopedia. Tus datos se almacenan de forma segura, encriptados en reposo y en tránsito. Los datos personales nunca se comparten con terceros sin tu consentimiento explícito.",
+      "accept": "Acepto"
     }
   }
 }

@@ -22,5 +22,12 @@
   "copied": "Copied!",
   "errors": {
     "generate_failed": "Failed to generate accounts"
-  }
+  },
+  "admin_pilot_count": "Number of accounts",
+  "generated": "{{count}} accounts generated",
+  "generated_one": "{{count}} account generated",
+  "credentials": "Credentials",
+  "warning": "Save these credentials now. Passwords cannot be recovered.",
+  "empty": "No accounts yet",
+  "empty_hint": "Generated credentials will appear here."
 }

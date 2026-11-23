@@ -43,7 +43,17 @@
     "click_to_disable": "Click to disable",
     "global_override_badge": "Global override",
     "copy_key": "Copy flag key",
-    "copied": "Copied"
+    "copied": "Copied",
+    "select_tenant": "Select tenant",
+    "admin_flags_enabled": "Enabled",
+    "admin_flags_disabled": "Disabled",
+    "enable_all": "Enable all",
+    "disable_all": "Disable all",
+    "clear_override": "Clear override",
+    "toggled": "Flag updated",
+    "section": "Flags",
+    "empty": "No feature flags",
+    "empty_hint": "There are no feature flags to configure for this tenant."
   },
   "system_tenant": {
     "title": "Global feature flags",
