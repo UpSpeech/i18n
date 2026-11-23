@@ -325,7 +325,9 @@
         "5": "Lê o resumo e começa a conversa.",
         "6": "A outra pessoa fala primeiro, por isso ouve-a.",
         "7": "Clica para começar a responder.",
-        "8": "Diz a tua resposta e clica de novo para a enviar."
+        "8": "Diz a tua resposta e clica de novo para a enviar.",
+        "9": "Abre o Chat para ler a conversa.",
+        "10": "Relê o que cada um disse."
       }
     },
     "caregiver_first_run": {
