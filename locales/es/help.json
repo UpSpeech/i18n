@@ -261,5 +261,207 @@
     "unavailable_title": "Esta guía no está disponible",
     "unavailable_description": "Elige otra guía en Ayuda.",
     "back_to_help": "Volver a Ayuda"
+  },
+  "walkthroughs": {
+    "welcome_patient": {
+      "title": "Tu primera práctica",
+      "web": {
+        "1": "Acepta la bienvenida de tu terapeuta para empezar.",
+        "2": "Elige un compañero para practicar contigo.",
+        "3": "Mira cómo funciona la práctica entre sesiones.",
+        "4": "Acepta grabar tu voz y compartirla con tu terapeuta.",
+        "5": "Permite el acceso al micrófono.",
+        "6": "Empieza a grabar cuando quieras.",
+        "7": "Termina cuando hayas respondido a la pregunta.",
+        "8": "Escucha tu grabación.",
+        "9": "Envíaselo a tu terapeuta.",
+        "10": "Tu terapeuta responde a tu primera grabación aquí."
+      }
+    },
+    "my_journey": {
+      "title": "Sigue tu progreso",
+      "web": {
+        "1": "Abre tu recorrido desde el menú.",
+        "2": "Consulta aquí tu paso actual.",
+        "3": "Abre una etapa para ver sus pasos.",
+        "4": "Mira qué pasos ya has terminado.",
+        "5": "Continúa con tu paso actual.",
+        "6": "El paso se abre con qué hacer y por qué."
+      }
+    },
+    "complete_exercise": {
+      "title": "Haz un paso",
+      "web": {
+        "1": "Elige los días en que vas a practicar.",
+        "2": "Guarda tus días.",
+        "3": "Empieza el paso.",
+        "4": "Empieza a grabar.",
+        "5": "Para cuando termines de leer.",
+        "6": "Envía tu grabación a tu terapeuta.",
+        "7": "Valora el esfuerzo y lo natural que te pareció tu habla.",
+        "8": "Continúa cuando hayas valorado los dos.",
+        "9": "Marca el paso como completado.",
+        "10": "El paso está terminado y tu recorrido avanza."
+      }
+    },
+    "review_history": {
+      "title": "Revisa tu práctica",
+      "web": {
+        "1": "Abre el historial de práctica de un paso terminado.",
+        "2": "Lee la nota de tu terapeuta y abre una grabación anterior.",
+        "3": "Cada grabación se queda aquí para que vuelvas a escucharla."
+      }
+    },
+    "practice_scenarios": {
+      "title": "Practica un escenario",
+      "web": {
+        "1": "Abre Practicar en el menú",
+        "2": "Elige un escenario listo para practicar",
+        "3": "Comprueba el idioma y cómo vas a grabar, y continúa",
+        "4": "Elige el modo guiado y empieza",
+        "5": "Lee el resumen y empieza la conversación",
+        "6": "La otra persona habla primero, así que escúchala",
+        "7": "Haz clic para empezar a responder",
+        "8": "Di tu respuesta y vuelve a hacer clic para enviarla"
+      }
+    },
+    "caregiver_first_run": {
+      "title": "Prepara la primera práctica de tu hijo o hija",
+      "web": {
+        "1": "Entra en el espacio de práctica de tu hijo o hija.",
+        "2": "Mira cómo llega la práctica a tu terapeuta.",
+        "3": "Acepta que se grabe la voz de tu hijo o hija para tu terapeuta.",
+        "4": "Dale el dispositivo a tu hijo o hija y continúa.",
+        "5": "Deja que tu hijo o hija elija un compañero.",
+        "6": "Haz la pregunta y empieza a grabar.",
+        "7": "Termina la grabación cuando tu hijo o hija acabe.",
+        "8": "Escucha la grabación con tu hijo o hija y continúa.",
+        "9": "Envía la grabación a tu terapeuta.",
+        "10": "Abre la página de hoy para empezar a practicar."
+      }
+    },
+    "caregiver_home": {
+      "title": "Usa la pantalla de inicio",
+      "web": {
+        "1": "Empieza la actividad de hoy con tu hijo o hija.",
+        "2": "Abre el registro de la práctica ya hecha.",
+        "3": "Cambia al perfil de otro hijo o hija.",
+        "4": "La página muestra ahora su práctica.",
+        "5": "Abre el recorrido de tu hijo o hija.",
+        "6": "Todos los pasos del recorrido de tu hijo o hija aparecen aquí."
+      }
+    },
+    "caregiver_step": {
+      "title": "Haz un paso con tu hijo o hija",
+      "web": {
+        "1": "Abre el paso de hoy.",
+        "2": "Prueba primero el ejercicio por tu cuenta.",
+        "3": "Pasa a practicar con tu hijo o hija.",
+        "4": "Empieza a grabar y haced el ejercicio juntos.",
+        "5": "Marca la casilla para autorizar la grabación de tu hijo o hija.",
+        "6": "Confirma tu consentimiento.",
+        "7": "Empieza la práctica cuando queráis.",
+        "8": "Cuando llegue un momento de tartamudeo, mantén pulsado el círculo hasta que el anillo se llene.",
+        "9": "Termina la grabación cuando acabéis.",
+        "10": "Confirma que quieres terminar ahora.",
+        "11": "Continúa para contarle al terapeuta cómo ha ido."
+      }
+    },
+    "manage_patients": {
+      "title": "Gestiona a un paciente",
+      "web": {
+        "1": "Abre tu lista de pacientes desde el menú.",
+        "2": "Elige a un paciente para abrir su perfil.",
+        "3": "Mira en qué punto de su recorrido está.",
+        "4": "Abre todo lo que ha practicado.",
+        "5": "Su práctica aparece aquí, de la más reciente a la más antigua."
+      }
+    },
+    "learning_paths": {
+      "title": "Prepara el recorrido de un paciente",
+      "web": {
+        "1": "Abre el perfil del paciente que necesita un recorrido.",
+        "2": "Abre su recorrido.",
+        "3": "Elige para qué es el recorrido.",
+        "4": "Empieza desde una plantilla.",
+        "5": "Elige la plantilla que quieres usar.",
+        "6": "Revisa los pasos y asigna el recorrido.",
+        "7": "El recorrido ya está activo, con el primer paso abierto."
+      }
+    },
+    "review_submission": {
+      "title": "Revisa la práctica de un paciente",
+      "web": {
+        "1": "Abre el perfil del paciente cuya práctica quieres revisar.",
+        "2": "Empieza a revisar su práctica pendiente.",
+        "3": "Escribe una nota sobre esta práctica.",
+        "4": "Guarda la nota y sigue.",
+        "5": "Marca una práctica como vista sin nota.",
+        "6": "Ve directamente al resumen.",
+        "7": "Envía tus comentarios al paciente.",
+        "8": "Tus notas ya aparecen en su perfil."
+      }
+    },
+    "generate_report": {
+      "title": "Genera un informe",
+      "web": {
+        "1": "Empieza un nuevo informe desde la página de informes.",
+        "2": "Empieza a grabar la sesión.",
+        "3": "Detén la grabación cuando termine la sesión.",
+        "4": "Abre la lista de pacientes.",
+        "5": "Elige el paciente de esta sesión.",
+        "6": "Abre la lista de tipos de informe.",
+        "7": "Elige el tipo de informe que necesitas.",
+        "8": "Confirma que el paciente aceptó esta grabación.",
+        "9": "Sube la grabación para redactar el informe.",
+        "10": "El borrador del informe se abre aquí, listo para revisar."
+      }
+    },
+    "edit_report": {
+      "title": "Edita un informe",
+      "web": {
+        "1": "Abre los informes desde el menú.",
+        "2": "Abre el informe que quieres editar.",
+        "3": "Empieza a editar el informe.",
+        "4": "Revisa cada frase y corrige lo que haga falta.",
+        "5": "Guarda los cambios.",
+        "6": "Confirma el informe cuando lo hayas revisado.",
+        "7": "Confirma el informe y elimina su grabación.",
+        "8": "El informe queda confirmado y la transcripción se conserva."
+      }
+    },
+    "user_management": {
+      "title": "Invita a alguien a tu clínica",
+      "web": {
+        "1": "Abre el menú de administración.",
+        "2": "Abre la lista de usuarios.",
+        "3": "Empieza una nueva invitación.",
+        "4": "Escribe el correo electrónico de la persona.",
+        "5": "Elige su función en la clínica.",
+        "6": "Envía la invitación.",
+        "7": "La invitación se envía y aparece en la lista de pendientes."
+      }
+    },
+    "tenant_settings": {
+      "title": "Cambia la configuración de tu clínica",
+      "web": {
+        "1": "Abre el menú de administración.",
+        "2": "Abre la configuración de la clínica.",
+        "3": "Edita el nombre de la clínica.",
+        "4": "Define aquí el logotipo, los colores y el idioma.",
+        "5": "Guarda los cambios.",
+        "6": "Un mensaje arriba confirma que se ha guardado."
+      }
+    },
+    "account_settings": {
+      "title": "Cambia tu contraseña",
+      "web": {
+        "1": "Abre la configuración de tu cuenta desde el menú.",
+        "2": "Los datos y las preferencias de tu cuenta están en esta página.",
+        "3": "Escribe tu contraseña actual.",
+        "4": "Escribe la nueva contraseña y repítela debajo.",
+        "5": "Guarda la nueva contraseña."
+      }
+    }
   }
 }
