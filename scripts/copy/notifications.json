@@ -1,0 +1,8 @@
+{
+  "chatbot.send_failed": { "en": "Couldn't send. Try again.", "pt": "Não foi possível enviar. Tenta novamente.", "es": "No se pudo enviar. Inténtalo de nuevo." },
+  "notifications.reminders_stop.body": { "en": "One reminder a day, at a time you pick.", "pt": "Um lembrete por dia, à hora que escolheres.", "es": "Un recordatorio al día, a la hora que elijas." },
+  "notifications.reminders_stop.body_caregiver": { "en": "One reminder a day, at a time that suits you both.", "pt": "Um lembrete por dia, à hora que vos der mais jeito.", "es": "Un recordatorio al día, a la hora que mejor os venga." },
+  "caregiver_ask.empty_hint": { "en": "The answers come from material written for parents.", "pt": "As respostas vêm de material escrito para pais.", "es": "Las respuestas vienen de material escrito para padres." },
+  "caregiver_ask.send_failed": { "en": "That did not go through. Try again.", "pt": "Não foi enviada. Tenta de novo.", "es": "No se envió. Inténtalo de nuevo." },
+  "messages.no_therapist_description": { "en": "You don't have a therapist assigned yet. Your clinic can set that up.", "pt": "Ainda não tens terapeuta atribuído. A clínica pode tratar disso.", "es": "Todavía no tienes terapeuta asignado. Tu clínica puede encargarse de ello." }
+}

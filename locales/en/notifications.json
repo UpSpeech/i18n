@@ -125,9 +125,73 @@
       "learning_path_completed_desc_caregiver": "When your child finishes every step in their plan",
       "path_work_assigned_desc_caregiver": "When your child's therapist adds a step to their plan"
     },
-    "your_practice_caregiver": "Your child's practice"
+    "your_practice_caregiver": "Your child's practice",
+    "channels": "Channels",
+    "notification_settings_push_off_note": "Phone notifications are off. Turn them on above to use these switches.",
+    "push_permission_askable": "Turn on notifications to hear from your therapist between sessions.",
+    "push_permission_askable_named": "Turn on notifications to hear from {{therapist}} between sessions.",
+    "push_permission_blocked": "Notifications are off for UpSpeech on this device. Turn them on in Settings.",
+    "push_permission_blocked_named": "Notifications are off for UpSpeech on this device. Turn them on in Settings.",
+    "push_permission_enable": "Turn on notifications",
+    "push_permission_open": "Open settings",
+    "per_type": "By notification type",
+    "digest": {
+      "immediate": "Immediate",
+      "daily": "Daily digest",
+      "weekly": "Weekly digest"
+    },
+    "quiet_hours_enable": "Enable quiet hours",
+    "time_hint": "Enter time as HH:MM (e.g. 22:00)"
   },
   "rate_limited": "Notified {{hours}}h ago",
   "empty_what_therapist": "Messages from your patients and reminders about their practice appear here.",
-  "empty_what_caregiver": "Messages from your child's therapist and reminders about their practice appear here."
+  "empty_what_caregiver": "Messages from your child's therapist and reminders about their practice appear here.",
+  "inbox": {
+    "title": "Notifications",
+    "empty": "All caught up!",
+    "empty_description": "Updates from your therapist and progress milestones will appear here.",
+    "empty_description_named": "Updates from {{therapist}} and progress milestones will appear here.",
+    "mark_all_read": "Mark all read",
+    "just_now": "Just now",
+    "minutes_ago": "{{count}}m ago",
+    "hours_ago": "{{count}}h ago",
+    "days_ago": "{{count}}d ago",
+    "empty_description_therapist": "New submissions and messages from your patients will appear here.",
+    "empty_description_caregiver": "Updates from your child's therapist and about their practice will appear here."
+  },
+  "type_short": {
+    "inactive_patient": "Inactive patient",
+    "path_ran_out": "Plan has nothing next",
+    "missing_feedback": "Missing feedback",
+    "practice_reminder": "Practice reminder",
+    "therapist_feedback": "Therapist feedback",
+    "milestone_unlocked": "Milestone unlocked",
+    "goal_completed": "Goal completed",
+    "learning_path_paused": "Plan paused",
+    "learning_path_resumed": "Plan resumed",
+    "learning_path_completed": "Plan finished",
+    "path_work_assigned": "New practice",
+    "direct_message": "New message"
+  },
+  "reminders_stop": {
+    "title": "Shall we remind you to practise?",
+    "title_caregiver": "A reminder to practise with {{child}}",
+    "body": "One reminder a day, at a time you pick.",
+    "body_caregiver": "One reminder a day, at a time that suits you both.",
+    "change_later": "You can change this any time in Settings.",
+    "enable": "Turn on reminders",
+    "title_clinician": "Turn on notifications?",
+    "body_clinician": "We'll tell you when a recording is waiting for your review or a patient has stopped practising.",
+    "enable_clinician": "Turn on notifications"
+  },
+  "reminder_card": {
+    "title": "Daily reminder",
+    "change": "Change",
+    "at_hour": "at {{hour}}:00",
+    "load_failed": "Your daily reminder did not load."
+  },
+  "reminder": {
+    "earlier": "15 minutes earlier",
+    "later": "15 minutes later"
+  }
 }

@@ -128,9 +128,73 @@
       "learning_path_completed_desc_caregiver": "Quando a tua criança termina todos os passos do plano",
       "path_work_assigned_desc_caregiver": "Quando o terapeuta da tua criança acrescenta um passo ao plano"
     },
-    "your_practice_caregiver": "A prática da tua criança"
+    "your_practice_caregiver": "A prática da tua criança",
+    "channels": "Canais",
+    "notification_settings_push_off_note": "As notificações no telemóvel estão desligadas. Liga-as acima para usar estes interruptores.",
+    "push_permission_askable": "Ativa as notificações para receberes mensagens do teu terapeuta entre sessões.",
+    "push_permission_askable_named": "Ativa as notificações para receberes mensagens {{therapist, de}} entre sessões.",
+    "push_permission_blocked": "As notificações da UpSpeech estão desativadas neste dispositivo. Ativa-as nas Definições.",
+    "push_permission_blocked_named": "As notificações da UpSpeech estão desativadas neste dispositivo. Ativa-as nas Definições.",
+    "push_permission_enable": "Ativar notificações",
+    "push_permission_open": "Abrir definições",
+    "per_type": "Por tipo de notificação",
+    "digest": {
+      "immediate": "Imediato",
+      "daily": "Resumo diário",
+      "weekly": "Resumo semanal"
+    },
+    "quiet_hours_enable": "Ativar horas de silêncio",
+    "time_hint": "Introduz a hora como HH:MM (ex. 22:00)"
   },
   "rate_limited": "Notificado há {{hours}}h",
   "empty_what_therapist": "As mensagens dos teus pacientes e os lembretes sobre a prática deles aparecem aqui.",
-  "empty_what_caregiver": "As mensagens do terapeuta e os lembretes sobre a prática da tua criança aparecem aqui."
+  "empty_what_caregiver": "As mensagens do terapeuta e os lembretes sobre a prática da tua criança aparecem aqui.",
+  "inbox": {
+    "title": "Notificações",
+    "empty": "Tudo em dia!",
+    "empty_description": "Atualizações do teu terapeuta e marcos de progresso aparecerão aqui.",
+    "empty_description_named": "Atualizações {{therapist, de}} e marcos de progresso aparecerão aqui.",
+    "mark_all_read": "Marcar todas como lidas",
+    "just_now": "Agora",
+    "minutes_ago": "{{count}}min atrás",
+    "hours_ago": "{{count}}h atrás",
+    "days_ago": "{{count}}d atrás",
+    "empty_description_therapist": "As novas submissões e mensagens dos teus pacientes aparecerão aqui.",
+    "empty_description_caregiver": "As atualizações do terapeuta e sobre a prática da tua criança aparecerão aqui."
+  },
+  "type_short": {
+    "inactive_patient": "Paciente inativo",
+    "path_ran_out": "Plano sem nada a seguir",
+    "missing_feedback": "Feedback pendente",
+    "practice_reminder": "Lembrete de prática",
+    "therapist_feedback": "Feedback recebido",
+    "milestone_unlocked": "Marco desbloqueado",
+    "goal_completed": "Objetivo concluído",
+    "learning_path_paused": "Plano em pausa",
+    "learning_path_resumed": "Plano retomado",
+    "learning_path_completed": "Plano concluído",
+    "path_work_assigned": "Nova prática",
+    "direct_message": "Mensagem nova"
+  },
+  "reminders_stop": {
+    "title": "Queres um lembrete para praticar?",
+    "title_caregiver": "Um lembrete para praticar com {{child, o}}",
+    "body": "Um lembrete por dia, à hora que escolheres.",
+    "body_caregiver": "Um lembrete por dia, à hora que vos der mais jeito.",
+    "change_later": "Podes mudar isto a qualquer altura nas Definições.",
+    "enable": "Ativar lembretes",
+    "title_clinician": "Ativar notificações?",
+    "body_clinician": "Avisamos-te quando uma gravação está à espera da tua revisão ou quando um paciente deixa de praticar.",
+    "enable_clinician": "Ativar notificações"
+  },
+  "reminder_card": {
+    "title": "Lembrete diário",
+    "change": "Mudar",
+    "at_hour": "às {{hour}}:00",
+    "load_failed": "O teu lembrete diário não carregou."
+  },
+  "reminder": {
+    "earlier": "15 minutos mais cedo",
+    "later": "15 minutos mais tarde"
+  }
 }
