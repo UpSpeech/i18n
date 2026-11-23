@@ -1,0 +1,4 @@
+{
+  "learning_path.paused_description": { "en": "Your therapist has paused your journey.", "pt": "O teu terapeuta colocou a tua jornada em pausa.", "es": "Tu terapeuta ha puesto tu camino en pausa." },
+  "learning_path.paused_description_named": { "en": "{{therapist}} has paused your journey.", "pt": "{{therapist, o_start}} colocou a tua jornada em pausa.", "es": "{{therapist}} ha puesto tu camino en pausa." }
+}

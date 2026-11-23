@@ -266,6 +266,27 @@
       "more_waiting_other": "and {{count}} more",
       "check_in_history": "Recent check-ins",
       "last_check_in": "Last check-in"
+    },
+    "home": {
+      "name_prefix": "Dr.",
+      "name_prefix_he": "Dr.",
+      "name_prefix_she": "Dr.",
+      "patients_assigned_one": "{{count}} patient assigned",
+      "patients_assigned_other": "{{count}} patients assigned",
+      "patients_assigned": "{{count}} patients assigned",
+      "platform_patients_one": "{{count}} patient on the platform",
+      "platform_patients_other": "{{count}} patients on the platform",
+      "platform_patients": "{{count}} patients on the platform",
+      "view_analytics": "View analytics",
+      "inactive_title": "Inactive patients",
+      "inactive_days": "{{count}}d inactive",
+      "inactive_no_activity": "Never started",
+      "just_now": "Just now",
+      "minutes_ago": "{{count}}min ago",
+      "hours_ago": "{{count}}h ago",
+      "days_ago": "{{count}}d ago",
+      "processed_recordings": "Processed recordings awaiting review",
+      "view_all_submissions": "View all submissions"
     }
   },
   "owner": {

@@ -776,7 +776,8 @@
       "type": {
         "recording": "Grabación",
         "reflection": "Respuesta escrita",
-        "real_world": "Tarea en la vida real"
+        "real_world": "Tarea en la vida real",
+        "label": "Tipo"
       },
       "type_hint": {
         "recording": "{{name}} hace una grabación",
@@ -791,7 +792,8 @@
       "recording": {
         "required": "Obligatoria",
         "optional": "Opcional",
-        "none": "Sin grabación"
+        "none": "Sin grabación",
+        "label": "Grabación"
       },
       "recording_hint": {
         "required": "{{name}} graba la práctica.",
@@ -840,9 +842,12 @@
         "count_after_one": "práctica",
         "count_after_other": "prácticas",
         "any": "{{name}}, después de cualquier práctica",
-        "only_you": "Solo tú"
+        "only_you": "Solo tú",
+        "label": "Quién termina el paso",
+        "count_required": "Elige de 1 a 99 prácticas."
       },
-      "completion_count_required": "Elige de 1 a 99 prácticas."
+      "completion_count_required": "Elige de 1 a 99 prácticas.",
+      "path_composer_preview_no_description": "Aquí va qué hacer."
     },
     "dashboard_title": "Rutas de aprendizaje",
     "dashboard_subtitle": "Monitorea y gestiona las rutas de aprendizaje de tus pacientes",
@@ -874,7 +879,20 @@
       "reordered": "Ruta reordenada",
       "reordered_named": "\"{{name}}\" movido",
       "step_added": "Paso añadido a la ruta",
-      "step_removed": "Paso eliminado"
+      "step_removed": "Paso eliminado",
+      "step_moved_up_to": "“{{name}}” subió a {{position}}",
+      "step_moved_down_to": "“{{name}}” bajó a {{position}}",
+      "step_moved_to_goal": "“{{name}}” pasó a {{goal}}",
+      "change_closed": "Cerrado",
+      "change_skipped": "Omitido",
+      "skipped_on": "Omitido el {{date}}",
+      "skipped_range": "{{from}} a {{to}} omitidos · {{date}}",
+      "skipped_one": "{{from}} omitido · {{date}}",
+      "start_toast_one": "{{number}} iniciado. {{count}} paso omitido.",
+      "start_toast_other": "{{number}} iniciado. {{count}} pasos omitidos.",
+      "assign_step": "Asignar este paso",
+      "was_position": "era {{position}}",
+      "move_to_goal_menu": "Mover a otro objetivo…"
     },
     "goal_fraction": "{{done}} de {{total}} en {{goal}}",
     "lifetime_steps_one": "{{count}} paso completado",
@@ -882,12 +900,12 @@
     "no_path": "Sin ruta",
     "no_path_title": "Sin ruta de aprendizaje",
     "no_path_description": "Este paciente aún no tiene una ruta de aprendizaje.",
-    "no_path_title_patient": "Tu recorrido empieza pronto",
+    "no_path_title_patient": "Tu camino empieza pronto",
     "no_path_description_patient": "Tu terapeuta está preparando un programa personalizado para ti. Te avisaremos cuando esté listo.",
     "no_path_description_patient_named": "{{therapist}} está preparando un programa personalizado para ti. Te avisaremos cuando esté listo.",
     "status": {
       "active": "Activo",
-      "paused": "Pausado",
+      "paused": "En pausa",
       "completed": "Completado",
       "in_progress": "En progreso",
       "skipped": "Saltado",
@@ -997,7 +1015,11 @@
       "practice_recorded": "Práctica registrada",
       "practice_done": "Práctica completada",
       "queue_counter": "{{current}} de {{total}} logros",
-      "tap_hint_dynamic": "Pulsa {{label}} para continuar"
+      "tap_hint_dynamic": "Pulsa {{label}} para continuar",
+      "step_subtitle": "Bien hecho.",
+      "milestone_subtitle": "¡Felicidades por completar {{title}}!",
+      "journey_subtitle": "Has completado tu ruta de aprendizaje. ¡Bien hecho!",
+      "finish": "Finalizar"
     },
     "exercise_title": "Título",
     "exercise_title_placeholder": "Ingresa un título personalizado...",
@@ -1289,9 +1311,9 @@
     "not_started": "No iniciado",
     "pause_audio": "Pausar audio",
     "pause_impact": "El paciente no puede practicar hasta que lo reanudes.",
-    "paused_description": "Tu terapeuta ha pausado tu programa. Esto es normal. Una pausa corta forma parte del proceso.",
-    "paused_description_named": "{{therapist}} ha pausado tu programa. Esto es normal. Una pausa corta forma parte del proceso.",
-    "paused_reassurance": "Tu progreso está guardado y esperándote.",
+    "paused_description": "Tu terapeuta ha puesto tu camino en pausa.",
+    "paused_description_named": "{{therapist}} ha puesto tu camino en pausa.",
+    "paused_reassurance": "Tu progreso está guardado y te espera.",
     "paused_title": "Tu recorrido está en pausa",
     "play_audio": "Reproducir audio",
     "progress_summary": "{{completed}} de {{total}} pasos",
@@ -1500,7 +1522,9 @@
           "balloon": "Globo",
           "bear": "Oso",
           "fish": "Pececito dorado",
-          "zap": "Rayo"
+          "zap": "Rayo",
+          "got": "¡{{child}} ha conseguido: {{sticker}}!",
+          "got_shiny": "¡{{child}} ha conseguido una pegatina brillante: {{sticker}}!"
         },
         "goal_your_step": "Tu paso ahora",
         "child_path_title": "El camino de {{child}}",
@@ -1527,8 +1551,27 @@
         "empty_finished_title": "{{child}} terminó el plan",
         "empty_finished_hint": "Todos los pasos están hechos. Habla con su terapeuta sobre lo que viene después.",
         "empty_no_open_step_title": "No hay ningún paso abierto para {{child}} ahora",
-        "empty_no_open_step_hint": "El plan está en marcha, pero hoy no hay nada que practicar. Habla con su terapeuta si esperabas un paso."
-      }
+        "empty_no_open_step_hint": "El plan está en marcha, pero hoy no hay nada que practicar. Habla con su terapeuta si esperabas un paso.",
+        "patient_support": "Empieza cada frase con suavidad. Tu práctica va directamente a {{therapist}}.",
+        "done_eyebrow": "Hecho por hoy",
+        "rest_title": "Nada previsto para hoy",
+        "practise_again": "Practicar otra vez",
+        "practise_anyway": "Practicar de todos modos",
+        "about_minutes": "unos {{count}} min",
+        "stickers_peek_next": "Practica un día elegido para ganar {{sticker}}",
+        "stickers_peek_choose": "Elige los días de práctica para ganar {{sticker}}",
+        "stickers_peek_therapist": "Las pegatinas empiezan cuando el terapeuta de {{child}} fije los días de práctica",
+        "stickers_peek_label": "Pegatinas por ganar: {{list}}"
+      },
+      "today_week_sentence_done": "{{done}} de {{planned}} días de práctica hechos esta semana.",
+      "today_week_sentence_done_one": "{{done}} de {{count}} día de práctica hecho esta semana.",
+      "today_week_sentence_done_other": "{{done}} de {{count}} días de práctica hechos esta semana.",
+      "today_week_sentence_first": "Hoy es el primero de {{planned}} días de práctica esta semana.",
+      "today_week_sentence_first_one": "Hoy es el único día de práctica esta semana.",
+      "today_week_sentence_first_other": "Hoy es el primero de {{count}} días de práctica esta semana.",
+      "today_week_sentence_next": "{{done}} de {{planned}} días de práctica hechos hasta ahora esta semana.",
+      "today_week_sentence_next_one": "{{done}} de {{count}} día de práctica hecho hasta ahora esta semana.",
+      "today_week_sentence_next_other": "{{done}} de {{count}} días de práctica hechos hasta ahora esta semana."
     },
     "sharing": {
       "exclude": "Mantener fuera de las sugerencias",
@@ -1687,7 +1730,20 @@
       "table_severity": "SR 0-9",
       "table_latest_comment": "Último comentario, {{date}}",
       "card_difficulty": "Dificultad {{value}} de 5",
-      "card_severity": "Tartamudez {{value}} de 9 · {{label}}"
+      "card_severity": "Tartamudez {{value}} de 9 · {{label}}",
+      "judgment_note_placeholder": "¿Algo que el terapeuta deba saber?",
+      "severity_value": {
+        "0": "sin tartamudez",
+        "1": "extremadamente leve",
+        "2": "muy leve",
+        "3": "leve",
+        "4": "leve a moderada",
+        "5": "moderada",
+        "6": "moderada a grave",
+        "7": "grave",
+        "8": "muy grave",
+        "9": "extremadamente grave"
+      }
     },
     "legend_key": "Leyenda",
     "goals_finished_one": "{{count}} objetivo completado",
@@ -1720,7 +1776,9 @@
       "empty_hint": "Lo construye su terapeuta. Aparece aquí en cuanto lo haga.",
       "load_failed": "El plan no cargó. Inténtalo de nuevo en un momento.",
       "practise_again": "Practicar un paso otra vez",
-      "practise_again_hint": "Elige un paso de abajo para practicarlo otra vez."
+      "practise_again_hint": "Elige un paso de abajo para practicarlo otra vez.",
+      "plan_load_failed": "El plan no cargó. Desliza para intentarlo otra vez.",
+      "step_in_progress": "Trabajando en esto ahora"
     },
     "caregiver_guide_step": "Paso {{n}} de {{total}}",
     "caregiver_practice_with": "Practicar con {{child}}",
@@ -1767,7 +1825,24 @@
       "marker_intro": "Resumen",
       "marker_exercise": "Practicar",
       "marker_done": "Hecho",
-      "marker_label": "Dónde estás en este paso"
+      "marker_label": "Dónde estás en este paso",
+      "therapist_note": "Nota del terapeuta",
+      "acknowledge": "¡Entendido, gracias!",
+      "acknowledge_he": "¡Entendido, gracias!",
+      "acknowledge_she": "¡Entendido, gracias!",
+      "acknowledged_message": "Tu terapeuta ha marcado este paso como completo.",
+      "submissions": "envío",
+      "submissions_plural": "envíos",
+      "not_found": "Paso no encontrado.",
+      "load_failed": "No se pudo cargar este paso. Desliza hacia abajo para actualizar.",
+      "patient_ready": "Tu terapeuta ha aprobado este paso. Continúa cuando quieras.",
+      "therapist_advances": "Practica este paso tantas veces como quieras. Tu terapeuta abre el siguiente después de tu sesión.",
+      "practicing_waiting_for_review": "¡Buen trabajo! Tu terapeuta revisará tu progreso y abrirá el siguiente paso. Sigue practicando mientras tanto.",
+      "complete_failed": "No se pudo marcar este paso como completado. Inténtalo en un momento.",
+      "title_fallback": "Paso",
+      "sessions_done_one": "{{count}} sesión hecha",
+      "sessions_done_other": "{{count}} sesiones hechas",
+      "step_phase_saved_body_caregiver": "Guardado. El terapeuta de {{child}} verá cómo fue."
     },
     "aids": {
       "section": "Ayudas",
@@ -1808,7 +1883,9 @@
       "document_failed": "No se puede mostrar este documento aquí.",
       "saved": "Ayudas guardadas",
       "processing_badge": "Preparando",
-      "retire_confirm": "Quitar"
+      "retire_confirm": "Quitar",
+      "aids_processing": "Procesando",
+      "saving": "Guardando"
     },
     "next_step": "Lo siguiente: {{title}}",
     "from_therapist": "De tu terapeuta",
@@ -1886,7 +1963,25 @@
       "goal_kept_started": "{{name}} ya empezó este objetivo. Los objetivos con progreso no se pueden quitar.",
       "goal_kept_curriculum": "Los objetivos del currículo no se pueden quitar.",
       "goal_name_kept_title": "{{title}} conserva su nombre",
-      "goal_name_kept_started": "{{name}} ya empezó este objetivo. Su nombre ya no puede cambiar."
+      "goal_name_kept_started": "{{name}} ya empezó este objetivo. Su nombre ya no puede cambiar.",
+      "freeze_line": "Aún por hacer",
+      "goal_name": "Nombre del objetivo",
+      "path_editor_move_step_down": "Mover abajo",
+      "path_editor_move_step_up": "Mover arriba",
+      "move_to_goal": "Mover a {{goal}}",
+      "remove_confirm": "¿Quitar {{title}} de la ruta?",
+      "remove_step": "Quitar de la ruta",
+      "start_now": "Empezar este paso",
+      "start_now_title": "¿Empezar ya este paso?",
+      "keep_only": "Dejar solo este paso abierto",
+      "keep_only_title": "¿Dejar solo este paso abierto?",
+      "start_group_done": "Se marcan como hechos, ya practicados",
+      "start_group_skipped_open": "Se saltan, aún sin práctica",
+      "start_group_requeued_open": "Vuelven a esperar su turno, aún sin práctica",
+      "start_group_skipped_waiting": "Se saltan, aún no alcanzados",
+      "start_nothing_else": "Nada más cambia en la ruta.",
+      "step_actions": "Acciones del paso",
+      "steps_progress": "{{done}} de {{total}} pasos"
     },
     "view": {
       "title": "Ruta",
@@ -1951,7 +2046,8 @@
         "count_other": "{{name}} puede terminar este paso tras {{count}} prácticas.",
         "dose_auto": "Este paso se termina solo después de cumplir la dosis.",
         "count_auto_one": "Este paso se termina solo tras {{count}} práctica.",
-        "count_auto_other": "Este paso se termina solo tras {{count}} prácticas."
+        "count_auto_other": "Este paso se termina solo tras {{count}} prácticas.",
+        "already_met": "{{name}} ya ha practicado lo suficiente, así que el paso queda terminado cuando guardes."
       },
       "rule_already_met": "{{name}} ya ha practicado lo suficiente, así que el paso queda terminado cuando guardes.",
       "practices_target_one": "{{count}} práctica",
@@ -1976,7 +2072,31 @@
       "total_progress": "{{done}} de {{total}} en total",
       "week_of": "semana {{n}} de {{total}}",
       "once_todo": "Una vez · por hacer",
-      "once_done": "Una vez · hecho"
+      "once_done": "Una vez · hecho",
+      "complete": "Marcar completo",
+      "reopen": "Reabrir paso",
+      "add_feedback": "Agregar retroalimentación",
+      "feedback_placeholder": "Escribe tu retroalimentación...",
+      "notes_placeholder": "Agregar notas del terapeuta...",
+      "notes_saved": "Notas guardadas",
+      "feedback_sent": "Retroalimentación enviada",
+      "feedback_no_target": "Este paciente aún no tiene un paso practicado al que adjuntar comentarios.",
+      "assign_patient": "Asignar paciente",
+      "unassign_patient": "Desasignar paciente",
+      "unassign_confirm_body": "Sigue en la clínica y conserva todo lo que ha hecho. Deja de aparecer en tu lista de pacientes.",
+      "assign_confirm_body": "Aparece en tu lista de pacientes y puedes asignarle práctica.",
+      "assignment_created": "Paciente asignado",
+      "assignment_updated": "Asignación actualizada",
+      "assignment_failed": "Error al actualizar asignación.",
+      "reassign_confirm_body": "El intento anterior se queda donde está. {{step}} vuelve como un paso nuevo.",
+      "reassign_refused_open": "Este paso sigue abierto.",
+      "reassign_refused_path": "Esta ruta aún no está lista para eso.",
+      "path_none_hint": "Crea la ruta de aprendizaje desde la aplicación web. Aparece aquí en cuanto exista.",
+      "path_paused_title": "El plan de {{name}} está en pausa",
+      "path_paused_hint": "La práctica está cerrada hasta que lo reanudes. Reanúdalo desde la aplicación web.",
+      "path_finished_title": "{{name}} ha terminado el plan",
+      "path_waiting_title": "No hay ningún paso abierto para {{name}}",
+      "path_waiting_hint": "Inicia el siguiente desde la pestaña Ruta."
     },
     "keep_practising": "Seguir practicando",
     "draft": {
@@ -2012,7 +2132,18 @@
       "field_text": "Contenido de texto (opcional)",
       "saved": "Ejercicio guardado",
       "deleted": "Ejercicio eliminado"
-    }
+    },
+    "journey_no_path_description": "Tu terapeuta está preparando un camino de aprendizaje personalizado para ti.",
+    "no_path_description_named": "{{therapist}} está preparando un camino de aprendizaje personalizado para ti.",
+    "paused_child": "El terapeuta de {{child}} ha puesto su camino en pausa. Una pausa corta forma parte del proceso.",
+    "step_occurrence": "Asignación {{n}} de {{total}}",
+    "up_next": "Siguiente",
+    "sessions": "Sesiones",
+    "practice_time": "Tiempo de práctica",
+    "message_therapist": "Escribir a tu logopeda",
+    "message_therapist_named": "Escribir a {{therapist}}",
+    "practise_something_done": "Practicar algo que ya has hecho",
+    "step_occurrence_dated": "Asignación {{n}} de {{total}} · {{date}}"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
@@ -2366,5 +2497,6 @@
     "done_title": "¡Lo hicimos!",
     "done_companion": "{{companion}} las escuchó todas.",
     "done_button": "Contárselo a {{name}}"
-  }
+  },
+  "goal": "Renombrar objetivo"
 }

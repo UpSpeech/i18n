@@ -907,7 +907,8 @@
     "naturalness_low": "Very unnatural",
     "naturalness_high": "Completely natural",
     "choose_value": "Choose a value to continue",
-    "submit": "Continue"
+    "submit": "Continue",
+    "label": "Technique rating"
   },
   "recording_duration_hint": "Longer recordings (3+ minutes) help your therapist give better feedback.",
   "recording_duration_hint_named": "Longer recordings (3+ minutes) help {{therapist}} give better feedback.",
@@ -981,12 +982,33 @@
       "soften_only": "Soften only",
       "hint": "Say each one twice: first with tension, then let it go soft. At sentence level, soften only the hard word.",
       "levels": [
-        { "label": "Syllables", "items": ["PRA", "PRE", "PRI", "PRO", "PRU"] },
-        { "label": "Words", "items": ["prize", "press", "proud", "print", "prompt"] },
+        {
+          "label": "Syllables",
+          "items": [
+            "PRA",
+            "PRE",
+            "PRI",
+            "PRO",
+            "PRU"
+          ]
+        },
+        {
+          "label": "Words",
+          "items": [
+            "prize",
+            "press",
+            "proud",
+            "print",
+            "prompt"
+          ]
+        },
         {
           "label": "Sentences",
           "softenOnly": true,
-          "items": ["The proud prince pressed print.", "Press the prize and stay calm."]
+          "items": [
+            "The proud prince pressed print.",
+            "Press the prize and stay calm."
+          ]
         }
       ]
     },
@@ -1081,7 +1103,23 @@
     "week_no_days": "Pick the days inside each exercise and they show up here.",
     "child_moment_title": "We did it!",
     "child_moment_companion": "{{companion}} heard them all.",
-    "child_moment_button": "Tell {{name}}"
+    "child_moment_button": "Tell {{name}}",
+    "homework_progress": "{{done}} of {{total}} sessions",
+    "row_dose_one": "Once a week, up to {{minutes}} minutes",
+    "row_dose_other": "{{count}} times a week, up to {{minutes}} minutes",
+    "row_progress": "{{done}} of {{total}} sessions done",
+    "row_not_started": "Not started yet",
+    "today_ceiling": "Up to {{minutes}} minutes, or until it stops being fun.",
+    "today_button": "Practise now",
+    "today_done_title": "Done for today",
+    "today_done_body": "See you {{next}}, the next practice day.",
+    "next_tomorrow": "tomorrow",
+    "homework_pill_times": "{{count}}× a week",
+    "homework_pill_times_one": "{{count}}× a week",
+    "report_failed": "The report did not go through. Try again.",
+    "homework_offapp_note": "Put the phone down for the practice itself. Come back here when you are done.",
+    "week_caption": "{{done}} days practised this week, {{planned}} chosen",
+    "assigned": "Homework assigned"
   },
   "parameter": {
     "road_length": "Road · {{count}}s",
@@ -1239,5 +1277,42 @@
   },
   "technique_practice": {
     "default_instructions": "Say it out loud, in your own words."
+  },
+  "technique_names": {
+    "voluntary_stuttering": "Voluntary stuttering (stutter on purpose)",
+    "holding": "Holding (stay in the stutter)",
+    "pull_out": "Pull-out (ease out mid-stutter)",
+    "cancellation": "Cancellation (pause, then retry smoothly)",
+    "easy_onset": "Easy onset (start words gently)",
+    "pause": "Pause (breathe before speaking)"
+  },
+  "assignment": {
+    "overdue": "Overdue",
+    "overdue_by_one": "{{count}} day overdue",
+    "overdue_by_other": "{{count}} days overdue",
+    "overdue_count_one": "{{count}} overdue",
+    "overdue_count_other": "{{count}} overdue",
+    "create_title": "New assignment",
+    "step_select_game": "Select exercise",
+    "step_select_patient": "Select patient",
+    "step_schedule": "Set schedule",
+    "step_review": "Review",
+    "start_date": "Start date",
+    "duration_days": "Duration (days)",
+    "expected_completions": "Expected completions",
+    "advice_label": "Advice for patient",
+    "advice_placeholder": "Tips or encouragement...",
+    "create_button": "Create assignment",
+    "created": "Assignment created",
+    "search_games": "Search exercises...",
+    "deadline_label": "Deadline: {{date}}"
+  },
+  "assignments": {
+    "empty": "No exercises here",
+    "empty_overdue": "Nothing overdue",
+    "empty_overdue_description": "Everything your therapist assigned is still on schedule.",
+    "empty_overdue_description_named": "Everything {{therapist}} assigned is still on schedule.",
+    "empty_description": "Assignments your therapist gives you will show up here.",
+    "empty_description_named": "Assignments {{therapist}} gives you will show up here."
   }
 }

@@ -776,7 +776,8 @@
       "type": {
         "recording": "Recording",
         "reflection": "Written answer",
-        "real_world": "Real-world task"
+        "real_world": "Real-world task",
+        "label": "Type"
       },
       "type_hint": {
         "recording": "{{name}} records it",
@@ -791,7 +792,8 @@
       "recording": {
         "required": "Required",
         "optional": "Optional",
-        "none": "No recording"
+        "none": "No recording",
+        "label": "Recording"
       },
       "recording_hint": {
         "required": "{{name}} records the practice.",
@@ -840,9 +842,12 @@
         "count_after_one": "practice",
         "count_after_other": "practices",
         "any": "{{name}}, after any practice",
-        "only_you": "Only you"
+        "only_you": "Only you",
+        "label": "Who completes the step",
+        "count_required": "Pick 1 to 99 practices."
       },
-      "completion_count_required": "Pick 1 to 99 practices."
+      "completion_count_required": "Pick 1 to 99 practices.",
+      "path_composer_preview_no_description": "What to do goes here."
     },
     "dashboard_title": "Learning paths",
     "dashboard_subtitle": "Monitor and manage your patients' learning paths",
@@ -874,7 +879,20 @@
       "reordered": "Path reordered",
       "reordered_named": "Moved \"{{name}}\"",
       "step_added": "Step added to the path",
-      "step_removed": "Step removed"
+      "step_removed": "Step removed",
+      "step_moved_up_to": "Moved “{{name}}” up to {{position}}",
+      "step_moved_down_to": "Moved “{{name}}” down to {{position}}",
+      "step_moved_to_goal": "Moved “{{name}}” to {{goal}}",
+      "change_closed": "Closed",
+      "change_skipped": "Skipped",
+      "skipped_on": "Skipped {{date}}",
+      "skipped_range": "{{from}} to {{to}} skipped · {{date}}",
+      "skipped_one": "{{from}} skipped · {{date}}",
+      "start_toast_one": "Started {{number}}. {{count}} step skipped.",
+      "start_toast_other": "Started {{number}}. {{count}} steps skipped.",
+      "assign_step": "Assign this step",
+      "was_position": "was {{position}}",
+      "move_to_goal_menu": "Move to another goal…"
     },
     "goal_fraction": "{{done}} of {{total}} in {{goal}}",
     "lifetime_steps_one": "{{count}} step completed",
@@ -988,7 +1006,11 @@
       "practice_recorded": "Practice recorded",
       "practice_done": "Practice done",
       "queue_counter": "{{current}} of {{total}} achievements",
-      "tap_hint_dynamic": "Press {{label}} to continue"
+      "tap_hint_dynamic": "Press {{label}} to continue",
+      "step_subtitle": "Well done.",
+      "milestone_subtitle": "Congratulations on completing {{title}}!",
+      "journey_subtitle": "You've completed your learning path. Well done!",
+      "finish": "Finish"
     },
     "step_subtitle": "Step {{number}}",
     "back_to_journey": "Back to journey",
@@ -1289,8 +1311,8 @@
     "not_started": "Not started",
     "pause_audio": "Pause audio",
     "pause_impact": "The patient cannot practise until you resume.",
-    "paused_description": "Your therapist has paused your programme. This is normal. A short break is part of the process.",
-    "paused_description_named": "{{therapist}} has paused your programme. This is normal. A short break is part of the process.",
+    "paused_description": "Your therapist has paused your journey.",
+    "paused_description_named": "{{therapist}} has paused your journey.",
     "paused_reassurance": "Your progress is saved and waiting for you.",
     "paused_title": "Your journey is on pause",
     "play_audio": "Play audio",
@@ -1500,7 +1522,9 @@
           "balloon": "Balloon",
           "bear": "Bear",
           "fish": "Goldfish",
-          "zap": "Zap"
+          "zap": "Zap",
+          "got": "{{child}} got {{sticker}}!",
+          "got_shiny": "{{child}} got a shiny {{sticker}}!"
         },
         "goal_your_step": "Your step now",
         "child_path_title": "{{child}}'s path",
@@ -1527,8 +1551,27 @@
         "empty_finished_title": "{{child}} finished the plan",
         "empty_finished_hint": "Every step is done. Chat with their therapist about what comes next.",
         "empty_no_open_step_title": "No step is open for {{child}} right now",
-        "empty_no_open_step_hint": "The plan is in place, but there is nothing to practise today. Chat with their therapist if you expected a step."
-      }
+        "empty_no_open_step_hint": "The plan is in place, but there is nothing to practise today. Chat with their therapist if you expected a step.",
+        "patient_support": "Start each sentence gently. Your practice goes straight to {{therapist}}.",
+        "done_eyebrow": "Done for today",
+        "rest_title": "No practice planned today",
+        "practise_again": "Practise again",
+        "practise_anyway": "Practise anyway",
+        "about_minutes": "about {{count}} min",
+        "stickers_peek_next": "Practise on a chosen day to win {{sticker}}",
+        "stickers_peek_choose": "Choose practice days to win {{sticker}}",
+        "stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
+        "stickers_peek_label": "Stickers to win: {{list}}"
+      },
+      "today_week_sentence_done": "{{done}} of {{planned}} practice days done this week.",
+      "today_week_sentence_done_one": "{{done}} of {{count}} practice day done this week.",
+      "today_week_sentence_done_other": "{{done}} of {{count}} practice days done this week.",
+      "today_week_sentence_first": "Today is the first of {{planned}} practice days this week.",
+      "today_week_sentence_first_one": "Today is the one practice day this week.",
+      "today_week_sentence_first_other": "Today is the first of {{count}} practice days this week.",
+      "today_week_sentence_next": "{{done}} of {{planned}} practice days done so far this week.",
+      "today_week_sentence_next_one": "{{done}} of {{count}} practice day done so far this week.",
+      "today_week_sentence_next_other": "{{done}} of {{count}} practice days done so far this week."
     },
     "sharing": {
       "exclude": "Keep out of suggestions",
@@ -1687,7 +1730,20 @@
       "table_severity": "SR 0-9",
       "table_latest_comment": "Latest comment, {{date}}",
       "card_difficulty": "Difficulty {{value}} of 5",
-      "card_severity": "Stuttering {{value}} of 9 · {{label}}"
+      "card_severity": "Stuttering {{value}} of 9 · {{label}}",
+      "judgment_note_placeholder": "Anything the therapist should know?",
+      "severity_value": {
+        "0": "no stuttering",
+        "1": "extremely mild",
+        "2": "very mild",
+        "3": "mild",
+        "4": "mild to moderate",
+        "5": "moderate",
+        "6": "moderate to severe",
+        "7": "severe",
+        "8": "very severe",
+        "9": "extremely severe"
+      }
     },
     "legend_key": "Key",
     "goals_finished_one": "{{count}} goal finished",
@@ -1720,7 +1776,9 @@
       "empty_hint": "Their therapist builds this. It appears here as soon as they do.",
       "load_failed": "The plan did not load. Try again in a moment.",
       "practise_again": "Practise a step again",
-      "practise_again_hint": "Pick a step below to practise it again."
+      "practise_again_hint": "Pick a step below to practise it again.",
+      "plan_load_failed": "The plan did not load. Pull to try again.",
+      "step_in_progress": "Working on this now"
     },
     "caregiver_guide_step": "Step {{n}} of {{total}}",
     "caregiver_practice_with": "Practise with {{child}}",
@@ -1767,7 +1825,24 @@
       "marker_intro": "Overview",
       "marker_exercise": "Practice",
       "marker_done": "Done",
-      "marker_label": "Where you are in this step"
+      "marker_label": "Where you are in this step",
+      "therapist_note": "Therapist note",
+      "acknowledge": "Got it, thanks!",
+      "acknowledge_he": "Got it, thanks!",
+      "acknowledge_she": "Got it, thanks!",
+      "acknowledged_message": "Your therapist has marked this step as complete.",
+      "submissions": "submission",
+      "submissions_plural": "submissions",
+      "not_found": "Step not found.",
+      "load_failed": "Couldn't load this step. Pull down to refresh.",
+      "patient_ready": "Your therapist has approved this step. Continue when you're ready.",
+      "therapist_advances": "Practise this step as often as you like. Your therapist opens the next one after your session.",
+      "practicing_waiting_for_review": "Nice work! Your therapist will review your progress and open the next step. You can keep practising in the meantime.",
+      "complete_failed": "Couldn't mark this step complete. Try again in a moment.",
+      "title_fallback": "Step",
+      "sessions_done_one": "{{count}} session done",
+      "sessions_done_other": "{{count}} sessions done",
+      "step_phase_saved_body_caregiver": "Saved. {{child}}'s therapist will see how it went."
     },
     "aids": {
       "section": "Aids",
@@ -1808,7 +1883,9 @@
       "document_failed": "This document cannot be shown here.",
       "saved": "Aids saved",
       "processing_badge": "Preparing",
-      "retire_confirm": "Remove"
+      "retire_confirm": "Remove",
+      "aids_processing": "Processing",
+      "saving": "Saving"
     },
     "next_step": "Next: {{title}}",
     "from_therapist": "From your therapist",
@@ -1886,7 +1963,25 @@
       "goal_kept_started": "{{name}} has already started this goal. Goals with progress can't be removed.",
       "goal_kept_curriculum": "Curriculum goals can't be removed.",
       "goal_name_kept_title": "{{title}} keeps its name",
-      "goal_name_kept_started": "{{name}} has already started this goal. Its name can't change now."
+      "goal_name_kept_started": "{{name}} has already started this goal. Its name can't change now.",
+      "freeze_line": "Still to come",
+      "goal_name": "Goal name",
+      "path_editor_move_step_down": "Move down",
+      "path_editor_move_step_up": "Move up",
+      "move_to_goal": "Move to {{goal}}",
+      "remove_confirm": "Remove {{title}} from the path?",
+      "remove_step": "Remove from path",
+      "start_now": "Start this step",
+      "start_now_title": "Start this step now?",
+      "keep_only": "Keep only this step open",
+      "keep_only_title": "Keep only this step open?",
+      "start_group_done": "Marked done, already practised",
+      "start_group_skipped_open": "Skipped, not practised yet",
+      "start_group_requeued_open": "Back to waiting, not practised yet",
+      "start_group_skipped_waiting": "Skipped, not reached yet",
+      "start_nothing_else": "Nothing else on the path changes.",
+      "step_actions": "Step actions",
+      "steps_progress": "{{done}} of {{total}} steps"
     },
     "view": {
       "title": "Path",
@@ -1951,7 +2046,8 @@
         "count_other": "{{name}} can complete this step after {{count}} practices.",
         "dose_auto": "This step completes itself once the dose is met.",
         "count_auto_one": "This step completes itself after {{count}} practice.",
-        "count_auto_other": "This step completes itself after {{count}} practices."
+        "count_auto_other": "This step completes itself after {{count}} practices.",
+        "already_met": "{{name}} has already done this much practice, so the step completes when you save."
       },
       "rule_already_met": "{{name}} has already done this much practice, so the step completes when you save.",
       "practices_target_one": "{{count}} practice",
@@ -1976,7 +2072,31 @@
       "total_progress": "{{done}} of {{total}} in total",
       "week_of": "week {{n}} of {{total}}",
       "once_todo": "Once · not done yet",
-      "once_done": "Once · done"
+      "once_done": "Once · done",
+      "complete": "Mark complete",
+      "reopen": "Reopen step",
+      "add_feedback": "Add feedback",
+      "feedback_placeholder": "Write your feedback...",
+      "notes_placeholder": "Add therapist notes...",
+      "notes_saved": "Notes saved",
+      "feedback_sent": "Feedback sent",
+      "feedback_no_target": "This patient has no practised step to attach feedback to yet.",
+      "assign_patient": "Assign patient",
+      "unassign_patient": "Unassign patient",
+      "unassign_confirm_body": "They stay in the clinic and keep everything they have done. You stop seeing them in your caseload.",
+      "assign_confirm_body": "They appear in your caseload and you can assign them practice.",
+      "assignment_created": "Patient assigned",
+      "assignment_updated": "Assignment updated",
+      "assignment_failed": "Failed to update assignment.",
+      "reassign_confirm_body": "The earlier attempt stays where it is. {{step}} comes back as a new step.",
+      "reassign_refused_open": "This step is still open.",
+      "reassign_refused_path": "This path is not ready for that yet.",
+      "path_none_hint": "Set up the learning path from the web app. It appears here once it exists.",
+      "path_paused_title": "{{name}}'s plan is paused",
+      "path_paused_hint": "Practice is closed until you resume it. Resume it from the web app.",
+      "path_finished_title": "{{name}} has finished the plan",
+      "path_waiting_title": "No step is open for {{name}}",
+      "path_waiting_hint": "Start the next one from the Learning path tab."
     },
     "keep_practising": "Keep practising",
     "draft": {
@@ -2012,7 +2132,18 @@
       "field_text": "Text content (optional)",
       "saved": "Exercise saved",
       "deleted": "Exercise deleted"
-    }
+    },
+    "journey_no_path_description": "Your therapist is setting up a personalised learning path for you.",
+    "no_path_description_named": "{{therapist}} is setting up a personalised learning path for you.",
+    "paused_child": "{{child}}'s therapist has paused their journey. A short break is a normal part of the process.",
+    "step_occurrence": "Assignment {{n}} of {{total}}",
+    "up_next": "Up next",
+    "sessions": "Sessions",
+    "practice_time": "Practice time",
+    "message_therapist": "Message your therapist",
+    "message_therapist_named": "Message {{therapist}}",
+    "practise_something_done": "Practise something you have done before",
+    "step_occurrence_dated": "Assignment {{n}} of {{total}} · {{date}}"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",
@@ -2366,5 +2497,6 @@
     "done_title": "We did it!",
     "done_companion": "{{companion}} heard them all.",
     "done_button": "Tell {{name}}"
-  }
+  },
+  "goal": "Rename goal"
 }

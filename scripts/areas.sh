@@ -30,5 +30,13 @@ case "$1" in
       --parent caregiver_relationship_=dashboard.caregiver.relationship,child_=child_mode,consultation_exercises_=learning_path.consultation_exercises \
       --picks scripts/picks/caregiver.json
     ;;
+  learning_path)
+    node scripts/plan-area.mjs learning_path \
+      --prefixes path_,learning_,step_,homework_,journey_,milestone_,acknowledgment_,aids_,technique_,today_,assignment_,assignments_,plan_,lp_,judgment_,redesign_,therapist_ \
+      --scope learning_path.,exercises.learning_path.,exercises.homework.,dashboard.,exercises.technique_rating.,patients. \
+      --dynamic lp_status_,judgment_severity_value_,redesign_sticker_ \
+      --parent technique_=exercises.technique_names,assignment_=exercises.assignment,assignments_=exercises.assignments,path_=learning_path.editor,therapist_home_=dashboard.therapist.home \
+      --picks scripts/picks/learning_path.json
+    ;;
   *) echo "usage: scripts/areas.sh <area>"; exit 2 ;;
 esac
