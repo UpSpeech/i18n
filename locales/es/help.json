@@ -462,6 +462,55 @@
         "4": "Escribe la nueva contraseña y repítela debajo.",
         "5": "Guarda la nueva contraseña."
       }
+    },
+    "patient_home": {
+      "title": "Conoce tu pantalla de inicio",
+      "web": {
+        "1": "Mira lo que hace cada parte."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Empieza aquí el paso de hoy.",
+            "2": "Mira todos los pasos de tu recorrido.",
+            "3": "Lee y responde los mensajes de tu terapeuta.",
+            "4": "Pregunta lo que quieras sobre tu práctica."
+          }
+        }
+      }
+    },
+    "caregiver_today": {
+      "title": "Conoce la pantalla Hoy",
+      "web": {
+        "1": "Mira lo que hace cada parte."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Empieza la actividad de hoy con el niño.",
+            "2": "El niño gana una pegatina por cada semana de práctica.",
+            "3": "Mira todas las prácticas que has enviado.",
+            "4": "Abre el recorrido del niño y lo que viene después."
+          }
+        }
+      }
+    },
+    "therapist_home": {
+      "title": "Conoce tu panel",
+      "web": {
+        "1": "Mira lo que hace cada parte."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Los pacientes que te necesitan hoy, los más urgentes primero.",
+            "2": "Lo que necesita el paciente elegido, y qué hacer a continuación.",
+            "3": "Graba una sesión y recibe un borrador de informe.",
+            "4": "Encuentra a cualquier paciente por su nombre.",
+            "5": "Pregunta cómo hacer cualquier cosa en UpSpeech."
+          }
+        }
+      }
     }
   }
 }

@@ -462,6 +462,55 @@
         "4": "Type a new password, then repeat it below.",
         "5": "Save the new password."
       }
+    },
+    "patient_home": {
+      "title": "Get to know your home screen",
+      "web": {
+        "1": "Here is what each part does."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Start today's step here.",
+            "2": "See every step on your path.",
+            "3": "Read and answer your therapist's messages.",
+            "4": "Ask anything about your practice."
+          }
+        }
+      }
+    },
+    "caregiver_today": {
+      "title": "Get to know the Today screen",
+      "web": {
+        "1": "Here is what each part does."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Start today's activity with the child.",
+            "2": "The child earns a sticker for each week of practice.",
+            "3": "See every practice you have sent.",
+            "4": "Open the child's path and what comes next."
+          }
+        }
+      }
+    },
+    "therapist_home": {
+      "title": "Get to know your dashboard",
+      "web": {
+        "1": "Here is what each part does."
+      },
+      "callouts": {
+        "web": {
+          "1": {
+            "1": "Patients who need you today, most urgent first.",
+            "2": "What the selected patient needs, and the next thing to do.",
+            "3": "Record a session and get a draft report.",
+            "4": "Find any patient by name.",
+            "5": "Ask how to do anything in UpSpeech."
+          }
+        }
+      }
     }
   }
 }
