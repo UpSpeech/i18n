@@ -722,8 +722,8 @@
     "invites": "Invites",
     "game_catalogue": "Exercise catalogue",
     "resource_library": "Resource library",
-    "profile": "Profile & settings",
-    "walkthrough": "Guide"
+    "walkthrough": "Guide",
+    "profile": "Profile & settings"
   },
   "learning_path": {
     "composer": {
