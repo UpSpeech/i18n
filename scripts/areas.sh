@@ -19,5 +19,8 @@ case "$1" in
       --parent notifications_=notifications.inbox,reminders_stop_=notifications.reminders_stop,reminder_card_=notifications.reminder_card,reminder_=notifications.reminder,messages_day_=messages.day,notification_type_=notifications.type_short \
       --picks scripts/picks/notifications.json
     ;;
+  quiz)
+    node scripts/plan-area.mjs quiz --prefixes quiz.,quiz_ --scope quiz. --picks scripts/picks/quiz.json
+    ;;
   *) echo "usage: scripts/areas.sh <area>"; exit 2 ;;
 esac
