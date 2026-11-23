@@ -418,10 +418,10 @@
   "admin_feedback_status_planned": "feedback.statuses.planned",
   "admin_feedback_status_completed": "feedback.statuses.completed",
   "admin_feedback_status_rejected": "feedback.statuses.rejected",
-  "admin_feedback_category_bug": "feedback.categories.admin_feedback_category_bug",
-  "admin_feedback_category_feature_request": "feedback.categories.feature_request",
-  "admin_feedback_category_improvement": "feedback.categories.improvement",
-  "admin_feedback_category_other": "feedback.categories.other",
+  "admin_feedback_category_bug": "feedback.category_labels.bug",
+  "admin_feedback_category_feature_request": "feedback.category_labels.feature_request",
+  "admin_feedback_category_improvement": "feedback.category_labels.improvement",
+  "admin_feedback_category_other": "feedback.category_labels.other",
   "admin_feedback_updated": "admin.feedback_updated",
   "admin_feedback_priority_low": "feedback.priorities.low",
   "admin_feedback_priority_medium": "feedback.priorities.medium",
@@ -1008,5 +1008,6 @@
   "progress_streak_caption_*": "progress.mobile.streak_caption.*",
   "quick_review_exercise_type_*": "patients.quick_review.exercise_type_labels.*",
   "first_run_patient_*": "onboarding.first_run.patient.*",
-  "first_run_caregiver_*": "onboarding.first_run.caregiver.*"
+  "first_run_caregiver_*": "onboarding.first_run.caregiver.*",
+  "admin_feedback_category_*": "feedback.category_labels.*"
 }

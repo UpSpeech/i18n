@@ -24,8 +24,7 @@
     "bug": "Bug",
     "feature_request": "Feature request",
     "improvement": "Improvement",
-    "other": "Other",
-    "admin_feedback_category_bug": "Bug"
+    "other": "Other"
   },
   "statuses": {
     "new": "New",
@@ -158,5 +157,11 @@
   "no_feedback_submitted": "No feedback has been submitted yet",
   "previous": "← Previous",
   "next": "Next →",
-  "entity_annotation": "Annotation"
+  "entity_annotation": "Annotation",
+  "category_labels": {
+    "bug": "Bug",
+    "feature_request": "Feature request",
+    "improvement": "Improvement",
+    "other": "Other"
+  }
 }
