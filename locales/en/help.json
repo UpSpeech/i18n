@@ -325,7 +325,9 @@
         "5": "Read the briefing, then start the conversation.",
         "6": "The other person speaks first, so listen to them.",
         "7": "Click to start your answer.",
-        "8": "Say your answer, then click again to send it."
+        "8": "Say your answer, then click again to send it.",
+        "9": "Open Chat to read the conversation.",
+        "10": "Read back what you each said."
       }
     },
     "caregiver_first_run": {
