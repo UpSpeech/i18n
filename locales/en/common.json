@@ -2000,6 +2000,18 @@
       "in_step": "Goal {{goal}}, step {{step}}",
       "name_found": "{{where}} mentions {{name}}",
       "in_name": "The template name"
+    },
+    "consultation_exercises": {
+      "create": "New exercise",
+      "empty": "No exercises yet",
+      "empty_hint": "Create your first consultation exercise.",
+      "delete_confirm": "Delete this exercise? This action cannot be undone.",
+      "field_description": "Description",
+      "field_technique": "Technique",
+      "field_difficulty": "Difficulty",
+      "field_text": "Text content (optional)",
+      "saved": "Exercise saved",
+      "deleted": "Exercise deleted"
     }
   },
   "questionnaire": {
@@ -2317,7 +2329,12 @@
     "remove_note": "Remove note",
     "exercise_now": "Exercise now",
     "end_exercise": "End exercise",
-    "games_failed": "The games could not be loaded."
+    "games_failed": "The games could not be loaded.",
+    "intro": "Start recording and do the exercise together. Only the sound is recorded, for {{child}}'s therapist.",
+    "take": "The practice recording is capturing this.",
+    "finished_title": "Finished",
+    "practice_done": "Practice done",
+    "upload_failed": "The recording did not send. Your answer still reaches {{child}}'s therapist."
   },
   "network": {
     "error": "Network error. Please check your connection."
@@ -2336,5 +2353,18 @@
     "required_title": "Time to update",
     "required_body": "This version no longer works. Update to keep practising.",
     "required_action": "Update UpSpeech"
+  },
+  "child_mode": {
+    "hand_over": "Hand to {{name}}",
+    "back_to": "{{name}} →",
+    "grownup_exit": "{{name}}'s turn",
+    "show_first": "Show {{name}} first",
+    "show_first_hint": "A quick hello for {{name}} before you start.",
+    "hello_greeting": "Hi {{name}}!",
+    "hello_line": "Let's practise together.",
+    "hello_go": "Let's go",
+    "done_title": "We did it!",
+    "done_companion": "{{companion}} heard them all.",
+    "done_button": "Tell {{name}}"
   }
 }

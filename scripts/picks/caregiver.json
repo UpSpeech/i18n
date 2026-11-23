@@ -1,0 +1,11 @@
+{
+  "invite_expires": "separate",
+  "invite_resend_failed": "phone",
+  "caregiver_child_age": "separate",
+  "caregiver_guide_report": "separate",
+  "caregiver_aids_intro": "web",
+  "caregiver_session_intro": "separate",
+  "caregiver_session_upload_failed": "separate",
+  "caregiver_together_after": "separate",
+  "caregiver_together_hint": "separate"
+}
