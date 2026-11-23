@@ -1,10 +1,10 @@
 {
   "recording": {
     "press_to_record": "Pulsa para grabar",
-    "tap_to_stop": "Toca para parar",
+    "tap_to_stop": "Toca para detener",
     "release_to_stop": "Suelta para parar",
     "type_selection": "Tipo de grabación",
-    "stop": "Parar grabación",
+    "stop": "Detener grabación",
     "start": "Iniciar grabación",
     "in_progress": "Grabando",
     "framing": {
@@ -12,8 +12,68 @@
       "no_face": "Ponte de frente a la cámara",
       "too_small": "Acércate",
       "off_center": "Centra la cara en el encuadre",
-      "good": "El encuadre está bien"
-    }
+      "good": "El encuadre está bien",
+      "framing_idle": "Mira a la cámara y mantén toda la cara dentro del encuadre"
+    },
+    "type_video": "Video y audio",
+    "type_audio": "Solo audio",
+    "re_record": "Volver a grabar",
+    "tap_start": "Toca para grabar",
+    "saved": "Grabación guardada",
+    "failed": "La grabación no se guardó. Inténtalo de nuevo o revisa el almacenamiento de tu dispositivo.",
+    "permission_denied": "Se necesita acceso a la cámara y el micrófono para grabar.",
+    "grant_access": "Conceder acceso",
+    "action": "Grabar",
+    "intro": "Graba una sesión de terapia en audio. Cuando pares, se sube automáticamente y se genera un informe en borrador. No hace falta asignarlo a un paciente aquí.",
+    "choose_patient": "Elige un paciente",
+    "no_patients": "Añade un paciente antes de grabar una sesión.",
+    "intro_patient": "Graba una sesión de terapia en audio. Cuando pares, se sube automáticamente y se genera un informe en borrador para el paciente que elijas.",
+    "consent_check": "Tengo el consentimiento del paciente para grabar esta sesión.",
+    "hint_background": "La grabación continúa si bloqueas el teléfono o cambias de aplicación. Solo se detiene si cierras la aplicación por completo.",
+    "done_title": "Grabación guardada",
+    "done_body": "Estamos generando el informe. Aparecerá en tus informes en breve.",
+    "queued_body": "Guardada en el dispositivo. Se subirá y generará un informe cuando vuelvas a tener conexión.",
+    "error": "No se pudo guardar la grabación. Inténtalo de nuevo.",
+    "discard_title": "¿Descartar grabación?",
+    "discard_body": "Esta grabación se eliminará y no se guardará.",
+    "keep": "Seguir grabando",
+    "view_report": "Ver informe",
+    "back_to_reports": "Volver a informes",
+    "video": {
+      "not_available": "Video no disponible"
+    },
+    "self_annotation": {
+      "title": "Marca disfluencias",
+      "intro": "Escucha tu grabación y toca Marcar cada vez que detectes una disfluencia. Puedes añadir notas más tarde.",
+      "intro_staff": "Reproduce la grabación y toca Marcar en cada disfluencia que oigas. Puedes añadir notas a una marca más tarde.",
+      "mark_at": "Marcar en {{time}}",
+      "markers": "Marcas ({{count}})",
+      "no_markers": "Aún no hay marcas. Pulsa play y toca Marcar cuando detectes una disfluencia.",
+      "picker_title": "¿Qué tipo de disfluencia?",
+      "picker_at": "En {{time}}",
+      "notes_label": "Notas (opcional)",
+      "notes_placeholder": "¿Qué destacó en este momento?",
+      "load_error": "No se pudo cargar esta grabación.",
+      "save_error": "No se pudo guardar. Vuelve a intentarlo.",
+      "delete_error": "No se pudo eliminar. Vuelve a intentarlo.",
+      "video_only": "{{type}} solo se puede marcar en grabaciones de vídeo.",
+      "video_unsupported": "La anotación de vídeo aún no está disponible en la app móvil. Usa la versión de escritorio para grabaciones de vídeo.",
+      "open_cta": "Marcar disfluencias en esta grabación"
+    },
+    "camera": {
+      "unavailable": "Cámara no disponible"
+    },
+    "sound": {
+      "on": "Activado",
+      "off": "Desactivado"
+    },
+    "recorder": {
+      "error_message": "Algo interrumpió la grabación. Inténtalo de nuevo.",
+      "error_title": "La grabación falló"
+    },
+    "too_small": "La grabación no se guardó correctamente. Por favor, graba de nuevo.",
+    "consent_sheet_title": "Antes de grabar a {{child}}",
+    "consent_sheet_continue": "Aceptar y continuar"
   },
   "hold_button": {
     "press_hold": "Pulsa y mantén",
@@ -23,7 +83,14 @@
     "keyboard_hint": "o pulsa la tecla {{key}}",
     "sr_holding": "Manteniendo. Suelta cuando quieras.",
     "sr_holding_target": "Manteniendo durante {{seconds}} segundos. {{elapsed}} transcurridos.",
-    "sr_released": "Soltado. Retención grabada."
+    "sr_released": "Soltado. Retención grabada.",
+    "complete": "Práctica de prolongación completa",
+    "subtitle": "{{count}} prolongaciones · {{avg}}s promedio",
+    "subtitle_one": "{{count}} prolongación · {{avg}}s promedio",
+    "exit_speed": "Velocidad de salida",
+    "target_hold": "Objetivo",
+    "holds_count": "Prolongaciones: {{current}}/{{target}}",
+    "submit": "Enviar práctica"
   },
   "scale_slider": {
     "choose_prompt": "Elige un punto en la línea"
@@ -278,7 +345,28 @@
     "mini_game_recordings": "Grabaciones de mini juegos",
     "scenario_sessions": "Sesiones de escenario",
     "scenarios_subtitle": "Practica conversaciones en escenarios realistas.",
-    "scenarios_title": "Escenarios"
+    "scenarios_title": "Escenarios",
+    "start": "Practicar ahora",
+    "complete": "¡Práctica completa!",
+    "record_title": "Grabación de práctica",
+    "record_instructions": "Grábate practicando este ejercicio. Cuando termines, envía tu grabación.",
+    "submit_recording": "Enviar grabación",
+    "difficulty_title": "¿Cómo te sentiste?",
+    "difficulty_description": "Califica la dificultad de este ejercicio.",
+    "difficulty_easy": "Fácil",
+    "difficulty_hard": "Desafiante",
+    "recording_video": "Video y audio",
+    "recording_audio": "Solo audio",
+    "with_therapist_named": "Practica este paso con la orientación de {{therapist}}, que lo marcará como completo cuando puedas avanzar.",
+    "session": {
+      "recording_title_prefix": "Grabación de sesión"
+    },
+    "days_hint_one": "Elige {{count}} día.",
+    "days_hint": "Elige {{count}} días.",
+    "days_hint_other": "Elige {{count}} días.",
+    "days_save_failed": "Los días no se guardaron. Inténtalo otra vez.",
+    "days_submit": "Guardar días",
+    "day_today": "hoy"
   },
   "settings": {
     "manage_account_info": "Tu correo, tu nombre y tu compañero.",
@@ -2163,7 +2251,13 @@
     "very_comfortable": "Muy cómodo",
     "confirm_close": "Tienes respuestas sin guardar. ¿Seguro que quieres cerrar?",
     "discard": "Descartar y cerrar",
-    "keep_going": "Continuar"
+    "keep_going": "Continuar",
+    "complete": "Divulgación completa",
+    "confidence": "Confianza: {{rating}}/5",
+    "record": "Grábate",
+    "your_recording": "Tu grabación",
+    "confidence_label": "¿Cuánta confianza sentiste?",
+    "exercise_self_disclosure_not_confident": "Poca confianza"
   },
   "observation": {
     "items": {

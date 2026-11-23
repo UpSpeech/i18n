@@ -44,7 +44,9 @@
     "low": "Low",
     "medium": "Medium",
     "high": "High",
-    "critical": "Critical"
+    "critical": "Critical",
+    "exercise_rating_low": "Low",
+    "exercise_rating_high": "High"
   },
   "shareYourFeedback": "Share your feedback",
   "selectCategory": "What type of feedback do you have?",

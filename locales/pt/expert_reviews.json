@@ -139,14 +139,14 @@
     "ME_desc": "Movimentos dos braços/mãos, mãos sobre o rosto, movimentos do torso, movimentos das pernas"
   },
   "tension": {
-    "label": "Nível de tensão",
     "0": "Nenhuma",
-    "0_desc": "Ausência de tensão",
     "1": "Ligeira",
-    "1_desc": "Grau subtil de tensão",
     "2": "Moderada",
-    "2_desc": "Sinais de tensão imediatamente percetíveis, produzidos com esforço visível",
     "3": "Severa",
+    "label": "Nível de tensão",
+    "0_desc": "Ausência de tensão",
+    "1_desc": "Grau subtil de tensão",
+    "2_desc": "Sinais de tensão imediatamente percetíveis, produzidos com esforço visível",
     "3_desc": "Sinais de tensão muito percetíveis, produzidos com esforço significativo"
   },
   "region": {
@@ -190,7 +190,26 @@
     "soft_articulation_contact": "Contacto articulatório suave",
     "prolonged_speech": "Fala prolongada",
     "speech_speed_management": "Gestão da velocidade da fala",
-    "pauses": "Pausas estratégicas"
+    "pauses": "Pausas estratégicas",
+    "complete": "Identificação completa",
+    "subtitle": "{{count}} disfluências identificadas",
+    "subtitle_one": "{{count}} disfluência identificada",
+    "subtitle_zero": "{{count}} disfluências identificadas",
+    "mark_label": "Toca para marcar uma disfluência",
+    "mark_primary": "Marcar disfluências primárias",
+    "mark_secondary": "Marcar comportamentos secundários",
+    "marked": "{{count}} marcadas",
+    "no_video": "Grava um vídeo primeiro para começar.",
+    "record_label": "Grava-te a falar",
+    "save_and_continue": "Guardar e continuar",
+    "submit": "Concluir identificação",
+    "next_classify": "Seguinte: classificar",
+    "next_behaviors": "Seguinte: comportamentos",
+    "classify_instructions": "Classifica cada disfluência pela duração e nível de tensão.",
+    "behaviors_instructions": "Marca comportamentos secundários (evitamento, esforço).",
+    "exercise_identification_tense": "Tenso",
+    "intensity": "Intensidade",
+    "exercise_identification_notes_placeholder": "Notas opcionais..."
   },
   "summary_panel": {
     "disfluencies": "Disfluências",

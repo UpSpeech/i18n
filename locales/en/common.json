@@ -12,8 +12,68 @@
       "no_face": "Face the camera",
       "too_small": "Move closer",
       "off_center": "Centre your face in the frame",
-      "good": "Framing looks good"
-    }
+      "good": "Framing looks good",
+      "framing_idle": "Look at the camera and keep your whole face in the frame"
+    },
+    "type_video": "Video & audio",
+    "type_audio": "Audio only",
+    "re_record": "Re-record video",
+    "tap_start": "Tap to record",
+    "saved": "Recording saved",
+    "failed": "The recording didn't save. Try again or check your device storage.",
+    "permission_denied": "Camera and microphone access is needed to record.",
+    "grant_access": "Grant access",
+    "action": "Record",
+    "intro": "Record a therapy session as audio. When you stop, it uploads on its own and a draft report is generated. No need to assign it to a patient here.",
+    "choose_patient": "Choose a patient",
+    "no_patients": "Add a patient before you record a session.",
+    "intro_patient": "Record a therapy session as audio. When you stop, it uploads on its own and a draft report is made for the patient you choose.",
+    "consent_check": "I have the patient's consent to record this session.",
+    "hint_background": "Recording keeps going if you lock your phone or switch apps. It stops only if you force-close the app.",
+    "done_title": "Recording saved",
+    "done_body": "We're generating the report. It'll show up in your reports shortly.",
+    "queued_body": "Saved on your device. It will upload and generate a report once you're back online.",
+    "error": "Couldn't save the recording. Please try again.",
+    "discard_title": "Discard recording?",
+    "discard_body": "This recording will be deleted and won't be saved.",
+    "keep": "Keep recording",
+    "view_report": "View report",
+    "back_to_reports": "Back to reports",
+    "video": {
+      "not_available": "Video not available"
+    },
+    "self_annotation": {
+      "title": "Mark disfluencies",
+      "intro": "Listen back and tap Mark whenever you spot a disfluency. You can review and add notes later.",
+      "intro_staff": "Play the recording and tap Mark at each disfluency you hear. You can add notes to a mark later.",
+      "mark_at": "Mark at {{time}}",
+      "markers": "Markers ({{count}})",
+      "no_markers": "No markers yet. Press play, then tap Mark when you spot a disfluency.",
+      "picker_title": "What kind of disfluency?",
+      "picker_at": "At {{time}}",
+      "notes_label": "Notes (optional)",
+      "notes_placeholder": "What stood out about this moment?",
+      "load_error": "Couldn't load this recording.",
+      "save_error": "Couldn't save. Try again.",
+      "delete_error": "Couldn't delete. Try again.",
+      "video_only": "{{type}} can only be marked on video recordings.",
+      "video_unsupported": "Video annotation isn't available on mobile yet. Use the desktop app for video recordings.",
+      "open_cta": "Mark disfluencies on this recording"
+    },
+    "camera": {
+      "unavailable": "Camera unavailable"
+    },
+    "sound": {
+      "on": "On",
+      "off": "Off"
+    },
+    "recorder": {
+      "error_message": "Something interrupted the recording. Please try again.",
+      "error_title": "Recording failed"
+    },
+    "too_small": "That recording did not save properly. Please record again.",
+    "consent_sheet_title": "Before you record {{child}}",
+    "consent_sheet_continue": "Agree and continue"
   },
   "hold_button": {
     "press_hold": "Press & hold",
@@ -23,7 +83,14 @@
     "keyboard_hint": "or press & hold {{key}}",
     "sr_holding": "Holding. Release when ready.",
     "sr_holding_target": "Holding for {{seconds}} seconds. {{elapsed}} elapsed.",
-    "sr_released": "Released. Hold recorded."
+    "sr_released": "Released. Hold recorded.",
+    "complete": "Holding practice complete",
+    "subtitle": "{{count}} holds · {{avg}}s avg",
+    "subtitle_one": "{{count}} hold · {{avg}}s avg",
+    "exit_speed": "Exit speed",
+    "target_hold": "Target hold",
+    "holds_count": "Holds: {{current}}/{{target}}",
+    "submit": "Submit practice"
   },
   "scale_slider": {
     "choose_prompt": "Choose a point on the line"
@@ -287,7 +354,28 @@
     "mini_game_recordings": "Mini game recordings",
     "scenario_sessions": "Scenario sessions",
     "scenarios_subtitle": "Practise conversations in realistic scenarios.",
-    "scenarios_title": "Scenarios"
+    "scenarios_title": "Scenarios",
+    "start": "Practise now",
+    "complete": "Practice complete!",
+    "record_title": "Practice recording",
+    "record_instructions": "Record yourself practising this exercise. When done, submit your recording.",
+    "submit_recording": "Submit recording",
+    "difficulty_title": "How did that feel?",
+    "difficulty_description": "Rate the difficulty of this exercise.",
+    "difficulty_easy": "Easy",
+    "difficulty_hard": "Challenging",
+    "recording_video": "Video & audio",
+    "recording_audio": "Audio only",
+    "with_therapist_named": "Practise this step with {{therapist}}'s guidance. {{therapist}} will mark it complete when you're ready to move on.",
+    "session": {
+      "recording_title_prefix": "Session recording"
+    },
+    "days_hint_one": "Pick {{count}} day.",
+    "days_hint": "Pick {{count}} days.",
+    "days_hint_other": "Pick {{count}} days.",
+    "days_save_failed": "The days did not save. Try again.",
+    "days_submit": "Save days",
+    "day_today": "today"
   },
   "settings": {
     "manage_account_info": "Your email, your name and your companion.",
@@ -2163,7 +2251,13 @@
     "very_comfortable": "Very comfortable",
     "confirm_close": "You have unsaved answers. Are you sure you want to close?",
     "discard": "Discard & close",
-    "keep_going": "Keep going"
+    "keep_going": "Keep going",
+    "complete": "Disclosure complete",
+    "confidence": "Confidence: {{rating}}/5",
+    "record": "Record yourself",
+    "your_recording": "Your recording",
+    "confidence_label": "How confident did you feel?",
+    "exercise_self_disclosure_not_confident": "Not confident"
   },
   "observation": {
     "items": {

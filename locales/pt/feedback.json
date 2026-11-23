@@ -33,7 +33,9 @@
     "low": "Baixa",
     "medium": "Média",
     "high": "Alta",
-    "critical": "Crítica"
+    "critical": "Crítica",
+    "exercise_rating_low": "Baixo",
+    "exercise_rating_high": "Alto"
   },
   "shareYourFeedback": "Partilha o teu feedback",
   "selectCategory": "Que tipo de feedback tens?",

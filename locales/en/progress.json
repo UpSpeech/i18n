@@ -45,5 +45,11 @@
     "total_minutes_this_week": "Total time",
     "standalone_practice": "Standalone practice",
     "volume_info": "Short, frequent practice builds stronger neural pathways than long, spaced-out practice."
+  },
+  "streak": {
+    "days_one": "{{count}} day",
+    "days_other": "{{count}} days",
+    "ring_unit_one": "day streak",
+    "ring_unit_other": "day streak"
   }
 }

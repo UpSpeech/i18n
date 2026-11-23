@@ -101,7 +101,8 @@
       "easy": "Fácil",
       "medium": "Medio",
       "hard": "Difícil",
-      "expert": "Experto"
+      "expert": "Experto",
+      "level": "Nivel {{level}}"
     },
     "self_rating": {
       "very_easy": "Muy fácil",
@@ -533,7 +534,8 @@
         "watch": "Observar",
         "identify": "Identificar",
         "classify": "Clasificar",
-        "secondary": "Secundario"
+        "secondary": "Secundario",
+        "behaviors": "Secundarios"
       },
       "nav": {
         "back": "Atrás",
@@ -559,7 +561,13 @@
       "next_clip": "Siguiente clip",
       "finish": "Finalizar",
       "empty_pool_title": "Aún no hay clips disponibles",
-      "empty_pool_description": "Los clips de práctica aún no están listos para este ejercicio. Vuelve más tarde."
+      "empty_pool_description": "Los clips de práctica aún no están listos para este ejercicio. Vuelve más tarde.",
+      "identify_desc": "Mira este clip corto y toca un botón cada vez que notes una disfluencia. Si no hay nada que marcar, está bien.",
+      "identified_count": "Momentos marcados ({{count}})",
+      "empty_pool_desc": "Los clips de práctica aún no están listos para este ejercicio. Vuelve más tarde.",
+      "loading": "Cargando clips…",
+      "error": "No pudimos cargar los clips. Inténtalo de nuevo.",
+      "retry": "Intentar de nuevo"
     },
     "adjust_time": "Ajustar",
     "edit_time": "Editar marca de tiempo",
@@ -591,7 +599,12 @@
     "video_recorded": "Video grabado",
     "text_written": "Reflexión escrita",
     "submit": "Enviar reflexión",
-    "default_instructions": "Tómate un momento para reflexionar sobre tu experiencia."
+    "default_instructions": "Tómate un momento para reflexionar sobre tu experiencia.",
+    "complete": "Reflexión enviada",
+    "placeholder": "Escribe tu reflexión aquí...",
+    "or_record": "O graba tu respuesta",
+    "answer_first": "Escribe o graba algo primero.",
+    "write_first": "Escribe primero algo."
   },
   "motor_control": {
     "step": {
@@ -621,7 +634,13 @@
     "review_moments": "Revisar momentos ({{count}})",
     "play_moment": "Reproducir momento {{number}}",
     "hold_interval": "{{number}}: {{start}} → {{end}} ({{duration}}s)",
-    "default_instructions": "Practica el tartamudeo voluntario para desarrollar el control motor."
+    "default_instructions": "Practica el tartamudeo voluntario para desarrollar el control motor.",
+    "complete": "Control motor completo",
+    "subtitle": "{{count}} momentos marcados",
+    "subtitle_one": "{{count}} momento marcado",
+    "moments": "Momentos de tartamudez: {{count}}",
+    "hold_label": "Mantén durante la tartamudez",
+    "holding": "Tartamudeando..."
   },
   "holding": {
     "exit_speed": {
@@ -683,7 +702,18 @@
       "great": "Genial"
     },
     "default_instructions": "Escribe sobre cómo te sentiste y tus experiencias con el habla hoy.",
-    "therapist_comment": "Nota del terapeuta"
+    "therapist_comment": "Nota del terapeuta",
+    "complete": "Entrada de diario guardada",
+    "exercise_journal_placeholder": "Escribe tu entrada de diario...",
+    "save": "Guardar entrada",
+    "moods": {
+      "label": "¿Cómo te sientes hoy?",
+      "struggling": "Difícil",
+      "difficult": "Complicado",
+      "okay": "Regular",
+      "good": "Bien",
+      "great": "Genial"
+    }
   },
   "pause": {
     "level": {
@@ -710,7 +740,14 @@
     "practice_again": "Practicar de nuevo",
     "ready_hold_description": "Inicia la grabación y mantén el botón presionado cada vez que pauses. Apunta a unos {{duration}} segundos por pausa, {{count}} veces.",
     "ready_hold_description_one": "Inicia la grabación y mantén el botón presionado cada vez que pauses. Apunta a unos {{duration}} segundos por pausa, una vez.",
-    "review_pauses": "Revisar pausas ({{count}})"
+    "review_pauses": "Revisar pausas ({{count}})",
+    "complete": "Práctica de pausa completa",
+    "subtitle": "{{count}} pausas · {{avg}}s promedio",
+    "subtitle_one": "{{count}} pausa · {{avg}}s promedio",
+    "exercise_pause_level": "Nivel de pausa",
+    "target": "Objetivo",
+    "count": "{{current}}/{{target}} pausas",
+    "pauses": "Pausas"
   },
   "disclosure": {
     "practice_title": "Práctica de revelación",
@@ -790,7 +827,19 @@
     },
     "technique_detail": "{{number}}. {{technique}}, {{time}} ({{duration}}s)",
     "technique_selector": "Selector de técnica",
-    "using_technique": "Usando {{technique}}..."
+    "using_technique": "Usando {{technique}}...",
+    "complete": "Práctica completa",
+    "subtitle": "{{count}} técnicas · Auto-evaluación: {{rating}}/5",
+    "subtitle_one": "{{count}} técnica · Auto-evaluación: {{rating}}/5",
+    "scenario": "Escenario",
+    "record": "Graba tu práctica",
+    "technique_tap": "Toca una técnica cuando la uses",
+    "technique_count": "{{count}} marcadas",
+    "recording_saved": "Grabación guardada.",
+    "rate_label": "¿Qué tan bien aplicaste las técnicas?",
+    "needs_work": "Necesita trabajo",
+    "excellent": "Excelente",
+    "tap_technique": "Toca cuando uses una técnica"
   },
   "self_modeling": {
     "watch_first": "Mira el video completo antes de reflexionar",
@@ -801,7 +850,11 @@
     "submit": "Guardar reflexión",
     "default_instructions": "Mira tu grabación y reflexiona sobre tu práctica.",
     "re_record": "Regrabar video",
-    "reflect": "Reflexiona sobre tu práctica"
+    "reflect": "Reflexiona sobre tu práctica",
+    "complete": "Reflexión completa",
+    "exercise_self_modeling_notes_label": "Notas de reflexión (opcional)",
+    "exercise_self_modeling_notes_placeholder": "¿Qué notaste? ¿Cómo te sentiste?",
+    "no_video": "No hay grabación de video disponible. Graba un video en la aplicación web primero."
   },
   "submissions": {
     "truncated_no_counts": "Algunos de tus pacientes no están en esta lista. Elige un paciente para ver todo lo suyo.",
@@ -886,7 +939,13 @@
     "how_many_words": "¿Cuántas palabras?",
     "generate_words": "Generar",
     "your_words": "Tus palabras",
-    "shuffle": "Mezclar"
+    "shuffle": "Mezclar",
+    "length": {
+      "short": "Corto",
+      "medium": "Medio",
+      "long": "Largo"
+    },
+    "reading_prompt_topic_interest_label": "¿Qué te interesa?"
   },
   "observation": {
     "default_instructions": "Mira el vídeo con atención y evalúa al comunicador en cada dimensión.",
@@ -895,7 +954,11 @@
     "progress": "{{rated}} de {{total}} evaluados",
     "submit": "Guardar observación",
     "video_watched": "Video visto",
-    "watch_first": "Mira el video completo antes de completar la cuadrícula de observación"
+    "watch_first": "Mira el video completo antes de completar la cuadrícula de observación",
+    "complete": "Observación completa",
+    "subtitle": "{{count}} dimensiones evaluadas",
+    "subtitle_one": "{{count}} dimensión evaluada",
+    "rate_dimensions": "Evalúa cada dimensión"
   },
   "technique_rating": {
     "title": "¿Cómo te sentiste?",
@@ -933,7 +996,22 @@
     "badge_one": "{{count}} intento",
     "badge_other": "{{count}} intentos",
     "badge_reason": "{{count}} · {{reason}}",
-    "skipped_label": "Omitido"
+    "skipped_label": "Omitido",
+    "labels": {
+      "title": "Sin problema, intentemos de nuevo",
+      "description": "Tu terapeuta lo ve junto a este intento.",
+      "description_named": "{{therapist}} lo ve junto a este intento.",
+      "mistake": "Cometí un error",
+      "not_ready": "Me faltaba preparación",
+      "background_noise": "Demasiado ruido de fondo",
+      "wanted_practice": "Quería practicar más primero",
+      "poor_quality": "Mala calidad de audio/vídeo",
+      "other": "Otro motivo",
+      "comment_label": "Notas adicionales (opcional)",
+      "comment_placeholder": "Cuéntanos más...",
+      "re_record": "Regrabar",
+      "skip": "Saltar"
+    }
   },
   "device_picker": {
     "microphone": "Micrófono",
@@ -1147,7 +1225,8 @@
         "medium": "Media",
         "short": "Corta"
       }
-    }
+    },
+    "exercise_parameter_hold_target": "Objetivo de retención · {{count}}s"
   },
   "practice": {
     "unavailable_title": "La práctica aún no está configurada en tu clínica",
@@ -1180,7 +1259,13 @@
       "card_back": "Una carta boca abajo",
       "result_frog": "Repetición, como la rana",
       "result_snake": "Prolongación, como la serpiente",
-      "result_bear": "Bloqueo, como el oso"
+      "result_bear": "Bloqueo, como el oso",
+      "games_spin_cards_instructions": "Da la vuelta a una carta, gira la rueda y di la palabra así.",
+      "result": {
+        "frog": "Repetición, como la rana",
+        "snake": "Prolongación, como la serpiente",
+        "bear": "Bloqueo, como el oso"
+      }
     },
     "two_choice": {
       "instructions": "Di la palabra en voz alta. ¿Cómo ha salido?",
@@ -1205,14 +1290,26 @@
       "again": "Otra vez",
       "stops_one": "{{count}} parada",
       "stops_other": "{{count}} paradas",
-      "road_label": "Un coche por una carretera"
+      "road_label": "Un coche por una carretera",
+      "games_pause_road_instructions_picture": "Describe la imagen. Cuando pares, mantén pulsado el botón.",
+      "games_pause_road_instructions_free": "Cuenta lo que quieras. Cuando pares, mantén pulsado el botón.",
+      "mode": {
+        "picture": "Describir una imagen",
+        "free": "Hablar libremente"
+      }
     },
     "which_speech": {
       "instructions": "Quien está contigo dice la palabra a su manera.",
       "prompt": "Toca el animal que has oído.",
       "picked_frog": "Has elegido la rana: repetición.",
       "picked_snake": "Has elegido la serpiente: prolongación.",
-      "picked_bear": "Has elegido el oso: bloqueo."
+      "picked_bear": "Has elegido el oso: bloqueo.",
+      "games_which_speech_instructions": "Quien está contigo dice la palabra a su manera. Toca el animal que has oído.",
+      "picked": {
+        "frog": "Has elegido la rana: repetición.",
+        "snake": "Has elegido la serpiente: prolongación.",
+        "bear": "Has elegido el oso: bloqueo."
+      }
     },
     "story_scene": {
       "instructions": "Elige un lugar, arrastra a los personajes y cuenta la historia mientras la construyes, una escena cada vez.",
@@ -1272,7 +1369,58 @@
       "delete_snapshot": "Borrar la escena {{number}}",
       "next": "Siguiente",
       "back": "Anterior",
-      "keep_building": "Seguir construyendo"
+      "keep_building": "Seguir construyendo",
+      "setting": {
+        "park": "El parque",
+        "classroom": "El aula",
+        "coffee": "Tomando café",
+        "therapist_office": "La consulta"
+      },
+      "character": {
+        "lumo": "Lumo",
+        "pip": "Pip",
+        "nima": "Nima",
+        "tumbo": "Tumbo",
+        "frog": "Rana",
+        "bear": "Oso",
+        "snake": "Serpiente"
+      },
+      "faces": {
+        "happy": "Alegría",
+        "excited": "Emoción",
+        "surprised": "Sorpresa",
+        "talking": "Hablando",
+        "sad": "Tristeza",
+        "sleepy": "Sueño"
+      },
+      "arms_options": {
+        "down": "Abajo",
+        "wave": "Saludando",
+        "cheer": "Celebrando",
+        "point": "Señalando"
+      },
+      "colours": {
+        "lavender": "Lavanda",
+        "sky": "Celeste",
+        "mint": "Menta",
+        "sand": "Arena"
+      },
+      "poses": {
+        "crouch": "Agachado",
+        "sit": "Sentado",
+        "stand": "De pie"
+      }
+    },
+    "two_choice_words": {
+      "instructions": "Di la palabra en voz alta. ¿Cómo ha salido?",
+      "feather": "Pluma",
+      "feather_hint": "suave",
+      "rock": "Roca",
+      "rock_hint": "pesada",
+      "short_hop": "Corta",
+      "short_hop_hint": "pocos saltos",
+      "long_hop": "Larga",
+      "long_hop_hint": "muchos saltos"
     }
   },
   "technique_practice": {
@@ -1314,5 +1462,79 @@
     "empty_overdue_description_named": "Todo lo que te asignó {{therapist}} está en plazo.",
     "empty_description": "Los ejercicios que te asigne tu terapeuta aparecerán aquí.",
     "empty_description_named": "Los ejercicios que te asigne {{therapist}} aparecerán aquí."
+  },
+  "common": {
+    "submit_failed": "No se pudo guardar. Revisa tu conexión e inténtalo de nuevo.",
+    "uploading": "Subiendo grabación...",
+    "re_record": "Regrabar",
+    "written_answer_placeholder": "Escribe la respuesta aquí...",
+    "not_available": "Este tipo de ejercicio aún no está disponible en la aplicación móvil. Usa la aplicación web para completarlo.",
+    "all_completed": "Todas completadas",
+    "n_completed": "{{count}} completadas",
+    "technique_practice_instructions": "Dilo en voz alta, con tus propias palabras."
+  },
+  "disfluency": {
+    "repetition": "Repetición",
+    "prolongation": "Prolongación",
+    "block": "Bloqueo",
+    "avoidance": "Evitación",
+    "struggle": "Esfuerzo"
+  },
+  "exit_speed": {
+    "very_slow": "Muy lento",
+    "medium": "Medio",
+    "natural": "Natural"
+  },
+  "category": {
+    "quiz": "Quiz",
+    "reflection": "Reflexión",
+    "observation": "Observación",
+    "recording": "Grabación",
+    "timing": "Tiempo",
+    "identification": "Identificación"
+  },
+  "disfluency_type": {
+    "repetition": "Repetición",
+    "prolongation": "Prolongación",
+    "block": "Bloqueo",
+    "escape_behavior": "Comportamiento de escape",
+    "avoidance_behavior": "Comportamiento de evitación",
+    "starter_postponement": "Iniciador / aplazamiento"
+  },
+  "dimension": {
+    "pauses": "Número de pausas",
+    "pauses_low": "Muy pocas pausas",
+    "pauses_high": "Muchas pausas",
+    "speech_speed": "Velocidad del habla",
+    "speech_speed_low": "Muy lenta",
+    "speech_speed_high": "Muy rápida",
+    "intonation": "Variación de entonación",
+    "intonation_low": "Muy monótono",
+    "intonation_high": "Muy variado",
+    "use_of_silence": "Uso del silencio",
+    "use_of_silence_low": "Sin silencios",
+    "use_of_silence_high": "Silencios frecuentes",
+    "gestures": "Gestos",
+    "gestures_low": "Muy pocos gestos",
+    "gestures_high": "Muchos gestos",
+    "eye_contact": "Contacto visual",
+    "eye_contact_low": "Muy poco",
+    "eye_contact_high": "Constante"
+  },
+  "celebration": {
+    "intensity_label": "Celebración",
+    "calm": "Tranquila",
+    "calm_desc": "Discreta y enfocada",
+    "standard": "Estándar",
+    "standard_desc": "Animada pero suave",
+    "playful": "Divertida",
+    "playful_desc": "Celebración completa",
+    "sound_label": "Efectos de sonido"
+  },
+  "effort": {
+    "label": "Esfuerzo al usar la técnica"
+  },
+  "naturalness": {
+    "label": "Qué tan natural se sintió el habla"
   }
 }

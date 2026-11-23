@@ -14,7 +14,10 @@
     "undo": "Deshacer",
     "submit": "Continuar",
     "success": "¡Gracias! Que tengas una gran sesión.",
-    "submit_error": "Algo salió mal. Por favor intenta de nuevo."
+    "submit_error": "Algo salió mal. Por favor intenta de nuevo.",
+    "daily_severity_helper": "Check-in diario rápido",
+    "daily_severity_tap_hint": "Toca un número",
+    "daily_severity_submit_error": "No se pudo guardar tu registro. Inténtalo en un momento."
   },
   "chart": {
     "title": "Tendencia diaria de severidad",

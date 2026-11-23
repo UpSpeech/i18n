@@ -45,5 +45,11 @@
     "total_minutes_this_week": "Tiempo total",
     "standalone_practice": "Práctica independiente",
     "volume_info": "Practicar poco y a menudo construye vías neurales más sólidas que practicar mucho de vez en cuando."
+  },
+  "streak": {
+    "days_one": "{{count}} día",
+    "days_other": "{{count}} días",
+    "ring_unit_one": "día seguido",
+    "ring_unit_other": "días seguidos"
   }
 }

@@ -12,8 +12,68 @@
       "no_face": "Vira-te para a câmara",
       "too_small": "Aproxima-te",
       "off_center": "Centra a cara no enquadramento",
-      "good": "O enquadramento está bom"
-    }
+      "good": "O enquadramento está bom",
+      "framing_idle": "Olha para a câmara e mantém a cara toda dentro da moldura"
+    },
+    "type_video": "Vídeo e áudio",
+    "type_audio": "Apenas áudio",
+    "re_record": "Gravar novamente",
+    "tap_start": "Toca para gravar",
+    "saved": "Gravação guardada",
+    "failed": "A gravação não foi guardada. Tenta novamente ou verifica o armazenamento do teu dispositivo.",
+    "permission_denied": "É necessário acesso ao microfone e, caso escolhido, à câmara para gravar.",
+    "grant_access": "Conceder acesso",
+    "action": "Gravar",
+    "intro": "Grava uma sessão de terapia em áudio. Quando parares, o envio é automático e é gerado um relatório provisório. Não precisas de o atribuir a um paciente aqui.",
+    "choose_patient": "Escolhe um paciente",
+    "no_patients": "Adiciona um paciente antes de gravares uma sessão.",
+    "intro_patient": "Grava uma sessão de terapia em áudio. Quando parares, o envio é automático e é gerado um relatório provisório para o paciente que escolheres.",
+    "consent_check": "Tenho o consentimento do paciente para gravar esta sessão.",
+    "hint_background": "A gravação continua se bloqueares o telemóvel ou mudares de aplicação. Só para se fechares a aplicação à força.",
+    "done_title": "Gravação guardada",
+    "done_body": "Estamos a gerar o relatório. Vai aparecer nos teus relatórios em breve.",
+    "queued_body": "Guardada no dispositivo. Será enviada e irá gerar um relatório assim que voltares a ter ligação.",
+    "error": "Não foi possível guardar a gravação. Tenta novamente.",
+    "discard_title": "Descartar gravação?",
+    "discard_body": "Esta gravação será eliminada e não será guardada.",
+    "keep": "Continuar a gravar",
+    "view_report": "Ver relatório",
+    "back_to_reports": "Voltar aos relatórios",
+    "video": {
+      "not_available": "Vídeo não disponível"
+    },
+    "self_annotation": {
+      "title": "Marca disfluências",
+      "intro": "Ouve a tua gravação e toca em Marcar sempre que detectares uma disfluência. Podes adicionar notas mais tarde.",
+      "intro_staff": "Reproduz a gravação e toca em Marcar em cada disfluência que ouvires. Podes adicionar notas a uma marca mais tarde.",
+      "mark_at": "Marcar em {{time}}",
+      "markers": "Marcas ({{count}})",
+      "no_markers": "Sem marcas ainda. Carrega em play e toca em Marcar quando detectares uma disfluência.",
+      "picker_title": "Que tipo de disfluência?",
+      "picker_at": "Em {{time}}",
+      "notes_label": "Notas (opcional)",
+      "notes_placeholder": "O que se destacou neste momento?",
+      "load_error": "Não foi possível carregar esta gravação.",
+      "save_error": "Não foi possível guardar. Tenta novamente.",
+      "delete_error": "Não foi possível eliminar. Tenta novamente.",
+      "video_only": "{{type}} só pode ser marcado em gravações de vídeo.",
+      "video_unsupported": "A anotação de vídeo ainda não está disponível na app móvel. Usa a versão desktop para gravações de vídeo.",
+      "open_cta": "Marcar disfluências nesta gravação"
+    },
+    "camera": {
+      "unavailable": "Câmara indisponível"
+    },
+    "sound": {
+      "on": "Ligado",
+      "off": "Desligado"
+    },
+    "recorder": {
+      "error_message": "Algo interrompeu a gravação. Tenta novamente.",
+      "error_title": "A gravação falhou"
+    },
+    "too_small": "A gravação não foi guardada corretamente. Por favor, grava novamente.",
+    "consent_sheet_title": "Antes de gravar {{child, o}}",
+    "consent_sheet_continue": "Aceitar e continuar"
   },
   "hold_button": {
     "press_hold": "Prime e mantém",
@@ -23,7 +83,15 @@
     "keyboard_hint": "ou prime a tecla {{key}}",
     "sr_holding": "A manter. Solta quando quiseres.",
     "sr_holding_target": "A manter durante {{seconds}} segundos. {{elapsed}} decorridos.",
-    "sr_released": "Solto. Retenção gravada."
+    "sr_released": "Solto. Retenção gravada.",
+    "complete": "Prática de prolongamento completa",
+    "subtitle": "{{count}} prolongamentos · {{avg}}s média",
+    "subtitle_one": "{{count}} prolongamento · {{avg}}s média",
+    "subtitle_zero": "{{count}} prolongamentos · {{avg}}s média",
+    "exit_speed": "Velocidade de saída",
+    "target_hold": "Objetivo",
+    "holds_count": "Prolongamentos: {{current}}/{{target}}",
+    "submit": "Submeter prática"
   },
   "scale_slider": {
     "choose_prompt": "Escolhe um ponto na linha"
@@ -279,7 +347,29 @@
     "mini_game_recordings": "Gravações de mini jogos",
     "scenario_sessions": "Sessões de cenário",
     "scenarios_subtitle": "Pratica conversas em cenários realistas.",
-    "scenarios_title": "Cenários"
+    "scenarios_title": "Cenários",
+    "start": "Praticar agora",
+    "complete": "Prática completa!",
+    "record_title": "Gravação de prática",
+    "record_instructions": "Grava-te a praticar este exercício. Quando terminares, submete a tua gravação.",
+    "submit_recording": "Submeter gravação",
+    "difficulty_title": "Como te sentiste?",
+    "difficulty_description": "Avalia a dificuldade deste exercício.",
+    "difficulty_easy": "Fácil",
+    "difficulty_hard": "Desafiante",
+    "recording_video": "Vídeo e áudio",
+    "recording_audio": "Apenas áudio",
+    "with_therapist_named": "Pratica este passo com a orientação {{therapist, de}}, que o marca como completo quando já puderes avançar.",
+    "session": {
+      "recording_title_prefix": "Gravação de sessão"
+    },
+    "days_hint_one": "Escolhe {{count}} dia.",
+    "days_hint_zero": "Escolhe {{count}} dias.",
+    "days_hint": "Escolhe {{count}} dias.",
+    "days_hint_other": "Escolhe {{count}} dias.",
+    "days_save_failed": "Os dias não foram guardados. Tenta outra vez.",
+    "days_submit": "Guardar dias",
+    "day_today": "hoje"
   },
   "settings": {
     "manage_account_info": "O teu email, o teu nome e o teu companheiro.",
@@ -2228,7 +2318,13 @@
     "very_comfortable": "Muito confortável",
     "confirm_close": "Tens respostas não guardadas. Tens a certeza de que queres fechar?",
     "discard": "Descartar e fechar",
-    "keep_going": "Continuar"
+    "keep_going": "Continuar",
+    "complete": "Divulgação completa",
+    "confidence": "Confiança: {{rating}}/5",
+    "record": "Grava-te",
+    "your_recording": "A tua gravação",
+    "confidence_label": "Quão confiante te sentiste?",
+    "exercise_self_disclosure_not_confident": "Pouco confiante"
   },
   "observation": {
     "items": {

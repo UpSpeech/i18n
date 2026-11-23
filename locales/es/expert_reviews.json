@@ -139,14 +139,14 @@
     "ME_desc": "Movimientos de brazos/manos, manos sobre la cara, movimientos del torso, movimientos de piernas"
   },
   "tension": {
-    "label": "Nivel de tensión",
     "0": "Ninguna",
-    "0_desc": "Ausencia de tensión",
     "1": "Leve",
-    "1_desc": "Grado sutil de tensión",
     "2": "Moderada",
-    "2_desc": "Signos de tensión inmediatamente perceptibles, producidos con esfuerzo visible",
     "3": "Severa",
+    "label": "Nivel de tensión",
+    "0_desc": "Ausencia de tensión",
+    "1_desc": "Grado sutil de tensión",
+    "2_desc": "Signos de tensión inmediatamente perceptibles, producidos con esfuerzo visible",
     "3_desc": "Signos de tensión muy perceptibles, producidos con esfuerzo significativo"
   },
   "region": {
@@ -190,7 +190,25 @@
     "soft_articulation_contact": "Contacto articulatorio suave",
     "prolonged_speech": "Habla prolongada",
     "speech_speed_management": "Gestión de la velocidad del habla",
-    "pauses": "Pausas estratégicas"
+    "pauses": "Pausas estratégicas",
+    "complete": "Identificación completa",
+    "subtitle": "{{count}} disfluencias identificadas",
+    "subtitle_one": "{{count}} disfluencia identificada",
+    "mark_label": "Toca para marcar una disfluencia",
+    "mark_primary": "Marcar disfluencias primarias",
+    "mark_secondary": "Marcar comportamientos secundarios",
+    "marked": "{{count}} marcadas",
+    "no_video": "Graba un video primero para empezar.",
+    "record_label": "Grábate hablando",
+    "save_and_continue": "Guardar y continuar",
+    "submit": "Completar identificación",
+    "next_classify": "Siguiente: clasificar",
+    "next_behaviors": "Siguiente: comportamientos",
+    "classify_instructions": "Clasifica cada disfluencia por duración y nivel de tensión.",
+    "behaviors_instructions": "Marca comportamientos secundarios (evitación, esfuerzo).",
+    "exercise_identification_tense": "Tenso",
+    "intensity": "Intensidad",
+    "exercise_identification_notes_placeholder": "Notas opcionales..."
   },
   "summary_panel": {
     "disfluencies": "Disfluencias",

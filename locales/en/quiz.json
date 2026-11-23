@@ -304,7 +304,7 @@
     "next_question": "Next question",
     "see_results": "See results",
     "correct": "Correct!",
-    "incorrect": "Not quite right",
+    "incorrect": "Not quite",
     "encouragement": "Take your time. This is about learning.",
     "results": {
       "title": "Quiz complete!",
@@ -320,6 +320,14 @@
       "save_failed": "Your answers were checked locally but couldn't be saved. Try again when you have a connection."
     },
     "correct_answer_label": "Correct answer",
-    "your_answer_label": "Your answer"
+    "your_answer_label": "Your answer",
+    "passed": "Well done!",
+    "almost_there": "Almost there!",
+    "review_hint": "A few topics to revisit. That is part of learning. Review the explanations and try again when you're ready.",
+    "try_again": "Review & practice again",
+    "no_questions": "No quiz questions configured for this step.",
+    "question_of": "Question {{current}} of {{total}}",
+    "exercise_quiz_encouragement": "Take your time, there's no rush.",
+    "pick_answer": "Pick an answer first."
   }
 }
