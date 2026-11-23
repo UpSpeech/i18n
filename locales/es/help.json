@@ -15,7 +15,9 @@
     "all": "Todos los vídeos",
     "patient": "Para pacientes",
     "therapist": "Para terapeutas",
-    "admin": "Para administradores"
+    "admin": "Para administradores",
+    "all_guides": "Todas las guías",
+    "caregiver": "Para cuidadores"
   },
   "faq_categories": {
     "getting_started": "Comenzar",
@@ -249,5 +251,15 @@
     "title": "Contactar soporte",
     "description": "Escríbenos y una persona responde.",
     "button": "Enviar correo a soporte"
+  },
+  "guides_title": "Guías paso a paso",
+  "guides_unavailable": "Todavía no hay guías aquí",
+  "walkthrough_viewer": {
+    "back": "Anterior",
+    "next": "Siguiente",
+    "step_of": "{{k}} de {{n}}",
+    "unavailable_title": "Esta guía no está disponible",
+    "unavailable_description": "Elige otra guía en Ayuda.",
+    "back_to_help": "Volver a Ayuda"
   }
 }

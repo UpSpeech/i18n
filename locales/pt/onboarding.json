@@ -535,5 +535,8 @@
       "offer_later_note": "Ainda podes experimentá-lo no primeiro passo {{child, de}}.",
       "offer_minutes": "{{count}} min"
     }
+  },
+  "welcome": {
+    "view_guides": "Ver guias passo a passo no centro de ajuda"
   }
 }

@@ -2884,5 +2884,12 @@
   "reminder_hour": "Hora",
   "reminder_minute": "Minutos",
   "reminder_earlier": "15 minutos antes",
-  "reminder_later": "15 minutos después"
+  "reminder_later": "15 minutos después",
+  "help_walkthroughs_heading": "Paso a paso",
+  "help_walkthroughs_load_failed": "No se pudieron cargar las guías. Inténtalo de nuevo.",
+  "help_walkthrough_load_failed": "No se pudo cargar esta guía. Inténtalo de nuevo.",
+  "help_walkthrough_progress": "{{current}} de {{total}}",
+  "help_walkthrough_back": "Anterior",
+  "help_walkthrough_next": "Siguiente",
+  "help_walkthrough_done": "Listo"
 }

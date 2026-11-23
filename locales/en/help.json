@@ -15,7 +15,9 @@
     "all": "All videos",
     "patient": "For patients",
     "therapist": "For therapists",
-    "admin": "For admins"
+    "admin": "For admins",
+    "all_guides": "All guides",
+    "caregiver": "For caregivers"
   },
   "faq_categories": {
     "getting_started": "Getting started",
@@ -249,5 +251,15 @@
     "title": "Contact support",
     "description": "Email us and a person will reply.",
     "button": "Email support"
+  },
+  "guides_title": "Step-by-step guides",
+  "guides_unavailable": "No guides here yet",
+  "walkthrough_viewer": {
+    "back": "Back",
+    "next": "Next",
+    "step_of": "{{k}} of {{n}}",
+    "unavailable_title": "This guide isn't available",
+    "unavailable_description": "Pick another guide in Help.",
+    "back_to_help": "Back to Help"
   }
 }
