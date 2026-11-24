@@ -278,7 +278,7 @@
     "empty_patient_description": "O que escreveres aqui chega ao teu terapeuta. Não há nada de errado que possas enviar.",
     "empty_patient_description_named": "O que escreveres aqui chega {{therapist, a}}. Não há nada de errado que possas enviar.",
     "empty_therapist_conversation": "Ainda não há mensagens. Envia a primeira mensagem.",
-    "empty_therapist_no_selection": "Seleciona um paciente para começar a conversar",
+    "empty_therapist_no_selection": "Seleciona um paciente para começar a conversar.",
     "no_patients": "Ainda não tens pacientes",
     "empty_admin": "As mensagens são para terapeutas e pacientes",
     "empty_admin_description": "As mensagens diretas ligam os pacientes ao terapeuta que lhes está atribuído.",
