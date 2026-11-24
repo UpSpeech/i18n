@@ -476,11 +476,10 @@
       "web": {
         "1": "Abre o paciente que precisa de um percurso.",
         "2": "Abre o percurso do paciente.",
-        "3": "Escolhe para que serve o percurso.",
-        "4": "Começa a partir de um modelo.",
-        "5": "Escolhe o modelo a usar.",
-        "6": "Revê os passos e atribui o percurso.",
-        "7": "O percurso está ativo e o primeiro passo já está aberto."
+        "3": "Começa a partir de um modelo.",
+        "4": "Escolhe o modelo a usar.",
+        "5": "Revê os passos e atribui o percurso.",
+        "6": "O percurso está ativo e o primeiro passo já está aberto."
       },
       "ios": {
         "1": "Abre Pacientes.",

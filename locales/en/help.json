@@ -476,11 +476,10 @@
       "web": {
         "1": "Open the patient who needs a path.",
         "2": "Open their learning path.",
-        "3": "Choose what the path is for.",
-        "4": "Start from a template.",
-        "5": "Pick the template to use.",
-        "6": "Check the steps, then assign the path.",
-        "7": "The path is live and the first step is open."
+        "3": "Start from a template.",
+        "4": "Pick the template to use.",
+        "5": "Check the steps, then assign the path.",
+        "6": "The path is live and the first step is open."
       },
       "ios": {
         "1": "Open Patients.",

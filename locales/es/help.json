@@ -476,11 +476,10 @@
       "web": {
         "1": "Abre el perfil del paciente que necesita un recorrido.",
         "2": "Abre su recorrido.",
-        "3": "Elige para qué es el recorrido.",
-        "4": "Empieza desde una plantilla.",
-        "5": "Elige la plantilla que quieres usar.",
-        "6": "Revisa los pasos y asigna el recorrido.",
-        "7": "El recorrido ya está activo, con el primer paso abierto."
+        "3": "Empieza desde una plantilla.",
+        "4": "Elige la plantilla que quieres usar.",
+        "5": "Revisa los pasos y asigna el recorrido.",
+        "6": "El recorrido ya está activo, con el primer paso abierto."
       },
       "ios": {
         "1": "Abre Pacientes.",
