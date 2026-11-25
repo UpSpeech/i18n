@@ -280,6 +280,19 @@
         "8": "Play your recording back.",
         "9": "Send it to your therapist.",
         "10": "Your therapist replies to your first recording here."
+      },
+      "ios": {
+        "1": "Come in to the space your therapist set up.",
+        "2": "Pick the companion who practises with you.",
+        "3": "Carry on with your companion.",
+        "4": "See how practice works, one card at a time.",
+        "5": "Agree to recording, the one box you have to tick.",
+        "6": "Allow the microphone.",
+        "7": "Start your first recording when you are ready.",
+        "8": "Speak, then finish the recording.",
+        "9": "Listen back, then carry on.",
+        "10": "Send the recording to your therapist.",
+        "11": "Your first recording is on its way. The interview is next."
       }
     },
     "my_journey": {
@@ -289,6 +302,14 @@
         "2": "Check your current step here.",
         "3": "Open a stage to see its steps.",
         "4": "Check which steps you have finished.",
+        "5": "Carry on with your current step.",
+        "6": "The step opens with what to do and why."
+      },
+      "ios": {
+        "1": "Open your plan.",
+        "2": "See how far you have come and the step you are on.",
+        "3": "Open a goal you have finished.",
+        "4": "See the steps you have done.",
         "5": "Carry on with your current step.",
         "6": "The step opens with what to do and why."
       }
@@ -306,6 +327,19 @@
         "8": "Carry on once you have rated both.",
         "9": "Mark the step as done.",
         "10": "The step is complete and your path moves on."
+      },
+      "ios": {
+        "1": "Pick the days you will practise.",
+        "2": "Save your days.",
+        "3": "Start the step.",
+        "4": "Open the recorder.",
+        "5": "Keep your face in the frame, then record and read the text aloud.",
+        "6": "Stop when you have finished reading.",
+        "7": "Send your recording to your therapist.",
+        "8": "Rate the effort and how natural your speech felt.",
+        "9": "Carry on once you have rated both.",
+        "10": "Mark the step as done.",
+        "11": "The step is complete and your path moves on."
       }
     },
     "review_history": {
@@ -314,6 +348,10 @@
         "1": "Open the practice history of a finished step.",
         "2": "Read your therapist's note, then open an earlier recording.",
         "3": "Every recording stays here for you to listen to again."
+      },
+      "ios": {
+        "1": "Open a finished step's practice.",
+        "2": "Your therapist's feedback is on the latest take, with every earlier take below."
       }
     },
     "practice_scenarios": {
@@ -329,6 +367,16 @@
         "8": "Say your answer, then click again to send it.",
         "9": "Open Chat to read the conversation.",
         "10": "Read back what you each said."
+      },
+      "ios": {
+        "1": "Open Practice.",
+        "2": "Open Scenarios.",
+        "3": "Start a new scenario.",
+        "4": "Pick a quick-start scenario.",
+        "5": "Check the language and how you record, then start.",
+        "6": "Choose guided mode and begin.",
+        "7": "The AI speaks first. Tap to answer.",
+        "8": "Say your answer, then tap again to send it."
       }
     },
     "caregiver_first_run": {
@@ -344,6 +392,20 @@
         "8": "Listen back with your child, then carry on.",
         "9": "Send the recording to your therapist.",
         "10": "Open today's page to start practising."
+      },
+      "ios": {
+        "1": "Come in to your child's practice space.",
+        "2": "See how practice reaches your therapist.",
+        "3": "Agree to recording your child's voice for your therapist.",
+        "4": "Allow the microphone.",
+        "5": "Hand the phone to your child and carry on.",
+        "6": "Let your child pick a companion.",
+        "7": "Carry on with the companion.",
+        "8": "Ask the question and start recording.",
+        "9": "Finish the recording when your child is done.",
+        "10": "Listen to it together, then carry on.",
+        "11": "Send the recording to your therapist.",
+        "12": "The recording is sent. Start the questions about your child next."
       }
     },
     "caregiver_home": {
@@ -355,6 +417,14 @@
         "4": "The page now shows that child's practice.",
         "5": "Open your child's path.",
         "6": "Every step on your child's path shows here."
+      },
+      "ios": {
+        "1": "Today shows the step to do with your child.",
+        "2": "The sticker chart fills as you practise together.",
+        "3": "Open Plan.",
+        "4": "See your child's path and what comes next.",
+        "5": "Open Messages to write to your therapist.",
+        "6": "Your messages with your therapist are here."
       }
     },
     "caregiver_step": {
@@ -371,6 +441,18 @@
         "9": "End the recording when you are done.",
         "10": "Confirm that you want to end now.",
         "11": "Carry on to tell your child's therapist how it went."
+      },
+      "ios": {
+        "1": "Start the step on Today.",
+        "2": "Read the guide, then try it yourself first.",
+        "3": "Practise with your child when you are ready.",
+        "4": "Start recording.",
+        "5": "The first time, agree to recording your child.",
+        "6": "The session records while you do the exercise together.",
+        "7": "When your child stutters, press and hold until the ring fills.",
+        "8": "Send the practice when the exercise is done.",
+        "9": "Listen back if you like, then use this recording.",
+        "10": "Say how it went, then send it to your therapist."
       }
     },
     "manage_patients": {
@@ -381,6 +463,12 @@
         "3": "See where they are on their path.",
         "4": "Open everything they have practised.",
         "5": "Their practice shows here, newest first."
+      },
+      "ios": {
+        "1": "Open Patients.",
+        "2": "Pick a patient to open their page.",
+        "3": "See the step they are on and what you can do next.",
+        "4": "Their goals and steps, and where they are on the path."
       }
     },
     "learning_paths": {
@@ -388,11 +476,18 @@
       "web": {
         "1": "Open the patient who needs a path.",
         "2": "Open their learning path.",
-        "3": "Choose what the path is for.",
-        "4": "Start from a template.",
-        "5": "Pick the template to use.",
-        "6": "Check the steps, then assign the path.",
-        "7": "The path is live and the first step is open."
+        "3": "Start from a template.",
+        "4": "Pick the template to use.",
+        "5": "Check the steps, then assign the path.",
+        "6": "The path is live and the first step is open."
+      },
+      "ios": {
+        "1": "Open Patients.",
+        "2": "Open the patient.",
+        "3": "Open their learning path.",
+        "4": "Add a step under a goal.",
+        "5": "Give the step a title.",
+        "6": "Choose how the patient does it and its goal, then add it to the path."
       }
     },
     "review_submission": {
@@ -406,6 +501,15 @@
         "6": "Go straight to the summary.",
         "7": "Send your feedback to the patient.",
         "8": "Your notes now show on their profile."
+      },
+      "ios": {
+        "1": "Open Patients.",
+        "2": "Open the patient whose practice you want to review.",
+        "3": "Start reviewing their pending practice.",
+        "4": "Write a note on this practice.",
+        "5": "Save the note.",
+        "6": "Send your feedback to the patient.",
+        "7": "Your feedback is sent and the patient is told."
       }
     },
     "generate_report": {
@@ -421,6 +525,16 @@
         "8": "Confirm the patient agreed to this recording.",
         "9": "Upload the recording to draft the report.",
         "10": "Your draft report opens here, ready to review."
+      },
+      "ios": {
+        "1": "Open Reports.",
+        "2": "Start recording a session.",
+        "3": "Choose the patient.",
+        "4": "Pick them from the list.",
+        "5": "Confirm the patient agreed to the recording.",
+        "6": "Start recording when the session begins.",
+        "7": "Stop when the session ends.",
+        "8": "The recording uploads itself and the AI drafts the report."
       }
     },
     "edit_report": {
@@ -434,6 +548,13 @@
         "6": "Confirm the report once you have checked it.",
         "7": "Confirm the report and delete its recording.",
         "8": "The report is confirmed and the transcript stays."
+      },
+      "ios": {
+        "1": "Open Reports.",
+        "2": "Open the report.",
+        "3": "Read the AI draft, then confirm it when it is right.",
+        "4": "Confirm. The recording is deleted once you do.",
+        "5": "The report shows who confirmed it."
       }
     },
     "user_management": {
@@ -467,6 +588,14 @@
         "3": "Type your current password.",
         "4": "Type a new password, then repeat it below.",
         "5": "Save the new password."
+      },
+      "ios": {
+        "1": "Open your account menu.",
+        "2": "Open Settings.",
+        "3": "Your profile, notifications and privacy are here.",
+        "4": "Open Change password.",
+        "5": "Type your current password, then the new one twice.",
+        "6": "Save the new password."
       }
     },
     "patient_home": {
@@ -474,11 +603,22 @@
       "web": {
         "1": "Here is what each part does."
       },
+      "ios": {
+        "1": "Here is what each part does."
+      },
       "callouts": {
         "web": {
           "1": {
             "1": "Start today's step here.",
             "2": "See every step on your path.",
+            "3": "Read and answer your therapist's messages.",
+            "4": "Ask anything about your practice."
+          }
+        },
+        "ios": {
+          "1": {
+            "1": "Start today's step here.",
+            "2": "See how far you are on your path.",
             "3": "Read and answer your therapist's messages.",
             "4": "Ask anything about your practice."
           }
@@ -490,6 +630,9 @@
       "web": {
         "1": "Here is what each part does."
       },
+      "ios": {
+        "1": "Here is what each part does."
+      },
       "callouts": {
         "web": {
           "1": {
@@ -498,12 +641,23 @@
             "3": "See every practice you have sent.",
             "4": "Open the child's path and what comes next."
           }
+        },
+        "ios": {
+          "1": {
+            "1": "Start today's activity with your child.",
+            "2": "The stickers your child earns for practising.",
+            "3": "See your child's path and what comes next.",
+            "4": "Read and answer the therapist's messages."
+          }
         }
       }
     },
     "therapist_home": {
       "title": "Get to know your dashboard",
       "web": {
+        "1": "Here is what each part does."
+      },
+      "ios": {
         "1": "Here is what each part does."
       },
       "callouts": {
@@ -514,6 +668,14 @@
             "3": "Record a session and get a draft report.",
             "4": "Find any patient by name.",
             "5": "Ask how to do anything in UpSpeech."
+          }
+        },
+        "ios": {
+          "1": {
+            "1": "The patients who need you today, most urgent first.",
+            "2": "All your patients.",
+            "3": "Record a session and get a report drafted.",
+            "4": "Ask how to do anything in UpSpeech."
           }
         }
       }

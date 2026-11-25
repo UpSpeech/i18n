@@ -280,6 +280,19 @@
         "8": "Ouve a tua gravação.",
         "9": "Envia ao teu terapeuta.",
         "10": "O teu terapeuta responde à tua primeira gravação aqui."
+      },
+      "ios": {
+        "1": "Entra no espaço que o teu terapeuta preparou.",
+        "2": "Escolhe o companheiro que pratica contigo.",
+        "3": "Continua com o teu companheiro.",
+        "4": "Vê como funciona a prática, um cartão de cada vez.",
+        "5": "Aceita a gravação, a única caixa obrigatória.",
+        "6": "Permite o microfone.",
+        "7": "Começa a primeira gravação quando estiveres pronto.",
+        "8": "Fala e depois termina a gravação.",
+        "9": "Ouve o que gravaste e continua.",
+        "10": "Envia a gravação ao teu terapeuta.",
+        "11": "A primeira gravação foi enviada. A entrevista é a seguir."
       }
     },
     "my_journey": {
@@ -288,6 +301,14 @@
         "1": "Abre o teu percurso no menu.",
         "2": "Vê aqui o teu passo atual.",
         "3": "Abre uma etapa para ver os passos.",
+        "4": "Vê os passos que já concluíste.",
+        "5": "Continua o teu passo atual.",
+        "6": "O passo abre com o que fazer e porquê."
+      },
+      "ios": {
+        "1": "Abre o teu plano.",
+        "2": "Vê até onde chegaste e o passo em que estás.",
+        "3": "Abre uma etapa que já terminaste.",
         "4": "Vê os passos que já concluíste.",
         "5": "Continua o teu passo atual.",
         "6": "O passo abre com o que fazer e porquê."
@@ -306,6 +327,19 @@
         "8": "Continua depois de avaliares os dois.",
         "9": "Marca o passo como concluído.",
         "10": "O passo está concluído e o teu percurso avança."
+      },
+      "ios": {
+        "1": "Escolhe os dias em que vais praticar.",
+        "2": "Guarda os teus dias.",
+        "3": "Começa o passo.",
+        "4": "Abre o gravador.",
+        "5": "Mantém a cara no enquadramento, grava e lê o texto em voz alta.",
+        "6": "Para quando acabares de ler.",
+        "7": "Envia a gravação ao teu terapeuta.",
+        "8": "Avalia o esforço e quão natural te pareceu a fala.",
+        "9": "Continua depois de avaliares os dois.",
+        "10": "Marca o passo como concluído.",
+        "11": "O passo está concluído e o teu percurso avança."
       }
     },
     "review_history": {
@@ -314,6 +348,10 @@
         "1": "Abre o histórico de prática de um passo concluído.",
         "2": "Lê a nota do teu terapeuta e abre uma gravação anterior.",
         "3": "Cada gravação fica aqui para a voltares a ouvir."
+      },
+      "ios": {
+        "1": "Abre a prática de um passo concluído.",
+        "2": "O feedback do teu terapeuta está na gravação mais recente, com as anteriores por baixo."
       }
     },
     "practice_scenarios": {
@@ -329,6 +367,16 @@
         "8": "Diz a tua resposta e clica de novo para a enviar.",
         "9": "Abre o Chat para ler a conversa.",
         "10": "Relê o que cada um disse."
+      },
+      "ios": {
+        "1": "Abre Praticar.",
+        "2": "Abre Cenários.",
+        "3": "Começa um novo cenário.",
+        "4": "Escolhe um cenário de início rápido.",
+        "5": "Confirma o idioma e a forma de gravar e começa.",
+        "6": "Escolhe o modo guiado e começa.",
+        "7": "A IA fala primeiro. Toca para responder.",
+        "8": "Diz a tua resposta e toca outra vez para a enviar."
       }
     },
     "caregiver_first_run": {
@@ -344,6 +392,20 @@
         "8": "Ouve a gravação com a criança e continua.",
         "9": "Envia a gravação ao teu terapeuta.",
         "10": "Abre a página de hoje para começar a praticar."
+      },
+      "ios": {
+        "1": "Entra no espaço de prática da criança.",
+        "2": "Vê como a prática chega ao teu terapeuta.",
+        "3": "Autoriza a gravação da voz da criança para o teu terapeuta.",
+        "4": "Permite o microfone.",
+        "5": "Passa o telemóvel à criança e continua.",
+        "6": "Deixa a criança escolher um companheiro.",
+        "7": "Continua com o companheiro.",
+        "8": "Faz a pergunta e começa a gravar.",
+        "9": "Termina a gravação quando a criança acabar.",
+        "10": "Ouve a gravação com a criança e continua.",
+        "11": "Envia a gravação ao teu terapeuta.",
+        "12": "A gravação foi enviada. A seguir, começa as perguntas sobre a criança."
       }
     },
     "caregiver_home": {
@@ -355,6 +417,14 @@
         "4": "A página mostra agora a prática dessa criança.",
         "5": "Abre o percurso da criança.",
         "6": "Todos os passos do percurso da criança aparecem aqui."
+      },
+      "ios": {
+        "1": "O Hoje mostra o passo a fazer com a criança.",
+        "2": "O quadro de autocolantes enche-se à medida que praticam juntos.",
+        "3": "Abre Plano.",
+        "4": "Vê o percurso da criança e o que vem a seguir.",
+        "5": "Abre Mensagens para escrever ao teu terapeuta.",
+        "6": "As tuas mensagens com o teu terapeuta estão aqui."
       }
     },
     "caregiver_step": {
@@ -371,6 +441,18 @@
         "9": "Termina a gravação quando acabarem.",
         "10": "Confirma que queres terminar já.",
         "11": "Continua para contar ao terapeuta da criança como correu."
+      },
+      "ios": {
+        "1": "Começa o passo no Hoje.",
+        "2": "Lê o guia e experimenta primeiro por ti.",
+        "3": "Pratica com a criança quando estiveres pronto.",
+        "4": "Começa a gravar.",
+        "5": "Na primeira vez, autoriza a gravação da criança.",
+        "6": "A sessão grava enquanto fazem o exercício juntos.",
+        "7": "Quando a criança gaguejar, prime e mantém até o anel encher.",
+        "8": "Envia a prática quando o exercício acabar.",
+        "9": "Ouve se quiseres e usa esta gravação.",
+        "10": "Diz como correu e envia ao teu terapeuta."
       }
     },
     "manage_patients": {
@@ -381,6 +463,12 @@
         "3": "Vê em que ponto do percurso está o paciente.",
         "4": "Abre tudo o que o paciente praticou.",
         "5": "A prática do paciente aparece aqui, a mais recente primeiro."
+      },
+      "ios": {
+        "1": "Abre Pacientes.",
+        "2": "Escolhe um paciente para abrir a página dele.",
+        "3": "Vê o passo em que está e o que podes fazer a seguir.",
+        "4": "As etapas e os passos, e onde está no percurso."
       }
     },
     "learning_paths": {
@@ -388,11 +476,18 @@
       "web": {
         "1": "Abre o paciente que precisa de um percurso.",
         "2": "Abre o percurso do paciente.",
-        "3": "Escolhe para que serve o percurso.",
-        "4": "Começa a partir de um modelo.",
-        "5": "Escolhe o modelo a usar.",
-        "6": "Revê os passos e atribui o percurso.",
-        "7": "O percurso está ativo e o primeiro passo já está aberto."
+        "3": "Começa a partir de um modelo.",
+        "4": "Escolhe o modelo a usar.",
+        "5": "Revê os passos e atribui o percurso.",
+        "6": "O percurso está ativo e o primeiro passo já está aberto."
+      },
+      "ios": {
+        "1": "Abre Pacientes.",
+        "2": "Abre o paciente.",
+        "3": "Abre o percurso.",
+        "4": "Adiciona um passo a uma etapa.",
+        "5": "Dá um título ao passo.",
+        "6": "Escolhe como o paciente o faz e a etapa, e adiciona-o ao percurso."
       }
     },
     "review_submission": {
@@ -406,6 +501,15 @@
         "6": "Vai direto ao resumo.",
         "7": "Envia o teu feedback ao paciente.",
         "8": "As tuas notas aparecem agora no perfil do paciente."
+      },
+      "ios": {
+        "1": "Abre Pacientes.",
+        "2": "Abre o paciente cuja prática queres rever.",
+        "3": "Começa a rever a prática pendente.",
+        "4": "Escreve uma nota sobre esta prática.",
+        "5": "Guarda a nota.",
+        "6": "Envia o teu feedback ao paciente.",
+        "7": "O feedback foi enviado e o paciente é avisado."
       }
     },
     "generate_report": {
@@ -421,6 +525,16 @@
         "8": "Confirma que o paciente consentiu esta gravação.",
         "9": "Carrega a gravação para redigir o relatório.",
         "10": "O rascunho do relatório abre aqui, pronto a rever."
+      },
+      "ios": {
+        "1": "Abre Relatórios.",
+        "2": "Começa a gravar uma sessão.",
+        "3": "Escolhe o paciente.",
+        "4": "Escolhe-o na lista.",
+        "5": "Confirma que o paciente aceitou a gravação.",
+        "6": "Começa a gravar quando a sessão começar.",
+        "7": "Para quando a sessão acabar.",
+        "8": "A gravação é enviada sozinha e a IA redige o relatório."
       }
     },
     "edit_report": {
@@ -434,6 +548,13 @@
         "6": "Confirma o relatório depois de o rever.",
         "7": "Confirma o relatório e elimina a gravação.",
         "8": "O relatório fica confirmado e a transcrição mantém-se."
+      },
+      "ios": {
+        "1": "Abre Relatórios.",
+        "2": "Abre o relatório.",
+        "3": "Lê o rascunho da IA e confirma-o quando estiver certo.",
+        "4": "Confirma. A gravação é apagada a seguir.",
+        "5": "O relatório mostra quem o confirmou."
       }
     },
     "user_management": {
@@ -467,6 +588,14 @@
         "3": "Escreve a tua palavra-passe atual.",
         "4": "Escreve a nova palavra-passe e repete-a por baixo.",
         "5": "Guarda a nova palavra-passe."
+      },
+      "ios": {
+        "1": "Abre o menu da tua conta.",
+        "2": "Abre Definições.",
+        "3": "O teu perfil, as notificações e a privacidade estão aqui.",
+        "4": "Abre Alterar palavra-passe.",
+        "5": "Escreve a palavra-passe atual e depois a nova duas vezes.",
+        "6": "Guarda a nova palavra-passe."
       }
     },
     "patient_home": {
@@ -474,11 +603,22 @@
       "web": {
         "1": "Vê o que faz cada parte."
       },
+      "ios": {
+        "1": "Vê o que faz cada parte."
+      },
       "callouts": {
         "web": {
           "1": {
             "1": "Começa aqui o passo de hoje.",
             "2": "Vê todos os passos do teu percurso.",
+            "3": "Lê e responde às mensagens do teu terapeuta.",
+            "4": "Pergunta o que quiseres sobre a tua prática."
+          }
+        },
+        "ios": {
+          "1": {
+            "1": "Começa aqui o passo de hoje.",
+            "2": "Vê até onde chegaste no teu percurso.",
             "3": "Lê e responde às mensagens do teu terapeuta.",
             "4": "Pergunta o que quiseres sobre a tua prática."
           }
@@ -490,6 +630,9 @@
       "web": {
         "1": "Vê o que faz cada parte."
       },
+      "ios": {
+        "1": "Vê o que faz cada parte."
+      },
       "callouts": {
         "web": {
           "1": {
@@ -498,12 +641,23 @@
             "3": "Vê todas as práticas que enviaste.",
             "4": "Abre o percurso da criança e o que vem a seguir."
           }
+        },
+        "ios": {
+          "1": {
+            "1": "Começa a atividade de hoje com a criança.",
+            "2": "Os autocolantes que a criança ganha por praticar.",
+            "3": "Vê o percurso da criança e o que vem a seguir.",
+            "4": "Lê e responde às mensagens do teu terapeuta."
+          }
         }
       }
     },
     "therapist_home": {
       "title": "Conhece o teu painel",
       "web": {
+        "1": "Vê o que faz cada parte."
+      },
+      "ios": {
         "1": "Vê o que faz cada parte."
       },
       "callouts": {
@@ -514,6 +668,14 @@
             "3": "Grava uma sessão e recebe um rascunho de relatório.",
             "4": "Encontra qualquer paciente pelo nome.",
             "5": "Pergunta como fazer qualquer coisa na UpSpeech."
+          }
+        },
+        "ios": {
+          "1": {
+            "1": "Os pacientes que precisam de ti hoje, os mais urgentes primeiro.",
+            "2": "Todos os teus pacientes.",
+            "3": "Grava uma sessão e recebe um relatório em rascunho.",
+            "4": "Pergunta como fazer qualquer coisa na UpSpeech."
           }
         }
       }
