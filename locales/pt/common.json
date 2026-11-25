@@ -2346,7 +2346,12 @@
     "message_therapist": "Enviar mensagem ao teu terapeuta",
     "message_therapist_named": "Enviar mensagem {{therapist, a}}",
     "practise_something_done": "Praticar algo que já fizeste",
-    "step_occurrence_dated": "Atribuição {{n}} de {{total}} · {{date}}"
+    "step_occurrence_dated": "Atribuição {{n}} de {{total}} · {{date}}",
+    "reply_window": {
+      "same_day": "{{therapist, o_start}} costuma responder no mesmo dia útil.",
+      "two_working_days": "{{therapist, o_start}} costuma responder em 2 dias úteis.",
+      "one_week": "{{therapist, o_start}} costuma responder numa semana."
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
