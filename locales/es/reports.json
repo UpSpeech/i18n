@@ -166,6 +166,9 @@
     "retry": "Reintentar",
     "retry_started": "Redactando el informe de nuevo. Esta página se actualiza cuando esté listo.",
     "retry_failed": "No se pudo iniciar otro intento. Inténtalo de nuevo.",
+    "not_a_session_title": "Puede que esto no sea una sesión de terapia",
+    "not_a_session_body": "No estamos seguros de que merezca la pena resumir esta grabación.",
+    "generate_anyway": "Generar de todos modos",
     "already_assigned": "Este informe ya está asignado a esa persona."
   },
   "errors": {

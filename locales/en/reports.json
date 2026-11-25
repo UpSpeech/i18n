@@ -166,6 +166,9 @@
     "retry": "Retry",
     "retry_started": "Drafting the report again. This page updates when it is ready.",
     "retry_failed": "Could not start another attempt. Please try again.",
+    "not_a_session_title": "This may not be a therapy session",
+    "not_a_session_body": "We're not sure this recording is worth summarising.",
+    "generate_anyway": "Generate anyway",
     "already_assigned": "This report is already assigned to that person."
   },
   "errors": {
