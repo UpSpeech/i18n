@@ -1365,6 +1365,7 @@
         "attempt": "Intento {{number}}",
         "submitted_at": "Enviado {{date}}",
         "feedback": "Retroalimentación del terapeuta",
+        "feedback_named": "Retroalimentación de {{therapist}}",
         "feedback_staff": "Retroalimentación de terapia",
         "quiz_passed": "Aprobado",
         "quiz_failed": "No aprobado",
@@ -1693,6 +1694,7 @@
         "stickers_peek_next": "Practica un día elegido para ganar {{sticker}}",
         "stickers_peek_choose": "Elige los días de práctica para ganar {{sticker}}",
         "stickers_peek_therapist": "Las pegatinas empiezan cuando el terapeuta de {{child}} fije los días de práctica",
+        "stickers_peek_therapist_named": "Las pegatinas empiezan cuando {{therapist}} fije los días de práctica",
         "stickers_peek_label": "Pegatinas por ganar: {{list}}"
       },
       "today_week_sentence_done": "{{done}} de {{planned}} días de práctica hechos esta semana.",
@@ -1901,6 +1903,7 @@
     "caregiver_plan": {
       "title": "El plan",
       "subtitle": "Lo que ha definido el terapeuta de {{child}}.",
+      "subtitle_named": "Lo que {{therapist}} ha definido para {{child}}.",
       "steps_done": "{{done}} de {{total}} hechos",
       "still_to_come": "Aún por llegar",
       "more_to_come": "{{count}} más cuando llegue",
