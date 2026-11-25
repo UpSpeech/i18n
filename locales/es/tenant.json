@@ -155,7 +155,7 @@
       "opens_at_label": "Abre",
       "closes_at_label": "Cierra",
       "max_signups_label": "Límite de registros",
-      "max_signups_help": "Déjalo en blanco para no tener límite.",
+      "max_signups_min": "Escribe 1 o más.",
       "save": "Guardar campaña"
     }
   }

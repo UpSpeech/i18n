@@ -155,7 +155,7 @@
       "opens_at_label": "Abre",
       "closes_at_label": "Fecha",
       "max_signups_label": "Limite de inscrições",
-      "max_signups_help": "Deixa em branco para não ter limite.",
+      "max_signups_min": "Indica 1 ou mais.",
       "save": "Guardar campanha"
     }
   }

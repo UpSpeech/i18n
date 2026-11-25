@@ -155,7 +155,7 @@
       "opens_at_label": "Opens",
       "closes_at_label": "Closes",
       "max_signups_label": "Signup limit",
-      "max_signups_help": "Leave blank for no limit.",
+      "max_signups_min": "Enter 1 or more.",
       "save": "Save campaign"
     }
   }
