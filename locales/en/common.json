@@ -2278,7 +2278,12 @@
     "message_therapist": "Message your therapist",
     "message_therapist_named": "Message {{therapist}}",
     "practise_something_done": "Practise something you have done before",
-    "step_occurrence_dated": "Assignment {{n}} of {{total}} · {{date}}"
+    "step_occurrence_dated": "Assignment {{n}} of {{total}} · {{date}}",
+    "reply_window": {
+      "same_day": "{{therapist}} usually replies the same working day.",
+      "two_working_days": "{{therapist}} usually replies within 2 working days.",
+      "one_week": "{{therapist}} usually replies within a week."
+    }
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",

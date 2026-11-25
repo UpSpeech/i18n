@@ -2278,7 +2278,12 @@
     "message_therapist": "Escribir a tu logopeda",
     "message_therapist_named": "Escribir a {{therapist}}",
     "practise_something_done": "Practicar algo que ya has hecho",
-    "step_occurrence_dated": "Asignación {{n}} de {{total}} · {{date}}"
+    "step_occurrence_dated": "Asignación {{n}} de {{total}} · {{date}}",
+    "reply_window": {
+      "same_day": "{{therapist}} suele responder el mismo día laborable.",
+      "two_working_days": "{{therapist}} suele responder en 2 días laborables.",
+      "one_week": "{{therapist}} suele responder en una semana."
+    }
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
