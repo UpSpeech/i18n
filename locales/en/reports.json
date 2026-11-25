@@ -161,6 +161,7 @@
       "service_unavailable": "The analysis could not be reached. Try again in a few minutes.",
       "invalid_response": "The analysis came back in a form the app could not read. Trying again usually works.",
       "not_a_session": "The recording is not a speech therapy session.",
+      "no_speech": "The recording has no speech in it.",
       "unknown": "Something went wrong while drafting this report. Try again, and tell us if it keeps happening."
     },
     "retry": "Retry",
