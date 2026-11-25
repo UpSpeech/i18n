@@ -149,6 +149,7 @@
       "name_placeholder": "Charla en Lisboa, enero",
       "slug_label": "Enlace",
       "slug_help": "Letras, números y guiones.",
+      "slug_invalid": "Usa minúsculas, números y guiones, empezando y terminando por una letra o un número.",
       "password_label": "Contraseña",
       "password_keep_help": "Déjala en blanco para mantener la contraseña actual.",
       "trial_days_label": "Duración de la prueba en días",

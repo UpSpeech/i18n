@@ -149,6 +149,7 @@
       "name_placeholder": "Lisbon talk, January",
       "slug_label": "Link",
       "slug_help": "Letters, numbers and dashes.",
+      "slug_invalid": "Use lowercase letters, numbers and dashes, starting and ending with a letter or number.",
       "password_label": "Password",
       "password_keep_help": "Leave blank to keep the current password.",
       "trial_days_label": "Trial length in days",

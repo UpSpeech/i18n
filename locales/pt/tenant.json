@@ -149,6 +149,7 @@
       "name_placeholder": "Palestra em Lisboa, janeiro",
       "slug_label": "Ligação",
       "slug_help": "Letras, números e hífenes.",
+      "slug_invalid": "Usa letras minúsculas, números e hífenes, a começar e a acabar numa letra ou número.",
       "password_label": "Palavra-passe",
       "password_keep_help": "Deixa em branco para manter a palavra-passe atual.",
       "trial_days_label": "Duração do período experimental em dias",
