@@ -1465,9 +1465,6 @@
   },
   "assignments": {
     "empty": "No exercises here",
-    "empty_overdue": "Nothing overdue",
-    "empty_overdue_description": "Everything your therapist assigned is still on schedule.",
-    "empty_overdue_description_named": "Everything {{therapist}} assigned is still on schedule.",
     "empty_description": "Assignments your therapist gives you will show up here.",
     "empty_description_named": "Assignments {{therapist}} gives you will show up here."
   },

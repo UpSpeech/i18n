@@ -1465,9 +1465,6 @@
   },
   "assignments": {
     "empty": "No hay ejercicios aquí",
-    "empty_overdue": "Nada atrasado",
-    "empty_overdue_description": "Todo lo que te asignó tu terapeuta está en plazo.",
-    "empty_overdue_description_named": "Todo lo que te asignó {{therapist}} está en plazo.",
     "empty_description": "Los ejercicios que te asigne tu terapeuta aparecerán aquí.",
     "empty_description_named": "Los ejercicios que te asigne {{therapist}} aparecerán aquí."
   },
