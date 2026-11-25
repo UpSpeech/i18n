@@ -1365,6 +1365,7 @@
         "attempt": "Attempt {{number}}",
         "submitted_at": "Submitted {{date}}",
         "feedback": "Therapist feedback",
+        "feedback_named": "Feedback from {{therapist}}",
         "feedback_staff": "Therapist feedback",
         "quiz_passed": "Passed",
         "quiz_failed": "Failed",
@@ -1693,6 +1694,7 @@
         "stickers_peek_next": "Practise on a chosen day to win {{sticker}}",
         "stickers_peek_choose": "Choose practice days to win {{sticker}}",
         "stickers_peek_therapist": "Stickers start once {{child}}'s therapist sets the practice days",
+        "stickers_peek_therapist_named": "Stickers start once {{therapist}} sets the practice days",
         "stickers_peek_label": "Stickers to win: {{list}}"
       },
       "today_week_sentence_done": "{{done}} of {{planned}} practice days done this week.",
@@ -1901,6 +1903,7 @@
     "caregiver_plan": {
       "title": "The plan",
       "subtitle": "What {{child}}'s therapist has set out.",
+      "subtitle_named": "What {{therapist}} has set out for {{child}}.",
       "steps_done": "{{done}} of {{total}} done",
       "still_to_come": "Still to come",
       "more_to_come": "{{count}} more when they get there",

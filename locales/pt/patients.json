@@ -152,7 +152,7 @@
     "saving": "A guardar...",
     "view_full_step": "Ver passo completo",
     "previous": "Anterior",
-    "next": "Próximo",
+    "next": "Seguinte",
     "batch_message_label": "Adicionar uma mensagem (opcional)",
     "batch_message_placeholder": "Cumprimenta {{name}} com uma nota breve para enviar com o teu feedback.",
     "cover_helper": "Aparece no topo da página de feedback, acima das tuas notas.",

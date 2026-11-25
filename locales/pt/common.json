@@ -1393,7 +1393,8 @@
         "empty_hint": "As tuas tentativas de prática e o feedback aparecem aqui quando concluíres este passo.",
         "attempt": "Tentativa {{number}}",
         "submitted_at": "Submetido {{date}}",
-        "feedback": "Feedback {{therapist, de}}",
+        "feedback": "Feedback do teu terapeuta",
+        "feedback_named": "Feedback {{therapist, de}}",
         "feedback_staff": "Feedback de terapia",
         "quiz_passed": "Aprovado",
         "quiz_failed": "Não aprovado",
@@ -1738,6 +1739,7 @@
         "stickers_peek_next": "Pratica num dia escolhido para ganhar {{sticker}}",
         "stickers_peek_choose": "Escolhe os dias de prática para ganhar {{sticker}}",
         "stickers_peek_therapist": "Os autocolantes começam quando o terapeuta {{child, de}} definir os dias de prática",
+        "stickers_peek_therapist_named": "Os autocolantes começam quando {{therapist, o}} definir os dias de prática",
         "stickers_peek_label": "Autocolantes para ganhar: {{list}}"
       },
       "today_week_sentence_done": "{{done}} de {{planned}} dias de prática feitos esta semana.",
@@ -1956,6 +1958,7 @@
     "caregiver_plan": {
       "title": "O plano",
       "subtitle": "O que o terapeuta {{child, de}} definiu.",
+      "subtitle_named": "O que {{therapist, o}} definiu para {{child, o}}.",
       "steps_done": "{{done}} de {{total}} feitos",
       "still_to_come": "Ainda por vir",
       "more_to_come": "Mais {{count}} quando lá chegar",
