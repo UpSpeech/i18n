@@ -270,7 +270,18 @@
       "more_waiting_one": "and {{count}} more",
       "more_waiting_other": "and {{count}} more",
       "check_in_history": "Recent check-ins",
-      "last_check_in": "Last check-in"
+      "last_check_in": "Last check-in",
+      "tabs_label": "Patient groups",
+      "tab_review": "To review",
+      "tab_missed": "Missed",
+      "tab_at_risk": "At risk",
+      "tab_other": "Other",
+      "tab_empty": "Nobody here right now",
+      "reason_dose_missed": "Practised {{done}} of {{planned}} days last week.",
+      "reason_dose_at_risk": "Short of the practice dose 3 weeks running.",
+      "dose_weeks": "Last three weeks",
+      "dose_missed_draft": "Hi {{name}}, last week you practised {{done}} of the {{planned}} days we planned. What got in the way? We can adjust the plan if it would help.",
+      "dose_at_risk_draft": "Hi {{name}}, practice has been hard to fit in these last few weeks. Shall we look at the plan together and find something that works for you?"
     },
     "home": {
       "name_prefix": "Dr.",
