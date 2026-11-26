@@ -879,7 +879,7 @@
       "type": {
         "recording": "Grabación",
         "reflection": "Respuesta escrita",
-        "real_world": "Tarea en la vida real",
+        "real_world": "Tarea fuera de UpSpeech",
         "label": "Tipo"
       },
       "type_hint": {
@@ -1030,7 +1030,7 @@
       "modeling": "Modelado",
       "observation": "Observación",
       "mini_game": "Minijuego",
-      "real_world_assignment": "Tarea en la vida real",
+      "real_world_assignment": "Tarea fuera de UpSpeech",
       "written_answer": "Respuesta escrita",
       "journal": "Diario",
       "self_disclosure": "Autodivulgación",
@@ -1308,7 +1308,7 @@
         "motor_control": "Control motor",
         "generalisation": "Generalización",
         "reflection": "Reflexión",
-        "real_world_assignment": "Tarea en la vida real",
+        "real_world_assignment": "Tarea fuera de UpSpeech",
         "journal": "Diario",
         "self_disclosure": "Autodivulgación",
         "identification": "Identificación",
@@ -2278,12 +2278,7 @@
     "message_therapist": "Escribir a tu logopeda",
     "message_therapist_named": "Escribir a {{therapist}}",
     "practise_something_done": "Practicar algo que ya has hecho",
-    "step_occurrence_dated": "Asignación {{n}} de {{total}} · {{date}}",
-    "reply_window": {
-      "same_day": "{{therapist}} suele responder el mismo día laborable.",
-      "two_working_days": "{{therapist}} suele responder en 2 días laborables.",
-      "one_week": "{{therapist}} suele responder en una semana."
-    }
+    "step_occurrence_dated": "Asignación {{n}} de {{total}} · {{date}}"
   },
   "questionnaire": {
     "progress": "{{current}} de {{total}}",
