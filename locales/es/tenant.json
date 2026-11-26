@@ -157,6 +157,10 @@
       "closes_at_label": "Cierra",
       "max_signups_label": "Límite de registros",
       "max_signups_min": "Escribe 1 o más.",
+      "language_label": "Idioma",
+      "language_help": "Las consultas y cuentas que cree empiezan en este idioma.",
+      "recording_reviews_label": "Dar a los terapeutas la Revisión de grabaciones",
+      "recording_reviews_help": "También reciben los vídeos de ejemplo de este idioma, si los hay.",
       "save": "Guardar campaña"
     }
   }
