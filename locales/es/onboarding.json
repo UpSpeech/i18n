@@ -592,7 +592,7 @@
       "type_label": "Tipo de paso",
       "type_recording": "Grabación",
       "type_written": "Reflexión",
-      "type_task": "Fuera de UpSpeech",
+      "type_task": "Fuera de la app",
       "instruction_label": "Instrucción",
       "instruction_required": "Escribe la instrucción antes de continuar.",
       "suggestions_label": "Ejemplos de instrucciones",
