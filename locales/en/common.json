@@ -879,7 +879,7 @@
       "type": {
         "recording": "Recording",
         "reflection": "Written answer",
-        "real_world": "Real-world task",
+        "real_world": "Task outside UpSpeech",
         "label": "Type"
       },
       "type_hint": {
@@ -1030,7 +1030,7 @@
       "modeling": "Modelling",
       "observation": "Observation",
       "mini_game": "Mini-game",
-      "real_world_assignment": "Real-world task",
+      "real_world_assignment": "Task outside UpSpeech",
       "written_answer": "Written answer",
       "journal": "Journal",
       "self_disclosure": "Self-disclosure",
@@ -1308,7 +1308,7 @@
         "motor_control": "Motor control",
         "generalisation": "Generalisation",
         "reflection": "Reflection",
-        "real_world_assignment": "Real-world task",
+        "real_world_assignment": "Task outside UpSpeech",
         "journal": "Journal",
         "self_disclosure": "Self-disclosure",
         "identification": "Identification",
@@ -2278,12 +2278,7 @@
     "message_therapist": "Message your therapist",
     "message_therapist_named": "Message {{therapist}}",
     "practise_something_done": "Practise something you have done before",
-    "step_occurrence_dated": "Assignment {{n}} of {{total}} · {{date}}",
-    "reply_window": {
-      "same_day": "{{therapist}} usually replies the same working day.",
-      "two_working_days": "{{therapist}} usually replies within 2 working days.",
-      "one_week": "{{therapist}} usually replies within a week."
-    }
+    "step_occurrence_dated": "Assignment {{n}} of {{total}} · {{date}}"
   },
   "questionnaire": {
     "progress": "{{current}} of {{total}}",

@@ -2,7 +2,7 @@
   "required": "{{field}} é obrigatório",
   "min_length": "{{field}} deve ter pelo menos {{min}} caracteres",
   "max_length": "{{field}} deve ter no máximo {{max}} caracteres",
-  "invalid_email": "Por favor introduz um endereço de email válido",
+  "invalid_email": "Introduz um email válido.",
   "password_min_length": "A palavra-passe deve ter pelo menos 8 caracteres",
   "password_max_length": "A palavra-passe deve ter no máximo 128 caracteres",
   "password_strength": "A palavra-passe deve conter pelo menos uma letra e um número",
