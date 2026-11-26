@@ -157,6 +157,10 @@
       "closes_at_label": "Fecha",
       "max_signups_label": "Limite de inscrições",
       "max_signups_min": "Indica 1 ou mais.",
+      "language_label": "Idioma",
+      "language_help": "Os consultórios e contas que criar começam neste idioma.",
+      "recording_reviews_label": "Dar aos terapeutas a Revisão de gravações",
+      "recording_reviews_help": "Recebem também os vídeos de exemplo deste idioma, se existirem.",
       "save": "Guardar campanha"
     }
   }

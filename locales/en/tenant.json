@@ -157,6 +157,10 @@
       "closes_at_label": "Closes",
       "max_signups_label": "Signup limit",
       "max_signups_min": "Enter 1 or more.",
+      "language_label": "Language",
+      "language_help": "Practices and accounts it creates start in this language.",
+      "recording_reviews_label": "Give therapists Recording reviews",
+      "recording_reviews_help": "They also get the sample videos for this language, where there are any.",
       "save": "Save campaign"
     }
   }
