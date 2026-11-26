@@ -270,7 +270,18 @@
       "more_waiting_one": "y {{count}} más",
       "more_waiting_other": "y {{count}} más",
       "check_in_history": "Evaluaciones recientes",
-      "last_check_in": "Última evaluación"
+      "last_check_in": "Última evaluación",
+      "tabs_label": "Grupos de pacientes",
+      "tab_review": "Por revisar",
+      "tab_missed": "Con fallo",
+      "tab_at_risk": "En riesgo",
+      "tab_other": "Otros",
+      "tab_empty": "Nadie por ahora",
+      "reason_dose_missed": "Practicó {{done}} de {{planned}} días la semana pasada.",
+      "reason_dose_at_risk": "Por debajo de la dosis de práctica 3 semanas seguidas.",
+      "dose_weeks": "Últimas tres semanas",
+      "dose_missed_draft": "Hola {{name}}, la semana pasada practicaste {{done}} de los {{planned}} días que planeamos. ¿Qué te lo impidió? Podemos ajustar el plan si te ayuda.",
+      "dose_at_risk_draft": "Hola {{name}}, estas últimas semanas ha costado encontrar tiempo para practicar. ¿Revisamos el plan juntos y buscamos algo que te funcione?"
     },
     "home": {
       "name_prefix": "Dr(a).",
