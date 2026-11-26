@@ -516,7 +516,19 @@
     "therapist_note_row_title": "Mensagem do teu terapeuta",
     "therapist_note_row_title_named": "Mensagem {{therapist, de}}",
     "home_finished_title": "{{name}} terminou o plano",
-    "home_finished_hint": "O terapeuta define o que vem a seguir."
+    "home_finished_hint": "O terapeuta define o que vem a seguir.",
+    "week_goal_unit_one": "dia",
+    "week_goal_unit_other": "dias",
+    "week_goal_caption": "até ao objetivo",
+    "week_minutes_unit": "min",
+    "week_minutes_caption": "esta semana",
+    "week_streak_unit_one": "semana",
+    "week_streak_unit_other": "semanas",
+    "week_streak_caption_one": "seguida",
+    "week_streak_caption_other": "seguidas",
+    "week_goal_unit_zero": "dias",
+    "week_streak_unit_zero": "semanas",
+    "week_streak_caption_zero": "seguidas"
   },
   "view_switch": {
     "label": "Mudar de vista",
