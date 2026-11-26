@@ -592,7 +592,7 @@
       "type_label": "Type of step",
       "type_recording": "Recording",
       "type_written": "Reflection",
-      "type_task": "Outside UpSpeech",
+      "type_task": "Outside the app",
       "instruction_label": "Instruction",
       "instruction_required": "Write the instruction before you continue.",
       "suggestions_label": "Example instructions",
